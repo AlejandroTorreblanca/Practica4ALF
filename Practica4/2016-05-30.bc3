@@ -1,0 +1,2594 @@
+~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2004|ARQUIMEDES||ANSI|Presupuesto|2|
+~K|-9\2\3\3\2\2\2\2\EUR\|3\0\0\\21|\2\\\3\\2\2\2\-9\2\3\EUR\||
+~C|2016-05-30##||VIVIENDA UNIFAMILIAR EN MONTEPINAR|173761.23||0|
+~D|2016-05-30##
+|A#\\1
+\C#\\1
+\E#\\1
+\F#\\1
+\P#\\1
+\I#\\1
+\N#\\1
+\Q#\\1
+\R#\\1
+\S#\\1
+\G#\\1
+\X#\\1
+\Y#\\1
+\U#\\1
+\UPb#\\1
+\|
+~C|A#||Acondicionamiento del terreno|438.08||0|
+~D|A#
+|AD#\\1
+\|
+~C|AD#||Movimiento de tierras en edificación|438.08||0|
+~D|AD#
+|ADE010b\\6.9
+\ADR010\\6.9
+\|
+~C|ADE010b|m³|Excavación en zanjas para instalaciones en suelo de roca blanda, con medios mecánicos, retirada de los materiales excavados y carga a camión.|54.65||0|
+~T|ADE010b|Excavación en zanjas para instalaciones en suelo de roca blanda, con medios mecánicos, retirada de los materiales excavados y carga a camión.|
+~D|ADE010b
+|mq01ret020b\\0.25
+\mq01exn050c\\0.5
+\mo105\\0.741
+\%\\0.02
+\|
+~C|mq01ret020b|h|Retrocargadora sobre neumáticos, de 70 kW.|36.52||2|
+~C|mq01exn050c|h|Retroexcavadora sobre neumáticos, de 85 kW, con martillo rompedor.|65||2|
+~C|mo105|h|Peón ordinario construcción.|16.13||1|
+~C|%|%|Costes directos complementarios|0||%|
+~C|ADR010|m³|Relleno principal de zanjas para instalaciones, con tierra de la propia excavación, y compactación al 95% del Proctor Modificado con bandeja vibrante de guiado manual.|6.99||0|
+~T|ADR010|Relleno principal de zanjas para instalaciones, con tierra de la propia excavación, y compactación al 95% del Proctor Modificado con bandeja vibrante de guiado manual.|
+~D|ADR010
+|mt01var010\\1.1
+\mq04dua020b\\0.112
+\mq02rod010d\\0.166
+\mq02cia020j\\0.011
+\mq04cab010c\\0.017
+\mo105\\0.216
+\%\\0.02
+\|
+~C|mt01var010|m|Cinta plastificada.|0.14||3|
+~C|mq04dua020b|h|Dumper de descarga frontal de 2 t de carga útil.|9.27||2|
+~C|mq02rod010d|h|Bandeja vibrante de guiado manual, de 300 kg, anchura de trabajo 70 cm, reversible.|6.39||2|
+~C|mq02cia020j|h|Camión cisterna de 8 m³ de capacidad.|40.08||2|
+~C|mq04cab010c|h|Camión basculante de 12 t de carga, de 162 CV.|40.17||2|
+~C|C#||Cimentaciones|3864.64||0|
+~D|C#
+|CR#\\1
+\CS#\\1
+\CA#\\1
+\|
+~C|CR#||Regularización|974.95||0|
+~D|CR#
+|CRL010\\113.63
+\|
+~C|CRL010|m²|Capa de hormigón de limpieza HL-150/B/20, fabricado en central y vertido desde camión, de 10 cm de espesor.|8.33||0|
+~T|CRL010|Capa de hormigón de limpieza HL-150/B/20, fabricado en central y vertido desde camión, de 10 cm de espesor.|
+~D|CRL010
+|mt10hmf011bb\\0.105
+\mo041\\0.068
+\mo084\\0.068
+\%\\0.02
+\|
+~C|mt10hmf011bb|m³|Hormigón de limpieza HL-150/B/20, fabricado en central.|54.63||3|
+~C|mo041|h|Oficial 1ª estructurista.|18.26||1|
+~C|mo084|h|Ayudante estructurista.|17.52||1|
+~C|CS#||Superficiales|116.95||0|
+~D|CS#
+|CSZ010\\0.688
+\|
+~C|CSZ010|m³|Zapata de cimentación de hormigón armado, realizada con hormigón HA-25/B/20/IIa fabricado en central, y vertido desde camión, y acero UNE-EN 10080 B 500 S, cuantía 76,655 kg/m³.|165.03||0|
+~T|CSZ010|Zapata de cimentación de hormigón armado, realizada con hormigón HA-25/B/20/IIa fabricado en central, y vertido desde camión, y acero UNE-EN 10080 B 500 S, cuantía 76,655 kg/m³.|
+~D|CSZ010
+|mt07aco020a\\8
+\mt07aco010c\\76.655
+\mt10haf010nea\\1.1
+\mt11var300\\0.01
+\mo041\\0.339
+\mo084\\0.339
+\%\\0.02
+\|
+~C|mt07aco020a|Ud|Separador homologado para cimentaciones.|0.13||3|
+~C|mt07aco010c|kg|Acero en barras corrugadas, UNE-EN 10080 B 500 S, elaborado en taller industrial, diámetros varios.|1||3|
+~C|mt10haf010nea|m³|Hormigón HA-25/B/20/IIa, fabricado en central.|65.35||3|
+~C|mt11var300|m|Tubo de PVC liso para pasatubos, varios diámetros.|6.5||3|
+~C|CA#||Arriostramientos|2772.74||0|
+~D|CA#
+|CAV010\\11.731
+\|
+~C|CAV010|m³|Viga de atado de hormigón armado, realizada con hormigón HA-25/B/20/IIa fabricado en central, y vertido desde camión, y acero UNE-EN 10080 B 500 S, cuantía 152,538 kg/m³.|229.48||0|
+~T|CAV010|Viga de atado de hormigón armado, realizada con hormigón HA-25/B/20/IIa fabricado en central, y vertido desde camión, y acero UNE-EN 10080 B 500 S, cuantía 152,538 kg/m³.|
+~D|CAV010
+|mt07aco020a\\10
+\mt07aco010c\\152.538
+\mt10haf010nea\\1.05
+\mt11var300\\0.02
+\mo041\\0.067
+\mo084\\0.067
+\%\\0.02
+\|
+~C|E#||Estructuras|19152.55||0|
+~D|E#
+|EA#\\1
+\EH#\\1
+\EM#\\1
+\|
+~C|EA#||Acero|5494.03||0|
+~D|EA#
+|EAS010\\95.8
+\EAV010\\445.45
+\EAS005\\23
+\MEC\\1
+\MECb\\1
+\|
+~C|EAS010|kg|Acero S275JR en pilares, con piezas simples de perfiles laminados en caliente de las series IPN, IPE, UPN, HEA, HEB o HEM con uniones soldadas.|2.19|200516|0|
+~T|EAS010|Acero S275JR en pilares, con piezas simples de perfiles laminados en caliente de las series IPN, IPE, UPN, HEA, HEB o HEM con uniones soldadas.
+5,95 m de Perfil hueco redondo 100.8 mm _Peso 16,1 Kg/ml|
+~D|EAS010
+|mt07ala010h\\1.05
+\mt27pfi010\\0.05
+\mq08sol020\\0.017
+\mo043\\0.023
+\mo086\\0.023
+\%\\0.02
+\|
+~C|mt07ala010h|kg|Acero laminado UNE-EN 10025 S275JR, en perfiles laminados en caliente, piezas simples, para aplicaciones estructurales.|0.99||3|
+~C|mt27pfi010|l|Imprimación de secado rápido, formulada con resinas alquídicas modificadas y fosfato de zinc.|4.8||3|
+~C|mq08sol020|h|Equipo y elementos auxiliares para soldadura eléctrica.|3.1||2|
+~C|mo043|h|Oficial 1ª montador de estructura metálica.|18.26||1|
+~C|mo086|h|Ayudante montador de estructura metálica.|17.52||1|
+~C|EAV010|kg|Acero S275JR en vigas, con piezas simples de perfiles laminados en caliente de las series IPN, IPE, UPN, HEA, HEB o HEM con uniones soldadas.|2.19|200516|0|
+~T|EAV010|Acero S275JR en vigas, con piezas simples de perfiles laminados en caliente de las series IPN, IPE, UPN, HEA, HEB o HEM con uniones soldadas.
+6,23 m de Viga HEB 220 con Peso 71,5 Kg/ml|
+~D|EAV010
+|mt07ala010h\\1.05
+\mt27pfi010\\0.05
+\mq08sol020\\0.017
+\mo043\\0.023
+\mo086\\0.023
+\%\\0.02
+\|
+~C|EAS005|Ud|Placa de anclaje de acero S275JR en perfil plano, de 250x250 mm y espesor 12 mm, con 6 pernos soldados, de acero corrugado UNE-EN 10080 B 500 S de 12 mm de diámetro y 35 cm de longitud total.|22.47|200516|0|
+~T|EAS005|Placa de anclaje de acero S275JR en perfil plano, de 250x250 mm y espesor 12 mm, con 6 pernos soldados, de acero corrugado UNE-EN 10080 B 500 S de 12 mm de diámetro y 35 cm de longitud total.|
+~D|EAS005
+|mt07ala011d\\5.888
+\mt07aco010c\\1.863
+\mq08sol020\\0.017
+\mo043\\0.342
+\mo086\\0.342
+\%\\0.02
+\|
+~C|mt07ala011d|kg|Pletina de acero laminado UNE-EN 10025 S275JR, para aplicaciones estructurales.|1.34|200516|3|
+~C|MEC|Ud|Mecanización contenedor 40 pies, remates y chapas grecadas|2309.71|080515|0|
+~T|MEC|Mecanización contenedor, remates y chapas grecadas
+
+Mecanización de contenedor marítimo de 40 pies de largo según planos, consistente en los recortes y aperturas de huecos necesarios para su uso, así como en la construcción de los huecos a base de marcos de pletinas de espesor 8 mm (L 25 x 10) que aparecen en los planos. Ejecución de salientes para huecos de armario según planos utilizando las mismas chapas grecadas recortadas de las paredes del contenedor siempre que sea posible y añadiendo otra chapa similar donde sea necesario. Incluye los perfiles auxiliares y de remate para recibido de fábricas de ladrillo, remates de la tela y carpinterías, así como el soldado de los mismos al contenedor, el soldado de las puertas del contenedor en caso de ser necesario y las operaciones necesarias de reparación para su puesta en uso de acuerdo al proyecto. Totalmente terminado, según planos.|
+~C|MECb|Ud|Mecanización contenedor 20 pies, remates y chapas grecadas|1319.98|080515|0|
+~T|MECb|Mecanización contenedor, remates y chapas grecadas
+
+Mecanización de contenedor marítimo de 20 pies de largo según planos, consistente en los recortes y aperturas de huecos necesarios para su uso, así como en la construcción de los huecos a base de marcos de pletinas de espesor 8 mm (L 25 x 10) que aparecen en los planos. Ejecución de salientes para huecos de armario según planos utilizando las mismas chapas grecadas recortadas de las paredes del contenedor siempre que sea posible y añadiendo otra chapa similar donde sea necesario. Incluye los perfiles auxiliares y de remate para recibido de fábricas de ladrillo, remates de la tela y carpinterías, así como el soldado de los mismos al contenedor, el soldado de las puertas del contenedor en caso de ser necesario y las operaciones necesarias de reparación para su puesta en uso de acuerdo al proyecto. Totalmente terminado, según planos.|
+~C|EH#||Hormigón armado|3894.02||0|
+~D|EH#
+|EHI011\\63.76
+\EHE020\\8.45
+\|
+~C|EHI011|m²|Forjado sanitario de hormigón armado de 45+5 cm de canto total, sobre sistema de encofrado perdido con módulos de polipropileno reciclado, Módulo Soliglú "DALIFORMA", realizado con hormigón HA-25/B/12/IIa fabricado en central, y vertido con cubilote, acero UNE-EN 10080 B 500 S, cuantía 3 kg/m², y malla electrosoldada ME 15x15 Ø 5-5 B 500 T 6x2,20 UNE-EN 10080 sobre separadores homologados, en capa de compresión de 5 cm de espesor según planos de estructura.|35.81|190516|0|
+~T|EHI011|Forjado sanitario de hormigón armado de 45+5 cm de canto total, sobre sistema de encofrado perdido con módulos de polipropileno reciclado, Módulo Soliglú "DALIFORMA", realizado con hormigón HA-25/B/12/IIa fabricado en central, y vertido con cubilote, acero UNE-EN 10080 B 500 S, cuantía 3 kg/m², y malla electrosoldada ME 15x15 Ø 5-5 B 500 T 6x2,20 UNE-EN 10080 sobre separadores homologados, en capa de compresión de 5 cm de espesor según planos de estructura.|
+~D|EHI011
+|mt07cid010gp\\1.05
+\mt08efa010\\0.1
+\mt07aco010c\\3
+\mt07ame010b\\1.1
+\mt10haf010nba\\0.164
+\mq06vib020\\0.086
+\mo041\\0.139
+\mo084\\0.139
+\%\\0.02
+\|
+~C|mt07cid010gp|m²|Módulos de polipropileno reciclado, para soleras y forjados sanitarios ventilados, modelo Módulo Soliglú "DALIFORMA", de 71x71x45 cm, para sistema de encofrado perdido.|12.79|190516|3|
+~C|mt08efa010|m²|Sistema de encofrado recuperable de tableros de madera para zunchos perimetrales.|1.24||3|
+~C|mt07ame010b|m²|Malla electrosoldada ME 15x15 Ø 5-5 B 500 T 6x2,20 UNE-EN 10080.|1.98||3|
+~C|mt10haf010nba|m³|Hormigón HA-25/B/12/IIa, fabricado en central.|67.05|190516|3|
+~C|mq06vib020|h|Regla vibrante de 3 m.|4.67||2|
+~C|EHE020|m²|Escalera de hormigón visto, con losa de escalera y peldañeado de hormigón armado, e=20 cm, realizada con hormigón HA-30/P/20/IIb fabricado en central, y vertido con cubilote, y acero UNE-EN 10080 B 500 S, 30 kg/m²; montaje y desmontaje de sistema de encofrado recuperable de madera.|177.23|190516|0|
+~T|EHE020|Escalera de hormigón visto, con losa de escalera y peldañeado de hormigón armado, e=20 cm, realizada con hormigón HA-30/P/20/IIb fabricado en central, y vertido con cubilote, y acero UNE-EN 10080 B 500 S, 30 kg/m²; montaje y desmontaje de sistema de encofrado recuperable de madera.|
+~D|EHE020
+|mt08eve030\\1.4
+\mt08eve040\\0.9
+\mt07aco020f\\3
+\mt07aco010c\\30
+\mt10haf010uoa\\0.341
+\mo041\\1.043
+\mo084\\1.043
+\%\\0.02
+\|
+~C|mt08eve030|m²|Sistema de encofrado para losas de escalera de hormigón armado visto, con puntales, sopandas y tablero contrachapado fenólico de madera de pino.|44.1|190516|3|
+~C|mt08eve040|m²|Sistema de encofrado para formación de peldañeado en losas de escalera de hormigón armado visto, con puntales y tablero contrachapado fenólico de madera de pino.|24|190516|3|
+~C|mt07aco020f|Ud|Separador homologado para losas de escalera.|0.08|190516|3|
+~C|mt10haf010uoa|m³|Hormigón HA-30/P/20/IIb, fabricado en central.|67.02|190516|3|
+~C|EM#||Madera|9764.5|200516|0|
+~T|EM#|Madera|
+~D|EM#
+|EMV110\\6.347
+\EMT010\\158.68
+\|
+~C|EMV110|m³|Viga de madera laminada encolada homogénea, de 33 ó 45 mm de espesor de las láminas y sección constante, de 10x40  de sección y hasta 5 m de luz, clase resistente GL-24h y protección de la madera con clase de penetración NP1 y NP2, trabajada en taller según planos de estructura.|1083.91|200516|0|
+~T|EMV110|Viga de madera laminada encolada homogénea, de 33 ó 45 mm de espesor de las láminas y sección constante, de 10x40  de sección y hasta 5 m de luz, clase resistente GL-24h y protección de la madera con clase de penetración NP1 y NP2, trabajada en taller según planos de estructura.|
+~D|EMV110
+|mt07mee115a\\1
+\mo044\\6.898
+\mo087\\3.449
+\%\\0.02
+\|
+~C|mt07mee115a|m³|Madera laminada encolada homogénea, de 33 ó 45 mm de espesor de las láminas, para viga de sección constante, de 10x20 a 12x25 cm de sección y hasta 5 m de longitud, para aplicaciones estructurales, clase resistente GL-24h según UNE-EN 390 y UNE-EN 1194, y protección frente a agentes bióticos que se corresponde con la clase de penetración NP1 y NP2 (3 mm en las caras laterales de la albura) según UNE-EN 351-1, trabajada en taller.|876.27|200516|3|
+~C|mo044|h|Oficial 1ª montador de estructura de madera.|18.26|200516|1|
+~C|mo087|h|Ayudante montador de estructura de madera.|17.52|200516|1|
+~C|EMT010|m²|Entablado base de tablero estructural de madera, de 30 mm de espesor, colocado con fijaciones mecánicas según planos de estructura.|16.39|200516|0|
+~T|EMT010|Entablado base de tablero estructural de madera, de 30 mm de espesor, colocado con fijaciones mecánicas según planos de estructura.|
+~D|EMT010
+|mt08eff020a\\1.05
+\mt50spa101\\0.15
+\mo044\\0.19
+\mo087\\0.095
+\%\\0.02
+\|
+~C|mt08eff020a|m²|Tablero estructural de madera para uso en ambiente seco, de 2400x900 mm y 30 mm de espesor, machihembrado en sus cuatro cantos, según UNE-EN 312.|10.26|200516|3|
+~C|mt50spa101|kg|Clavos de acero.|1.15||3|
+~C|F#||Fachadas|30751.05||0|
+~D|F#
+|FF#\\1
+\FC#\\1
+\FD#\\1
+\|
+~C|FF#||FACHADA PRINCIPAL|7671.36||0|
+~D|FF#
+|NAF040\\88.83
+\RQO031\\118.83
+\YCL220b\\200
+\YCL110\\88.83
+\|
+~C|NAF040|m²|Aislamiento por el exterior formado por espuma rígida de poliuretano proyectado en dos capas de 130 mm de espesor mínimo, 45 kg/m³ de densidad mínima, aplicado mediante proyección mecánica.|22.98|200516|0|
+~T|NAF040|Aislamiento por el exterior formado por espuma rígida de poliuretano proyectado en dos capas de 60 mm de espesor mínimo, 45 kg/m³ de densidad mínima, aplicado mediante proyección mecánica.|
+~D|NAF040
+|mt16pop010L\\1
+\mq08mpa030\\0.11
+\mo029\\0.201
+\mo063\\0.201
+\%\\0.02
+\|
+~C|mt16pop010L|m²|Espuma rígida de poliuretano proyectado "in situ", densidad mínima 45 kg/m³, espesor medio mínimo 60 mm.|11|200516|3|
+~C|mq08mpa030|h|Maquinaria para proyección de productos aislantes.|15.25|200516|2|
+~C|mo029|h|Oficial 1ª aplicador de productos aislantes.|27||1|
+~C|mo063|h|Ayudante aplicador de productos aislantes.|22||1|
+~C|RQO031|m²|Revestimiento de paramentos exteriores de hormigón con mortero monocapa para la impermeabilización y decoración de fachadas, acabado con árido proyectado, color verde, compuesto de cemento fotocatalítico descontaminante, TX ARIA "FYM ITALCEMENTI GROUP", aditivos, resinas sintéticas y cargas minerales, espesor 20 mm, aplicado manualmente, armado y reforzado con malla antiálcalis en los cambios de material y en los frentes de forjado, aplicado sobre una capa de mortero puente de unión, de 5 mm de espesor, en aquellos lugares de su superficie donde presente deficiencias.|36.25|200516|0|
+~T|RQO031|Revestimiento de paramentos exteriores con mortero monocapa para la impermeabilización y decoración de fachadas, acabado con CORTEZA DE PINO proyectada, color a definir por la D.F., compuesto de cemento fotocatalítico descontaminante, TX ARIA "FYM ITALCEMENTI GROUP", aditivos, resinas sintéticas y cargas minerales, espesor 20 mm, aplicado manualmente, armado y reforzado con malla antiálcalis en los cambios de material y en los frentes de forjado, aplicado sobre una capa de mortero puente de unión, de 5 mm de espesor, en aquellos lugares de su superficie donde presente deficiencias.|
+~D|RQO031
+|mt28pcs020a\\7.5
+\mt28mit060ag\\22.67
+\mt28mon040a\\0.21
+\mt28mon030\\0.75
+\mt28mon050\\1.25
+\mt28mon020\\15
+\mo038\\0.445
+\mo103\\0.422
+\%\\0.04
+\|
+~C|mt28pcs020a|kg|Mortero puente de unión de 5 mm de espesor, para morteros monocapa sobre soportes de hormigón liso y hormigón celular.|0.27|200516|3|
+~C|mt28mit060ag|kg|Mortero monocapa para la impermeabilización y decoración de fachadas, acabado con árido proyectado, color verde, compuesto de cemento fotocatalítico descontaminante, TX ARIA "FYM ITALCEMENTI GROUP", aditivos, resinas sintéticas y cargas minerales, tipo OC CSIII W2, según UNE-EN 998-1.|0.65|200516|3|
+~C|mt28mon040a|m²|Malla de fibra de vidrio, de 10x10 mm de luz, antiálcalis, de 200 a 250 g/m² de masa superficial y 750 a 900 micras de espesor, con 25 kp/cm² de resistencia a tracción, para armar morteros monocapa.|2.41|200516|3|
+~C|mt28mon030|m|Junquillo de PVC.|0.35|200516|3|
+~C|mt28mon050|m|Perfil de PVC rígido para formación de aristas en revestimientos de mortero monocapa.|0.37|200516|3|
+~C|mt28mon020|kg|Árido de mármol, procedente de machaqueo, para proyectar sobre mortero monocapa, granulometría comprendida entre 5 y 9 mm.|0.13|200516|3|
+~C|mo038|h|Oficial 1ª revocador.|17.39||1|
+~C|mo103|h|Peón especializado revocador.|16.98||1|
+~C|YCL220b|Ud|Dispositivo de anclaje para fijación mecánica a paramento vertical según planos.|4.51|200516|0|
+~T|YCL220b|Dispositivo de anclaje para fijación mecánica a paramento vertical según planos.|
+~D|YCL220b
+|mt50spd030b\\1
+\mo105\\0.058
+\%\\0.02
+\|
+~C|mt50spd030b|Ud|Dispositivo de anclaje para fijación mecánica a paramento horizontal o vertical de hormigón armado, de 700 mm de longitud, formado por cinta de poliéster; 1 cáncamo en un extremo, con conexión roscada hembra y 1 argolla en el otro extremo, clase A1, incluso taco de expansión metálico, varilla roscada, arandela y tuerca.|3.48|200516|3|
+~C|YCL110|m²|Entramado para vegetación  de cable de acero flexible de acero galvanizado, de 6 mm de diámetro.|2.2|200516|0|
+~T|YCL110|Entramado para vegetación  de cable de acero flexible de acero galvanizado, de 6 mm de diámetro.|
+~D|YCL110
+|mt50spl110\\2
+\mt50spl105a\\8
+\mt50spl130\\10.5
+\mt50spl040\\1
+\mt50spl050\\1
+\mt50spl080\\1
+\mt50spl060\\1
+\mt50spl070\\1
+\mo105\\0.016
+\%\\0.02
+\|
+~C|mt50spl110|Ud|Anclaje terminal de aleación de aluminio L-2653 con tratamiento térmico T6, acabado con pintura epoxi-poliéster.|0.1|200516|3|
+~C|mt50spl105a|Ud|Fijación compuesta por taco químico, arandela y tornillo de acero de 12 mm de diámetro y 80 mm de longitud.|0.04|200516|3|
+~C|mt50spl130|m|Cable flexible de acero galvanizado, de 10 mm de diámetro, compuesto por 7 cordones de 19 hilos, incluso prensado terminal con casquillo de cobre y guardacable en un extremo.|0.02|200516|3|
+~C|mt50spl040|Ud|Tensor de caja abierta, con ojo en un extremo y horquilla en el extremo opuesto.|0.63|200516|3|
+~C|mt50spl050|Ud|Conjunto de tres sujetacables y un guardacable cerrado de acero inoxidable.|0.24|200516|3|
+~C|mt50spl080|Ud|Protector para cabo, de PVC, color amarillo.|0.03|200516|3|
+~C|mt50spl060|Ud|Placa de señalización de la línea de anclaje.|0.12|200516|3|
+~C|mt50spl070|Ud|Conjunto de dos precintos de seguridad.|0.15|200516|3|
+~C|FC#||Carpintería exterior|22112.27||0|
+~D|FC#
+|FCM020fb\\1
+\FCM020fc\\1
+\FCM020\\1
+\FCM020d\\1
+\FCM020c\\1
+\FCM020g\\2
+\FCM020b\\1
+\FCM020e\\2
+\FCM020f\\1
+\QLC010\\1
+\|
+~C|FCM020fb|Ud|V1-Carpintería exterior en madera laminada de iroko|7408.2|200516|0|
+~T|FCM020fb|V1-Carpintería exterior en madera laminada de iroko, para conjunto formado por UNA CORREDERA DE DOS HOJAS ELEVABLES Y UNA PUERTA ABATIBLE, incluso precerco, tapajuntas y herrajes. Dimensiones totales 338x263 cm. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio.
+Incluso vidrio STADIP 6+6/6/3+3mm con butiral transparente. Según planos|
+~C|FCM020fc|Ud|V2-Carpintería exterior en madera laminada de iroko|6006.3|200516|0|
+~T|FCM020fc|V2-Carpintería exterior en madera laminada de iroko, para UNA CORREDERA DE DOS HOJAS ELEVABLE de DIMENSIÓN TOTAL 353X263 cm, con persiana de madera, incluso precerco, tapajuntas y herrajes.Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio.
+Incluso vidrio STADIP 6+6/6/3+3mm con butiral transparente. Según planos|
+~C|FCM020|Ud|V3-Carpintería exterior en madera laminada de iroko|2604.85|200516|0|
+~T|FCM020|V3-Carpintería exterior en madera laminada de iroko, para UNA CORREDERA DE DOS HOJAS Y DOS FIJOS de 78x75 cm, con persiana de madera, incluso precerco, tapajuntas y herrajes.Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio.
+Incluso vidrio STADIP 6+6/6/3+3mm con butiral transparente. Según planos|
+~C|FCM020d|Ud|V4-Carpintería exterior en madera laminada de iroko|476.97|200516|0|
+~T|FCM020d|V4-Carpintería exterior en madera laminada de iroko, para ventana basculante de una hoja de 78x75 cm, con persiana de madera, incluso precerco, tapajuntas y herrajes.Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio.
+Incluso vidrio STADIP 6+6/6/3+3mm con butiral transparente. Según planos|
+~C|FCM020c|Ud|V5-Carpintería exterior en madera laminada de iroko|631|200516|0|
+~T|FCM020c|V5-Carpintería exterior en madera laminada de iroko, para ventana basculante de una hoja de dimensión total 119x152 cm, con persiana de madera, incluso precerco, tapajuntas y herrajes.Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio.
+Incluso vidrio STADIP 6+6/6/3+3mm con butiral transparente. Según planos|
+~C|FCM020g|Ud|V6-Carpintería exterior en madera laminada de iroko|868.5|200516|0|
+~T|FCM020g|V4-Carpintería exterior en madera laminada de iroko, para ventana OSCILOBATIENTE de una hoja de DIMENSIÓN TOTAL 82x152 cm, con persiana de madera, incluso precerco, tapajuntas y herrajes.Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio.
+Incluso vidrio STADIP 6+6/6/3+3mm con butiral transparente. Según planos|
+~C|FCM020b|Ud|V6'-Carpintería exterior en madera laminada de iroko|631|200516|0|
+~T|FCM020b|V6'-Carpintería exterior en madera laminada de iroko, para ventana BASCULANTE de una hoja de DIMENSIÓN TOTAL 82x152 cm, con persiana de madera, incluso precerco, tapajuntas y herrajes.Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio.
+Incluso vidrio STADIP 6+6/6/3+3mm con butiral transparente. Según planos|
+~C|FCM020e|Ud|V7-Carpintería exterior en madera laminada de iroko|476.97|200516|0|
+~T|FCM020e|V7-Carpintería exterior en madera laminada de iroko, para ventana basculante de una hoja de 78x75 cm, con persiana de madera, incluso precerco, tapajuntas y herrajes.Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio.
+Incluso vidrio STADIP 6+6/6/3+3mm con butiral transparente. Según planos|
+~C|FCM020f|Ud|V8-Carpintería exterior en madera laminada de iroko|868.5|200516|0|
+~T|FCM020f|V8-Carpintería exterior en madera laminada de iroko, para PUERTA BALCONERA de una hoja de DIMENSIÓN TOTAL 82x220 cm, con persiana de madera, incluso precerco, tapajuntas y herrajes.Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio.
+Incluso vidrio STADIP 6+6/6/3+3mm con butiral transparente. Según planos|
+~C|QLC010|Ud|Claraboya de cúpula  parabólica bivalva,|150.44|200516|0|
+~T|QLC010|Claraboya de cúpula motorizada parabólica bivalva, de polimetilmetacrilato (PMMA), de base cuadrada, luz de hueco 40x40 cm, incluso zócalo realizado con Tablero OSB 30 mm de espesor con sus correspondientes cuñas de apoyo, totalmente terminada y funcionando según detalle.|
+~D|QLC010
+|mt14iea020c\\0.406
+\mt14lga010c\\0.546
+\mt04lvc010b\\18
+\mt09mor010c\\0.006
+\mt09mor010f\\0.013
+\mt21mat010\\1
+\mt21cms010\\1.689
+\mo028\\0.365
+\mo062\\0.365
+\mo010\\0.384
+\mo075\\1.141
+\%\\0.02
+\|
+~C|mt14iea020c|kg|Imprimación asfáltica, tipo EB, UNE 104231.|2.42|200516|3|
+~C|mt14lga010c|m²|Lámina de betún modificado con elastómero SBS LBM(SBS)-50/G-FP (150R), UNE-EN 13707, con armadura de fieltro de poliéster reforzado y estabilizado de 150 g/m², con autoprotección mineral.|7.31|200516|3|
+~C|mt04lvc010b|Ud|Ladrillo cerámico hueco doble, para revestir, 24x11,5x7 cm, según UNE-EN 771-1.|0.12|200516|3|
+~C|mt09mor010c|m³|Mortero de cemento CEM II/B-P 32,5 N tipo M-5, confeccionado en obra con 250 kg/m³ de cemento y una proporción en volumen 1/6.|115.3||3|
+~C|mt09mor010f|m³|Mortero de cemento CEM II/B-P 32,5 N tipo M-15, confeccionado en obra con 450 kg/m³ de cemento y una proporción en volumen 1/3.|149.3||3|
+~C|mt21mat010|Ud|Claraboya de cúpula fija parabólica bivalva, de polimetilmetacrilato (PMMA), de base cuadrada, luz de hueco 40x40 cm. Según UNE-EN 1873.|95.55|200516|3|
+~C|mt21cms010|Ud|Material auxiliar para instalación, montaje y fijación de claraboya prefabricada.|2.25|200516|3|
+~C|mo028|h|Oficial 1ª aplicador de láminas impermeabilizantes.|17.39||1|
+~C|mo062|h|Ayudante aplicador de láminas impermeabilizantes.|16.69||1|
+~C|mo010|h|Oficial 1ª montador.|17.97||1|
+~C|mo075|h|Ayudante montador.|16.69||1|
+~C|FD#||Defensas de exteriores|967.42||0|
+~D|FD#
+|FDD020\\23.59
+\UVT010\\23.59
+\|
+~C|FDD020|m|Barandilla tridimensional de cubierta|26.8|200516|0|
+~T|FDD020|Barandilla tridimensional de cubierta de 100 cm de altura formada por: montantes verticales de tubo  de acero y base de sección tubular prefabricada de hormigón según planos. Cable de acero tensado entre los montantes y malla simple torsión tridimensional según planta.|
+~D|FDD020
+|mt25dba030a\\2.1
+\mt25dba040a\\2.1
+\mt25dba020a\\9
+\mt25dba010a\\1.05
+\mt26aaa031\\1
+\mo017\\0.361
+\mo054\\0.361
+\%\\0.02
+\|
+~C|mt25dba030a|m|Pilastra cuadrada de 40x40 mm, de aluminio anodizado de 15 micras, color natural, para barandilla de fachada.|0.88|200516|3|
+~C|mt25dba040a|m|Barandal cuadrado de 40x40 mm, de aluminio anodizado de 15 micras, color natural, para barandilla de fachada.|1.3|200516|3|
+~C|mt25dba020a|m|Barrote vertical rectangular de 30x15 mm, de aluminio anodizado de 15 micras, color natural, para barandilla de fachada.|0.65|200516|3|
+~C|mt25dba010a|m|Pasamanos curvo de 70 mm, de aluminio anodizado de 15 micras, color natural, para barandilla de fachada, incluso tornillos de fijación.|1.3|200516|3|
+~C|mt26aaa031|Ud|Repercusión, por m de barandilla, de elementos de fijación sobre obra de fábrica: tacos y tornillos de acero.|2.04||3|
+~C|mo017|h|Oficial 1ª cerrajero.|17.66||1|
+~C|mo054|h|Ayudante cerrajero.|16.76||1|
+~C|UVT010|m|Cerramiento  formado por malla de simple torsión, de 8 mm de paso de malla y 1,1 mm de diámetro, acabado galvanizado y montantes de postes de acero galvanizado, de 48 mm de diámetro y 1 m de altura.|13.02|200516|0|
+~T|UVT010|Cerramiento  formado por malla de simple torsión, de 8 mm de paso de malla y 1,1 mm de diámetro, acabado galvanizado y montantes de postes de acero galvanizado, de 48 mm de diámetro y 1 m de altura.|
+~D|UVT010
+|mt52vst030a\\0.22
+\mt52vst030i\\0.06
+\mt52vst030q\\0.04
+\mt52vst030y\\0.2
+\mt52vst010aa\\1.2
+\mt10hmf010Mm\\0.015
+\mo105\\0.113
+\mo010\\0.102
+\mo075\\0.102
+\%\\0.03
+\|
+~C|mt52vst030a|Ud|Poste intermedio de tubo de acero galvanizado de 48 mm de diámetro y 1,5 mm de espesor, altura 1 m.|7.24|200516|3|
+~C|mt52vst030i|Ud|Poste interior de refuerzo de tubo de acero galvanizado de 48 mm de diámetro y 1,5 mm de espesor, altura 1 m.|8.03|200516|3|
+~C|mt52vst030q|Ud|Poste extremo de tubo de acero galvanizado de 48 mm de diámetro y 1,5 mm de espesor, altura 1 m.|9.85|200516|3|
+~C|mt52vst030y|Ud|Poste en escuadra de tubo de acero galvanizado de 48 mm de diámetro y 1,5 mm de espesor, altura 1 m.|11.11|200516|3|
+~C|mt52vst010aa|m²|Malla de simple torsión, de 8 mm de paso de malla y 1,1 mm de diámetro, acabado galvanizado.|1.4|200516|3|
+~C|mt10hmf010Mm|m³|Hormigón HM-20/B/20/I, fabricado en central.|62.16||3|
+~C|P#||Particiones|6391.76||0|
+~D|P#
+|PA#\\1
+\PP#\\1
+\PT#\\1
+\PY#\\1
+\|
+~C|PA#||Armarios|703.59||0|
+~D|PA#
+|PAH010\\3
+\|
+~C|PAH010|Ud|Cierre de armario a base de estor japones o similar|227.7||0|
+~T|PAH010|Cierre de armario a base de estor japones o similar|
+~D|PAH010
+|mt22aap020jd\\1
+\mt22ata015ab\\7
+\mt22ara015a\\6.4
+\mt22pxh040aaa\\2
+\mt23icx020\\6
+\mt23hcl010a\\2
+\mt23ppb050\\4
+\mt23ppb031\\36
+\mo016\\1.261
+\mo053\\1.261
+\%\\0.02
+\|
+~C|mt22aap020jd|Ud|Precerco de madera de pino, 70x35 mm, para puerta de armario de dos hojas de 215 cm de altura, con elementos de fijación.|15.55||3|
+~C|mt22ata015ab|m|Tapajuntas de MDF, con acabado en melamina, de color blanco, 70x10 mm.|1.36||3|
+~C|mt22ara015a|m|Tapeta de MDF, acabado en melamina, de color blanco, 70x4 mm.|0.84||3|
+~C|mt22pxh040aaa|Ud|Puerta de armario de tablero aglomerado, acabado en melamina, de color blanco, 215x50x1,9 cm.|61.87||3|
+~C|mt23icx020|Ud|Bisagra oculta de cazoleta, de acero inoxidable, para puerta de armario o altillo de espesor mayor de 15 mm.|1.2||3|
+~C|mt23hcl010a|Ud|Juego de tirador y escudo largo de latón negro brillo, serie básica, para puerta de armario.|7.48||3|
+~C|mt23ppb050|Ud|Imán de cierre para puerta de armario o altillo.|0.3||3|
+~C|mt23ppb031|Ud|Tornillo de latón 21/35 mm.|0.06||3|
+~C|mo016|h|Oficial 1ª carpintero.|17.7||1|
+~C|mo053|h|Ayudante carpintero.|16.82||1|
+~C|PP#||Puertas de paso interiores|915.78||0|
+~D|PP#
+|PPM010d\\1
+\PPM010b\\1
+\PPM010\\2
+\PPC010\\2
+\|
+~C|PPM010d|Ud|PM1_Puerta de paso corredera de tablero de virutas orientadas OSB 120x255 cm|173.49|080515|0|
+~T|PPM010d|PM1_Puerta de paso corredera de tablero de virutas orientadas OSB 120x255 cm
+Suministro y colocación de puerta de paso corredera, ciega, de una hoja de 120x255 cm, lisa de tablero de virutas orientadas OSB, barnizada en taller. Incluso herrajes de colgar KLEIN SLID.90 RETRAC, de longitud total ____cm, fresado para tirador. Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio). Incluso parte proporcional de pequeñas piezas y/o complementos. Montado según detalles.|
+~D|PPM010d
+|mt22aap011gaa\\2
+\mt22aga010\\10.2
+\mt23ppb100a\\1
+\mt22ata010aba\\10.4
+\mt22pxh020\\1
+\mt23hba020aaa\\1
+\mt23ppb102c\\1.1
+\mo008\\0.958
+\mo031\\0.958
+\%\\0.02
+\|
+~C|mt22aap011gaa|Ud|Precerco de madera de pino, 120x35 mm, para puerta de una hoja, con elementos de fijación.|15.49|080515|3|
+~C|mt22aga010|m|Galce de MDF, con rechapado de madera, sapeli, 120x20 mm, barnizado en taller.|2.71|080515|3|
+~C|mt23ppb100a|Ud|Herrajes de colgar, kit para puerta corredera.|5.11|080515|3|
+~C|mt22ata010aba|m|Tapajuntas de MDF, con rechapado de madera, sapeli, 70x10 mm, barnizado en taller.|0.84|080515|3|
+~C|mt22pxh020|Ud|Puerta de paso ciega de sapeli, de 203x82,5x3,5 cm, con tablero aglomerado liso, barnizada en taller. Según UNE 56803.|44.15|080515|3|
+~C|mt23hba020aaa|Ud|Tirador simple de aluminio, serie básica, para puerta de paso corredera, para interior.|15.44|080515|3|
+~C|mt23ppb102c|m|Carril puerta corredera doble aluminio.|5.83|080515|3|
+~C|mo008|h|Oficial 1ª instalador de captadores solares.|17.97||1|
+~C|mo031|h|Ayudante carpintero.|15.03|010415|1|
+~C|PPM010b|Ud|PM2_Puerta de paso corredera de tablero de virutas orientadas OSB 94 x 258 cm|173.49|080515|0|
+~T|PPM010b|PM1_Puerta de paso corredera de tablero de virutas orientadas OSB 120x255 cm
+Suministro y colocación de puerta de paso corredera, ciega, de una hoja de 120x255 cm, lisa de tablero de virutas orientadas OSB, barnizada en taller. Incluso herrajes de colgar KLEIN SLID.90 RETRAC, de longitud total ____cm, fresado para tirador. Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio). Incluso parte proporcional de pequeñas piezas y/o complementos. Montado según detalles.|
+~D|PPM010b
+|mt22aap011gaa\\2
+\mt22aga010\\10.2
+\mt23ppb100a\\1
+\mt22ata010aba\\10.4
+\mt22pxh020\\1
+\mt23hba020aaa\\1
+\mt23ppb102c\\1.1
+\mo008\\0.958
+\mo031\\0.958
+\%\\0.02
+\|
+~C|PPM010|Ud|PM3-PM4_Puerta de paso corredera de tablero de virutas orientadas OSB 71 x 254 cm|173.49|080515|0|
+~T|PPM010|PM1_Puerta de paso corredera de tablero de virutas orientadas OSB 120x255 cm
+Suministro y colocación de puerta de paso corredera, ciega, de una hoja de 120x255 cm, lisa de tablero de virutas orientadas OSB, barnizada en taller. Incluso herrajes de colgar KLEIN SLID.90 RETRAC, de longitud total ____cm, fresado para tirador. Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio). Incluso parte proporcional de pequeñas piezas y/o complementos. Montado según detalles.|
+~D|PPM010
+|mt22aap011gaa\\2
+\mt22aga010\\10.2
+\mt23ppb100a\\1
+\mt22ata010aba\\10.4
+\mt22pxh020\\1
+\mt23hba020aaa\\1
+\mt23ppb102c\\1.1
+\mo008\\0.958
+\mo031\\0.958
+\%\\0.02
+\|
+~C|PPC010|Ud|PMT1-PMT2_Puerta de paso de acero galvanizado de una hoja, 800x2540 mm, acabado color lacado a elegir por la D.F.|97.58|200516|0|
+~T|PPC010|PMT1-PMT2_Puerta de paso de acero galvanizado de una hoja, 800x2540 mm, acabado color lacado a elegir por la D.F.|
+~D|PPC010
+|mt26ppa010aia\\1
+\mo019\\0.223
+\mo072\\0.223
+\%\\0.02
+\|
+~C|mt26ppa010aia|Ud|Puerta de paso de una hoja de 38 mm de espesor, 800x2045 mm de luz y altura de paso, acabado galvanizado formada por dos chapas de acero galvanizado de 0,5 mm de espesor plegadas, ensambladas y montadas, con cámara intermedia rellena de poliuretano, sobre cerco de acero galvanizado de 1,5 mm de espesor con garras de anclaje a obra, incluso bisagras soldadas al cerco y remachadas a la hoja, cerradura embutida de cierre a un punto, cilindro de latón con llave, escudos y manivelas de nylon color negro.|88.07|200516|3|
+~C|mo019|h|Oficial 1ª construcción.|17.39||1|
+~C|mo072|h|Ayudante construcción.|16.69||1|
+~C|PT#||Tabiques|2715.3||0|
+~D|PT#
+|PSY015\\23.4
+\PSY015b\\8.39
+\estanmes\\1
+\|
+~C|PSY015|m²|T1-Tabique múltiple W 112 "KNAUF" (15+15+48+15+15)/600 (48) LM - (4 impregnada (H)) con placas de yeso laminado, sobre banda acústica "KNAUF", formado por una estructura simple, con disposición normal "N" de los montantes; aislamiento acústico mediante panel|63.09|200516|0|
+~T|PSY015|T1-Tabique múltiple W 112 "KNAUF" (15+15+48+15+15)/600 (48) LM - (4 impregnada (H)) con placas de yeso laminado, sobre banda acústica "KNAUF", formado por una estructura simple, con disposición normal "N" de los montantes; aislamiento acústico mediante panel de lana mineral natural (LMN), no revestido, suministrado en rollos, Ultracoustic R "KNAUF INSULATION", de 45 mm de espesor, en el alma; 108 mm de espesor total.|
+~D|PSY015
+|mt12pck020b\\1.2
+\mt12pfk020c\\0.7
+\mt12pfk010c\\2
+\mt16lki020cba\\1.05
+\mt12ppk010k\\4.2
+\mt12ptk010cd\\13
+\mt12ptk010cf\\29
+\mt12psg220\\1.6
+\mt12pik010b\\1
+\mt12pck010a\\3.2
+\mo049\\0.398
+\mo092\\0.398
+\%\\0.02
+\|
+~C|mt12pck020b|m|Banda acústica de dilatación "KNAUF" de 50 mm de anchura.|0.28|200516|3|
+~C|mt12pfk020c|m|Canal 48/30 "KNAUF" de acero galvanizado, según UNE-EN 14195.|1.25|200516|3|
+~C|mt12pfk010c|m|Montante 48/35 "KNAUF" de acero galvanizado, según UNE-EN 14195.|1.68|200516|3|
+~C|mt16lki020cba|m²|Panel de lana mineral natural (LMN), no revestido, suministrado en rollos, Ultracoustic R "KNAUF INSULATION", de 45 mm de espesor, según UNE-EN 13162, resistencia térmica 1,2 m²K/W, conductividad térmica 0,037 W/(mK), Euroclase A1 de reacción al fuego, con código de designación MW-EN 13162-T2-AFr5, de aplicación como aislante térmico y acústico en tabiques y trasdosados de yeso laminado, cerramientos verticales y particiones de fábrica.|2.73|200516|3|
+~C|mt12ppk010k|m²|Placa de yeso laminado H / UNE-EN 520 - 1200 / longitud / 15 / borde afinado, impregnada "KNAUF".|9.17|200516|3|
+~C|mt12ptk010cd|Ud|Tornillo autoperforante TN "KNAUF" 3,5x25.|0.01|200516|3|
+~C|mt12ptk010cf|Ud|Tornillo autoperforante TN "KNAUF" 3,5x35.|0.01|200516|3|
+~C|mt12psg220|Ud|Fijación compuesta por taco y tornillo 5x27.|0.06|200516|3|
+~C|mt12pik010b|kg|Pasta de juntas Jointfiller F-1 GLS "KNAUF", según UNE-EN 13963.|1.45|200516|3|
+~C|mt12pck010a|m|Cinta de juntas "KNAUF" de 50 mm de anchura.|0.04|200516|3|
+~C|mo049|h|Oficial 1ª montador de prefabricados interiores.|17.97|200516|1|
+~C|mo092|h|Ayudante montador de prefabricados interiores.|16.69|200516|1|
+~C|PSY015b|m²|T4-Tabique múltiple chapa grecada del contenedor + lámina PKB2 + tablero OSB, fijados a subestructura de rastreles de madera de 20 x 20 mm.|59.59|260516|0|
+~T|PSY015b|T4-Tabique múltiple chapa grecada del contenedor + lámina PKB2 + tablero OSB, fijados a subestructura de rastreles de madera de 20 x 20 mm.|
+~D|PSY015b
+|mt12pck020b\\1.2
+\mt12pfk020c\\0.7
+\mt12pfk010c\\2
+\mt16lki020cba\\1.05
+\mt12ppk010k\\4.2
+\mt12ptk010cd\\13
+\mt12ptk010cf\\29
+\mt12psg220\\1.6
+\mt12pik010b\\1
+\mt12pck010a\\3.2
+\mo049\\0.299
+\mo092\\0.299
+\%\\0.02
+\|
+~C|estanmes|ud|Estanterías tablero OSB|659.99|080515|0|
+~T|estanmes|Estanterías tablero OSB
+
+Suministro y montaje de estanterías  formada por tablero osb (Tripli). Incluso p/p de remates, sellado de juntas, soportes y encuentros con otros tipos de paramentos. Incluida puerta de acceso a CGD y colectores suelo radiante. Totalmente terminada, según planos.|
+~C|PY#||Ayudas|2057.09||0|
+~D|PY#
+|PYA010\\79
+\PYA010b\\121.86
+\PYA010c\\121.86
+\PYA010d\\121.86
+\PYA010e\\121.86
+\PYA010g\\121.86
+\PYR020\\2
+\PYR040\\8
+\|
+~C|PYA010|m²|Ayudas de albañilería en edificio de vivienda unifamiliar, para instalación audiovisual (conjunto receptor, instalaciones de interfonía y/o vídeo).|0.45||0|
+~T|PYA010|Ayudas de albañilería en edificio de vivienda unifamiliar, para instalación audiovisual (conjunto receptor, instalaciones de interfonía y/o vídeo).|
+~D|PYA010
+|mq05per010\\0.005
+\mo019\\0.005
+\mo105\\0.013
+\%\\0.04
+\|
+~C|mq05per010|h|Perforadora con corona diamantada y soporte.|25||2|
+~C|PYA010b|m²|Ayudas de albañilería en edificio de vivienda unifamiliar, para infraestructura de telecomunicaciones.|1.54||0|
+~T|PYA010b|Ayudas de albañilería en edificio de vivienda unifamiliar, para infraestructura de telecomunicaciones.|
+~D|PYA010b
+|mq05per010\\0.005
+\mo019\\0.023
+\mo105\\0.059
+\%\\0.04
+\|
+~C|PYA010c|m²|Ayudas de albañilería en edificio de vivienda unifamiliar, para instalación de calefacción.|4.17||0|
+~T|PYA010c|Ayudas de albañilería en edificio de vivienda unifamiliar, para instalación de calefacción.|
+~D|PYA010c
+|mq05per010\\0.005
+\mo019\\0.067
+\mo105\\0.168
+\%\\0.04
+\|
+~C|PYA010d|m²|Ayudas de albañilería en edificio de vivienda unifamiliar, para instalación de fontanería.|3.82||0|
+~T|PYA010d|Ayudas de albañilería en edificio de vivienda unifamiliar, para instalación de fontanería.|
+~D|PYA010d
+|mq05per010\\0.005
+\mo019\\0.061
+\mo105\\0.154
+\%\\0.04
+\|
+~C|PYA010e|m²|Ayudas de albañilería en edificio de vivienda unifamiliar, para instalación de iluminación.|0.19||0|
+~T|PYA010e|Ayudas de albañilería en edificio de vivienda unifamiliar, para instalación de iluminación.|
+~D|PYA010e
+|mq05per010\\0.002
+\mo019\\0.002
+\mo105\\0.006
+\%\\0.04
+\|
+~C|PYA010g|m²|Ayudas de albañilería en edificio de vivienda unifamiliar, para instalación de evacuación de aguas.|2.18||0|
+~T|PYA010g|Ayudas de albañilería en edificio de vivienda unifamiliar, para instalación de evacuación de aguas.|
+~D|PYA010g
+|mq05per010\\0.016
+\mo019\\0.03
+\mo105\\0.073
+\%\\0.04
+\|
+~C|PYR020|Ud|Recibido de pie de ducha de cualquier medida, mediante tabiques de apoyo.|108.16||0|
+~T|PYR020|Recibido de bañera de cualquier medida, mediante tabiques de apoyo.|
+~D|PYR020
+|mt04lvc010a\\30
+\mt09mor010c\\0.01
+\mt01ara010\\0.1
+\mo019\\3.004
+\mo105\\3.004
+\%\\0.02
+\|
+~C|mt04lvc010a|Ud|Ladrillo cerámico hueco sencillo, para revestir, 24x11,5x4 cm, según UNE-EN 771-1.|0.1||3|
+~C|mt01ara010|m³|Arena de 0 a 5 mm de diámetro.|12.02||3|
+~C|PYR040|Ud|Colocación y fijación de carpintería exterior|36.74||0|
+~T|PYR040|Colocación y fijación de carpintería exterior|
+~D|PYR040
+|mt09mor010c\\0.01
+\mo019\\1.04
+\mo105\\1.04
+\%\\0.02
+\|
+~C|I#||Instalaciones|27526.59||0|
+~D|I#
+|IL#\\1
+\IA#\\1
+\IC#\\1
+\IE#\\1
+\IF#\\1
+\IO#\\1
+\IS#\\1
+\IV#\\1
+\|
+~C|IL#||Infraestructura de telecomunicaciones|341.39||0|
+~D|IL#
+|ILA020\\10
+\ILE030\\3
+\ILS010\\10
+\ILI001\\1
+\|
+~C|ILA020|m|Canalización externa enterrada formada por 3 tubos de polietileno de 63 mm de diámetro, en edificación de hasta 4 PAU.|17.79||0|
+~T|ILA020|Canalización externa enterrada formada por 3 tubos de polietileno de 63 mm de diámetro, en edificación de hasta 4 PAU.|
+~D|ILA020
+|mt35aia070ac\\3
+\mt40iva020d\\1.18
+\mt10hmf010Mm\\0.073
+\mt40www050\\0.3
+\mo019\\0.063
+\mo105\\0.063
+\%\\0.02
+\|
+~C|mt35aia070ac|m|Tubo curvable, suministrado en rollo, de polietileno de doble pared (interior lisa y exterior corrugada), de color naranja, de 63 mm de diámetro nominal, para canalización enterrada, resistencia a la compresión 450 N, resistencia al impacto 20 julios, con grado de protección IP 549 según UNE 20324, con hilo guía incorporado. Según UNE-EN 61386-1, UNE-EN 61386-22 y UNE-EN 50086-2-4.|2.79||3|
+~C|mt40iva020d|Ud|Soporte separador de tubos de PVC rígido de 63 mm de diámetro.|1.68||3|
+~C|mt40www050|Ud|Material auxiliar para infraestructura de telecomunicaciones.|1.43||3|
+~C|ILE030|m|Canalización de enlace superior empotrada formada por 2 tubos de polipropileno flexible, corrugados de 40 mm de diámetro, para vivienda unifamiliar.|7.25||0|
+~T|ILE030|Canalización de enlace superior empotrada formada por 2 tubos de polipropileno flexible, corrugados de 40 mm de diámetro, para vivienda unifamiliar.|
+~D|ILE030
+|mt35aia060a\\2
+\mt40iva030\\2.4
+\mt40www050\\0.2
+\mo000\\0.034
+\mo052\\0.042
+\%\\0.02
+\|
+~C|mt35aia060a|m|Tubo curvable de polipropileno de doble pared (interior lisa y exterior corrugada), de color gris, de 40 mm de diámetro nominal, para canalización empotrada en obra de fábrica (suelos, paredes y techos). Resistencia a la compresión 320 N, resistencia al impacto 2 julios, temperatura de trabajo -5°C hasta 90°C, con grado de protección IP 549 según UNE 20324, propiedades eléctricas: aislante, no propagador de la llama. Según UNE-EN 61386-1 y UNE-EN 61386-22.|2.55||3|
+~C|mt40iva030|m|Hilo guía de polipropileno de 3 mm de diámetro.|0.17||3|
+~C|mo000|h|Oficial 1ª instalador de telecomunicaciones.|17.97||1|
+~C|mo052|h|Ayudante instalador de telecomunicaciones.|16.67||1|
+~C|ILS010|m|Canalización secundaria empotrada en tramo comunitario, formada por 4 tubos de PVC flexible, corrugados, reforzados de 32 mm de diámetro, en edificación de hasta 3 PAU.|7.99||0|
+~T|ILS010|Canalización secundaria empotrada en tramo comunitario, formada por 4 tubos de PVC flexible, corrugados, reforzados de 32 mm de diámetro, en edificación de hasta 3 PAU.|
+~D|ILS010
+|mt35aia020d\\4
+\mt40iva030\\4.8
+\mt40www050\\0.4
+\mo000\\0.068
+\mo052\\0.085
+\%\\0.02
+\|
+~C|mt35aia020d|m|Tubo curvable de PVC, transversalmente elástico, corrugado, forrado, de color negro, de 32 mm de diámetro nominal, para canalización empotrada en obra de fábrica (paredes y techos). Resistencia a la compresión 320 N, resistencia al impacto 2 julios, temperatura de trabajo -5°C hasta 60°C, con grado de protección IP 547 según UNE 20324, propiedades eléctricas: aislante, no propagador de la llama. Según UNE-EN 61386-1 y UNE-EN 61386-22.|0.95||3|
+~C|ILI001|Ud|Registro de terminación de red, formado por caja de plástico para empotrar en tabique y disposición del equipamiento principalmente en vertical.|51.92||0|
+~T|ILI001|Registro de terminación de red, formado por caja de plástico para empotrar en tabique y disposición del equipamiento principalmente en vertical.|
+~D|ILI001
+|mt40irt020a\\1
+\mt40www050\\0.5
+\mo000\\0.265
+\mo052\\0.265
+\%\\0.02
+\|
+~C|mt40irt020a|Ud|Caja de plástico de registro de terminación de red para instalaciones de ICT, de 500x600x80 mm, para empotrar, incluso tapa.|41||3|
+~C|IA#||Audiovisuales|896.31||0|
+~D|IA#
+|IAA031\\1
+\IAA034\\1
+\IAA034b\\1
+\IAA034c\\1
+\IAA039\\1
+\IAA100\\33.99
+\IAA100b\\15
+\IAA115\\1
+\IAA120\\1
+\IAF070\\67.98
+\IAF090\\3
+\IAV020\\1
+\|
+~C|IAA031|Ud|Mástil para fijación de 3 antenas, de 3 m de altura y 40 mm de diámetro.|79.72||0|
+~T|IAA031|Mástil para fijación de 3 antenas, de 3 m de altura y 40 mm de diámetro.|
+~D|IAA031
+|mt40saf010hw\\1
+\mt40saf011sd\\2
+\mo000\\1.164
+\mo052\\1.164
+\%\\0.02
+\|
+~C|mt40saf010hw|Ud|Mástil de antena de 3 m de alto, para unión por enchufe, fabricado con tubo de acero de 40 mm de diámetro y 2 mm de espesor, con tratamiento anticorrosión, incluso accesorios.|24.64||3|
+~C|mt40saf011sd|Ud|Garra de anclaje a obra en L para mástil, para colocación en superficie, de 500 mm de longitud y 4 mm de espesor, con abrazadera.|6.6||3|
+~C|IAA034|Ud|Antena exterior FM, circular, para captación de señales de radiodifusión sonora analógica procedentes de emisiones terrenales, de 0 dB de ganancia.|36.68||0|
+~T|IAA034|Antena exterior FM, circular, para captación de señales de radiodifusión sonora analógica procedentes de emisiones terrenales, de 0 dB de ganancia.|
+~D|IAA034
+|mt40ecf010a\\1
+\mo000\\0.529
+\mo052\\0.529
+\%\\0.02
+\|
+~C|mt40ecf010a|Ud|Antena exterior FM, circular, para captación de señales de radiodifusión sonora analógica procedentes de emisiones terrenales, de 0 dB de ganancia y 500 mm de longitud.|17.63||3|
+~C|IAA034b|Ud|Antena exterior DAB para captación de señales de radiodifusión sonora digital procedentes de emisiones terrenales, de 0 dB de ganancia.|35.32||0|
+~T|IAA034b|Antena exterior DAB para captación de señales de radiodifusión sonora digital procedentes de emisiones terrenales, de 0 dB de ganancia.|
+~D|IAA034b
+|mt40ecf020a\\1
+\mo000\\0.529
+\mo052\\0.529
+\%\\0.02
+\|
+~C|mt40ecf020a|Ud|Antena exterior DAB para captación de señales de radiodifusión sonora digital procedentes de emisiones terrenales, de 1 elemento, 0 dB de ganancia, 15 dB de relación D/A y 555 mm de longitud.|16.3||3|
+~C|IAA034c|Ud|Antena exterior UHF para captación de señales de televisión analógica, televisión digital terrestre (TDT) y televisión de alta definición (HDTV) procedentes de emisiones terrenales, canales del 21 al 69, de 17 dB de ganancia.|65||0|
+~T|IAA034c|Antena exterior UHF para captación de señales de televisión analógica, televisión digital terrestre (TDT) y televisión de alta definición (HDTV) procedentes de emisiones terrenales, canales del 21 al 69, de 17 dB de ganancia.|
+~D|IAA034c
+|mt40ecf030cb\\1
+\mo000\\0.529
+\mo052\\0.529
+\%\\0.02
+\|
+~C|mt40ecf030cb|Ud|Antena exterior UHF para captación de señales de televisión analógica, televisión digital terrestre (TDT) y televisión de alta definición (HDTV) procedentes de emisiones terrenales, canales del 21 al 69, de 45 elementos, 17 dB de ganancia, 31 dB de relación D/A y 1110 mm de longitud.|45.4||3|
+~C|IAA039|Ud|Amplificador de mástil, de 3 entradas, BI/FM/BIII-UHF-FI.|74.48||0|
+~T|IAA039|Amplificador de mástil, de 3 entradas, BI/FM/BIII-UHF-FI.|
+~D|IAA039
+|mt40eaf011a\\1
+\mt40eaf040d\\1
+\mt40eaf100a\\1
+\mt40www040\\1
+\mo000\\0.529
+\mo052\\0.529
+\%\\0.02
+\|
+~C|mt40eaf011a|Ud|Amplificador de mástil, de 3 entradas, BI/FM/BIII-UHF-FI, de 35 dB de ganancia máxima, con caja de protección de ABS, incluso conectores tipo "F".|29.97||3|
+~C|mt40eaf040d|Ud|Fuente de alimentación, de una salida, de 250 mA de intensidad máxima a 18 Vcc de tensión.|21.34||3|
+~C|mt40eaf100a|Ud|Carga resistiva de 75 Ohm, para cierre.|2.18||3|
+~C|mt40www040|Ud|Material auxiliar para instalaciones audiovisuales.|1.2||3|
+~C|IAA100|m|Cable coaxial RG-6 de 75 Ohm, con conductor central de cobre de 1,15 mm de diámetro y cubierta exterior de PVC de 6,9 mm de diámetro.|1.36||0|
+~T|IAA100|Cable coaxial RG-6 de 75 Ohm, con conductor central de cobre de 1,15 mm de diámetro y cubierta exterior de PVC de 6,9 mm de diámetro.|
+~D|IAA100
+|mt40cfr010aa\\1
+\mo000\\0.016
+\mo052\\0.016
+\%\\0.02
+\|
+~C|mt40cfr010aa|m|Cable coaxial RG-6 de 75 Ohm de impedancia característica media, con conductor central de cobre de 1,15 mm de diámetro, dieléctrico de polietileno celular, pantalla de cinta de aluminio/polipropileno/aluminio, malla de hilos trenzados de cobre y cubierta exterior de PVC de 6,9 mm de diámetro de color blanco.|0.77||3|
+~C|IAA100b|m|Cable coaxial RG-6 de 75 Ohm, con conductor central de cobre de 1,15 mm de diámetro y cubierta exterior de PE de 6,9 mm de diámetro.|1.4||0|
+~T|IAA100b|Cable coaxial RG-6 de 75 Ohm, con conductor central de cobre de 1,15 mm de diámetro y cubierta exterior de PE de 6,9 mm de diámetro.|
+~D|IAA100b
+|mt40cfr010cb\\1
+\mo000\\0.016
+\mo052\\0.016
+\%\\0.02
+\|
+~C|mt40cfr010cb|m|Cable coaxial RG-6 de 75 Ohm de impedancia característica media, con conductor central de cobre de 1,15 mm de diámetro, dieléctrico de polietileno celular, pantalla de cinta de aluminio/polipropileno/aluminio, malla de hilos trenzados de cobre y cubierta exterior de PE de 6,9 mm de diámetro de color negro.|0.81||3|
+~C|IAA115|Ud|Distribuidor de 5-2400 MHz de 5 salidas con punto de acceso a usuario (PAU).|14.04||0|
+~T|IAA115|Distribuidor de 5-2400 MHz de 5 salidas con punto de acceso a usuario (PAU).|
+~D|IAA115
+|mt40irf026dd\\1
+\mo000\\0.106
+\mo052\\0.106
+\%\\0.02
+\|
+~C|mt40irf026dd|Ud|Distribuidor de 5-2400 MHz de 5 salidas con punto de acceso a usuario (PAU), de 11 dB de pérdidas de inserción a 850 MHz y 13,5 dB de pérdidas de inserción a 2150 MHz, con conectores tipo "F".|10.09||3|
+~C|IAA120|Ud|Toma separadora doble, TV/R-SAT, de 5-2400 MHz.|10.32||0|
+~T|IAA120|Toma separadora doble, TV/R-SAT, de 5-2400 MHz.|
+~D|IAA120
+|mt40irf050d\\1
+\mo000\\0.265
+\%\\0.02
+\|
+~C|mt40irf050d|Ud|Toma separadora doble, TV/R-SAT, de 5-2400 MHz, con embellecedor.|5.36||3|
+~C|IAF070|m|Cable rígido U/UTP no propagador de la llama de 4 pares trenzados de cobre, categoría 6, con vaina exterior de poliolefina termoplástica LSFH libre de halógenos, con baja emisión de humos y gases corrosivos de 6,2 mm de diámetro.|2.09||0|
+~T|IAF070|Cable rígido U/UTP no propagador de la llama de 4 pares trenzados de cobre, categoría 6, con vaina exterior de poliolefina termoplástica LSFH libre de halógenos, con baja emisión de humos y gases corrosivos de 6,2 mm de diámetro.|
+~D|IAF070
+|mt40cpt010c\\1
+\mt40www040\\0.05
+\mo000\\0.016
+\mo052\\0.016
+\%\\0.02
+\|
+~C|mt40cpt010c|m|Cable rígido U/UTP no propagador de la llama de 4 pares trenzados de cobre, categoría 6, con conductor unifilar de cobre, aislamiento de polietileno y vaina exterior de poliolefina termoplástica LSFH libre de halógenos, con baja emisión de humos y gases corrosivos de 6,2 mm de diámetro, según EN 50288-6-1.|1.43||3|
+~C|IAF090|Ud|Toma simple con conector tipo RJ45 de 8 contactos, categoría 6.|17.47||0|
+~T|IAF090|Toma simple con conector tipo RJ45 de 8 contactos, categoría 6.|
+~D|IAF090
+|mt40dpt060a\\1
+\mo000\\0.19
+\%\\0.02
+\|
+~C|mt40dpt060a|Ud|Toma simple con conector tipo RJ45 de 8 contactos, categoría 6, marco y embellecedor.|13.72||3|
+~C|IAV020|Ud|Portero electrónico para vivienda unifamiliar.|293.17||0|
+~T|IAV020|Portero electrónico para vivienda unifamiliar.|
+~D|IAV020
+|mt35aia010b\\25
+\mt40pea010\\25
+\mt40pek110\\1
+\mt40www040\\2
+\mo002\\3.261
+\mo094\\3.261
+\%\\0.02
+\|
+~C|mt35aia010b|m|Tubo curvable de PVC, corrugado, de color negro, de 20 mm de diámetro nominal, para canalización empotrada en obra de fábrica (paredes y techos). Resistencia a la compresión 320 N, resistencia al impacto 1 julio, temperatura de trabajo -5°C hasta 60°C, con grado de protección IP 545 según UNE 20324, no propagador de la llama. Según UNE-EN 61386-1 y UNE-EN 61386-22.|0.29||3|
+~C|mt40pea010|m|Manguera de telefonía, 6 hilos de 0,5 mm².|0.85||3|
+~C|mt40pek110|Ud|Kit de portero electrónico para vivienda unifamiliar, compuesto por placa de calle con pulsador de llamada, caja, alimentador, abrepuertas y teléfono.|143.56||3|
+~C|mo002|h|Oficial 1ª electricista.|17.97||1|
+~C|mo094|h|Ayudante electricista.|16.67||1|
+~C|IC#||Calefacción, climatización y A.C.S.|15895.56||0|
+~D|IC#
+|ICE110\\55.13
+\ICV060\\1
+\ICB006\\1
+\|
+~C|ICE110|m²|Sistema de calefacción por suelo radiante "UPONOR IBERIA", compuesto por banda de espuma de polietileno (PE), de 150x10 mm, modelo Multi Autofijación, panel portatubos aislante de 1450x850 mm y 13 mm de espesor, de poliestireno expandido (EPS), de 30 kg/m³ de densidad, paso de los tubos múltiplo de 5 cm, tubo de polietileno reticulado (PE-X) con barrera de oxígeno (EVOH), de 16 mm de diámetro exterior y 1,8 mm de espesor, modelo EvalPEX, y capa de mortero autonivelante de 5 cm de espesor.|65.81|200516|0|
+~T|ICE110|Sistema de calefacción por suelo radiante "UPONOR IBERIA", compuesto por banda de espuma de polietileno (PE), de 150x10 mm, modelo Multi Autofijación, panel portatubos aislante de 1450x850 mm y 13 mm de espesor, de poliestireno expandido (EPS), de 30 kg/m³ de densidad, paso de los tubos múltiplo de 5 cm, tubo de polietileno reticulado (PE-X) con barrera de oxígeno (EVOH), de 16 mm de diámetro exterior y 1,8 mm de espesor, modelo EvalPEX, y capa de mortero autonivelante de 5 cm de espesor.  Totalmente montado, conexionado y probado por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~D|ICE110
+|mt17epu021d\\0.6
+\mt17epu010c\\1
+\mt37tpu014hb\\6.667
+\mt09moa010h\\1
+\mo003\\0.701
+\mo095\\0.701
+\%\\0.02
+\|
+~C|mt17epu021d|m|Banda de espuma de polietileno (PE), de 150x10 mm, modelo Multi Autofijación "UPONOR IBERIA".|2|200516|3|
+~C|mt17epu010c|m²|Panel portatubos aislante de 1450x850 mm y 13 mm de espesor, de poliestireno expandido (EPS), de 30 kg/m³ de densidad, paso de los tubos múltiplo de 5 cm, "UPONOR IBERIA", con unión entre planchas por solape para evitar puentes térmicos y filtraciones de mortero.|17.8|200516|3|
+~C|mt37tpu014hb|m|Tubo de polietileno reticulado (PE-X) con barrera de oxígeno (EVOH), de 16 mm de diámetro exterior y 1,8 mm de espesor, modelo EvalPEX, "UPONOR IBERIA", según ISO 15875-2.|2.09|200516|3|
+~C|mt09moa010h|m²|Capa de 5 cm de espesor de mortero autonivelante compuesto de cementos y arenas de granulometría seleccionada, agua y aditivos especiales. Incluso suministro a la obra desde el camión hormigonera, descarga a máquina de bombeo, transporte hasta la zona de trabajo y vertido.|7.3|200516|3|
+~C|mo003|h|Oficial 1ª calefactor.|17.97||1|
+~C|mo095|h|Ayudante calefactor.|16.67||1|
+~C|ICV060|Ud|Equipo aire-agua para producción de A.C.S., calefacción y refrigeración, para gas R-410A, alimentación monofásica (230V/50Hz), potencia calorífica nominal 8 kW, COP = 3,33, con depósito de A.C.S. de 270 litros, modelo Hydrolution 71 "MITSUBISHI HEAVY INDUSTRIES".|8715.58|200516|0|
+~T|ICV060|Equipo aire-agua para producción de A.C.S., calefacción y refrigeración, para gas R-410A, alimentación monofásica (230V/50Hz), potencia calorífica nominal 8 kW, COP = 3,33, con depósito de A.C.S. de 270 litros, modelo Hydrolution 71 "MITSUBISHI HEAVY INDUSTRIES".|
+~D|ICV060
+|mt42mhi700a\\1
+\mt37sve010c\\1
+\mt37sve010c\\1
+\mt37sve010c\\2
+\mo004\\13.594
+\mo096\\13.594
+\%\\0.02
+\|
+~C|mt42mhi700a|Ud|Equipo aire-agua para producción de A.C.S., calefacción y refrigeración, para gas R-410A, alimentación monofásica (230V/50Hz), modelo Hydrolution 71 "MITSUBISHI HEAVY INDUSTRIES", potencia calorífica 8 kW y COP 3,33 con temperatura de bulbo seco del aire exterior 7°C y temperatura de salida del agua 45°C, potencia calorífica 8,3 kW y COP 4,08 con temperatura de bulbo seco del aire exterior 7°C y temperatura de salida del agua 35°C, potencia frigorífica 7,1 kW y EER 2,68 con temperatura de bulbo seco del aire exterior 35°C y temperatura de salida del agua 7°C, potencia frigorífica 10,7 kW y EER 3,35 con temperatura de bulbo seco del aire exterior 35°C y temperatura de salida del agua 18°C, formado por una unidad interior HMA 100 V, de 1760x600x650 mm, peso 140 kg, con depósito de A.C.S. de 270 litros y bomba de circulación, y una unidad exterior aire-agua FDCW 71 VNX, con compresor de tipo rotativo, DC PAM Inverter, de 595x847x340 mm, peso 60 kg, nivel sonoro 48 dBA.|8050|200516|3|
+~C|mt37sve010c|Ud|Válvula de esfera de latón niquelado para roscar de 3/4".|5.95|200516|3|
+~C|mo004|h|Oficial 1ª instalador de climatización.|17.97|200516|1|
+~C|mo096|h|Ayudante instalador de climatización.|16.67|200516|1|
+~C|ICB006|Ud|Captador solar térmico completo, partido, para instalación individual, para colocación sobre cubierta inclinada, compuesto por: dos paneles de 2320x1930x90 mm en conjunto, superficie útil total 4,04 m², rendimiento óptico 0,819 y coeficiente de pérdidas primario 4,227 W/m²K, según UNE-EN 12975-2, depósito de 300 l, grupo de bombeo individual, centralita solar térmica programable.|3089.13||0|
+~T|ICB006|Captador solar térmico completo, partido, para instalación individual, para colocación sobre cubierta, compuesto por: dos paneles de 2320x1930x90 mm en conjunto, superficie útil total 4,04 m², rendimiento óptico 0,819 y coeficiente de pérdidas primario 4,227 W/m²K, según UNE-EN 12975-2, depósito de 300 l, grupo de bombeo individual, centralita solar térmica programable.|
+~D|ICB006
+|mt38csg010fn\\1
+\mt38csg011d\\1
+\mt38csg100\\2.72
+\mo008\\4.578
+\mo100\\4.578
+\%\\0.02
+\|
+~C|mt38csg010fn|Ud|Captador solar térmico completo, partido, para instalación individual, para colocación sobre cubierta inclinada, formado por: dos paneles de 2320x1930x90 mm en conjunto, superficie útil total 4,04 m², rendimiento óptico 0,819 y coeficiente de pérdidas primario 4,227 W/m²K, según UNE-EN 12975-2; superficie absorbente y conductos de cobre; cubierta protectora de vidrio de 4 mm de espesor; depósito de 300 l, con un serpentín; grupo de bombeo individual con vaso de expansión de 18 l y vaso pre-expansión; centralita solar térmica programable; kit de montaje para dos paneles sobre cubierta inclinada; doble te sonda-purgador y purgador automático de aire.|2759.64||3|
+~C|mt38csg011d|Ud|Fijaciones para captador solar térmico de dos paneles sobre teja.|99.45||3|
+~C|mt38csg100|l|Solución agua-glicol para relleno de captador solar térmico, para una temperatura de trabajo de -28°C a +200°C.|4||3|
+~C|mo100|h|Ayudante instalador de captadores solares.|16.67||1|
+~C|IE#||Eléctricas|3728.57||0|
+~D|IE#
+|IEP010\\1
+\IEP030\\2
+\IEC010\\1
+\IED010\\19.1
+\IEI015\\1
+\|
+~C|IEP010|Ud|Red de toma de tierra para estructura metálica del edificio con 45 m de conductor de cobre desnudo de 35 mm² y 6 picas.|539.42||0|
+~T|IEP010|Red de toma de tierra para estructura metálica del edificio con 45 m de conductor de cobre desnudo de 35 mm² y 6 picas.|
+~D|IEP010
+|mt35ttc010b\\45
+\mt35tte010b\\6
+\mt35tts010d\\5
+\mt35tts010c\\6
+\mt35tta020\\6
+\mt35www020\\1
+\mo002\\4.169
+\mo094\\4.169
+\%\\0.02
+\|
+~C|mt35ttc010b|m|Conductor de cobre desnudo, de 35 mm².|2.81||3|
+~C|mt35tte010b|Ud|Electrodo para red de toma de tierra cobreado con 300 µm, fabricado en acero, de 15 mm de diámetro y 2 m de longitud.|18||3|
+~C|mt35tts010d|Ud|Soldadura aluminotérmica del cable conductor a cara del pilar metálico, con doble cordón de soldadura de 50 mm de longitud realizado con electrodo de 2,5 mm de diámetro.|7||3|
+~C|mt35tts010c|Ud|Soldadura aluminotérmica del cable conductor a la placa.|3.51||3|
+~C|mt35tta020|Ud|Punto de separación pica-cable formado por cruceta en la cabeza del electrodo de la pica y pletina de 50x30x7 mm, para facilitar la soldadura aluminotérmica.|15.46||3|
+~C|mt35www020|Ud|Material auxiliar para instalaciones de toma de tierra.|1.15||3|
+~C|IEP030|Ud|Red de equipotencialidad en cuarto húmedo.|40.69||0|
+~T|IEP030|Red de equipotencialidad en cuarto húmedo.|
+~D|IEP030
+|mt35ttc020c\\7
+\mt35ttc030\\5
+\mt35www020\\0.25
+\mo002\\0.842
+\mo094\\0.842
+\%\\0.02
+\|
+~C|mt35ttc020c|m|Conductor rígido unipolar de cobre, aislado, 750 V y 4 mm² de sección, para red equipotencial.|0.49||3|
+~C|mt35ttc030|Ud|Abrazadera de latón.|1.4||3|
+~C|IEC010|Ud|Caja de protección y medida CPM1-S2, de hasta 63 A de intensidad, para 1 contador monofásico, instalada en el interior de hornacina mural, en vivienda unifamiliar o local.|150.74||0|
+~T|IEC010|Caja de protección y medida CPM1-S2, de hasta 63 A de intensidad, para 1 contador monofásico, instalada en el interior de hornacina mural, en vivienda unifamiliar o local.|
+~D|IEC010
+|mt35cgp010e\\1
+\mt35cgp040h\\3
+\mt35cgp040f\\1
+\mt35www010\\1
+\mo019\\0.31
+\mo105\\0.31
+\mo002\\0.517
+\mo094\\0.517
+\%\\0.02
+\|
+~C|mt35cgp010e|Ud|Caja de protección y medida CPM1-S2, de hasta 63 A de intensidad, para 1 contador monofásico, formada por una envolvente aislante, precintable, autoventilada y con mirilla de material transparente resistente a la acción de los rayos ultravioletas, para instalación empotrada. Incluso equipo completo de medida, bornes de conexión, bases cortacircuitos y fusibles para protección de la derivación individual. Normalizada por la empresa suministradora. Según UNE-EN 60439-1, grado de inflamabilidad según se indica en UNE-EN 60439-3, con grados de protección IP 43 según UNE 20324 e IK 09 según UNE-EN 50102.|97.95||3|
+~C|mt35cgp040h|m|Tubo de PVC liso, serie B, de 160 mm de diámetro exterior y 3,2 mm de espesor, según UNE-EN 1329-1.|5.44||3|
+~C|mt35cgp040f|m|Tubo de PVC liso, serie B, de 110 mm de diámetro exterior y 3,2 mm de espesor, según UNE-EN 1329-1.|3.73||3|
+~C|mt35www010|Ud|Material auxiliar para instalaciones eléctricas.|1.48||3|
+~C|IED010|m|Derivación individual monofásica fija en superficie para vivienda, formada por cables unipolares con conductores de cobre, ES07Z1-K (AS) 3G10 mm², siendo su tensión asignada de 450/750 V, bajo tubo protector de PVC rígido, blindado, de 32 mm de diámetro.|12.43||0|
+~T|IED010|Derivación individual monofásica fija en superficie para vivienda, formada por cables unipolares con conductores de cobre, ES07Z1-K (AS) 3G10 mm², siendo su tensión asignada de 450/750 V, bajo tubo protector de PVC rígido, blindado, de 32 mm de diámetro.|
+~D|IED010
+|mt35aia090ad\\1
+\mt35cun020e\\3
+\mt35der011a\\1
+\mt35www010\\0.2
+\mo002\\0.064
+\mo094\\0.067
+\%\\0.02
+\|
+~C|mt35aia090ad|m|Tubo rígido de PVC, roscable, curvable en caliente, de color negro, de 32 mm de diámetro nominal, para canalización fija en superficie. Resistencia a la compresión 1250 N, resistencia al impacto 2 julios, temperatura de trabajo -5°C hasta 60°C, con grado de protección IP 547 según UNE 20324, propiedades eléctricas: aislante, no propagador de la llama. Según UNE-EN 61386-1, UNE-EN 61386-22 y UNE-EN 60423. Incluso p/p de abrazaderas, elementos de sujeción y accesorios (curvas, manguitos, tes, codos y curvas flexibles).|2.17||3|
+~C|mt35cun020e|m|Cable unipolar ES07Z1-K (AS), no propagador de la llama, con conductor multifilar de cobre clase 5 (-K) de 10 mm² de sección, con aislamiento de compuesto termoplástico a base de poliolefina libre de halógenos con baja emisión de humos y gases corrosivos (Z1), siendo su tensión asignada de 450/750 V. Según UNE 211025.|2.44||3|
+~C|mt35der011a|m|Conductor de cobre de 1,5 mm² de sección, para hilo de mando, de color rojo (tarifa nocturna).|0.13||3|
+~C|IEI015|Ud|Red eléctrica de distribución interior de una vivienda unifamiliar con electrificación elevada|2611.08||0|
+~T|IEI015|Red eléctrica de distribución interior de una vivienda unifamiliar con electrificación elevada, con las siguientes estancias: acceso, salón - comedor,1 dormitorio doble, 2 baños, cocina, galería, 2 terrazas, compuesta de: cuadro general de mando y protección; circuitos interiores con cableado bajo tubo protector: C1, C2, C3, C4, C5, C7, del tipo C2, 3 C8, C10; mecanismos gama básica (tecla o tapa y marco: blanco; embellecedor: blanco).  Según documentación gráfica.|
+~D|IEI015
+|mt35cgm040m\\1
+\mt35cgm021a\\1
+\mt35cgm029ah\\1
+\mt35cgm029ab\\3
+\mt35cgm021b\\1
+\mt35cgm021c\\4
+\mt35cgm021d\\1
+\mt35cgm021e\\4
+\mt35aia010a\\134.46
+\mt35aia010b\\161.85
+\mt35aia010c\\45.65
+\mt35aia080aa\\8.3
+\mt35caj020a\\8
+\mt35caj020b\\4
+\mt35caj010a\\48
+\mt35caj010b\\20
+\mt35caj011\\1
+\mt35cun040ba\\486
+\mt35cun040cb\\189
+\mt35cun040dd\\30
+\mt35cun040ec\\54
+\mt35cun040fb\\90
+\mt35cun040hb\\189
+\mt35cun040id\\135
+\mt35cun040kb\\63
+\mt33seg100a\\8
+\mt33seg111a\\1
+\mt33seg101a\\1
+\mt33seg102a\\12
+\mt33seg103a\\4
+\mt33seg104a\\1
+\mt33seg105a\\1
+\mt33seg107a\\36
+\mt33seg107d\\3
+\mt33seg117b\\1
+\mt33seg110a\\1
+\mt33seg504a\\2
+\mt35www010\\4
+\mo002\\23.498
+\mo094\\23.498
+\%\\0.02
+\|
+~C|mt35cgm040m|Ud|Caja empotrable con puerta opaca, para alojamiento del interruptor de control de potencia (ICP) en compartimento independiente y precintable y de los interruptores de protección de la instalación, 1 fila de 4 módulos (ICP) + 2 filas de 24 módulos. Fabricada en ABS autoextinguible, con grado de protección IP 40, doble aislamiento (clase II), color blanco RAL 9010. Según UNE-EN 60670-1.|27.98||3|
+~C|mt35cgm021a|Ud|Interruptor general automático (IGA), con 6 kA de poder de corte, de 40 A de intensidad nominal, curva C, bipolar (2P), de 2 módulos, incluso p/p de accesorios de montaje. Según UNE-EN 60898-1.|42.07||3|
+~C|mt35cgm029ah|Ud|Interruptor diferencial instantáneo, 2P/40A/300mA, de 2 módulos, incluso p/p de accesorios de montaje. Según UNE-EN 61008-1.|91.27||3|
+~C|mt35cgm029ab|Ud|Interruptor diferencial instantáneo, 2P/40A/30mA, de 2 módulos, incluso p/p de accesorios de montaje. Según UNE-EN 61008-1.|93.73||3|
+~C|mt35cgm021b|Ud|Interruptor automático magnetotérmico, con 6 kA de poder de corte, de 10 A de intensidad nominal, curva C, bipolar (2P), de 2 módulos, incluso p/p de accesorios de montaje. Según UNE-EN 60898-1.|12.43||3|
+~C|mt35cgm021c|Ud|Interruptor automático magnetotérmico, con 6 kA de poder de corte, de 16 A de intensidad nominal, curva C, bipolar (2P), de 2 módulos, incluso p/p de accesorios de montaje. Según UNE-EN 60898-1.|12.66||3|
+~C|mt35cgm021d|Ud|Interruptor automático magnetotérmico, con 6 kA de poder de corte, de 20 A de intensidad nominal, curva C, bipolar (2P), de 2 módulos, incluso p/p de accesorios de montaje. Según UNE-EN 60898-1.|13.59||3|
+~C|mt35cgm021e|Ud|Interruptor automático magnetotérmico, con 6 kA de poder de corte, de 25 A de intensidad nominal, curva C, bipolar (2P), de 2 módulos, incluso p/p de accesorios de montaje. Según UNE-EN 60898-1.|14.08||3|
+~C|mt35aia010a|m|Tubo curvable de PVC, corrugado, de color negro, de 16 mm de diámetro nominal, para canalización empotrada en obra de fábrica (paredes y techos). Resistencia a la compresión 320 N, resistencia al impacto 1 julio, temperatura de trabajo -5°C hasta 60°C, con grado de protección IP 545 según UNE 20324, no propagador de la llama. Según UNE-EN 61386-1 y UNE-EN 61386-22.|0.26||3|
+~C|mt35aia010c|m|Tubo curvable de PVC, corrugado, de color negro, de 25 mm de diámetro nominal, para canalización empotrada en obra de fábrica (paredes y techos). Resistencia a la compresión 320 N, resistencia al impacto 1 julio, temperatura de trabajo -5°C hasta 60°C, con grado de protección IP 545 según UNE 20324, no propagador de la llama. Según UNE-EN 61386-1 y UNE-EN 61386-22.|0.39||3|
+~C|mt35aia080aa|m|Tubo curvable, suministrado en rollo, de polietileno de doble pared (interior lisa y exterior corrugada), de color naranja, de 40 mm de diámetro nominal, para canalización enterrada, resistencia a la compresión 250 N, con grado de protección IP 549 según UNE 20324. Según UNE-EN 61386-1, UNE-EN 61386-22 y UNE-EN 50086-2-4.|1.3||3|
+~C|mt35caj020a|Ud|Caja de derivación para empotrar de 105x105 mm, con grado de protección normal, regletas de conexión y tapa de registro.|1.79||3|
+~C|mt35caj020b|Ud|Caja de derivación para empotrar de 105x165 mm, con grado de protección normal, regletas de conexión y tapa de registro.|2.29||3|
+~C|mt35caj010a|Ud|Caja de empotrar universal, enlace por los 2 lados.|0.25||3|
+~C|mt35caj010b|Ud|Caja de empotrar universal, enlace por los 4 lados.|0.47||3|
+~C|mt35caj011|Ud|Caja de empotrar para toma de 25 A (especial para toma de corriente en cocinas).|2.01||3|
+~C|mt35cun040ba|m|Cable unipolar H07V-K con conductor multifilar de cobre clase 5 (-K) de 1,5 mm² de sección, con aislamiento de PVC (V), siendo su tensión asignada de 450/750 V, para circuito C1, iluminación. Según UNE 21031-3.|0.25||3|
+~C|mt35cun040cb|m|Cable unipolar H07V-K con conductor multifilar de cobre clase 5 (-K) de 2,5 mm² de sección, con aislamiento de PVC (V), siendo su tensión asignada de 450/750 V, para circuito C2, tomas de corriente de uso general y frigorífico. Según UNE 21031-3.|0.4||3|
+~C|mt35cun040dd|m|Cable unipolar H07V-K con conductor multifilar de cobre clase 5 (-K) de 6 mm² de sección, con aislamiento de PVC (V), siendo su tensión asignada de 450/750 V, para circuito C3, cocina y horno. Según UNE 21031-3.|0.93||3|
+~C|mt35cun040ec|m|Cable unipolar H07V-K con conductor multifilar de cobre clase 5 (-K) de 4 mm² de sección, con aislamiento de PVC (V), siendo su tensión asignada de 450/750 V, para circuito C4, lavadora, lavavajillas y termo eléctrico. Según UNE 21031-3.|0.63||3|
+~C|mt35cun040fb|m|Cable unipolar H07V-K con conductor multifilar de cobre clase 5 (-K) de 2,5 mm² de sección, con aislamiento de PVC (V), siendo su tensión asignada de 450/750 V, para circuito C5, tomas de corriente de los cuartos de baño y de cocina. Según UNE 21031-3.|0.4||3|
+~C|mt35cun040hb|m|Cable unipolar H07V-K con conductor multifilar de cobre clase 5 (-K) de 2,5 mm² de sección, con aislamiento de PVC (V), siendo su tensión asignada de 450/750 V, para circuito C7, adicional del tipo C2, tomas de corriente de uso general y frigorífico. Según UNE 21031-3.|0.4||3|
+~C|mt35cun040id|m|Cable unipolar H07V-K con conductor multifilar de cobre clase 5 (-K) de 6 mm² de sección, con aislamiento de PVC (V), siendo su tensión asignada de 450/750 V, para circuito C8, instalación de calefacción eléctrica. Según UNE 21031-3.|0.93||3|
+~C|mt35cun040kb|m|Cable unipolar H07V-K con conductor multifilar de cobre clase 5 (-K) de 2,5 mm² de sección, con aislamiento de PVC (V), siendo su tensión asignada de 450/750 V, para circuito C10, instalación de secadora. Según UNE 21031-3.|0.4||3|
+~C|mt33seg100a|Ud|Interruptor unipolar, gama básica, con tecla simple y marco de 1 elemento de color blanco y embellecedor de color blanco.|5.84||3|
+~C|mt33seg111a|Ud|Doble interruptor, gama básica, con tecla doble y marco de 1 elemento de color blanco y embellecedor de color blanco.|8.98||3|
+~C|mt33seg101a|Ud|Interruptor bipolar, gama básica, con tecla bipolar y marco de 1 elemento de color blanco y embellecedor de color blanco.|10.59||3|
+~C|mt33seg102a|Ud|Conmutador, serie básica, con tecla simple y marco de 1 elemento de color blanco y embellecedor de color blanco.|6.22||3|
+~C|mt33seg103a|Ud|Conmutador de cruce, gama básica, con tecla simple y marco de 1 elemento de color blanco y embellecedor de color blanco.|11.44||3|
+~C|mt33seg104a|Ud|Pulsador, gama básica, con tecla con símbolo de timbre y marco de 1 elemento de color blanco y embellecedor de color blanco.|6.58||3|
+~C|mt33seg105a|Ud|Zumbador 230 V, gama básica, con tapa y marco de 1 elemento de color blanco y embellecedor de color blanco.|20.71||3|
+~C|mt33seg107a|Ud|Base de enchufe de 16 A 2P+T, gama básica, con tapa y marco de 1 elemento de color blanco y embellecedor de color blanco.|6.22||3|
+~C|mt33seg107d|Ud|Base de enchufe de 16 A 2P+T, gama básica, con tapa de color blanco.|3.37||3|
+~C|mt33seg117b|Ud|Marco horizontal de 3 elementos, gama básica, de color blanco.|6.63||3|
+~C|mt33seg110a|Ud|Base de enchufe de 25 A 2P+T y 250 V para cocina, gama básica, con tapa y marco de 1 elemento de color blanco y embellecedor de color blanco.|11.75||3|
+~C|mt33seg504a|Ud|Base de enchufe de 16 A 2P+T monobloc estanca, para instalación en superficie (IP 55), color gris.|9.68||3|
+~C|IF#||Fontanería|2300.08||0|
+~D|IF#
+|IFA010\\1
+\IFB010\\1
+\IFC010\\1
+\IFI010\\2
+\IFI010b\\1
+\IFI010c\\1
+\|
+~C|IFA010|Ud|Acometida enterrada de abastecimiento de agua potable de 4 m de longitud, formada por tubo de polietileno PE 100, de 32 mm de diámetro exterior, PN=10 atm y 2 mm de espesor y llave de corte alojada en arqueta prefabricada de polipropileno.|382.41||0|
+~T|IFA010|Acometida enterrada de abastecimiento de agua potable de 4 m de longitud, formada por tubo de polietileno PE 100, de 32 mm de diámetro exterior, PN=10 atm y 2 mm de espesor y llave de corte alojada en arqueta prefabricada de polipropileno.|
+~D|IFA010
+|mt10hmf010Mp\\0.111
+\mt01ara010\\0.448
+\mt37tpa012c\\1
+\mt37tpa011c\\4
+\mt11arp100a\\1
+\mt11arp050c\\1
+\mt37sve030d\\1
+\mt10hmf010Mp\\0.3
+\mq05pdm010b\\1.305
+\mq05mai030\\1.305
+\mo019\\2.525
+\mo105\\1.314
+\mo007\\8.087
+\mo099\\4.051
+\%\\0.04
+\|
+~C|mt10hmf010Mp|m³|Hormigón HM-20/P/20/I, fabricado en central.|58.76||3|
+~C|mt37tpa012c|Ud|Collarín de toma en carga de PP, para tubo de polietileno, de 32 mm de diámetro exterior, según UNE-EN ISO 15874-3.|1.77||3|
+~C|mt37tpa011c|m|Acometida de polietileno PE 100, de 32 mm de diámetro exterior, PN=10 atm y 2 mm de espesor, según UNE-EN 12201-2, incluso p/p de accesorios de conexión y piezas especiales.|1.18||3|
+~C|mt11arp100a|Ud|Arqueta prefabricada de polipropileno, 30x30x30 cm.|16.5||3|
+~C|mt11arp050c|Ud|Tapa de PVC, para arquetas de fontanería de 30x30 cm.|13.51||3|
+~C|mt37sve030d|Ud|Válvula de esfera de latón niquelado para roscar de 1", con mando de cuadradillo.|9.4||3|
+~C|mq05pdm010b|h|Compresor portátil eléctrico 5 m³/min de caudal.|6.9||2|
+~C|mq05mai030|h|Martillo neumático.|4.08||2|
+~C|mo007|h|Oficial 1ª fontanero.|17.97||1|
+~C|mo099|h|Ayudante fontanero.|16.67||1|
+~C|IFB010|Ud|Alimentación de agua potable, de 8 m de longitud, colocada superficialmente, formada por tubo de polietileno reticulado (PE-X), serie 5, de 20 mm de diámetro exterior, PN=6 atm.|33.16||0|
+~T|IFB010|Alimentación de agua potable, de 8 m de longitud, colocada superficialmente, formada por tubo de polietileno reticulado (PE-X), serie 5, de 20 mm de diámetro exterior, PN=6 atm.|
+~D|IFB010
+|mt37tpu400b\\8
+\mt37tpu010bg\\8
+\mo007\\0.331
+\mo099\\0.331
+\%\\0.02
+\|
+~C|mt37tpu400b|Ud|Material auxiliar para montaje y sujeción a la obra de las tuberías de polietileno reticulado (PE-X), serie 5, de 20 mm de diámetro exterior.|0.1||3|
+~C|mt37tpu010bg|m|Tubo de polietileno reticulado (PE-X), serie 5, de 20 mm de diámetro exterior, PN=6 atm y 1,9 mm de espesor, según ISO 15875-2, con el precio incrementado el 30% en concepto de accesorios y piezas especiales.|2.53||3|
+~C|IFC010|Ud|Preinstalación de contador general de agua de 1/2" DN 15 mm, colocado en hornacina, con llave de corte general de compuerta.|61.77||0|
+~T|IFC010|Preinstalación de contador general de agua de 1/2" DN 15 mm, colocado en hornacina, con llave de corte general de compuerta.|
+~D|IFC010
+|mt37svc010a\\2
+\mt37www060b\\1
+\mt37sgl012a\\1
+\mt37svr010a\\1
+\mt37aar010a\\1
+\mt37www010\\1
+\mo007\\0.824
+\mo099\\0.412
+\%\\0.04
+\|
+~C|mt37svc010a|Ud|Válvula de compuerta de latón fundido, para roscar, de 1/2".|5.82||3|
+~C|mt37www060b|Ud|Filtro retenedor de residuos de latón, con tamiz de acero inoxidable con perforaciones de 0,4 mm de diámetro, con rosca de 1/2", para una presión máxima de trabajo de 16 bar y una temperatura máxima de 110°C.|4.98||3|
+~C|mt37sgl012a|Ud|Grifo de comprobación de latón, para roscar, de 1/2".|4.99||3|
+~C|mt37svr010a|Ud|Válvula de retención de latón para roscar de 1/2".|2.86||3|
+~C|mt37aar010a|Ud|Marco y tapa de fundición dúctil de 30x30 cm, según Compañía Suministradora.|11.84||3|
+~C|mt37www010|Ud|Material auxiliar para instalaciones de fontanería.|1.4||3|
+~C|IFI010|Ud|Instalación interior de fontanería para cuarto de baño|532.12||0|
+~T|IFI010|Instalación interior de fontanería para cuarto de baño con recirculación de ACS con dotación para: inodoro, lavabo sencillo, ducha, realizada con polietileno reticulado (PE-X), para la red de agua fría y caliente. La instalación de ACS incluye un circuito de recirculación, conectado a la instalción de energía solar y al sistema altherma (no incluidas en esta partida). Según planos.|
+~D|IFI010
+|mt37tpu400a\\13.5
+\mt37tpu010ag\\13.5
+\mt37tpu400b\\5.4
+\mt37tpu010bg\\5.4
+\mt37tpu400b\\8.5
+\mt37tpu010bg\\8.5
+\mt37tpu400c\\8.5
+\mt37tpu010cg\\8.5
+\mt37avu150b\\1
+\mt37avu150c\\1
+\mo007\\7.385
+\mo099\\7.385
+\%\\0.02
+\|
+~C|mt37tpu400a|Ud|Material auxiliar para montaje y sujeción a la obra de las tuberías de polietileno reticulado (PE-X), serie 5, de 16 mm de diámetro exterior.|0.08||3|
+~C|mt37tpu010ag|m|Tubo de polietileno reticulado (PE-X), serie 5, de 16 mm de diámetro exterior, PN=6 atm y 1,8 mm de espesor, según ISO 15875-2, con el precio incrementado el 30% en concepto de accesorios y piezas especiales.|2.07||3|
+~C|mt37tpu400c|Ud|Material auxiliar para montaje y sujeción a la obra de las tuberías de polietileno reticulado (PE-X), serie 5, de 25 mm de diámetro exterior.|0.17||3|
+~C|mt37tpu010cg|m|Tubo de polietileno reticulado (PE-X), serie 5, de 25 mm de diámetro exterior, PN=6 atm y 2,3 mm de espesor, según ISO 15875-2, con el precio incrementado el 30% en concepto de accesorios y piezas especiales.|4.49||3|
+~C|mt37avu150b|Ud|Válvula de asiento, de bronce, de 20 mm de diámetro, con dos elementos de conexión.|76.93||3|
+~C|mt37avu150c|Ud|Válvula de asiento, de bronce, de 25 mm de diámetro, con dos elementos de conexión.|83.73||3|
+~C|IFI010b|Ud|Instalación interior de fontanería para cocina|359.37||0|
+~T|IFI010b|Instalación interior de fontanería para cocina con dotación para: fregadero, toma y llave de paso para lavavajillas, realizada con polietileno reticulado (PE-X), para la red de agua fría y caliente.  Según planos.|
+~D|IFI010b
+|mt37tpu400a\\8.1
+\mt37tpu010ag\\8.1
+\mt37tpu400b\\11
+\mt37tpu010bg\\11
+\mt37avu150b\\2
+\mt31gcg070a\\1
+\mo007\\3.929
+\mo099\\3.929
+\%\\0.02
+\|
+~C|mt31gcg070a|Ud|Llave de paso para lavadora o lavavajillas, para roscar, serie básica, de 1/2" de diámetro.|16.01||3|
+~C|IFI010c|Ud|Instalación interior de fontanería para galería|332.16||0|
+~T|IFI010c|Instalación interior de fontanería para galería con dotación para: lavadero, toma y llave de paso para lavadora y pila, realizada con polietileno reticulado (PE-X), para la red de agua fría y caliente.  Según planos.|
+~D|IFI010c
+|mt37tpu400a\\2.7
+\mt37tpu010ag\\2.7
+\mt37tpu400b\\5.4
+\mt37tpu010bg\\5.4
+\mt37tpu400b\\8
+\mt37tpu010bg\\8
+\mt37avu150b\\2
+\mt31gcg070a\\1
+\mo007\\3.312
+\mo099\\3.312
+\%\\0.02
+\|
+~C|IO#||Contra incendios|1642.47||0|
+~D|IO#
+|IOJ025\\88.83
+\|
+~C|IOJ025|m²|Protección pasiva contra incendios de estructura metálica mediante proyección neumática de mortero ignífugo, reacción al fuego clase A1, hasta conseguir una resistencia al fuego de 90 minutos.|17.95||0|
+~T|IOJ025|Protección pasiva contra incendios de estructura metálica mediante proyección neumática de mortero ignífugo, reacción al fuego clase A1, hasta conseguir una resistencia al fuego de 90 minutos.|
+~D|IOJ025
+|mt41mig010\\0.017
+\mq06pym010\\0.24
+\mo029\\0.235
+\mo063\\0.235
+\%\\0.02
+\|
+~C|mt41mig010|m³|Mortero ignífugo, reacción al fuego clase A1, según R.D. 110/2008, compuesto de cemento en combinación con perlita o vermiculita, para protección pasiva contra el fuego mediante proyección.|245||3|
+~C|mq06pym010|h|Mezcladora-bombeadora para morteros y yesos proyectados, de 3 m³/h.|7.96||2|
+~C|IS#||Evacuación de aguas|1124.73||0|
+~D|IS#
+|ISB010c\\9.75
+\ISD010\\2
+\ISD010b\\1
+\ISD010c\\1
+\ISS010\\2
+\|
+~C|ISB010c|m|Bajante interior de la red de evacuación de aguas pluviales, formada por tubo de PVC, serie B, de 110 mm de diámetro, unión pegada con adhesivo.|16.51||0|
+~T|ISB010c|Bajante interior de la red de evacuación de aguas pluviales, formada por tubo de PVC, serie B, de 110 mm de diámetro, unión pegada con adhesivo.|
+~D|ISB010c
+|mt36tit400g\\1
+\mt36tit010ge\\1
+\mt11var009\\0.016
+\mt11var010\\0.008
+\mo007\\0.109
+\mo099\\0.054
+\%\\0.02
+\|
+~C|mt36tit400g|Ud|Material auxiliar para montaje y sujeción a la obra de las tuberías de PVC, serie B, de 110 mm de diámetro.|1.45||3|
+~C|mt36tit010ge|m|Tubo de PVC, serie B, de 110 mm de diámetro y 3,2 mm de espesor, según UNE-EN 1329-1, con el precio incrementado el 20% en concepto de accesorios y piezas especiales.|11.57||3|
+~C|mt11var009|l|Líquido limpiador para pegado mediante adhesivo de tubos y accesorios de PVC.|9.58||3|
+~C|mt11var010|l|Adhesivo para tubos y accesorios de PVC.|20.24||3|
+~C|ISD010|Ud|Red interior de evacuación para cuarto de baño con dotación para: inodoro, lavabo sencillo, bañera, bidé, realizada con tubo de PVC, serie B para la red de desagües.|296.31||0|
+~T|ISD010|Red interior de evacuación para cuarto de baño con dotación para: inodoro, lavabo sencillo, ducha, realizada con tubo de PVC, serie B para la red de desagües. Según planos.|
+~D|ISD010
+|mt36tit010bc\\4.8
+\mt36tit010bc\\1.65
+\mt36tit010gc\\2.125
+\mt11var009\\0.445
+\mt11var010\\0.222
+\mo007\\8.976
+\mo099\\4.488
+\%\\0.02
+\|
+~C|mt36tit010bc|m|Tubo de PVC, serie B, de 40 mm de diámetro y 3 mm de espesor, según UNE-EN 1329-1, con el precio incrementado el 10% en concepto de accesorios y piezas especiales.|3.58||3|
+~C|mt36tit010gc|m|Tubo de PVC, serie B, de 110 mm de diámetro y 3,2 mm de espesor, según UNE-EN 1329-1, con el precio incrementado el 10% en concepto de accesorios y piezas especiales.|10.61||3|
+~C|ISD010b|Ud|Red interior de evacuación para cocina con dotación para: fregadero, toma de desagüe para lavavajillas, realizada con tubo de PVC, serie B para la red de desagües.|141.97||0|
+~T|ISD010b|Red interior de evacuación para cocina con dotación para: fregadero, toma de desagüe para lavavajillas, realizada con tubo de PVC, serie B para la red de desagües.  Según planos.|
+~D|ISD010b
+|mt36tit010bc\\4.3
+\mt30del010a\\1
+\mt11var009\\0.215
+\mt11var010\\0.108
+\mo007\\4.501
+\mo099\\2.25
+\%\\0.02
+\|
+~C|mt30del010a|Ud|Toma de desagüe para electrodoméstico, con enlace mixto macho de PVC, de 40 mm de diámetro.|1.16||3|
+~C|ISD010c|Ud|Red interior de evacuación para galería con dotación para: lavadero, toma de desagüe para lavadora, realizada con tubo de PVC, serie B para la red de desagües.|141.97||0|
+~T|ISD010c|Red interior de evacuación para galería con dotación para: lavadero, toma de desagüe para lavadora, realizada con tubo de PVC, serie B para la red de desagües.  Según planos.|
+~D|ISD010c
+|mt36tit010bc\\4.3
+\mt30del010a\\1
+\mt11var009\\0.215
+\mt11var010\\0.108
+\mo007\\4.501
+\mo099\\2.25
+\%\\0.02
+\|
+~C|ISS010|m|Colector suspendido de PVC, serie B de 125 mm de diámetro, unión pegada con adhesivo.|27.19||0|
+~T|ISS010|Colector suspendido de PVC, serie B de 125 mm de diámetro, unión pegada con adhesivo.|
+~D|ISS010
+|mt36tit400h\\1
+\mt36tit010hj\\1.05
+\mt11var009\\0.058
+\mt11var010\\0.046
+\mo007\\0.268
+\mo099\\0.134
+\%\\0.02
+\|
+~C|mt36tit400h|Ud|Material auxiliar para montaje y sujeción a la obra de las tuberías de PVC, serie B, de 125 mm de diámetro.|1.62||3|
+~C|mt36tit010hj|m|Tubo de PVC, serie B, de 125 mm de diámetro y 3,2 mm de espesor, según UNE-EN 1329-1, con el precio incrementado el 45% en concepto de accesorios y piezas especiales.|15.71||3|
+~C|IV#||Ventilación|1597.48||0|
+~D|IV#
+|IVH010\\3
+\IVH010b\\4
+\IVH010c\\3
+\IVH030\\1
+\IVK010\\1
+\IVK030\\1
+\IVV020\\7.75
+\IVV020b\\7.75
+\|
+~C|IVH010|Ud|Aireador de paso, caudal máximo 15 l/s, de 725x20x82 mm, para ventilación híbrida.|33.42||0|
+~T|IVH010|Aireador de paso, caudal máximo 15 l/s, de 725x20x82 mm, para ventilación híbrida.|
+~D|IVH010
+|mt20svg040c\\1
+\mo010\\0.307
+\mo075\\0.307
+\%\\0.02
+\|
+~C|mt20svg040c|Ud|Aireador de paso, de aluminio, caudal máximo 15 l/s, de 725x20x82 mm, con silenciador acústico de espuma de resina de melamina y aislamiento acústico de 34 dBA, para colocar en puertas de paso interiores, entre el marco y la batiente de la puerta de paso interior de 700 mm de anchura de puerta y 80 mm de anchura de marco.|22.12||3|
+~C|IVH010b|Ud|Aireador de admisión, caudal máximo 10 l/s, de 1200x80x12 mm, para ventilación híbrida.|51.02||0|
+~T|IVH010b|Aireador de admisión, caudal máximo 10 l/s, de 1200x80x12 mm, para ventilación híbrida.|
+~D|IVH010b
+|mt20svg035a\\1
+\mo010\\0.153
+\mo075\\0.153
+\%\\0.02
+\|
+~C|mt20svg035a|Ud|Aireador de admisión, de aluminio lacado en color a elegir de la carta RAL, caudal máximo 10 l/s, de 1200x80x12 mm, con abertura de 800x12 mm, aislamiento acústico de 39 dBA y filtro antipolución tipo S30, para colocar en posición horizontal encima de la carpintería exterior de aluminio o PVC, hasta 80 mm de profundidad.|44.72||3|
+~C|IVH010c|Ud|Boca de extracción, graduable, caudal máximo 19 l/s, de 125 mm de diámetro de conexión y 165 mm de diámetro exterior, para paredes o techos de locales húmedos (cocina), para ventilación híbrida.|55.99||0|
+~T|IVH010c|Boca de extracción, graduable, caudal máximo 19 l/s, de 125 mm de diámetro de conexión y 165 mm de diámetro exterior, para paredes o techos de locales húmedos (cocina), para ventilación híbrida.|
+~D|IVH010c
+|mt20svg050e\\1
+\mo010\\0.153
+\mo075\\0.153
+\%\\0.02
+\|
+~C|mt20svg050e|Ud|Boca de extracción, graduable, de chapa galvanizada lacada en color blanco RAL 9010, caudal máximo 19 l/s, de 125 mm de diámetro de conexión y 165 mm de diámetro exterior, para colocar en paredes o techos de locales húmedos (cocina), al inicio del conducto de extracción, incluso tornillos/muelles de fijación, silenciador acústico y accesorios de montaje.|49.59||3|
+~C|IVH030|Ud|Extractor estático mecánico, de 153 mm de diámetro y 415 mm de altura, de 250 m³/h de caudal máximo, en vivienda unifamiliar.|684.32||0|
+~T|IVH030|Extractor estático mecánico, de 153 mm de diámetro y 415 mm de altura, de 250 m³/h de caudal máximo, en vivienda unifamiliar.|
+~D|IVH030
+|mt20svi020a\\1
+\mt20svg100\\1
+\mo010\\0.205
+\mo075\\0.205
+\%\\0.02
+\|
+~C|mt20svi020a|Ud|Extractor estático mecánico, de 153 mm de diámetro y 415 mm de altura, de 250 m³/h de caudal máximo, 137 W de potencia máxima con motor de alimentación monofásica (230V/50Hz) y 900 r.p.m. de velocidad máxima.|661.07||3|
+~C|mt20svg100|Ud|Material de fijación para conductos de ventilación.|2.73||3|
+~C|IVK010|Ud|Extractor de cocina, de dimensiones 218x127x304 mm, velocidad 2250 r.p.m., caudal de descarga libre 250 m³/h, con tramo de conexión de tubo flexible de aluminio.|85.45||0|
+~T|IVK010|Extractor de cocina, de dimensiones 218x127x304 mm, velocidad 2250 r.p.m., caudal de descarga libre 250 m³/h, con tramo de conexión de tubo flexible de aluminio.|
+~D|IVK010
+|mt32exs010a\\1
+\mt20cme020d\\3
+\mo002\\0.205
+\mo094\\0.205
+\%\\0.02
+\|
+~C|mt32exs010a|Ud|Extractor de cocina, de dimensiones 218x127x304 mm, velocidad 2250 r.p.m., caudal de descarga libre 250 m³/h.|68.99||3|
+~C|mt20cme020d|m|Tubo de aluminio natural flexible, de 110 mm de diámetro, incluso p/p de codos, derivaciones, manguitos y piezas especiales.|2.56||3|
+~C|IVK030|Ud|Aspirador giratorio con sombrero dinámico, de aluminio (Dureza H-24), para conducto de salida de 250 mm de diámetro exterior.|176.68||0|
+~T|IVK030|Aspirador giratorio con sombrero dinámico, de aluminio (Dureza H-24), para conducto de salida de 250 mm de diámetro exterior.|
+~D|IVK030
+|mt20cve010a\\1
+\mo010\\0.169
+\mo075\\0.084
+\%\\0.02
+\|
+~C|mt20cve010a|Ud|Aspirador giratorio con sombrero dinámico, de aluminio (Dureza H-24), para conducto de salida de 250 mm de diámetro exterior.|168.78||3|
+~C|IVV020|m|Conducto circular de chapa de acero galvanizado de pared simple lisa, de 100 mm de diámetro y 0,6 mm de espesor de chapa, colocado en posición horizontal, para instalación de ventilación.|9.36||0|
+~T|IVV020|Conducto circular de chapa de acero galvanizado de pared simple lisa, de 100 mm de diámetro y 0,6 mm de espesor de chapa, colocado en posición horizontal, para instalación de ventilación.|
+~D|IVV020
+|mt20cvg410a\\1
+\mt20cvg010ad\\1
+\mo012\\0.129
+\mo079\\0.064
+\%\\0.02
+\|
+~C|mt20cvg410a|Ud|Material auxiliar para montaje y sujeción a la obra de los conductos de chapa de acero galvanizado de pared simple lisa, de 100 mm de diámetro.|0.24||3|
+~C|mt20cvg010ad|m|Tubo de chapa de acero galvanizado de pared simple lisa, autoconectable macho-hembra, de 100 mm de diámetro y 0,6 mm de espesor de chapa, suministrado en tramos de 1 m, con el precio incrementado el 15% en concepto de accesorios y piezas especiales.|5.55||3|
+~C|mo012|h|Oficial 1ª montador de conductos de chapa metálica.|17.97||1|
+~C|mo079|h|Ayudante montador de conductos de chapa metálica.|16.69||1|
+~C|IVV020b|m|Conducto circular de chapa de acero galvanizado de pared simple helicoidal, de 100 mm de diámetro y 0,5 mm de espesor, colocado en posición horizontal, para instalación de ventilación.|7.7||0|
+~T|IVV020b|Conducto circular de chapa de acero galvanizado de pared simple helicoidal, de 100 mm de diámetro y 0,5 mm de espesor, colocado en posición horizontal, para instalación de ventilación.|
+~D|IVV020b
+|mt20cvg420a\\1
+\mt20cvg020aaf\\1
+\mo012\\0.129
+\mo079\\0.064
+\%\\0.02
+\|
+~C|mt20cvg420a|Ud|Material auxiliar para montaje y sujeción a la obra de los conductos de chapa de acero galvanizado de pared simple helicoidal, de 100 mm de diámetro.|0.16||3|
+~C|mt20cvg020aaf|m|Tubo de chapa de acero galvanizado de pared simple helicoidal, de 100 mm de diámetro y 0,5 mm de espesor, suministrado en tramos de 3 ó 5 m, con el precio incrementado el 25% en concepto de accesorios y piezas especiales.|4||3|
+~C|N#||impermeabilizaciones|472.23||0|
+~D|N#
+|NI#\\1
+\|
+~C|NI#||Impermeabilizaciones|472.23||0|
+~D|NI#
+|NIM009\\69.14
+\|
+~C|NIM009|m²|Impermeabilización de muro de sótano o estructura enterrada, por su cara exterior, con emulsión asfáltica (tipo ED, UNE 104231), aplicada en dos manos, con un rendimiento de 1 kg/m² por mano.|6.63|230516|0|
+~T|NIM009|Impermeabilización de muro de sótano o estructura enterrada, por su cara exterior, con emulsión asfáltica (tipo ED, UNE 104231), aplicada en dos manos, con un rendimiento de 1 kg/m² por mano.|
+~D|NIM009
+|mt14iea030a\\2
+\mo031\\0.116
+\mo065\\0.116
+\%\\0.02
+\|
+~C|mt14iea030a|kg|Emulsión asfáltica (tipo ED, UNE 104231).|1.41|230516|3|
+~C|mo065|h|Ayudante aplicador de productos impermeabilizantes.|16.69|230516|1|
+~C|Q#||Cubiertas|17845.18||0|
+~D|Q#
+|QA#\\1
+\QR#\\1
+\|
+~C|QA#||Planas|17103.08||0|
+~D|QA#
+|QAD032\\102.04
+\QAF022\\43.96
+\QAF032\\3
+\UXO005\\8.4
+\FAY040\\43.96
+\FFZ010\\7.44
+\PPC010b\\1
+\EHL010\\0.288
+\|
+~C|QAD032|m²|Cubierta plana no ventilada, ajardinada intensiva|86.85|230516|0|
+~T|QAD032|Cubierta plana  no ventilada, ajardinada intensiva, tipo invertida, pendiente del 1% al 5%, compuesta de: formación de pendientes: arcilla expandida de 350 kg/m³ de densidad, vertida en seco y consolidada en su superficie con lechada de cemento, con espesor medio de 10 cm; capa separadora bajo impermeabilización: geotextil no tejido compuesto por fibras de poliéster unidas por agujeteado, con una resistencia a la tracción longitudinal de 4,2 kN/m, una resistencia a la tracción transversal de 4,2 kN/m, resistencia CBR a punzonamiento 0,8 kN y una masa superficial de 300 g/m²; impermeabilización monocapa no adherida: lámina impermeabilizante flexible, tipo PVC-P(fv), de 1,5 mm de espesor, con armadura de velo de fibra de vidrio, fijada en solapes y bordes mediante soldadura termoplástica; capa separadora bajo aislamiento: geotextil no tejido compuesto por fibras de poliéster unidas por agujeteado, con una resistencia a la tracción longitudinal de 4,2 kN/m, una resistencia a la tracción transversal de 4,2 kN/m, resistencia CBR a punzonamiento 0,8 kN y una masa superficial de 300 g/m²; aislamiento térmico: panel rígido de poliestireno extruido, de superficie lisa y mecanizado lateral a media madera, de 50 mm de espesor, resistencia a compresión >= 300 kPa; capa separadora bajo protección: geotextil no tejido compuesto por fibras de poliéster unidas por agujeteado, con una resistencia a la tracción longitudinal de 1,2 kN/m, una resistencia a la tracción transversal de 1,2 kN/m, resistencia CBR a punzonamiento 0,3 kN y una masa superficial de 150 g/m²; capa drenante y filtrante: lámina drenante para jardín; capa de protección: capa de tierra vegetal para plantación de 35 cm de espesor.|
+~D|QAD032
+|mt04lvc010c\\4
+\mt01arl030\\0.1
+\mt09lec020b\\0.01
+\mt16pea020b\\0.01
+\mt09mor010c\\0.04
+\mt14gsa020d\\1.05
+\mt15dan010dk\\1.05
+\mt15dan020c\\0.4
+\mt14gsa020d\\1.05
+\mt16pxa010j\\1.05
+\mt14gsa020b\\1.05
+\mt15dra010e\\1.05
+\mt01arj020\\0.35
+\mo019\\0.379
+\mo105\\0.379
+\mo028\\0.229
+\mo062\\0.229
+\mo050\\0.057
+\mo093\\0.057
+\mo039\\0.193
+\mo107\\0.193
+\%\\0.02
+\|
+~C|mt04lvc010c|Ud|Ladrillo cerámico hueco doble, para revestir, 24x11,5x9 cm, según UNE-EN 771-1.|0.13||3|
+~C|mt01arl030|m³|Arcilla expandida, de 350 kg/m³ de densidad y granulometría comprendida entre 8 y 16 mm, suministrada en sacos.|59.5||3|
+~C|mt09lec020b|m³|Lechada de cemento 1/3 CEM II/B-P 32,5 N.|105.1||3|
+~C|mt16pea020b|m²|Panel rígido de poliestireno expandido, según UNE-EN 13163, mecanizado lateral recto, de 20 mm de espesor, resistencia térmica 0,55 m²K/W, conductividad térmica 0,036 W/(mK), para junta de dilatación.|1.34||3|
+~C|mt14gsa020d|m²|Geotextil no tejido compuesto por fibras de poliéster unidas por agujeteado, con una resistencia a la tracción longitudinal de 4,2 kN/m, una resistencia a la tracción transversal de 4,2 kN/m, una apertura de cono al ensayo de perforación dinámica según UNE-EN ISO 13433 inferior a 15 mm, resistencia CBR a punzonamiento 0,8 kN y una masa superficial de 300 g/m², según UNE-EN 13252.|1.75|230516|3|
+~C|mt15dan010dk|m²|Lámina impermeabilizante flexible, tipo PVC-P(fv), de 1,5 mm de espesor, con armadura de velo de fibra de vidrio, según UNE-EN 13956.|9.3|230516|3|
+~C|mt15dan020c|m|Perfil colaminado de chapa de acero y PVC-P, plano, para remate de impermeabilización con láminas de PVC-P, en los extremos de las láminas y en encuentros con elementos verticales.|2.73|230516|3|
+~C|mt16pxa010j|m²|Panel rígido de poliestireno extruido, según UNE-EN 13164, de superficie lisa y mecanizado lateral a media madera, de 50 mm de espesor, resistencia a compresión >= 300 kPa, resistencia térmica 1,5 m²K/W, conductividad térmica 0,034 W/(mK), Euroclase E de reacción al fuego, con código de designación XPS-EN 13164-T1-CS(10/Y)300-DLT(2)5-CC(2/1,5/50)125-DS(TH)-WL(T)0,7-WD(V)3-FT2.|11.93|230516|3|
+~C|mt14gsa020b|m²|Geotextil no tejido compuesto por fibras de poliéster unidas por agujeteado, con una resistencia a la tracción longitudinal de 1,2 kN/m, una resistencia a la tracción transversal de 1,2 kN/m, una apertura de cono al ensayo de perforación dinámica según UNE-EN ISO 13433 inferior a 40 mm, resistencia CBR a punzonamiento 0,3 kN y una masa superficial de 150 g/m², según UNE-EN 13252.|0.92|230516|3|
+~C|mt15dra010e|m²|Lámina drenante para jardín compuesta de lámina nodular de polietileno de alta densidad, con un geotextil de polipropileno de 120 g/m² por una de sus caras, para drenaje y separación en cubiertas ajardinadas.|12.51|230516|3|
+~C|mt01arj020|m³|Tierra vegetal para plantación.|8.26|230516|3|
+~C|mo050|h|Oficial 1ª montador de aislamientos.|17.97||1|
+~C|mo093|h|Ayudante montador de aislamientos.|16.69||1|
+~C|mo039|h|Oficial 1ª jardinero.|17.39||1|
+~C|mo107|h|Peón jardinero.|16.13||1|
+~C|QAF022|m|Encuentro de paramento vertical|19.89|230516|0|
+~T|QAF022|Encuentro de paramento vertical con cubierta plana transitable, no ventilada, con solado fijo, tipo invertida; mediante retranqueo perimetral, para la protección de la impermeabilización formada por: banda de terminación de 50 cm de desarrollo con lámina impermeabilizante flexible, tipo PVC-P(fv), de 1,5 mm de espesor, con armadura de velo de fibra de vidrio, fijada en solapes y bordes mediante soldadura termoplástica; revistiendo el encuentro con rodapiés de gres rústico 4/3/-/E, de 7 cm, 3 €/m colocados con junta abierta (separación entre 3 y 15 mm), en capa fina con adhesivo cementoso normal, C1 gris y rejuntados con mortero de juntas cementoso con resistencia elevada a la abrasión y absorción de agua reducida, CG2, para junta abierta (entre 3 y 15 mm), con la misma tonalidad de las piezas.|
+~D|QAF022
+|mt15dan010dk\\0.5
+\mt15dan020c\\1
+\mt09mor010b\\0.012
+\mt09mcr021g\\0.24
+\mt18rcr010\\1.05
+\mt09mcr070a\\0.024
+\mo028\\0.115
+\mo062\\0.115
+\mo022\\0.212
+\%\\0.02
+\|
+~C|mt09mor010b|m³|Mortero de cemento CEM II/B-P 32,5 N tipo M-2,5, confeccionado en obra con 200 kg/m³ de cemento y una proporción en volumen 1/8.|105.3||3|
+~C|mt09mcr021g|kg|Adhesivo cementoso normal, C1 según UNE-EN 12004, color gris.|0.35||3|
+~C|mt18rcr010|m|Rodapié cerámico de gres rústico, 7 cm, 3,00€/m.|3||3|
+~C|mt09mcr070a|kg|Mortero de juntas cementoso con resistencia elevada a la abrasión y absorción de agua reducida, CG2, para junta abierta entre 3 y 15 mm, según UNE-EN 13888.|0.99||3|
+~C|mo022|h|Oficial 1ª solador.|17.39||1|
+~C|QAF032|Ud|Encuentro de cubierta con sumidero de PVC|39.22|230516|0|
+~T|QAF032|Encuentro de cubierta plana transitable, no ventilada, con solado fijo, tipo invertida con sumidero de PVC, de salida vertical, de 90 mm de diámetro fijado a la lámina impermeabilizante (no incluida en este precio) con soldadura termoplástica.|
+~D|QAF032
+|mt15dan010bj\\1.05
+\mt15dan100b\\1
+\mo028\\0.367
+\mo062\\0.367
+\mo007\\0.356
+\%\\0.02
+\|
+~C|mt15dan010bj|m²|Lámina impermeabilizante flexible, tipo PVC-P(fv), de 1,2 mm de espesor, con armadura de velo de fibra de vidrio, según UNE-EN 13956.|7.75|230516|3|
+~C|mt15dan100b|Ud|Sumidero de PVC, de salida vertical, de 90 mm de diámetro, rejilla plana.|11.4|230516|3|
+~C|UXO005|m²|Banda de drenaje Perimetral|6.38|240516|0|
+~T|UXO005|Banda de drenaje Perimetral mediante el recrecido con una capa uniforme de grava  de 35 cm de espesor.|
+~D|UXO005
+|mt01arp030\\0.18
+\mq01mot010a\\0.013
+\mq02cia020j\\0.004
+\mq02rot030a\\0.01
+\mo082\\0.017
+\%\\0.02
+\|
+~C|mt01arp030|m³|Grava caliza seleccionada de machaqueo, color, de 5 a 10 mm de diámetro.|25.2|240516|3|
+~C|mq01mot010a|h|Motoniveladora de 141 kW.|67.78|240516|2|
+~C|mq02rot030a|h|Compactador tándem autopropulsado, de 63 kW, de 8,75 t, anchura de trabajo 168 cm.|39.14|240516|2|
+~C|mo082|h|Ayudante construcción de obra civil.|16.69||1|
+~C|FAY040|m²|Alero de cubierta a base de Sistema "ALUCOBOND" o similar|141.03|230516|0|
+~T|FAY040|Alero de cubierta a base de Sistema "ALUCOBOND" o similar, fijado según detalles a testero de tablero de OSB. Realizando el vierteguas correspondiente. Incluido cuña para remate de la lámina y fijación del Panel.|
+~D|FAY040
+|mt12prt010\\1.05
+\mo048\\0.709
+\mo091\\0.709
+\%\\0.03
+\|
+~C|mt12prt010|m²|Placa Meteon FR "TRESPA", de 500x2000x8 mm, acabado White, textura satinada Satin, Euroclase B-s2 d0 de reacción al fuego, a base de resinas termoendurecibles que no contienen urea-formaldehído, reforzada de forma homogénea con fibras de madera certificada FSC o PEFC y superficie de color EBC (Electron Beam Curing), no melamínica y con propiedades antigraffiti durante toda su vida útil, con resistencia a los rayos ultravioleta según UNE-EN 438-2 y Ensayo Florida no inferior a 4-5 al contrastar con la escala de grises de UNE-EN 20105-A-02, colocada con modulación vertical mediante el sistema TS150 de fijación vista con tornillos sobre una subestructura de madera, incluso p/p de rastreles de madera tratada colocados horizontalmente y de ancho igual al espesor del aislamiento, rastreles de madera tratada como montantes de 38x45 mm y 38x75 mm en junta de placa y tornillos autorroscantes de acero inoxidable termolacado.|107|230516|3|
+~C|mo048|h|Oficial 1ª montador de sistemas de fachadas prefabricadas.|17.97|230516|1|
+~C|mo091|h|Ayudante montador de sistemas de fachadas prefabricadas.|16.69|230516|1|
+~C|FFZ010|m²|Hoja exterior de cerramiento de fachada|30.47|240516|0|
+~T|FFZ010|Hoja exterior de cerramiento de fachada, de 11,5 cm de espesor de fábrica, de ladrillo cerámico hueco triple, para revestir, 24x11,5x11,5 cm, recibida con mortero de cemento M-5.|
+~D|FFZ010
+|mt04lvc010d\\34.65
+\mt09mor010c\\0.015
+\mt18bdb010\\0.1
+\mt07aco010c\\0.8
+\mo020\\0.8
+\mo106\\0.4
+\%\\0.03
+\|
+~C|mt04lvc010d|Ud|Ladrillo cerámico hueco triple, para revestir, 24x11,5x11,5 cm, según UNE-EN 771-1.|0.17|240516|3|
+~C|mt18bdb010|m²|Baldosa cerámica de baldosín catalán, acabado mate o natural, 8,00€/m², según UNE-EN 14411.|8|240516|3|
+~C|mo020|h|Oficial 1ª construcción en trabajos de albañilería.|17.39|240516|1|
+~C|mo106|h|Peón ordinario construcción en trabajos de albañilería.|16.13|240516|1|
+~C|PPC010b|Ud|Puerta de paso de acero galvanizado de dos hojas|252.87|240516|0|
+~T|PPC010b|Puerta de paso de acero galvanizado de dos hojas, 1840x2045 mm de luz y altura de paso, acabado galvanizado, con rejillas de ventilación.|
+~D|PPC010b
+|mt26ppa010bpb\\1
+\mo019\\0.334
+\mo072\\0.334
+\%\\0.02
+\|
+~C|mt26ppa010bpb|Ud|Puerta de paso de dos hojas de 38 mm de espesor, 1840x2045 mm de luz y altura de paso, acabado galvanizado formada por dos chapas de acero galvanizado de 0,5 mm de espesor con rejillas de ventilación troqueladas en la parte superior e inferior, de 200x250 mm cada una, plegadas, ensambladas y montadas, con cámara intermedia rellena de poliuretano, sobre cerco de acero galvanizado de 1,5 mm de espesor con garras de anclaje a obra, incluso bisagras soldadas al cerco y remachadas a la hoja, cerradura embutida de cierre a un punto, cilindro de latón con llave, escudos y manivelas de nylon color negro.|236.53|240516|3|
+~C|EHL010|m3|Losa maciza, horizontal, canto 20 cm|60.32|080515|0|
+~T|EHL010|Losa maciza, horizontal, canto 20 cm
+
+Formación de forjado de losa maciza, horizontal, con altura libre de planta de hasta 3 m, canto 20 cm, de hormigón armado HA-25/B/20/I fabricado en central y vertido con bomba; acero UNE-EN 10080 B 500 S, cuantía 87 kg/m²; encofrado y desencofrado continuo con puntales, sopandas metálicas y superficie encofrante de madera tratada reforzada con varillas y perfiles. Incluso p/p de nervios y zunchos perimetrales de planta y huecos. Sin incluir repercusión de soportes, vertido y compactación del hormigón. Regleado y nivelación de la capa de compresión. Curado del hormigón. Desencofrado. Reparación de defectos superficiales.|
+~D|EHL010
+|mt08efl010a\\1.1
+\mt07aco020i\\3
+\mt07aco010c\\22
+\mt10haf010\\0.2
+\mo011\\0.409
+\mo046\\0.409
+\mo060\\0.204
+\%\\0.02
+\|
+~C|mt08efl010a|m²|Montaje y desmontaje de sistema de encofrado continuo para forjado de losa maciza de hormigón armado, hasta 3 m de altura libre de planta, compuesto de: puntales, sopandas metálicas y superficie encofrante de madera tratada reforzada con varillas y perfiles.|11.73|080515|3|
+~C|mt07aco020i|Ud|Separador de plástico rígido, homologado para losas macizas.|0.05|080515|3|
+~C|mt10haf010|m³|Hormigón HA-25/B/20/I, fabricado en central vertido con bomba.|42.41|080515|3|
+~C|mo011|h|Oficial 1ª construcción.|16.12|010415|1|
+~C|mo046|h|Ayudante construcción.|14.92|130415|1|
+~C|mo060|h|Peón ordinario construcción.|14.31|261114|1|
+~C|QR#||Remates|742.1||0|
+~D|QR#
+|QRB010\\22.57
+\|
+~C|QRB010|m|Remate lateral de cubierta revestido con perfil vierteaguas de acero inoxidable AISI 304, de 25 mm de altura.|31.92|230516|0|
+~T|QRB010|Remate lateral de cubierta revestido con perfil vierteaguas de acero inoxidable AISI 304, de 25 mm de altura.|
+~D|QRB010
+|mt09mcr021m\\0.18
+\mt20pcs130\\1.1
+\mt15sja100\\0.01
+\mo019\\0.172
+\mo105\\0.172
+\%\\0.02
+\|
+~C|mt09mcr021m|kg|Adhesivo cementoso mejorado, C2 según UNE-EN 12004, color gris.|0.41|230516|3|
+~C|mt20pcs130|m|Perfil vierteaguas de acero inoxidable AISI 304, de 25 mm de altura, con perforaciones trapezoidales para su fijación y goterón, suministrado en barras de 2,5 m de longitud.|23.12|230516|3|
+~C|mt15sja100|Ud|Cartucho de masilla de silicona neutra.|3.13|230516|3|
+~C|R#||Revestimientos|16447.52||0|
+~D|R#
+|RC#\\1
+\RF#\\1
+\RI#\\1
+\RS#\\1
+\|
+~C|RC#||Chapados y aplacados|3403.27||0|
+~D|RC#
+|SNA010\\16.38
+\|
+~C|SNA010|m²|Revestimiento de aglomerado de cuarzo tipo "LEVANTINA"|201.72|240516|0|
+~T|SNA010|Revestimiento de aglomerado de cuarzo tipo "LEVANTINA", acabado pulido, de 2 cm de espesor, canto simple recto, con los bordes ligeramente biselados.|
+~D|SNA010
+|mt19egl020uO\\2.1
+\mt19ewa030aaa\\4.7
+\mt19ewa020\\3.5
+\mt19egl025a\\0.047
+\mo010\\2.172
+\mo075\\2.271
+\%\\0.02
+\|
+~C|mt19egl020uO|m²|Encimera de aglomerado de cuarzo blanco "LEVANTINA", acabado pulido, de 2 cm de espesor.|42.84|240516|3|
+~C|mt19ewa030aaa|m|Formación de canto simple recto con los bordes ligeramente biselados en encimera de piedra natural.|2.5|240516|3|
+~C|mt19ewa020|Ud|Material auxiliar para anclaje de encimera.|5.3|240516|3|
+~C|mt19egl025a|l|Masilla tixotrópica, de color a elegir, de alta durabilidad y estabilidad de color tras el endurecimiento, aplicable como material de rejuntado de elementos de aglomerado de cuarzo.|12.13|240516|3|
+~C|RF#||Pinturas en paramentos exteriores|3217.88||0|
+~D|RF#
+|RNE010\\181.391
+\|
+~C|RNE010|m²|Esmalte sintético, color blanco|17.22|240516|0|
+~T|RNE010|Esmalte sintético, color blanco, acabado mate, sobre superficie de hierro o acero, limpieza y preparación de la superficie a pintar, mediante medios manuales hasta dejarla exenta de grasas, dos manos de imprimación, con un espesor mínimo de película seca de 55 micras por mano (rendimiento: 0,139 l/m²) y dos manos de acabado con esmalte sintético con un espesor mínimo de película seca de 40 micras por mano (rendimiento: 0,091 l/m²).|
+~D|RNE010
+|mt27pfi010\\0.278
+\mt27esj020j\\0.182
+\mo037\\0.362
+\mo071\\0.362
+\%\\0.02
+\|
+~C|mt27esj020j|l|Esmalte sintético brillante para exterior a base de resinas alcídicas y pigmentos, exento de plomo, color blanco, aplicado con brocha, rodillo o pistola.|17.65|240516|3|
+~C|mo037|h|Oficial 1ª pintor.|17.39||1|
+~C|mo071|h|Ayudante pintor.|16.69||1|
+~C|RI#||Pinturas en paramentos interiores|5314.86||0|
+~D|RI#
+|RIP035\\243.679
+\RNP010\\176.49
+\|
+~C|RIP035|m²|Pintura plástica con textura lisa, color blanco, acabado mate|9.24||0|
+~T|RIP035|Pintura plástica con textura lisa, color blanco, acabado mate, sobre paramentos horizontales y verticales interiores de yeso proyectado o placas de yeso laminado, mano de fondo y dos manos de acabado (rendimiento: 0,125 l/m² cada mano).|
+~D|RIP035
+|mt27pfj010a\\0.18
+\mt27pij040a\\0.25
+\mo037\\0.175
+\mo071\\0.21
+\%\\0.02
+\|
+~C|mt27pfj010a|l|Imprimación selladora para interior con resinas acrílicas en dispersión acuosa, especialmente indicada sobre yeso, color blanco, aplicada con brocha, rodillo o pistola.|7.86||3|
+~C|mt27pij040a|l|Pintura plástica para interior en dispersión acuosa, lavable, tipo II según UNE 48243, permeable al vapor de agua, color blanco, acabado mate, aplicada con brocha, rodillo o pistola.|4.43||3|
+~C|RNP010|m²|Pintura - esmalte plástica con textura lisa sobre chapa grecada|16.48|080515|0|
+~T|RNP010|Pintura plástica con textura lisa sobre chapa grecada
+
+Formación de capa de pintura  color blanco RAL 9003, acabado mate, sobre superficie de hierro o acero, limpieza y preparación de la superficie a pintar, mediante medios manuales hasta dejarla exenta de grasas, dos manos de imprimación, con un espesor mínimo de película seca de 55 micras por mano (rendimiento: 0,139 l/m²) y dos manos de acabado con esmalte sintético con un espesor mínimo de película seca de 40 micras por mano (rendimiento: 0,091 l/m²).|
+~D|RNP010
+|mt27pfc030a\\0.3
+\mt27pir090\\0.25
+\mt27pir090\\0.5
+\mo024\\0.233
+\mo045\\0.233
+\%\\0.02
+\|
+~C|mt27pfc030a|l|Solución de agua y lejía al 10%.|3.3|080515|3|
+~C|mt27pir090|l|Pintura plástica a base de copolímeros acrílicos en dispersión acuosa y pigmentos, exenta de plomo y de cromatos, color a elegir, acabado mate, textura lisa, aplicada con pistola.|10.57|080515|3|
+~C|mo024|h|Oficial 1ª pintor.|16.12|130415|1|
+~C|mo045|h|Ayudante pintor.|14.92|130415|1|
+~C|RS#||Suelos y pavimentos|4511.51||0|
+~D|RS#
+|RSD010\\6.45
+\UXC020\\105.08
+\NIG040\\34.87
+\|
+~C|RSD010|m|Rodapié liso de aluminio anodizado, de 60 mm de altura, color plata, fijado con adhesivo.|17.82|240516|0|
+~T|RSD010|Rodapié liso de aluminio anodizado, de 60 mm de altura, color plata, fijado con adhesivo.|
+~D|RSD010
+|mt47adc110b\\0.06
+\mt18rpp010a\\1.05
+\mo022\\0.141
+\%\\0.02
+\|
+~C|mt47adc110b|kg|Adhesivo especial de poliuretano bicomponente.|20.53|240516|3|
+~C|mt18rpp010a|m|Rodapié liso de aluminio anodizado, de 60 mm de altura, color plata, incluso p/p de piezas para uniones, resolución de ángulos y terminaciones.|13.13|240516|3|
+~C|UXC020|m²|Pavimento continuo exterior de hormigón armado|30.02|240516|0|
+~T|UXC020|Pavimento continuo exterior de hormigón armado de 7 cm de espesor, realizado con hormigón HA-25/B/20/IIa fabricado en central, y vertido desde camión, extendido y vibrado manual, y malla electrosoldada ME 15x15 Ø 5-5 B 500 T 6x2,20 UNE-EN 10080; tratado superficialmente con capa de rodadura de rendimiento 3 kg/m², con acabado apomazado.|
+~D|UXC020
+|mt10haf010nea\\0.074
+\mt07ame010b\\1.2
+\mt07aco020j\\2
+\mt09wnc011gF\\3
+\mt47adh022\\0.18
+\mt15bas030a\\0.6
+\mq04dua020b\\0.015
+\mq06vib020\\0.012
+\mq06fra010\\0.574
+\mq06cor020\\0.104
+\mo040\\0.232
+\mo082\\0.343
+\%\\0.02
+\|
+~C|mt07aco020j|Ud|Separador homologado para pavimentos continuos.|0.04|240516|3|
+~C|mt09wnc011gF|kg|Mortero decorativo de rodadura para pavimento de hormigón color gris, compuesto de cemento, áridos silíceos y de corindón, aditivos orgánicos y pigmentos.|1.47|240516|3|
+~C|mt47adh022|m|Poliestireno expandido en juntas de dilatación de pavimentos continuos de hormigón.|0.33|240516|3|
+~C|mt15bas030a|Ud|Cartucho de masilla elastómera monocomponente a base de poliuretano, de color gris, de 600 ml, tipo F-25 HM según UNE-EN ISO 11600, muy adherente, con elevadas propiedades elásticas, resistente al envejecimiento y a los rayos UV.|5.7|240516|3|
+~C|mq06fra010|h|Fratasadora mecánica de hormigón.|5.07|240516|2|
+~C|mq06cor020|h|Equipo para corte de juntas en soleras de hormigón.|13.3|240516|2|
+~C|mo040|h|Oficial 1ª construcción de obra civil.|17.39||1|
+~C|NIG040|m²|Impermeabilización de terrazas|31.85|240516|0|
+~T|NIG040|Impermeabilización de terrazas y balcones sobre espacios no habitables, compuesta de: formación de pendientes: mortero de cemento CEM II/B-P 32,5 N tipo M-5, confeccionado en obra, con espesor medio de 2 cm y pendiente del 1% al 5%, acabado fratasado; capa separadora bajo impermeabilización: geotextil no tejido compuesto por fibras de poliéster unidas por agujeteado, con una resistencia a la tracción longitudinal de 4,2 kN/m, una resistencia a la tracción transversal de 4,2 kN/m, resistencia CBR a punzonamiento 0,8 kN y una masa superficial de 300 g/m²; impermeabilización monocapa no adherida: lámina impermeabilizante flexible, tipo PVC-P(fv), de 1,2 mm de espesor, con armadura de velo de fibra de vidrio, fijada en solapes y bordes mediante soldadura termoplástica; y capa separadora bajo protección: geotextil no tejido compuesto por fibras de poliéster unidas por agujeteado, con una resistencia a la tracción longitudinal de 4,2 kN/m, una resistencia a la tracción transversal de 4,2 kN/m, resistencia CBR a punzonamiento 0,8 kN y una masa superficial de 300 g/m².|
+~D|NIG040
+|mt09mor010c\\0.02
+\mt14gsa020d\\1.05
+\mt15dan020c\\0.4
+\mt15dan010bj\\1.05
+\mt14gsa020d\\1.05
+\mo028\\0.47
+\mo062\\0.47
+\%\\0.02
+\|
+~C|S#||Equipamiento|3923.89||0|
+~D|S#
+|SM#\\1
+\|
+~C|SM#||Baños|3923.89||0|
+~D|SM#
+|SAD010\\1
+\SAI010\\2
+\SAB010\\1
+\SAL010\\2
+\SNA010b\\0.86
+\|
+~C|SAD010|Ud|Plato de ducha acrílico modelo Daiquiri-N "ROCA", color, de 160x70 cm, con juego de desagüe, equipado con grifería termostática, serie Kendo "ROCA", modelo 5A1358A00, acabado mate, de 107x310 mm.|872.5|240516|0|
+~T|SAD010|Plato de ducha acrílico modelo Daiquiri-N "ROCA", color, de 160x70 cm, con juego de desagüe, equipado con grifería termostática, serie Kendo "ROCA", modelo 5A1358A00, acabado mate, de 107x310 mm.|
+~D|SAD010
+|mt30par020u\\1
+\mt31gmo027b\\1
+\mt30www010\\1
+\mo007\\1.182
+\%\\0.02
+\|
+~C|mt30par020u|Ud|Plato de ducha acrílico modelo Daiquiri-N "ROCA", color, de 160x70 cm, con juego de desagüe.|327.05|240516|3|
+~C|mt31gmo027b|Ud|Grifería termostática para ducha, serie Kendo "ROCA", modelo 5A1358A00, acabado mate, de 107x310 mm, compuesta de mezclador termostático, posibilidad de limitar la temperatura y el caudal, sistema de seguridad antiquemaduras y equipo de ducha formado por mango de ducha, soporte y flexible de 1,70 m de latón cromado, según UNE-EN 1287.|506.05|240516|3|
+~C|mt30www010|Ud|Material auxiliar para instalación de aparato sanitario.|1.05|240516|3|
+~C|SAI010|Ud|Inodoro de porcelana sanitaria, con tanque bajo y salida para conexión vertical, serie Giralda "ROCA", color blanco, de 390x680 mm.|332.25|240516|0|
+~T|SAI010|Inodoro de porcelana sanitaria, con tanque bajo y salida para conexión vertical, serie Giralda "ROCA", color blanco, de 390x680 mm.|
+~D|SAI010
+|mt30sgr020a\\1
+\mt30lla020\\1
+\mt38tew010a\\1
+\mt30www010\\1
+\mo007\\1.289
+\%\\0.02
+\|
+~C|mt30sgr020a|Ud|Inodoro de porcelana sanitaria, con tanque bajo y salida para conexión vertical, serie Giralda "ROCA", color blanco, de 390x680 mm, asiento y tapa lacados con bisagras de acero inoxidable, mecanismo de descarga de 3/6 litros, con juego de fijación y manguito de PVC con junta, según UNE-EN 997.|284.18|240516|3|
+~C|mt30lla020|Ud|Llave de regulación de 1/2", para inodoro, acabado cromado.|14.5||3|
+~C|mt38tew010a|Ud|Latiguillo flexible de 20 cm y 1/2" de diámetro.|2.85||3|
+~C|SAB010|Ud|Bañera acrílica modelo Génova "ROCA", color blanco, de 170x70 cm, con faldón frontal, equipada con grifería termostática, serie Kendo "ROCA", modelo 5A1158A00, acabado brillo, de 190x310 mm.|1045.33|240516|0|
+~T|SAB010|Bañera acrílica modelo Génova "ROCA", color blanco, de 170x70 cm, con faldón frontal, equipada con grifería termostática, serie Kendo "ROCA", modelo 5A1158A00, acabado brillo, de 190x310 mm.|
+~D|SAB010
+|mt30bar010e\\1
+\mt30bar011d\\1
+\mt31gmo025a\\1
+\mt30dba020\\1
+\mt30www010\\1
+\mo007\\1.504
+\%\\0.02
+\|
+~C|mt30bar010e|Ud|Bañera acrílica modelo Génova "ROCA", color blanco, de 170x70 cm, con respaldo, apoyabrazos y asas integrales, según UNE-EN 198, incluso pies regulables.|140|240516|3|
+~C|mt30bar011d|Ud|Faldón frontal para bañera acrílica "ROCA", color blanco, de 170 cm.|213.84|240516|3|
+~C|mt31gmo025a|Ud|Grifería termostática para baño/ducha, serie Kendo "ROCA", modelo 5A1158A00, acabado brillo, de 190x310 mm, compuesta de mezclador termostático de baño/ducha con caño, aireador, inversor automático baño/ducha, mezclador termostático, posibilidad de limitar la temperatura y el caudal, sistema de seguridad antiquemaduras y equipo de ducha formado por mango de ducha, soporte y flexible de 1,70 m de latón cromado, según UNE-EN 1287.|564.11|240516|3|
+~C|mt30dba020|Ud|Desagüe automático de latón-cobre para bañera, acabado cromado.|78.8|240516|3|
+~C|SAL010|Ud|Lavabo sobre encimera, serie Urbi 1 "ROCA", color blanco, de 450 mm de diámetro, equipado con grifería monomando, serie Kendo "ROCA", modelo 5A3458A00, acabado cromo-brillo, de 150x382 mm y desagüe, acabado cromo.|526.89|240516|0|
+~T|SAL010|Lavabo sobre encimera, serie Urbi 1 "ROCA", color blanco, de 450 mm de diámetro, equipado con grifería monomando, serie Kendo "ROCA", modelo 5A3458A00, acabado cromo-brillo, de 150x382 mm y desagüe, acabado cromo.|
+~D|SAL010
+|mt30lpr010b\\1
+\mt31gmo020a\\1
+\mt36www005b\\1
+\mt30lla010\\2
+\mt30www010\\1
+\mo007\\1.343
+\%\\0.02
+\|
+~C|mt30lpr010b|Ud|Lavabo de porcelana sanitaria esmaltada, sobre encimera, serie Urbi 1 "ROCA", color blanco, de 450 mm de diámetro, según UNE 67001.|149.98|240516|3|
+~C|mt31gmo020a|Ud|Grifería monomando para lavabo, serie Kendo "ROCA", modelo 5A3458A00, acabado cromo-brillo, de 150x382 mm, compuesta de caño alto, aireador, fijación rápida, posibilidad de limitar la temperatura y el caudal, válvula automática de desagüe de 1¼" accionada mediante varilla vertical-horizontal y enlaces de alimentación flexibles, según UNE-EN 200.|302.86|240516|3|
+~C|mt36www005b|Ud|Acoplamiento a pared acodado con plafón, ABS, serie B, acabado cromo, para evacuación de aguas residuales (a baja y alta temperatura) en el interior de los edificios, enlace mixto de 1 1/4"x40 mm de diámetro, según UNE-EN 1329-1.|13.14|240516|3|
+~C|mt30lla010|Ud|Llave de regulación de 1/2", para lavabo o bidé, acabado cromado.|12.7|240516|3|
+~C|SNA010b|m²|Encimera de cuarzo tipo "LEVANTINA"|201.72|240516|0|
+~T|SNA010b|Encimera de aglomerado de cuarzo tipo "LEVANTINA", acabado pulido, de 2 cm de espesor, canto simple recto, con los bordes ligeramente biselados.|
+~D|SNA010b
+|mt19egl020uO\\2.1
+\mt19ewa030aaa\\4.7
+\mt19ewa020\\3.5
+\mt19egl025a\\0.047
+\mo010\\2.172
+\mo075\\2.271
+\%\\0.02
+\|
+~C|G#||Gestión de residuos|2318.9||0|
+~D|G#
+|GT#\\1
+\GR#\\1
+\|
+~C|GT#||Transporte de tierras|486.09||0|
+~D|GT#
+|GTB010\\108.502
+\|
+~C|GTB010|m³|Transporte de tierras con camión a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos, situado a una distancia máxima de 10 km.|4.35||0|
+~T|GTB010|Transporte de tierras con camión a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos, situado a una distancia máxima de 10 km.|
+~D|GTB010
+|mq04cab010c\\0.106
+\%\\0.02
+\|
+~C|GR#||Transporte de residuos inertes|1832.81||0|
+~D|GR#
+|GRA010\\1
+\GRA010b\\2
+\GRA010c\\1
+\GRA010d\\1
+\GRA010e\\1
+\GRA010f\\1
+\GRA010g\\1
+\GRA010h\\3
+\|
+~C|GRA010|Ud|Transporte de residuos inertes de hormigones, morteros y prefabricados producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|103.91||0|
+~T|GRA010|Transporte de residuos inertes de hormigones, morteros y prefabricados producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|
+~D|GRA010
+|mq04res010bg\\1.117
+\%\\0.02
+\|
+~C|mq04res010bg|Ud|Carga y cambio de contenedor de 7 m³, para recogida de residuos inertes de hormigones, morteros y prefabricados, producidos en obras de construcción y/o demolición, colocado en obra a pie de carga, incluso servicio de entrega, alquiler y coste de vertido.|91.2||2|
+~C|GRA010b|Ud|Transporte de residuos inertes de ladrillos, tejas y materiales cerámicos, producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|103.91||0|
+~T|GRA010b|Transporte de residuos inertes de ladrillos, tejas y materiales cerámicos, producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|
+~D|GRA010b
+|mq04res010cg\\1.117
+\%\\0.02
+\|
+~C|mq04res010cg|Ud|Carga y cambio de contenedor de 7 m³, para recogida de residuos inertes de ladrillos, tejas y materiales cerámicos, producidos en obras de construcción y/o demolición, colocado en obra a pie de carga, incluso servicio de entrega, alquiler y coste de vertido.|91.2||2|
+~C|GRA010c|Ud|Transporte de residuos inertes de madera producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|168.85||0|
+~T|GRA010c|Transporte de residuos inertes de madera producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|
+~D|GRA010c
+|mq04res010eg\\1.117
+\%\\0.02
+\|
+~C|mq04res010eg|Ud|Carga y cambio de contenedor de 7 m³, para recogida de residuos inertes de madera producidos en obras de construcción y/o demolición, colocado en obra a pie de carga, incluso servicio de entrega, alquiler y coste de vertido.|148.2||2|
+~C|GRA010d|Ud|Transporte de residuos inertes vítreos producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|168.85||0|
+~T|GRA010d|Transporte de residuos inertes vítreos producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|
+~D|GRA010d
+|mq04res010fg\\1.117
+\%\\0.02
+\|
+~C|mq04res010fg|Ud|Carga y cambio de contenedor de 7 m³, para recogida de residuos inertes vítreos producidos en obras de construcción y/o demolición, colocado en obra a pie de carga, incluso servicio de entrega, alquiler y coste de vertido.|148.2||2|
+~C|GRA010e|Ud|Transporte de residuos inertes plásticos producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|168.85||0|
+~T|GRA010e|Transporte de residuos inertes plásticos producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|
+~D|GRA010e
+|mq04res010gg\\1.117
+\%\\0.02
+\|
+~C|mq04res010gg|Ud|Carga y cambio de contenedor de 7 m³, para recogida de residuos inertes plásticos producidos en obras de construcción y/o demolición, colocado en obra a pie de carga, incluso servicio de entrega, alquiler y coste de vertido.|148.2||2|
+~C|GRA010f|Ud|Transporte de residuos inertes de papel y cartón, producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|168.85||0|
+~T|GRA010f|Transporte de residuos inertes de papel y cartón, producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|
+~D|GRA010f
+|mq04res010hg\\1.117
+\%\\0.02
+\|
+~C|mq04res010hg|Ud|Carga y cambio de contenedor de 7 m³, para recogida de residuos inertes de papel y cartón, producidos en obras de construcción y/o demolición, colocado en obra a pie de carga, incluso servicio de entrega, alquiler y coste de vertido.|148.2||2|
+~C|GRA010g|Ud|Transporte de residuos inertes metálicos producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|168.85||0|
+~T|GRA010g|Transporte de residuos inertes metálicos producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|
+~D|GRA010g
+|mq04res010ig\\1.117
+\%\\0.02
+\|
+~C|mq04res010ig|Ud|Carga y cambio de contenedor de 7 m³, para recogida de residuos inertes metálicos producidos en obras de construcción y/o demolición, colocado en obra a pie de carga, incluso servicio de entrega, alquiler y coste de vertido.|148.2||2|
+~C|GRA010h|Ud|Transporte de mezcla sin clasificar de residuos inertes producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|207.81||0|
+~T|GRA010h|Transporte de mezcla sin clasificar de residuos inertes producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos.|
+~D|GRA010h
+|mq04res010dg\\1.117
+\%\\0.02
+\|
+~C|mq04res010dg|Ud|Carga y cambio de contenedor de 7 m³, para recogida de mezcla sin clasificar de residuos inertes producidos en obras de construcción y/o demolición, colocado en obra a pie de carga, incluso servicio de entrega, alquiler y coste de vertido.|182.4||2|
+~C|X#||Control de calidad y ensayos|1367.72||0|
+~D|X#
+|XE#\\1
+\XM#\\1
+\|
+~C|XE#||Estructuras de hormigón|1075.62||0|
+~D|XE#
+|XEB010\\3
+\XEB020\\6
+\XEM010\\1
+\XEM020\\1
+\XEH010\\3
+\|
+~C|XEB010|Ud|Ensayo sobre una muestra de barras de acero corrugado de un mismo lote, con determinación de: sección media equivalente, características geométricas del corrugado, doblado/desdoblado.|84.39||0|
+~T|XEB010|Ensayo sobre una muestra de barras de acero corrugado de un mismo lote, con determinación de: sección media equivalente, características geométricas del corrugado, doblado/desdoblado.|
+~D|XEB010
+|mt49arb040\\1
+\mt49arb010\\1
+\mt49arb020\\1
+\%\\0.02
+\|
+~C|mt49arb040|Ud|Ensayo para determinar la sección media equivalente sobre una muestra de dos barras de acero corrugado del mismo lote, según UNE-EN ISO 15630-1, incluso desplazamiento a obra, toma de muestra e informe de resultados.|26.59||3|
+~C|mt49arb010|Ud|Ensayo para determinar las características geométricas del corrugado sobre una muestra de dos barras de acero corrugado del mismo lote, según UNE-EN 10080, incluso desplazamiento a obra, toma de muestra e informe de resultados.|39.28||3|
+~C|mt49arb020|Ud|Ensayo para determinar la presencia o ausencia de grietas mediante doblado/desdoblado sobre una muestra de dos barras de acero corrugado del mismo lote, según UNE-EN ISO 15630-1, incluso desplazamiento a obra, toma de muestra e informe de resultados.|16.87||3|
+~C|XEB020|Ud|Ensayo sobre una muestra de barras de acero corrugado de cada diámetro, con determinación de características mecánicas.|53.93||0|
+~T|XEB020|Ensayo sobre una muestra de barras de acero corrugado de cada diámetro, con determinación de características mecánicas.|
+~D|XEB020
+|mt49arb050\\1
+\%\\0.02
+\|
+~C|mt49arb050|Ud|Ensayo para determinar las siguientes características mecánicas: el límite elástico, la carga de rotura, el alargamiento de rotura y el alargamiento bajo carga máxima sobre una muestra de una barra de acero corrugado de cada diámetro diferente según UNE-EN ISO 15630-1, incluso desplazamiento a obra, toma de muestra e informe de resultados.|52.87||3|
+~C|XEM010|Ud|Ensayo sobre una muestra de mallas electrosoldadas con determinación de: sección media equivalente, características geométricas del corrugado, doblado/desdoblado, carga de despegue.|138.21||0|
+~T|XEM010|Ensayo sobre una muestra de mallas electrosoldadas con determinación de: sección media equivalente, características geométricas del corrugado, doblado/desdoblado, carga de despegue.|
+~D|XEM010
+|mt49arm040\\1
+\mt49arm010\\1
+\mt49arm020\\1
+\mt49arm050\\1
+\%\\0.02
+\|
+~C|mt49arm040|Ud|Ensayo para determinar la sección media equivalente sobre una muestra de dos mallas electrosoldadas del mismo lote, según UNE-EN ISO 15630-2, incluso desplazamiento a obra, toma de muestra e informe de resultados.|26.59||3|
+~C|mt49arm010|Ud|Ensayo para determinar las características geométricas del corrugado sobre una muestra de cuatro mallas electrosoldadas del mismo lote, según UNE-EN 10080, incluso desplazamiento a obra, toma de muestra e informe de resultados.|39.28||3|
+~C|mt49arm020|Ud|Ensayo para determinar la presencia o ausencia de grietas mediante doblado/desdoblado sobre una muestra de dos mallas electrosoldadas del mismo lote, según UNE-EN ISO 15630-2, incluso desplazamiento a obra, toma de muestra e informe de resultados.|16.87||3|
+~C|mt49arm050|Ud|Ensayo para determinar la carga de despegue de los nudos sobre una muestra de dos mallas electrosoldadas del mismo lote, según UNE-EN ISO 15630-2, incluso desplazamiento a obra, toma de muestra e informe de resultados.|52.76||3|
+~C|XEM020|Ud|Ensayo sobre una muestra de una malla electrosoldada de cada diámetro, con determinación de características mecánicas.|53.93||0|
+~T|XEM020|Ensayo sobre una muestra de una malla electrosoldada de cada diámetro, con determinación de características mecánicas.|
+~D|XEM020
+|mt49arm060\\1
+\%\\0.02
+\|
+~C|mt49arm060|Ud|Ensayo para determinar las siguientes características mecánicas: el límite elástico, la carga de rotura, el alargamiento de rotura y el alargamiento bajo carga máxima sobre una muestra de una malla electrosoldada de cada diámetro diferente según UNE-EN ISO 15630-2, incluso desplazamiento a obra, toma de muestra e informe de resultados.|52.87||3|
+~C|XEH010|Ud|Ensayo sobre una muestra de hormigón sin D.O.R. con determinación de: consistencia del hormigón fresco mediante el método de asentamiento del cono de Abrams y resistencia característica a compresión del hormigón endurecido mediante control estadístico con fabricación de seis probetas, curado, refrentado y rotura a compresión.|91.8||0|
+~T|XEH010|Ensayo sobre una muestra de hormigón sin D.O.R. con determinación de: consistencia del hormigón fresco mediante el método de asentamiento del cono de Abrams y resistencia característica a compresión del hormigón endurecido mediante control estadístico con fabricación de seis probetas, curado, refrentado y rotura a compresión.|
+~D|XEH010
+|mt49hob020g\\1
+\%\\0.02
+\|
+~C|mt49hob020g|Ud|Ensayo para determinar la consistencia del hormigón fresco mediante el método de asentamiento del cono de Abrams según UNE-EN 12350-2 y la resistencia característica a compresión del hormigón endurecido mediante control estadístico con fabricación y curado de seis probetas cilíndricas de 15x30 cm del mismo lote según UNE-EN 12390-2, con refrentado y rotura a compresión según UNE-EN 12390-3, incluso desplazamiento a obra, toma de muestra de hormigón fresco según UNE-EN 12350-1 e informe de resultados.|90||3|
+~C|XM#||Estructuras metálicas|292.1||0|
+~D|XM#
+|XMP030\\1
+\XMS010\\1
+\XMS020\\1
+\|
+~C|XMP030|Ud|Ensayo sobre una muestra de perfil laminado, con determinación del espesor del recubrimiento.|183.76||0|
+~T|XMP030|Ensayo sobre una muestra de perfil laminado, con determinación del espesor del recubrimiento.|
+~D|XMP030
+|mt49des010\\1
+\mt49pma020\\1
+\mt49rpl010\\1
+\mt49rpl020\\1
+\%\\0.02
+\|
+~C|mt49des010|Ud|Repercusión de desplazamiento a obra para la toma de muestras.|0.74||3|
+~C|mt49pma020|Ud|Toma en obra de muestras de perfil laminado en estructura metálica, cuyo peso no exceda de 50 kg.|32.02||3|
+~C|mt49rpl010|Ud|Ensayo para determinar el espesor del recubrimiento de una muestra de perfil laminado en estructura metálica, según UNE-EN ISO 2808.|51.34||3|
+~C|mt49rpl020|Ud|Informe de resultados de los ensayos realizados sobre el recubrimiento de una muestra de perfil laminado en estructura metálica.|96.06||3|
+~C|XMS010|Ud|Inspección visual sobre una unión soldada.|63.73||0|
+~T|XMS010|Inspección visual sobre una unión soldada.|
+~D|XMS010
+|mt49sld010\\1
+\%\\0.02
+\|
+~C|mt49sld010|Ud|Inspección visual sobre una unión soldada, según UNE-EN ISO 17637, incluso desplazamiento a obra e informe de resultados.|62.48||3|
+~C|XMS020|Ud|Ensayo no destructivo sobre una unión soldada, mediante partículas magnéticas.|36.11||0|
+~T|XMS020|Ensayo no destructivo sobre una unión soldada, mediante partículas magnéticas.|
+~D|XMS020
+|mt49sld050\\1
+\%\\0.02
+\|
+~C|mt49sld050|Ud|Ensayo no destructivo sobre una unión soldada, mediante partículas magnéticas, según UNE-EN ISO 17638, incluso desplazamiento a obra e informe de resultados.|35.4||3|
+~C|Y#||Seguridad y salud|2572.24||0|
+~D|Y#
+|SSS\\1
+\|
+~C|SSS|Ud|SEGURIDAD Y SALUD|2497.32|080515|0|
+~T|SSS|SEGURIDAD Y SALUD|
+~C|U#||Urbanización interior de la parcela|6653.45||0|
+~D|U#
+|UA#\\1
+\UJ#\\1
+\UR#\\1
+\UV#\\1
+\|
+~C|UA#||Alcantarillado|2366.88||0|
+~D|UA#
+|ASA010b\\1
+\ASB010b\\2
+\ASB020b\\1
+\ASI020b\\1
+\ASC010\\35
+\UAA010\\4
+\UAI010\\3
+\|
+~C|ASA010b|Ud|Arqueta sifónica, de hormigón en masa "in situ", registrable, de dimensiones interiores 60x60x60 cm, con marco y tapa de fundición.|148.78||0|
+~T|ASA010b|Arqueta sifónica, de hormigón en masa "in situ", registrable, de dimensiones interiores 60x60x60 cm, con marco y tapa de fundición.|
+~D|ASA010b
+|mt10hmf010kn\\0.122
+\mt11ppl030a\\1
+\mt08epr030c\\0.05
+\mt10hmf010kn\\0.207
+\mt11tfa010c\\1
+\mo019\\1.254
+\mo105\\0.9
+\%\\0.02
+\|
+~C|mt10hmf010kn|m³|Hormigón HM-30/B/20/I+Qb, fabricado en central, con cemento SR.|86.4||3|
+~C|mt11ppl030a|Ud|Codo 87°30' de PVC liso, D=125 mm.|7.05||3|
+~C|mt08epr030c|Ud|Encofrado para formación de arquetas de sección cuadrada de 60x60x60 cm, realizado con chapas metálicas reutilizables, incluso p/p de accesorios de montaje.|368.07||3|
+~C|mt11tfa010c|Ud|Marco y tapa de fundición, 60x60 cm, para arqueta registrable, clase B-125 según UNE-EN 124.|55.66||3|
+~C|ASB010b|m|Acometida general de saneamiento a la red general del municipio, de PVC liso, serie SN-4, rigidez anular nominal 4 kN/m², de 160 mm de diámetro, pegado mediante adhesivo.|59.1||0|
+~T|ASB010b|Acometida general de saneamiento a la red general del municipio, de PVC liso, serie SN-4, rigidez anular nominal 4 kN/m², de 160 mm de diámetro, pegado mediante adhesivo.|
+~D|ASB010b
+|mt01ara010\\0.346
+\mt11tpb030c\\1.05
+\mt11var009\\0.063
+\mt11var010\\0.031
+\mt10hmf010Mp\\0.084
+\mq05pdm010b\\0.59
+\mq05mai030\\0.59
+\mq01ret020b\\0.033
+\mq02rop020\\0.244
+\mo019\\1.044
+\mo104\\0.522
+\mo007\\0.121
+\mo099\\0.121
+\%\\0.04
+\|
+~C|mt11tpb030c|m|Tubo de PVC liso, para saneamiento enterrado sin presión, serie SN-4, rigidez anular nominal 4 kN/m², de 160 mm de diámetro exterior y 4 mm de espesor, según UNE-EN 1401-1.|6.59||3|
+~C|mq02rop020|h|Pisón vibrante de guiado manual, de 80 kg, con placa de 30x30 cm, tipo rana.|3.5||2|
+~C|mo104|h|Peón especializado construcción.|16.65||1|
+~C|ASB020b|Ud|Conexión de la acometida del edificio a la red general de saneamiento del municipio.|181.91||0|
+~T|ASB020b|Conexión de la acometida del edificio a la red general de saneamiento del municipio.|
+~D|ASB020b
+|mt09mor010c\\0.065
+\mt11var200\\1
+\mq05pdm110\\1.087
+\mq05mai030\\2.174
+\mo019\\3.28
+\mo104\\4.92
+\%\\0.02
+\|
+~C|mt11var200|Ud|Material para ejecución de junta flexible en el empalme de la acometida al pozo de registro.|15.5||3|
+~C|mq05pdm110|h|Compresor portátil diesel media presión 10 m³/min.|6.92||2|
+~C|ASI020b|Ud|Sumidero sifónico de PVC, de salida vertical de 75 mm de diámetro, con rejilla de PVC de 200x200 mm.|19.92||0|
+~T|ASI020b|Sumidero sifónico de PVC, de salida vertical de 75 mm de diámetro, con rejilla de PVC de 200x200 mm.|
+~D|ASI020b
+|mt11sup030a\\1
+\mt11var020\\1
+\mo007\\0.341
+\%\\0.02
+\|
+~C|mt11sup030a|Ud|Sumidero sifónico de PVC, de salida vertical de 75 mm de diámetro, con rejilla de PVC de 200x200 mm.|12.65||3|
+~C|mt11var020|Ud|Material auxiliar para saneamiento.|0.75||3|
+~C|ASC010|m|Colector enterrado de saneamiento, con arquetas (no incluidas en este precio), de PVC liso, serie SN-4, rigidez anular nominal 4 kN/m², de 160 mm de diámetro, pegado mediante adhesivo.|22.57|230516|0|
+~T|ASC010|Colector enterrado de saneamiento, con arquetas (no incluidas en este precio), de PVC liso, serie SN-4, rigidez anular nominal 4 kN/m², de 160 mm de diámetro, pegado mediante adhesivo.|
+~D|ASC010
+|mt01ara010\\0.346
+\mt11tpb030c\\1.05
+\mt11var009\\0.063
+\mt11var010\\0.031
+\mq04dua020b\\0.032
+\mq02rop020\\0.236
+\mq02cia020j\\0.003
+\mo019\\0.121
+\mo105\\0.186
+\mo007\\0.132
+\mo099\\0.066
+\%\\0.02
+\|
+~C|UAA010|Ud|Arqueta de paso, de obra de fábrica, registrable, de dimensiones interiores 50x50x50 cm, con tapa prefabricada de hormigón armado.|145.55||0|
+~T|UAA010|Arqueta de paso, de obra de fábrica, registrable, de dimensiones interiores 50x50x50 cm, con tapa prefabricada de hormigón armado.|
+~D|UAA010
+|mt10hmf010kn\\0.182
+\mt04lma010a\\100
+\mt09mor010c\\0.037
+\mt11var110\\1
+\mt09mor010f\\0.019
+\mt11var100\\1
+\mt11arf010b\\1
+\mo040\\1.713
+\mo082\\1.221
+\%\\0.02
+\|
+~C|mt04lma010a|Ud|Ladrillo cerámico macizo de elaboración mecánica para revestir, 25x12x5 cm, según UNE-EN 771-1.|0.38||3|
+~C|mt11var110|Ud|Conjunto de piezas de PVC para realizar en el fondo de la arqueta de paso los cauces correspondientes.|5.95||3|
+~C|mt11var100|Ud|Conjunto de elementos necesarios para garantizar el cierre hermético al paso de olores mefíticos en arquetas de saneamiento, compuesto por: angulares y chapas metálicas con sus elementos de fijación y anclaje, junta de neopreno, aceite y demás accesorios.|8.25||3|
+~C|mt11arf010b|Ud|Tapa de hormigón armado prefabricada, 60x60x5 cm.|17.5||3|
+~C|UAI010|m|Sumidero longitudinal de fábrica, de 200 mm de ancho interior y 400 mm de alto, con rejilla de acero galvanizado, clase A-15 según UNE-EN 124 y UNE-EN 1433.|152.29||0|
+~T|UAI010|Sumidero longitudinal de fábrica, de 200 mm de ancho interior y 400 mm de alto, con rejilla de acero galvanizado, clase A-15 según UNE-EN 124 y UNE-EN 1433.|
+~D|UAI010
+|mt10hmf010Mm\\0.858
+\mt04lma010a\\74
+\mt09mor010c\\0.028
+\mt09mor010f\\0.016
+\mt11rej020a\\2
+\mt11var120a\\0.2
+\mo040\\1.543
+\mo082\\0.772
+\%\\0.02
+\|
+~C|mt11rej020a|Ud|Marco y rejilla de acero galvanizado, de 200 mm de ancho y 500 mm de longitud, para canaleta de 200 mm de ancho interior y 400 mm de alto, clase A-15 según UNE-EN 124 y UNE-EN 1433.|8.44||3|
+~C|mt11var120a|Ud|Sifón en línea de PVC, color gris, registrable, con unión macho/hembra, de 110 mm de diámetro.|28.2||3|
+~C|UJ#||Jardinería|508.66||0|
+~D|UJ#
+|UXE035\\22.81
+\|
+~C|UXE035|m²|Estabilización de caminos y senderos, mediante aporte de una capa superficial|21.65|240516|0|
+~T|UXE035|Estabilización de caminos y senderos, mediante aporte de una capa superficial de 10 cm de espesor, acabado suelto, de mezcla de arena y estabilizante y consolidante de terrenos, Stabex "FYM ITALCEMENTI GROUP", a base de cal hidráulica natural, extendida, nivelada y compactada con medios mecánicos hasta alcanzar una densidad seca no inferior al 95% de la máxima obtenida en el ensayo Proctor Modificado, previa preparación de la superficie, y posterior retirada y carga a camión de los restos y desechos, sin incluir transporte a vertedero autorizado.|
+~D|UXE035
+|mt01ara010\\0.09
+\mt28mit040a\\13
+\mq01pan010a\\0.017
+\mq09tra010\\0.011
+\mq04dua020b\\0.002
+\mq02rov010i\\0.033
+\mq02cia020j\\0.002
+\mo040\\0.28
+\mo082\\0.369
+\%\\0.02
+\|
+~C|mt28mit040a|kg|Estabilizante y consolidante de terrenos, Stabex "FYM ITALCEMENTI GROUP", a base de cal hidráulica natural, suministrada en sacos de 35 kg, para estabilización de caminos y senderos.|0.45|240516|3|
+~C|mq01pan010a|h|Pala cargadora sobre neumáticos de 120 kW/1,9 m³.|40.23|240516|2|
+~C|mq09tra010|h|Tractor agrícola, de 50 CV, equipado con rotovator.|39.5|240516|2|
+~C|mq02rov010i|h|Compactador monocilíndrico vibrante autopropulsado, de 129 kW, de 16,2 t, anchura de trabajo 213,4 cm.|62.3|240516|2|
+~C|UR#||Riego|547.07||0|
+~D|UR#
+|URD010\\40
+\URE010\\3
+\|
+~C|URD010|m|Tubería de abastecimiento y distribución de agua de riego formada por tubo de polietileno PE 40 de color negro con bandas azules, de 20 mm de diámetro exterior y 2,8 mm de espesor, PN=10 atm, enterrada.|4.13||0|
+~T|URD010|Tubería de abastecimiento y distribución de agua de riego formada por tubo de polietileno PE 40 de color negro con bandas azules, de 20 mm de diámetro exterior y 2,8 mm de espesor, PN=10 atm, enterrada.|
+~D|URD010
+|mt01ara010\\0.088
+\mt37tpa030ac\\1
+\mo040\\0.053
+\mo082\\0.053
+\%\\0.02
+\|
+~C|mt37tpa030ac|m|Tubo de polietileno PE 40 de color negro con bandas azules, de 20 mm de diámetro exterior y 2,8 mm de espesor, PN=10 atm, según UNE-EN 12201-2, con el precio incrementado el 10% en concepto de accesorios y piezas especiales.|1.19||3|
+~C|URE010|Ud|Boca de riego de fundición, con racor de salida roscado macho de 1 1/2" de diámetro.|122.03||0|
+~T|URE010|Boca de riego de fundición, con racor de salida roscado macho de 1 1/2" de diámetro.|
+~D|URE010
+|mt48wwg100a\\1
+\mt37tpa012d\\1
+\mt37tpa030da\\1
+\mo007\\0.336
+\mo099\\0.336
+\%\\0.02
+\|
+~C|mt48wwg100a|Ud|Boca de riego, formada por cuerpo y tapa de fundición con cerradura de cuadradillo, brida de entrada, llave de corte y racor de salida roscado macho de latón de 1 1/2" de diámetro.|102.05||3|
+~C|mt37tpa012d|Ud|Collarín de toma en carga de PP, para tubo de polietileno, de 40 mm de diámetro exterior, según UNE-EN ISO 15874-3.|1.86||3|
+~C|mt37tpa030da|m|Tubo de polietileno PE 40 de color negro con bandas azules, de 40 mm de diámetro exterior y 5,5 mm de espesor, PN=10 atm, según UNE-EN 12201-2.|4.09||3|
+~C|UV#||Cerramientos exteriores|3230.84||0|
+~D|UV#
+|UVM020\\4.25
+\UVT010b\\59.61
+\UVP020\\1
+\UVP010c\\1
+\|
+~C|UVM020|m|Muro de cerramiento, continuo, de 0.5 m de altura y 20 cm de espesor de hormigón hormigón HA-25/B/20/IIa fabricado en central, armado con malla electrosoldada ME 15x15 Ø 8-8 B 500 T 6x2,20 UNE-EN 10080, encofrado metálico con acabado visto.|73.79||0|
+~T|UVM020|Muro de cerramiento, continuo, de 0.5 m de altura y 20 cm de espesor de hormigón hormigón HA-25/B/20/IIa fabricado en central, armado con malla electrosoldada ME 15x15 Ø 8-8 B 500 T 6x2,20 UNE-EN 10080, encofrado metálico con acabado visto.|
+~D|UVM020
+|mt07aco020d\\2.4
+\mt08eme030c\\2
+\mt07ame010l\\1.1
+\mt08var040a\\1
+\mt10haf010nea\\0.158
+\mo041\\0.383
+\mo084\\0.383
+\%\\0.02
+\|
+~C|mt07aco020d|Ud|Separador homologado para muros.|0.06||3|
+~C|mt08eme030c|m²|Sistema de encofrado a dos caras, para muros, formado por paneles metálicos modulares, hasta 3 m de altura, incluso p/p de elementos para paso de instalaciones.|21.31||3|
+~C|mt07ame010l|m²|Malla electrosoldada ME 15x15 Ø 8-8 B 500 T 6x2,20 UNE-EN 10080.|4.69||3|
+~C|mt08var040a|Ud|Berenjeno de PVC, de 15x19 mm y 2500 mm de longitud, para biselado de cantos en elementos de hormigón.|0.39||3|
+~C|UVT010b|m|Cerramiento de parcela formado por malla de simple torsión, de 8 mm de paso de malla y 1,1 mm de diámetro, acabado galvanizado y montantes de postes de acero galvanizado, de 48 mm de diámetro y 2 m de altura.|17.01|250516|0|
+~T|UVT010b|Cerramiento de parcela formado por malla de simple torsión, de 8 mm de paso de malla y 1,1 mm de diámetro, acabado galvanizado y montantes de postes de acero galvanizado, de 48 mm de diámetro y 2 m de altura.|
+~D|UVT010b
+|mt52vst030e\\0.22
+\mt52vst030m\\0.06
+\mt52vst030u\\0.04
+\mt52vst030C\\0.2
+\mt52vst010aa\\2.4
+\mt10hmf010Mm\\0.015
+\mo105\\0.113
+\mo010\\0.102
+\mo075\\0.102
+\%\\0.03
+\|
+~C|mt52vst030e|Ud|Poste intermedio de tubo de acero galvanizado de 48 mm de diámetro y 1,5 mm de espesor, altura 2 m.|11.23|250516|3|
+~C|mt52vst030m|Ud|Poste interior de refuerzo de tubo de acero galvanizado de 48 mm de diámetro y 1,5 mm de espesor, altura 2 m.|11.92|250516|3|
+~C|mt52vst030u|Ud|Poste extremo de tubo de acero galvanizado de 48 mm de diámetro y 1,5 mm de espesor, altura 2 m.|14.41|250516|3|
+~C|mt52vst030C|Ud|Poste en escuadra de tubo de acero galvanizado de 48 mm de diámetro y 1,5 mm de espesor, altura 2 m.|15.49|250516|3|
+~C|UVP020|Ud|Puerta de paso de 1x2 m constituida por malla de simple torsión con acabado galvanizado en caliente de 8 mm de paso de malla y 1,1 mm de diámetro.|129.54|250516|0|
+~T|UVP020|Puerta de paso de 1x2 m constituida por malla de simple torsión con acabado galvanizado en caliente de 8 mm de paso de malla y 1,1 mm de diámetro.|
+~D|UVP020
+|mt10hmf010Mm\\0.1
+\mt52vst040\\1
+\mt52vst010aa\\2.05
+\mo040\\0.226
+\mo082\\0.226
+\mo017\\0.792
+\mo054\\0.792
+\%\\0.02
+\|
+~C|mt52vst040|Ud|Puerta de paso constituida por cercos de tubo metálico de 40x20x1,5 mm y 30x15x1,5 mm, y bastidor de tubo de 40x40x1,5 mm con pletina de 40x4 mm para sujeción de malla de simple torsión.|82.95|250516|3|
+~C|UVP010c|Ud|Puerta cancela metálica de malla de simple torsión con acabado galvanizado en caliente de 8 mm de paso de malla y 1,1 mm de diámetro, de hoja corredera, dimensiones 400x200 cm, para acceso de vehículos, apertura automática.|1679.65|260516|0|
+~T|UVP010c|Puerta cancela metálica de malla de simple torsión con acabado galvanizado en caliente de 8 mm de paso de malla y 1,1 mm de diámetro, de hoja corredera, dimensiones 400x200 cm, para acceso de vehículos, apertura automática.|
+~D|UVP010c
+|mt10hmf010Nm\\0.12
+\mt09mor010e\\0.08
+\mt52vpc010f\\8
+\mt52vpe010b\\1
+\mo040\\2.127
+\mo082\\2.127
+\mo017\\0.95
+\mo054\\0.95
+\mo002\\2.263
+\%\\0.02
+\|
+~C|mt10hmf010Nm|m³|Hormigón HM-25/B/20/I, fabricado en central.|25.46|260516|3|
+~C|mt09mor010e|m³|Mortero de cemento CEM II/B-P 32,5 N tipo M-10, confeccionado en obra con 380 kg/m³ de cemento y una proporción en volumen 1/4.|53.32|260516|3|
+~C|mt52vpc010f|m²|Puerta cancela metálica en valla exterior, para acceso de vehículos, hoja corredera, carpintería metálica con p/p de pórtico lateral de sustentación y tope de cierre, guía inferior con UPN 100 y cuadradillo macizo de 25x25 mm, ruedas de deslizamiento de 20 mm con rodamiento de engrase permanente, elementos de anclaje, herrajes de seguridad y cierre, acabado con imprimación antioxidante y accesorios. Según UNE 85102 y UNE-EN 13241-1.|110.25|260516|3|
+~C|mt52vpe010b|Ud|Equipo electromecánico para apertura y cierre automático de hoja corredera.|611.53|260516|3|
+~C|UPb#||Piscina y Pasarela|34035.43|240516|0|
+~D|UPb#
+|ADD010\\0
+\UPC010b\\1
+\UPC020b\\1
+\UPD010\\1
+\UPE010b\\1
+\UPG010\\69.32
+\UPT010b\\97.51
+\FVS010b\\5.194
+\EHE010\\7.58
+\ANE010\\49.93
+\CRL010b\\50.06
+\ANS010\\49.93
+\UXS010\\19.66
+\EAV010b\\609.856
+\EAS005b\\2
+\EAS010b\\165.984
+\UVT010c\\14.66
+\prfv\\7
+\GTB010b\\100.271
+\|
+~C|ADD010|m³|Desmonte en terreno de tránsito, con empleo de medios mecánicos.|3.43|280516|0|
+~T|ADD010|Desmonte en terreno de tránsito, con empleo de medios mecánicos.|
+~D|ADD010
+|mq01pan010a\\0.079
+\mo105\\0.011
+\%\\0.02
+\|
+~C|UPC010b|Ud|Equipo automático de clorado y sulfatado de agua con bomba dosificadora, para piscina.|2071.75||0|
+~T|UPC010b|Equipo automático de clorado y sulfatado de agua con bomba dosificadora, para piscina.|
+~D|UPC010b
+|mt47pec010\\1
+\mt47pec020\\1
+\mt47pec030\\1
+\mt47pec040\\1
+\mo007\\1.969
+\mo099\\1.969
+\%\\0.02
+\|
+~C|mt47pec010|Ud|Regulador de cloro-pH.|1265.49||3|
+~C|mt47pec020|Ud|Bomba dosificadora electrónica de sulfato de alúmina, incluso accesorios.|608.22||3|
+~C|mt47pec030|Ud|Depósito de polietileno de 200 litros.|50.29||3|
+~C|mt47pec040|Ud|Tubos, accesorios y material auxiliar.|38.93||3|
+~C|UPC020b|Ud|Cuadro eléctrico de mando y protección para piscina de 12x6x1,5 m (volumen 108 m³).|391.56||0|
+~T|UPC020b|Cuadro eléctrico de mando y protección para piscina de 12x6x1,5 m (volumen 108 m³).|
+~D|UPC020b
+|mt47pec050c\\1
+\mo002\\1.969
+\mo094\\1.969
+\%\\0.02
+\|
+~C|mt47pec050c|Ud|Cuadro eléctrico de mando y protección para piscina de 12x6x1,5 m (volumen 108 m³) con las protecciones necesarias para alimentar a todos los equipos eléctricos y conexión de tierra.|315.68||3|
+~C|UPD010|Ud|Equipo completo de depuración para piscina de 9x2x1,5 m (volumen 27 m³).|3936.4|260516|0|
+~T|UPD010|Equipo completo de depuración para piscina de 8x4x1,5 m (volumen 48 m³).|
+~D|UPD010
+|mt47ped010a\\1
+\mt47ped020a\\1
+\mt47ped030\\2
+\mt47ped040\\3
+\mt47ped050\\1
+\mt47ped070\\1
+\mo007\\18.597
+\mo099\\18.597
+\mo002\\2.188
+\mo094\\2.188
+\%\\0.02
+\|
+~C|mt47ped010a|Ud|Equipo de filtración completo para piscina de 8x4x1,5 m (volumen 48 m³).|2305.21|260516|3|
+~C|mt47ped020a|Ud|Circuito de tuberías, válvulas y accesorios para piscina de 8x4x1,5 m (volumen 48 m³).|496.02|260516|3|
+~C|mt47ped030|Ud|Skimmer construido en ABS color blanco con tapa cuadrada a presión, flotador de compuerta y clapeta para regulación de caudal, incluso conexión inferior de aspiración, conexión simultánea al sumidero, conexión superior de evacuación de agua sobrante y cesto recogehojas fijado a la base mediante cierre por bayoneta.|47.99||3|
+~C|mt47ped040|Ud|Boquilla de impulsión construida en ABS color blanco con rosca interior de 2" de diámetro.|7.45||3|
+~C|mt47ped050|Ud|Sumidero de fondo antitorbellino, de poliéster, de 110 mm de diámetro de salida, con placa embellecedora de acero inoxidable.|213.36||3|
+~C|mt47ped070|Ud|Bridas, juntas y material auxiliar.|6.31||3|
+~C|UPE010b|Ud|Escalera con pasamanos de acero inoxidable en piscinas.|379.63||0|
+~T|UPE010b|Escalera con pasamanos de acero inoxidable en piscinas.|
+~D|UPE010b
+|mt35ttc010b\\6
+\mt35tte030a\\1
+\mt47pep010e\\1
+\mt09moe040\\2
+\mt35www020\\2
+\mo002\\1.313
+\mo094\\1.313
+\mo040\\2.188
+\mo082\\2.188
+\%\\0.02
+\|
+~C|mt35tte030a|Ud|Placa de acero galvanizado para toma de tierra, de 500x500x3 mm, con borne de unión.|32.5||3|
+~C|mt47pep010e|Ud|Escalera para salida de piscina realizada con tubo de 43 mm de diámetro de acero inoxidable AISI-304, acabado pulido brillante, con 4 peldaños y pasamanos simétrico, incluso pletinas de fijación, juntas elásticas, tacos de anclaje, tornillos y embellecedores.|193.48||3|
+~C|mt09moe040|Ud|Mortero expansivo.|3.5||3|
+~C|UPG010|m²|Hormigón proyectado gunitado de 20 cm|108.44|260516|0|
+~T|UPG010|Hormigón proyectado gunitado de 20 cm de espesor y fraguado rápido, con doble malla electrosoldada ME 15x15 Ø 6-6 B 500 T 6x2,20 UNE-EN 10080, para la formación de solera y muros del vaso monolítico en piscinas. Con un 35 % de zonas a encofrar, incluidos berenjenos, según planos.|
+~D|UPG010
+|mt01zah010c\\0.05
+\mt47pgu020a\\0.35
+\mt07ame010g\\2.2
+\mt01arr010b\\0.15
+\mt47pgu010b\\0.21
+\mq06gun010\\0.971
+\mo019\\0.744
+\mo072\\0.744
+\mo105\\0.372
+\%\\0.03
+\|
+~C|mt01zah010c|t|Zahorra de machaqueo o artificial, cantera caliza.|9.47||3|
+~C|mt47pgu020a|m²|Encofrado perdido de fábrica de ladrillo cerámico hueco de 24x11,5x7 cm.|19.64||3|
+~C|mt07ame010g|m²|Malla electrosoldada ME 15x15 Ø 6-6 B 500 T 6x2,20 UNE-EN 10080.|2.9|260516|3|
+~C|mt01arr010b|t|Grava de cantera, de 20 a 30 mm de diámetro.|7.23||3|
+~C|mt47pgu010b|m³|Hormigón para gunitar, cemento y áridos especiales, HA-30/F/12/IV, dosificación de cemento mayor de 400 kg/m³.|221.5||3|
+~C|mq06gun010|h|Gunitadora de hormigón 24 CV.|12.98||2|
+~C|UPT010b|m²|Revestimiento de mosaico de gres esmaltado, color dorado, acabado liso, formado por teselas de 50x50x6 mm, en vasos de piscina.|46.42||0|
+~T|UPT010b|Revestimiento de mosaico de gres esmaltado, color dorado, acabado liso, formado por teselas de 50x50x6 mm, en vasos de piscina.Revestimiento de mosaico de gres esmaltado, color azul, acabado liso, formado por teselas de 50x50x6 mm, en vasos de piscina.|
+~D|UPT010b
+|mt18bdk015aa\\1
+\mt09mor010f\\0.03
+\mt47pre010\\1
+\mt09mcr021r\\4
+\mt09mcr080a\\0.5
+\mo023\\0.708
+\mo057\\0.517
+\%\\0.03
+\|
+~C|mt18bdk015aa|m²|Mosaico de gres esmaltado, color azul, acabado liso, formado por teselas de 50x50x6 mm, montadas sobre piezas de malla de 299x299 mm.|11.34||3|
+~C|mt47pre010|Ud|Material complementario para revestimiento de piscinas.|0.75||3|
+~C|mt09mcr021r|kg|Adhesivo cementoso mejorado, C2 TE, con deslizamiento reducido y tiempo abierto ampliado, según UNE-EN 12004, color blanco.|0.67||3|
+~C|mt09mcr080a|kg|Mortero de juntas de resinas reactivas RG, para junta abierta entre 3 y 15 mm, según UNE-EN 13888.|9.75||3|
+~C|mo023|h|Oficial 1ª alicatador.|17.39||1|
+~C|mo057|h|Ayudante alicatador.|16.69||1|
+~C|FVS010b|m²|Vidrio laminar de seguridad 19+19+19 mm, butiral de polivinilo incoloro.|862.6|260516|0|
+~T|FVS010b|Vidrio laminar de seguridad 10+10 mm, butiral de polivinilo incoloro.|
+~D|FVS010b
+|mt21ves010f\\1.006
+\mt21vva015\\0.29
+\mt21vva021\\1
+\mo051\\5.658
+\mo102\\5.658
+\%\\0.02
+\|
+~C|mt21ves010f|m²|Vidrio laminar de seguridad compuesto por dos lunas de 10 mm de espesor unidas mediante una lámina de butiral de polivinilo incoloro, según UNE-EN ISO 12543-2 y UNE-EN 14449.|613.14|260516|3|
+~C|mt21vva015|Ud|Cartucho de silicona sintética incolora de 310 ml (rendimiento aproximado de 12 m por cartucho).|25.41|260516|3|
+~C|mt21vva021|Ud|Material auxiliar para la colocación de vidrios.|13.23|260516|3|
+~C|mo051|h|Oficial 1ª cristalero.|18.78|260516|1|
+~C|mo102|h|Ayudante cristalero.|18.03|260516|1|
+~C|EHE010|m²|Losa de escalera de hormigón armado|121.15|260516|0|
+~T|EHE010|Losa de escalera de hormigón armado, e=15 cm, con peldañeado de hormigón, realizada con hormigón HA-25/P/20/IIa fabricado en central, y vertido con cubilote, y acero UNE-EN 10080 B 500 S, 18 kg/m²; montaje y desmontaje de sistema de encofrado recuperable de madera.|
+~D|EHE010
+|mt08eve010\\1.4
+\mt08eve020\\0.9
+\mt07aco020f\\3
+\mt07aco010c\\18
+\mt10haf010nfa\\0.242
+\mo041\\0.701
+\mo084\\0.701
+\%\\0.02
+\|
+~C|mt08eve010|m²|Sistema de encofrado para losas inclinadas de escalera de hormigón armado, a una altura hasta 3 m, con puntales, sopandas y tableros de madera.|32|260516|3|
+~C|mt08eve020|m²|Sistema de encofrado para formación de peldañeado en losas inclinadas de escalera de hormigón armado, con puntales y tableros de madera.|17.4|260516|3|
+~C|mt10haf010nfa|m³|Hormigón HA-25/P/20/IIa, fabricado en central.|61.95|260516|3|
+~C|ANE010|m²|Encachado de 20 cm en caja para base de solera, con aporte de grava de cantera de piedra caliza, Ø40/70 mm, y compactación mediante equipo manual con bandeja vibrante.|8.1|260516|0|
+~T|ANE010|Encachado de 20 cm en caja para base de solera, con aporte de grava de cantera de piedra caliza, Ø40/70 mm, y compactación mediante equipo manual con bandeja vibrante.|
+~D|ANE010
+|mt01are010a\\0.22
+\mq01pan010a\\0.012
+\mq02rod010d\\0.012
+\mq02cia020j\\0.012
+\mo105\\0.235
+\%\\0.02
+\|
+~C|mt01are010a|m³|Grava de cantera de piedra caliza, de 40 a 70 mm de diámetro.|14.15|260516|3|
+~C|CRL010b|m²|Capa de hormigón de limpieza HL-150/B/20, fabricado en central y vertido desde camión, de 10 cm de espesor.|8.33|280516|0|
+~T|CRL010b|Capa de hormigón de limpieza HL-150/B/20, fabricado en central y vertido desde camión, de 10 cm de espesor.|
+~D|CRL010b
+|mt10hmf011bb\\0.105
+\mo041\\0.068
+\mo084\\0.068
+\%\\0.02
+\|
+~C|ANS010|m²|Solera de hormigón en masa de 15 cm de espesor, realizada con hormigón HM-10/B/20/I fabricado en central y vertido desde camión, extendido y vibrado manual, para base de un solado.|13.98|260516|0|
+~T|ANS010|Solera de hormigón en masa de 15 cm de espesor, realizada con hormigón HM-10/B/20/I fabricado en central y vertido desde camión, extendido y vibrado manual, para base de un solado.|
+~D|ANS010
+|mt10hmf010Km\\0.158
+\mt16pea020b\\0.05
+\mq04dua020b\\0.032
+\mq06vib020\\0.09
+\mo019\\0.102
+\mo072\\0.102
+\mo105\\0.051
+\%\\0.02
+\|
+~C|mt10hmf010Km|m³|Hormigón HM-10/B/20/I, fabricado en central.|54.63|260516|3|
+~C|UXS010|m²|Pavimento de césped sintético, para uso en urbanismo y ocio.|15.75|260516|0|
+~T|UXS010|Pavimento de césped sintético, para uso en urbanismo y ocio.|
+~D|UXS010
+|mt47adc500a\\1
+\mt47adc110b\\0.039
+\mt47adc100b\\0.387
+\mq07cel010\\0.009
+\mo040\\0.19
+\mo082\\0.19
+\%\\0.02
+\|
+~C|mt47adc500a|m²|Césped sintético, compuesto de mechones rectos de 1/8" de fibra 100% polipropileno, prefibrilado, resistente a los rayos UV, 2200 decitex, tejidos sobre base de polipropileno drenante, con termofijado y sellado con caucho SBR, 7 mm de altura de pelo, 9 mm de altura total de moqueta, 1402 g/m² y 88200 mechones/m².|6.98|260516|3|
+~C|mt47adc100b|m|Banda de geotextil.|2.51|260516|3|
+~C|mq07cel010|h|Carretilla elevadora diesel de doble tracción de 8 t.|24.57|260516|2|
+~C|EAV010b|kg|Acero S275JR en vigas, con piezas simples de perfiles laminados en caliente de las series IPN, IPE, UPN, HEA, HEB o HEM con uniones soldadas.|2.19|200516|0|
+~T|EAV010b|Acero S275JR en vigas, con piezas simples de perfiles laminados en caliente de las series IPN, IPE, UPN, HEA, HEB o HEM con uniones soldadas.
+6,23 m de Viga HEB 220 con Peso 71,5 Kg/ml|
+~D|EAV010b
+|mt07ala010h\\1.05
+\mt27pfi010\\0.05
+\mq08sol020\\0.017
+\mo043\\0.023
+\mo086\\0.023
+\%\\0.02
+\|
+~C|EAS005b|Ud|Placa de anclaje de acero S275JR en perfil plano, de 250x250 mm y espesor 12 mm, con 6 pernos soldados, de acero corrugado UNE-EN 10080 B 500 S de 12 mm de diámetro y 35 cm de longitud total.|22.47|200516|0|
+~T|EAS005b|Placa de anclaje de acero S275JR en perfil plano, de 250x250 mm y espesor 12 mm, con 6 pernos soldados, de acero corrugado UNE-EN 10080 B 500 S de 12 mm de diámetro y 35 cm de longitud total.|
+~D|EAS005b
+|mt07ala011d\\5.888
+\mt07aco010c\\1.863
+\mq08sol020\\0.017
+\mo043\\0.342
+\mo086\\0.342
+\%\\0.02
+\|
+~C|EAS010b|kg|Acero S275JR en pilares, con piezas simples de perfiles laminados en caliente de las series tubulares con uniones soldadas.|2.19|200516|0|
+~T|EAS010b|Acero S275JR en pilares, con piezas simples de perfiles laminados en caliente de las series tubulares con uniones soldadas.
+5,95 m de Perfil hueco redondo 100.8 mm _Peso 16,1 Kg/ml|
+~D|EAS010b
+|mt07ala010h\\1.05
+\mt27pfi010\\0.05
+\mq08sol020\\0.017
+\mo043\\0.023
+\mo086\\0.023
+\%\\0.02
+\|
+~C|UVT010c|m|Cerramiento  formado por malla de simple torsión, de 8 mm de paso de malla y 1,1 mm de diámetro, acabado galvanizado y montantes de postes de acero galvanizado, de 48 mm de diámetro y 1 m de altura.|13.02|200516|0|
+~T|UVT010c|Cerramiento  formado por malla de simple torsión, de 8 mm de paso de malla y 1,1 mm de diámetro, acabado galvanizado y montantes de postes de acero galvanizado, de 48 mm de diámetro y 1 m de altura.|
+~D|UVT010c
+|mt52vst030a\\0.22
+\mt52vst030i\\0.06
+\mt52vst030q\\0.04
+\mt52vst030y\\0.2
+\mt52vst010aa\\1.2
+\mt10hmf010Mm\\0.015
+\mo105\\0.113
+\mo010\\0.102
+\mo075\\0.102
+\%\\0.03
+\|
+~C|prfv|ud|Pasarela de paso a cubierta de PRFV|659.99|080515|0|
+~T|prfv|Pasarela de paso a cubierta de PRFV
+Suministro y montaje de Pasarela de paso a cubierta de PRFV, formada por perfiles de acero de apoyo y rejillas de PRFV , todo para pintar en color a definir. Según documentación gráfica.|
+~C|GTB010b|m³|Transporte de tierras con camión a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos, situado a una distancia máxima de 10 km.|4.35|280516|0|
+~T|GTB010b|Transporte de tierras con camión a vertedero específico, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos, situado a una distancia máxima de 10 km.|
+~D|GTB010b
+|mq04cab010c\\0.106
+\%\\0.02
+\|
+~M|AD#\ADE010b|1\1\1\|6.9|
+\Saneamiento en la urbanización - ESTE\1\6.43\0.30\0.58\
+\Saneamiento en la urbanización - N\1\11.16\0.30\0.58\
+\Saneamiento en la urbanización - OESTE\1\14.07\0.30\0.58\
+\Saneamiento en la urbanización - A CALLE\1\3.34\0.30\0.58\
+\Arqueta de paso en la urbanización, 50x50x50 cm\3\0.60\0.60\0.75\|
+~M|AD#\ADR010|1\1\2\|6.9|
+\Saneamiento en la urbanización\1\6.90\\\|
+~M|CS#\CSZ010|2\2\1\|0.688|
+\Zapatas 145\1\1.00\0.89\0.37\
+\Zapatas 188\1\1.00\0.97\0.37\|
+~M|CA#\CAV010|2\3\1\|11.731|
+\Vigas de atado VC35\1\8.56\0.35\0.55\
+\Vigas de atado VC40\1\4.14\0.40\0.55\
+\Vigas de atado VC15\1\11.03\0.15\0.55\
+\Apoyo de contenedores VC35\1\8.34\0.35\0.37\
+\Apoyo de contenedores VC50\1\38.82\0.50\0.37\|
+~M|EH#\EHE020|3\2\2\|8.45|
+\MURETE INCLINADO MH20\1\3.23\\\
+\ESCALERA \1\5.22\\\|
+~M|EM#\EMV110|3\3\1\|6.347|
+\metros de madera laminada\1\158.68\0.10\0.40\|
+~M|FF#\NAF040|4\1\1\|88.83|
+\FACHADA NORTE (CALLE)\1\14.77\\\
+\FACHADA ESTE (ACCESO)\1\32.75\\\
+\FACHADA OESTE (VECINO)\1\31.21\\\
+\FACHADA SUR (PISCINA)\1\10.10\\\|
+~M|FF#\RQO031|4\1\2\|118.83|
+\FACHADA NORTE (CALLE)\1\14.77\\\
+\FACHADA ESTE (ACCESO)\1\32.75\\\
+\FACHADA OESTE (VECINO)\1\31.21\\\
+\FACHADA SUR (PISCINA)\1\10.10\\\
+\TALUD\1\30.00\\\|
+~M|FD#\UVT010|4\3\2\|23.59|
+\Cubierta\1\23.59\\\
+\\\\\\|
+~M|PA#\PAH010|5\1\1\|3|
+\Dormitorio 1\1\\\\
+\Dormitorio 2\1\\\\
+\Galeria\1\\\\|
+~M|PT#\PSY015|5\3\1\|23.4|
+\Aseos y tabique en cocina\1\9.00\\2.60\|
+~M|PT#\PSY015b|5\3\2\|8.39|
+\Paredes Protección Aislante en Habitaciones\1\3.19\\2.63\|
+~M|IA#\IAA100b|6\2\7\|15|
+\Red exterior\1\15.00\\\|
+~M|IA#\IAF070|6\2\10\|67.98|
+\\1\33.99\\\
+\\1\33.99\\\|
+~M|IO#\IOJ025|6\6\1\|88.83|
+\Estructura metálica\1\88.83\\\|
+~M|IS#\ISB010c|6\7\1\|9.75|
+\Pluviales\3\\\3.25\|
+~M|IS#\ISS010|6\7\5\|2|
+\\1\\\\
+\\1\\\\|
+~M|QA#\UXO005|8\1\4\|8.4|
+\Perímetro cubierta con grava / Ancho 20 cm\1\42.00\0.20\\|
+~M|QA#\FAY040|8\1\5\|43.96|
+\Perímetro borde cubierta\1\43.96\\1.00\|
+~M|QA#\FFZ010|8\1\6\|7.44|
+\Superficie de muro Armario de Instalaciones en cubierta\1\4.00\\1.86\
+\4\\\\\|
+~M|QR#\QRB010|8\2\1\|22.57|
+\(ALZADO ACCESO PRINCIPAL) Borde Superior bajo cubierta del Contenedor 20P\1\2.68\\\
+\Contorno en voladizo de cubierta (LADO PISCINA)\1\10.79\\\
+\Contorno en voladizo de cubierta (LADO ACCESO PRINCIPAL)\1\9.10\\\|
+~M|RC#\SNA010|9\1\1\|16.38|
+\Silestone Baños \1\6.30\\2.60\|
+~M|RF#\RNE010|9\2\1\|181.391|
+\Techo Container 40P\1\34.19\\\
+\Paredes Container 40P\1\31.79\\2.75\
+\Techo Container 20P\1\16.19\\\
+\Paredes Container 20P\1\15.85\\2.75\|
+~M|RI#\RIP035|9\3\1\|243.679|
+\Dormitorios\3\11.87\\2.75\
+\Techo dormitorios\3\10.29\\\
+\Vestíbulo - pasillo\1\21.10\\2.45\
+\Estar - comedor\1\25.79\\2.45\|
+~M|RI#\RNP010|9\3\2\|176.49|
+\T3_pared contenedor 20P\1\15.47\\2.57\
+\te_techo contenedor 20P\1\16.19\\\
+\T1_pared contenedor 40P\1\33.60\\2.57\
+\te_techo contenedor 40P\1\34.19\\\
+\\\\\\|
+~M|RS#\RSD010|9\4\1\|6.45|
+\Aseo 1\1\3.57\\\
+\Aseo 2\1\2.88\\\|
+~M|RS#\UXC020|9\4\2\|105.08|
+\TERRAZA DE ACCESO PRINCIPAL\1\9.49\\\
+\TERRAZA A PISCINA\1\25.38\\\
+\VVIVIENDA\1\70.21\\\|
+~M|GT#\GTB010|11\1\1\|108.502|
+\Desbroce y limpieza del terreno\1.3\\217.00\0.10\
+\Zapatas aisladas\1.34\0.69\\\
+\Vigas de atado\1.34\11.73\\\
+\Apoyo de forjado sanitario\1.34\11.36\\\
+\Apoyo de forjado sanitario\1.34\29.23\\\
+\Saneamiento en la urbanización\1.34\6.10\\\
+\Arqueta de paso en la urbanización, 50x50x50 cm\1.34\0.81\\\|
+~M|XE#\XEB010|12\1\1\|3|
+\B 500 S (Serie fina)\1\\\\
+\B 500 S (Serie media)\1\\\\
+\B 500 S (Serie gruesa)\1\\\\|
+~M|XE#\XEM010|12\1\3\|1|
+\Serie fina\1\\\\|
+~M|XE#\XEH010|12\1\5\|3|
+\Elementos a compresión (HA-25/B/20/IIa)\1\\\\
+\Elementos a flexión (HA-25/B/20/IIa)\1\\\\
+\Macizos (HA-25/B/20/IIa)\1\\\\|
+~M|UA#\ASB010b|14\1\2\|2|
+\Residuales y Pluviales\1\2.00\\\|
+~M|UJ#\UXE035|14\2\1\|22.81|
+\Caminos\1\22.81\\1.00\|
+~M|UPb#\UPG010|15\6\|69.32|
+\Superficie desplegado muros piscina\1\69.32\\\|
+~M|UPb#\FVS010b|15\8\|5.194|
+\VIDRIO PISCINA\1\3.71\\1.40\|
+~M|UPb#\EHE010|15\9\|7.58|
+\Escalera 1.2\1\3.36\\\
+\Escalera 1.1\1\1.95\\\
+\Escalera 2\1\2.27\\\|
+~M|UPb#\EAV010b|15\14\|609.856|
+\Viga curvada HEB 240 - Longitud 7,33 y peso 83,2 Kg/m\83.2\7.33\\\|
+~M|UPb#\EAS010b|15\16\|165.984|
+\Perfiles cuadrados 60.40.3 (total 13 piezas en U) - Peso 4,56 kg/m\4.56\36.40\\\|
+~M|UPb#\prfv|15\18\|7|
+\Tramex espesor=30mm y hueco 38x38mm, planchas de 2x1 metros para cortar cada 30cm\7\\\\|
+~M|UPb#\GTB010b|15\19\|100.271|
+\seccion 1 - arranque escalera y rellano intermedio\8.79\1.98\\\
+\seccion 2 - vaso piscina + escalera girada\9.64\3.35\\\
+\seccion 3 - vaso piscina\7.34\6.89\\\|

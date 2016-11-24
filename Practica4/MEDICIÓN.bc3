@@ -1,0 +1,1648 @@
+~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2004|ARQUIMEDES||ANSI|Presupuesto|2|
+~K|-9\2\3\3\2\2\2\2\EUR\|3\0\0\\18|\2\\\3\\2\2\2\-9\2\3\EUR\||
+~C|MEDICIÓN##||MEDICIÓN Y PRESUPUESTO DE VIVIENDA UNIFAMILIAR EN MIRADOR DE AGRIDULCE|||0|
+~D|MEDICIÓN##
+|A#\\1
+\C#\\1
+\EMYPRFV#\\1
+\F#\\1
+\Q#\\1
+\N#\\1
+\P#\\1
+\R#\\1
+\S#\\1
+\I#\\1
+\U#\\1
+\G#\\1
+\X#\\1
+\Y#\\1
+\|
+~C|A#||Acondicionamiento del terreno|||0|
+~D|A#
+|AD#\\1
+\|
+~C|AD#||Movimiento de tierras|||0|
+~D|AD#
+|ADL010\\1
+\ADV010\\238.707
+\ADE010a\\44.623
+\ADE010\\31.538
+\ADE010b\\14.4
+\ADR030\\691
+\ANE010\\35.81
+\ADR010\\14.4
+\ADR020\\111.762
+\|
+~C|ADL010|ud|Desbroce y limpieza del terreno|||0|
+~T|ADL010|Desbroce y limpieza del terreno, con medios mecánicos. Comprende los trabajos necesarios para retirar de las zonas previstas para la edificación o urbanización: plantas, tocones, maleza, broza, escombros, basuras o cualquier otro material existente, hasta una profundidad no menor que el espesor de la capa de tierra vegetal. Incluso transporte de la maquinaria, retirada de los materiales excavados y carga a camión.
+Incluye: Replanteo previo. Remoción de los materiales de desbroce. Retirada y disposición de los materiales objeto de desbroce. Carga a camión. Transporte a vertedero autorizado.|
+~C|ADV010|m³|Vaciado hasta 2 m de profundidad en suelo relleno de arena y grava||290716|0|
+~T|ADV010|Vaciado hasta 2 m de profundidad en suelo relleno de arena y grava
+
+Excavación de tierras a cielo abierto para formación de un vaciado que en todo su perímetro queda por debajo de la rasante natural, en suelo relleno de arena y grava, con medios mecánicos, hasta alcanzar la cota de profundidad indicada en el Proyecto. Incluso transporte de la maquinaria, refinado de paramentos y fondo de excavación, extracción de tierras fuera de la excavación, retirada de los materiales excavados y carga a camión.
+Incluye: Replanteo general y fijación de los puntos y niveles de referencia. Colocación de las camillas en las esquinas y extremos de las alineaciones. Excavación en sucesivas franjas horizontales y extracción de tierras. Refinado de fondos y laterales a mano, con extracción de las tierras y su acopio en la misma parcela.|
+~C|ADE010a|m³|Excavación en zanjas para cimentaciones|||0|
+~T|ADE010a|Excavación en zanjas para cimentaciones
+
+Excavación de tierras a cielo abierto para formación de zanjas para cimentaciones hasta una profundidad de 2 m, en suelo de grava arcillosa con arena, con medios mecánicos, hasta alcanzar la cota de profundidad indicada en el Proyecto. Incluso transporte de la maquinaria y acopio de las tierras en la misma parcela.|
+~C|ADE010|m³|Excavación en zanja para cimentación de muro de parcela||230916|0|
+~T|ADE010|Excavación en zanja para cimentación de muro de parcela
+
+Excavación de tierras a cielo abierto para formación de zanjas para cimentaciones hasta una profundidad de 2 m, en cualquier tipo de terreno, con medios mecánicos, hasta alcanzar la cota de profundidad indicada en el Proyecto.Incluso transporte de la maquinaria y acopio de las tierras en la misma parcela.|
+~C|ADE010b|m³|Excavación en zanjas para instalaciones|||0|
+~T|ADE010b|Excavación en zanjas para instalaciones 
+
+Excavación de tierras a cielo abierto para formación de zanjas para instalaciones hasta una profundidad de 2 m, en suelo de grava arcillosa con arena, con medios mecánicos, hasta alcanzar la cota de profundidad indicada en el Proyecto. Incluso transporte de la maquinaria y acopio de las tierras en la misma parcela.|
+~C|ADR030|m³|Relleno para base de pavimento y modelado de terreno de parcela, con tierra de la propia excavación||290716|0|
+~T|ADR030|Relleno para base de pavimento y modelado de terreno de parcel, con tierra de la propia excavación
+
+Formación de base de pavimento y modelado de terreno de parcela mediante relleno a cielo abierto con tierra procedente de la propia excavación; y compactación en tongadas sucesivas de 30 cm de espesor máximo mediante equipo manual formado por bandeja vibrante, hasta alcanzar una densidad seca no inferior al 95% de la máxima obtenida en el ensayo Proctor Modificado, realizado según UNE 103501 (ensayo no incluido en este precio). Incluso carga, transporte y descarga a pie de tajo de los áridos a utilizar en los trabajos de relleno y humectación de los mismos.|
+~C|ANE010|m²|Encachado de 20 cm en caja para base solera, con aporte de grava de cantera de piedra caliza, Ø40/70 mm, compactación mediante equipo manual con bandeja vibrante.||290716|0|
+~T|ANE010|Encachado de 20 cm de grava para base de solera
+
+Formación de encachado de 20 cm de espesor en caja para base de solera, mediante relleno y extendido en tongadas de espesor no superior a 20 cm de gravas procedentes de cantera caliza de 40/80 mm; y posterior compactación mediante equipo manual con bandeja vibrante, sobre la explanada homogénea y nivelada (no incluida en este precio). Incluso carga, transporte y descarga a pie de tajo de los áridos a utilizar en los trabajos de relleno y regado de los mismos.|
+~C|ADR010|m³|Relleno principal de zanjas para instalaciones, con tierra de la propia excavación, y compactación al 95% del Proctor Modificado mediante equipo manual con bandeja vibrante.|||0|
+~T|ADR010|Relleno de zanjas para instalaciones, con tierra de la propia excavación
+
+Formación de relleno con tierra seleccionada procedente de la propia excavación, en zanjas en las que previamente se han alojado las instalaciones y se ha realizado el relleno envolvente de las mismas (no incluido en este precio); y compactación en tongadas sucesivas de 20 cm de espesor máximo mediante equipo manual formado por bandeja vibrante, hasta alcanzar una densidad seca no inferior al 95% de la máxima obtenida en el ensayo Proctor Modificado, realizado según UNE 103501 (ensayo no incluido en este precio). Incluso cinta o distintivo indicador de la instalación, carga, transporte y descarga a pie de tajo de los áridos a utilizar en los trabajos de relleno y humectación de los mismos.|
+~C|ADR020|m³|Relleno en trasdós de muro de hormigón, con grava 20/30 mm, y compactación al 95% del Proctor Modificado mediante equipo manual con bandeja vibrante.||290716|0|
+~T|ADR020|Relleno en trasdós de muro de hormigón, con tierra de la propia excavación
+
+Formación de relleno con grava de 20 a 30 mm de diámetro, en trasdós de muro de hormigón; y compactación en tongadas sucesivas de 30 cm de espesor máximo mediante equipo manual formado por bandeja vibrante, hasta alcanzar una densidad seca no inferior al 95% de la máxima obtenida en el ensayo Proctor Modificado, realizado según UNE 103501 (ensayo no incluido en este precio). Incluso carga de los áridos procedentes de la propia parcela y humectación de los mismos.|
+~C|C#||Cimentaciones y estructura de hormigón|||0|
+~D|C#
+|ADR010b\\14.055
+\ADR030b\\10.35
+\CRL010\\165.14
+\CSV010a\\20.393
+\CSV010b\\5.631
+\ANS010\\206.25
+\EHU025b\\127.93
+\EHR010\\98.36
+\EHU010\\157.56
+\EHL010\\35.81
+\EHM010\\27.942
+\EHM010b\\12.018
+\EHS010\\11.588
+\EHV010\\6.216
+\|
+~C|ADR010b|m³|Relleno de zanjas para cimentación, con hormigón ciclópeo no estructural||290716|0|
+~T|ADR010b|Relleno de zanjas para cimentación
+
+Relleno de zanjas para cimentación, hasta cota inferior de cimentación según planos, con hormigón ciclópeo no estructural HNE-15/B/20 fabricado en central y vertido desde camión, hasta la cota inferior de cimentación, según se indica en los planos de excavación y cimentación del proyecto. Incluso carga, transporte, vertido, regado y vibrado del hormigón.|
+~C|ADR030b|m³|Relleno de hormigón en masa HM-20 sobre zapata hasta cota -40 con, fabricado en central y vertido desde camión.||290716|0|
+~T|ADR030b|Relleno de hormigón en masa
+
+Relleno de hormigón en masa HM-20 sobre zapata hasta cota -40 con, fabricado en central y vertido desde camión. Incluso carga, transporte, vertido, regado y vibrado del hormigón.|
+~C|CRL010|m²|Capa de hormigón de limpieza HL-150/B/20 fabricado en central y vertido con cubilote, de 10 cm de espesor.|||0|
+~T|CRL010|Capa de hormigón de limpieza
+
+Formación de capa de hormigón de limpieza y nivelado de fondos de cimentación y fondo de forjado sanitario, de 10 cm de espesor, mediante el vertido con cubilote de hormigón HL-150/B/20 fabricado en central, en el fondo de la excavación previamente realizada.|
+~C|CSV010a|m³|Zapata corrida de cimentación, HA-25/B/20/IIa fabricado en central y vertido con cubilote, acero UNE-EN 10080 B 500 S, cuantía 70 kg/m³.|||0|
+~T|CSV010a|Zapata corrida de cimentación cuantía, cuantía 70 kg/m³.
+
+Formación de zapata corrida de cimentación de hormigón armado HA-25/B/20/IIa fabricado en central y vertido con cubilote en excavación previa, con una cuantía aproximada de acero UNE-EN 10080 B 500 S de 70 kg/m³. Incluso p/p de armaduras de espera de los soportes u otros elementos.|
+~C|CSV010b|m³|Zapata corrida de cimentación, HA-25/B/20/IIa fabricado en central y vertido con cubilote, acero UNE-EN 10080 B 500 S, cuantía 102,206 kg/m³.|||0|
+~T|CSV010b|Zapata corrida de cimentación cuantía, cuantía 102,206 kg/m³.
+
+Formación de zapata corrida de cimentación de hormigón armado HA-25/B/20/IIa fabricado en central y vertido con cubilote en excavación previa, con una cuantía aproximada de acero UNE-EN 10080 B 500 S de 102,206 kg/m³. Incluso p/p de armaduras de espera de los soportes u otros elementos.|
+~C|ANS010|m²|Solera de hormigón armado de 20 cm de espesor, realizada con hormigón HAF-25/CR/F/20/IIa||310716|0|
+~T|ANS010|Solera de hormigón armado de 20 cm de espesor
+
+Formación de solera de hormigón armado de 20 cm de espesor, realizada con hormigón HAF-25/CR/F/20/IIa, con un contenido de fibras de refuerzo Sikafiber M-12 "SIKA" de 0,6 kg/m³ y vertido desde camión, y malla electrosoldada ME 20x20 Ø 6-6 B 500 T 6x2,20 UNE-EN 10080 como armadura de reparto, colocada sobre separadores homologados, con acabado superficial mediante fratasadora mecánica; apoyada sobre capa base existente (no incluida en este precio). Incluso p/p de preparación de la superficie de apoyo del hormigón, extendido y vibrado del hormigón mediante regla vibrante, formación de juntas de construcción y colocación de un panel de poliestireno expandido de 2 cm de espesor, alrededor de cualquier elemento que interrumpa la solera, como pilares y muros, para la ejecución de juntas de dilatación; emboquillado o conexión de los elementos exteriores (cercos de arquetas, sumideros, botes sifónicos, etc.) de las redes de instalaciones ejecutadas bajo la solera; y aserrado de las juntas de retracción, por medios mecánicos, con una profundidad de 1/3 del espesor de la solera y posterior sellado con masilla elástica.|
+~C|EHU025b|m²|Forjado sanitario unidireccional de hormigón armado horizontal, canto 30 = 25+5 cm||310716|0|
+~T|EHU025b|Forjado sanitario unidireccional de hormigón armado
+
+Formación de forjado sanitario unidireccional de hormigón armado, horizontal, con altura libre de planta de hasta 3 m, canto 30 = 25+5 cm, realizado con hormigón HA-25/B/12/I fabricado en central, y vertido con cubilote, y acero UNE-EN 10080 B 500 S en zona de refuerzo de negativos y conectores de viguetas y zunchos, con una cuantía total según plano; sistema de encofrado parcial con puntales, sopandas metálicas y superficie encofrante de madera tratada reforzada con varillas y perfiles; vigueta pretensada autoportante según plano; intereje 70cm con bovedilla mecanizada de poliestireno expandido de canto 25cm, incluso p/p de piezas especiales; capa de compresión de 5 cm de espesor, con armadura de reparto formada por malla electrosoldada ME 20x20 Ø 5-5 B 500 T 6x2,20 UNE-EN 10080. Incluso p/p de zunchos no estructurales. Sin incluir repercusión de pilares ni de vigas. Todos los detalles, remates y refuerzos según planos.|
+~C|EHR010|m²|Forjado reticular de hormigón armado, horizontal, canto total 30 = 25+5 cm||310716|0|
+~T|EHR010|Forjado reticular de hormigón armado canto total 30 = 25+5 cm
+
+Formación de forjado reticular de hormigón armado, horizontal, canto total 30 = 25+5 cm, realizado con hormigón HA-25/B/12/I fabricado en central, y vertido con cubilote, volumen 0,209 m³/m², y acero UNE-EN 10080 B 500 S para elaboración de la ferralla (corte, doblado y conformado de elementos) en taller industrial y montaje en zona de ábacos, nervios y zunchos, cuantía según plano; montaje y desmontaje del sistema de encofrado continuo con puntales, sopandas metálicas y superficie encofrante de madera tratada; nervios de hormigón "in situ" de 10 cm de espesor, intereje 80 cm; casetón de poliestireno expandido, 70x70x25 cm, para forjado reticular; capa de compresión de 5 cm de espesor, con armadura de reparto formada por malla electrosoldada ME 20x20 Ø 5-5 B 500 T 6x2,20 UNE-EN 10080. Incluso p/p de macizado de capiteles, refuerzo de huecos y zunchos perimetrales de planta. Sin incluir repercusión de pilares. Todos los detalles, remates y refuerzos según planos.|
+~C|EHU010|m²|Forjado unidireccional IN SITU, horizontal, de canto 30 = 25+5 cm||310716|0|
+~T|EHU010|Forjado unidireccional IN SITU, horizontal, de canto 30 = 25+5 cm
+
+FORJADO UNIDIRECCIONAL: horizontal, de canto 30 = 25+5 cm; realizado con hormigón HA-25/B/12/I fabricado en central, y vertido con cubilote, con un volumen total de hormigón en forjado y vigas, y acero UNE-EN 10080 B 500 S en zona de nervios y zunchos y vigas, con una cuantía total según plano, sistema de encofrado continuo con puntales, sopandas metálicas y superficie encofrante de madera tratada reforzada con varillas y perfiles; nervio "in situ" de 10 cm de ancho; bovedilla mecanizada de poliestireno expandido, 70x70x25 cm, para nervios "in situ", incluso p/p de piezas especiales; capa de compresión de 5 cm de espesor, con armadura de reparto formada por malla electrosoldada ME 20x20 Ø 5-5 B 500 T 6x2,20 UNE-EN 10080; vigas resaltadas. Incluso p/p de zunchos perimetrales de planta. Sin incluir repercusión de pilares. Todos los detalles, remates y refuerzos según planos.|
+~C|EHL010|m²|Losa maciza de hormigón armado, horizontal e inclinadas, canto 20 cm||310716|0|
+~T|EHL010|Losa maciza de hormigón armado, horizontal e inclinadas, canto 20 cm
+
+Formación de losa maciza de hormigón armado, horizontal e inclinadas, canto 20 cm, realizada con hormigón HA-25/B/12/I fabricado en central, y vertido con cubilote, y acero UNE-EN 10080 B 500 S, con una cuantía según plano; montaje y desmontaje del sistema de encofrado continuo con puntales, sopandas metálicas y superficie encofrante de madera tratada reforzada con varillas y perfiles. Incluso p/p de nervios y zunchos perimetrales de planta y huecos. Sin incluir repercusión de pilares. Todos los detalles, remates y refuerzos según planos.|
+~C|EHM010|m³|Muro de hormigón armado 2C, bajo rasante||290716|0|
+~T|EHM010|Muro de hormigón armado bajo rasante
+
+Formación de muro de hormigón de 25 cm de espesor, bajo rasante, encofrado a dos caras y ejecutado con encofrado metálico; realizado con hormigón armado HA-25/B/20/IIa fabricado en central y vertido con cubilote, con una cuantía de acero UNE-EN 10080 B 500 S definida en cuadro de muros bajo rasante en plano de cimentación E02. Encofrado y desencofrado de los muros de hasta 3 m de altura, con paneles metálicos modulares. Incluso p/p de juntas, elementos para paso de instalaciones, y sellado de orificios con masilla elástica. Todos los detalles, remates y refuerzos según planos.|
+~C|EHM010b|m³|Muro de hormigón armado con formación de huecos||310716|0|
+~T|EHM010b|Muro de hormigón armado sobre rasante con formación de huecos
+
+Formación de muro de hormigón con formación de huecos, de 20 cm de espesor medio, realizado con hormigón HA-25/B/12/I fabricado en central, y vertido con cubilote, y acero UNE-EN 10080 B 500 S, con una cuantía según planos. Montaje y desmontaje del sistema de encofrado a dos caras con formación de huecos, con paneles metálicos modulares. Incluso p/p de formación de juntas, separadores, distanciadores para encofrados y accesorios, formación de huecos, y tapado de orificios resultantes tras la retirada del encofrado. Todos los detalles, remates y refuerzos según planos.|
+~C|EHS010|m³|Pilar de sección rectangular de hormigón armado, realizado con hormigón HA-25/B/12/I fabricado en central, y vertido con cubilote, y acero UNE-EN 10080 B 500 S, cuantía según cuadro de pilares; montaje y desmontaje del sistema de encofrado de paneles metálicos, entre 3 y 4 m de altura libre y 20cm de ancho.||310716|0|
+~T|EHS010|Pilar de sección rectangular de hormigón armado
+
+Formación de pilar de sección rectangular de hormigón armado, de entre 3 y 4 m de altura libre y 20cm de ancho, realizado con hormigón HA-25/B/12/I fabricado en central, y vertido con cubilote, y acero UNE-EN 10080 B 500 S, con una cuantía según cuadro de pilares. Montaje y desmontaje del sistema de encofrado de paneles metálicos reutilizables. Incluso p/p de separadores. Todos los detalles, remates y refuerzos según planos.|
+~C|EHV010|m³|Viga descolgada de hormigón armado, realizada con hormigón HA-25/B/20/IIa fabricado en central, y vertido con cubilote, y acero UNE-EN 10080 B 500 S, cuantía 150 kg/m³; montaje y desmontaje del sistema de encofrado de madera, en planta de hasta 3 m de altura libre.||120816|0|
+~T|EHV010|Viga descolgada de hormigón armado
+
+Formación de viga descolgada de hormigón armado, realizada con hormigón HA-25/B/20/IIa fabricado en central, y vertido con cubilote, y acero UNE-EN 10080 B 500 S, con una cuantía según plano. Montaje y desmontaje del sistema de encofrado continuo con puntales, sopandas metálicas y superficie encofrante de madera tratada reforzada con varillas y perfiles.|
+~C|EMYPRFV#||Estrucutura metálica y de PRFV||310716|0|
+~T|EMYPRFV#|Estrucutura metálica y de PRFV|
+~D|EMYPRFV#
+|MET#\\1
+\PRFV#\\1
+\|
+~C|MET#||Estructura metálica||120816|0|
+~T|MET#|estructura metálica|
+~D|MET#
+|EAS005e\\6
+\EAS010\\243.288
+\|
+~C|EAS005e|Ud|Placa de anclaje de acero S275JR en perfil plano, de 200x200 mm y espesor 25 mm, con 4 pernos soldados, de acero corrugado UNE-EN 10080 B 500 S de 20 mm de diámetro y 80 cm de longitud total.||310716|0|
+~T|EAS005e|Placa de anclaje de acero S275JR en perfil plano
+
+Suministro y montaje de placa de anclaje de acero UNE-EN 10025 S275JR en perfil plano, de 200x200 mm y espesor 25 mm, con 4 pernos soldados, de acero corrugado UNE-EN 10080 B 500 S de 20 mm de diámetro y 80 cm de longitud total. Trabajado y montado en taller. Incluso p/p de taladro central, preparación de bordes, biselado alrededor del taladro para mejorar la unión del perno a la cara superior de la placa, soldaduras, cortes, pletinas, piezas especiales, despuntes y reparación en obra de cuantos desperfectos se originen por razones de transporte, manipulación o montaje.|
+~C|EAS010|kg|Pilares acero S275JR, pieza simple de perfil rectangular 180.100.8 laminado en caliente, con uniones soldadas a placas.||310716|0|
+~T|EAS010|Pilares acero S275JR, pieza simple de perfil rectangular 180.100.8 laminado en caliente, con uniones soldadas a placas.
+
+Suministro y montaje de pilares de acero laminado UNE-EN 10025 S275JR, 3 piezas simples de perfil rectangular 180.100.8 laminado en caliente, con uniones soldadas a placas. Trabajado y montado en taller, con preparación de superficies en grado SA21/2 según UNE-EN ISO 8501-1 y aplicación posterior de dos manos de imprimación con un espesor mínimo de película seca de 30 micras por mano, excepto en la zona en que deban realizarse soldaduras en obra, en una distancia de 100 mm desde el borde de la soldadura. Incluso p/p de preparación de bordes, soldaduras, cortes, piezas especiales, placas de arranque y transición de pilar inferior a superior, mortero sin retracción para retacado de placas, despuntes y reparación en obra de cuantos desperfectos se originen por razones de transporte, manipulación o montaje, con el mismo grado de preparación de superficies e imprimación. Todos los detalles, remates y refuerzos según planos.|
+~C|PRFV#||Estructuras PRFV||120816|0|
+~T|PRFV#|Estructuras PRFV|
+~D|PRFV#
+|tramx\\6.34
+\prfvT1\\1
+\prfvT2\\1
+\prfvT3\\1
+\|
+~C|tramx|m2|Micromalla tipo tramex de PRFV azul traslúcido||120816|0|
+~T|tramx|Micromalla tipo tramex de PRFV azul traslúcido 
+
+Suministro y colocación de micromalla(13x13mm) tipo tramex de PRFV azul traslúcido, de 38cm de canto, para pavimento exterior y peto en pasarela.|
+~C|prfvT1|ud|PRFV_ESTRUCTURA DE POLIESTER REFORZADO CON FIBRA DE VIDRIO. TERRAZA DORMITORIO 1.||120816|0|
+~T|prfvT1|PRFV_ESTRUCTURA DE POLIESTER REFORZADO CON FIBRA DE VIDRIO. TERRAZA DORMITORIO 1.
+
+Suministro y montaje de perfiles de PRFV, para formación de estructura horizontal de terraza, fijados mediante tornillería acero INOX 316-4a D=12mm. Pintado en color a definir. Incluso p/p de accesorios, elementos de anclaje y pintura. 
+La estructura de PRFV está formada por los siguientes perfiles:
+
+- DOBLE T 75x150x8mm.................. 12,04m (7 barras según plano)
+- ANGULAR l 150x150s12mm.............. 17 elementos de 10cm de longitud
+
+Totalmente montado y terminado, despiece según los planos del proyecto.|
+~C|prfvT2|ud|PRFV_ESTRUCTURA DE POLIESTER REFORZADO CON FIBRA DE VIDRIO. TERRAZA DORMITORIOS 2 Y 3||120816|0|
+~T|prfvT2|PRFV_ESTRUCTURA DE POLIESTER REFORZADO CON FIBRA DE VIDRIO. TERRAZA DORMITORIOS 2 Y 3
+
+Suministro y montaje de perfiles de PRFV, para formación de estructura horizontal de terraza, fijados mediante tornillería acero INOX 316-4a D=12mm. Pintado en color a definir. Incluso p/p de accesorios, elementos de anclaje y pintura. 
+La estructura de PRFV está formada por los siguientes perfiles:
+
+- DOBLE T 75x150x8mm.................. 14,67m (9 barras según plano)
+- ANGULAR l 150x150s12mm.............. 25 elementos de 10cm de longitud
+
+Totalmente montado y terminado, despiece según los planos del proyecto.|
+~C|prfvT3|ud|PRFV_ESTRUCTURA DE POLIESTER REFORZADO CON FIBRA DE VIDRIO. PASARELA PATIO||120816|0|
+~T|prfvT3|PRFV_ESTRUCTURA DE POLIESTER REFORZADO CON FIBRA DE VIDRIO. PASARELA PATIO
+
+Suministro y montaje de perfiles de PRFV, para formación de estructura horizontal de terraza, fijados mediante tornillería acero INOX 316-4a D=12mm. Pintado en color a definir. Incluso p/p de accesorios, elementos de anclaje y pintura. 
+La estructura de PRFV está formada por los siguientes perfiles:
+
+- DOBLE T 75x150x8mm.................. 7,30m (5 barras según plano)
+- ANGULAR l 150x150s12mm.............. 10 elementos de 10cm de longitud
+
+Totalmente montado y terminado, despiece según los planos del proyecto.|
+~C|F#||Fachadas|||0|
+~D|F#
+|FF#\\1
+\FC#\\1
+\FD#\\1
+\FV#\\1
+\FPRFV#\\1
+\REVFACH#\\1
+\|
+~C|FF#||Fábricas y trasdosados|||0|
+~D|FF#
+|FFR040\\137.797
+\|
+~C|FFR040|m²|Cerramiento de fachada de fábrica de bloque aligerado de termoarcilla de 19 cm de espesor||310716|0|
+~T|FFR040|Cerramiento de fachada de fábrica de bloque aligerado de termoarcilla de 19 cm de espesor
+
+Ejecución de hoja interior de cerramiento de fachada de 19 cm de espesor, de fábrica de bloque aligerado de termoarcilla, para revestir, recibida con mortero de cemento confeccionado en obra, con 250 kg/m³ de cemento, color gris, dosificación 1:6, suministrado en sacos. Incluso p/p de replanteo, nivelación y aplomado, mermas y roturas, enjarjes; ejecución de encuentros y puntos singulares y limpieza.|
+~C|FC#||Carpintería exterior|||0|
+~D|FC#
+|LPG010\\1
+\LCY010\\1
+\LCY010b\\1
+\LCY010c\\1
+\LCY010d\\1
+\LCY010e\\1
+\LCY010f\\1
+\LCL060\\1
+\LCY010g\\1
+\LCY010h\\1
+\LCY010i\\1
+\LCY010j\\1
+\LCY010k\\1
+\LCY010l\\1
+\LCY010m\\1
+\LCY010n\\1
+\LCY010o\\1
+\FCM020b\\1
+\FCM020c\\1
+\FCM020\\1
+\LCM020\\1
+\|
+~C|LPG010|Ud|P1. Puerta seccional para garaje, formada por panel acanalado de aluminio relleno de poliuretano, 354x250 cm, acabado en color a elegir, apertura automática.||010816|0|
+~T|LPG010|P1. Suministro y colocación de puerta seccional para garaje, formada por panel acanalado de aluminio relleno de poliuretano, 354x250 cm, acabado en color a elegir. Apertura automática con equipo de motorización (incluido en el precio). Incluso cajón recogedor forrado, torno, muelles de torsión, poleas, guías y accesorios, cerradura central con llave de seguridad y falleba de accionamiento manual. Elaborada en taller, ajuste y fijación en obra. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010|Ud|V2. Carpintería de aluminio, anodizado natural, para conformado de puerta corredera de cuatro hojas "CORTIZO", de 1140x230 cm, sistema 4600 RPT (elevable).||310716|0|
+~T|LCY010|V2. Suministro y montaje de carpintería de aluminio, anodizado natural, para conjunto de puerta corredera, de 1140x230 cm, sistema 6500 (elevable) de "CORTIZO", formada por cuatro hojas, con perfilería provista de rotura de puente térmico, colocada sobre perfil de acero (no incluido en enta partida).
+
+Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010b|Ud|V3. Carpintería de aluminio, anodizado natural, dimensión total 172x200cm, para ventana abisagrada oscilobatiente con fijo lateral, sistema Cor-60 Hoja Oculta RPT de "CORTIZO" y compacto incorporado (monoblock).||310716|0|
+~T|LCY010b|V3. Suministro y montaje de carpintería de aluminio, anodizado natural, para conformado de ventana abisagrada oscilobatiente de apertura hacia el interior, de 120x200 cm, con fijo lateral de 100 cm de ancho, sistema Cor-60 Hoja Oculta de "CORTIZO", formada por una hoja, con perfilería provista de rotura de puente térmico, y con premarco. 
+
+Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Compacto incorporado (monoblock), persiana enrollable de lamas de aluminio inyectado, con accionamiento automático mediante motor eléctrico, equipada con todos sus accesorios. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010c|Ud|V5. Carpintería de aluminio, anodizado natural, de dimensión total 462x100 cm, para dos ventanas abisagradas oscilobatientes y fijo intermedio, sistema Cor-60 RPT de "CORTIZO".||310716|0|
+~T|LCY010c|V5. Suministro y montaje de carpintería de aluminio, anodizado natural, de dimensión total 462x100 cm, para conjunto de dos ventanas abisagradas oscilobatientes de 100x100cm, con fijo intermedio de 252 cm de largo, sistema Cor-60 RPT de "CORTIZO", con perfilería provista de rotura de puente térmico, sobre premarco de PRFV (no incluido).
+
+Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados.  Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010d|Ud|V7. Carpintería de aluminio, anodizado AZUL, dimensión total 445x250cm, para conjunto de dos fijos y puerta abisagrada practicable, sistema Cor-60 Hoja Oculta de "CORTIZO".||310716|0|
+~T|LCY010d|V7. Suministro y montaje de carpintería de aluminio, anodizado AZUL, dimensión total 445x250cm, para conjunto de dos fijos y puerta abisagrada practicable, sistema Cor-60 RPT Hoja Oculta de "CORTIZO". Formada por puerta: 85x250cm, fijo1: 156x250 cm y fijo2: 205x250cm.
+
+Con perfilería provista de rotura de puente térmico, y con premarco. Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010e|Ud|V8. Carpintería de aluminio, anodizado AZUL, dimensión total 445x250cm, para conjunto de fijo y puerta abisagrada practicable, sistema Cor-60 Hoja Oculta de "CORTIZO".||310716|0|
+~T|LCY010e|V8. Suministro y montaje de carpintería de aluminio, anodizado AZUL, dimensión total 445x250cm, para conjunto de dos fijos y puerta abisagrada practicable, sistema Cor-60 RPT Hoja Oculta de "CORTIZO". Formada por puerta: 85x250cm, fijo: 361x250cm.
+
+Con perfilería provista de rotura de puente térmico, y con premarco. Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010f|Ud|V9. Carpintería de aluminio, anodizado natural, puerta corredera dos hojas "CORTIZO", de 315x255 cm, sistema 4200 RPT Canal Europeo||010816|0|
+~T|LCY010f|V9.Suministro y montaje de carpintería de aluminio, anodizado natural, para puerta corredera, de 315x255 cm, sistema 4200 RPT de "CORTIZO", formada por dos hojas, con perfilería provista de rotura de puente térmico, colocada sobre  marco prerimetral de PRFV(no incluidos en enta partida)
+
+Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 3, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 7A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCL060|Ud|V10. Carpintería de aluminio, anodizado natural, para VENTANA DE GUILLOTINA, con perfilería provista de rotura de puente térmico, y con premarco.||010816|0|
+~T|LCL060|V10. Suministro y montaje de carpintería de aluminio, anodizado natural, para VENTANA DE GUILLOTINA, con perfilería provista de rotura de puente térmico, y con premarco. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010g|Ud|V11. Carpintería de aluminio, anodizado natural, dimensión total 142x180cm, para ventana abisagrada oscilobatiente y fijo lateral, sistema Cor-60 Hoja Oculta RPT de "CORTIZO".||010816|0|
+~T|LCY010g|V11. Suministro y montaje de carpintería de aluminio, dimensión total 142x180cm, anodizado natural, sistema Cor-60 Hoja Oculta RPT, "CORTIZO". Conjunto formado por: ventana abisagrada oscilobatiente de apertura hacia el interior de 85x150 cm y fijo lateral de 53 cm de ancho.
+
+Con perfilería provista de rotura de puente térmico, y con premarco. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010h|Ud|V12. Carpintería de aluminio, anodizado natural, para conformado de fijo de 239x180 cm, sistema Cor-60 RPT de "CORTIZO".||010816|0|
+~T|LCY010h|V12. Suministro y montaje de carpintería de aluminio, anodizado natural, para fijo de 239x180 cm, sistema Cor-60 RPT de "CORTIZO", con perfilería provista de rotura de puente térmico, y con premarco. 
+
+Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada.|
+~C|LCY010i|Ud|V13. Carpintería de aluminio, anodizado natural, para conformado de fijo de 376x250 cm, de forma no rectangular según plano, sistema Cor-60 RPT Canal Europeo, "CORTIZO".||010816|0|
+~T|LCY010i|V13. Suministro y montaje de carpintería de aluminio, anodizado natural, para fijo de 376x250 cm, de forma no rectangular según plano, sistema Cor-60 RPT de  "CORTIZO", con perfilería provista de rotura de puente térmico, y con premarco. 
+
+Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada.|
+~C|LCY010j|Ud|V14. Carpintería de aluminio, anodizado natural, para conformado de puerta abisagrada practicable de apertura hacia el exterior de 100x250 cm, sistema Cor-60 RPT Canal Europeo, "CORTIZO".||010816|0|
+~T|LCY010j|V14. Suministro y montaje de carpintería de aluminio, anodizado natural, para puerta abisagrada practicable de apertura hacia el exterior, de 100x250 cm, sistema Cor-60 de "CORTIZO",con perfilería provista de rotura de puente térmico, y con premarco. 
+
+Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010k|Ud|V15. Carpintería de aluminio, anodizado natural, para conformado de ventana abisagrada abatible de apertura hacia el interior de 150x60 cm, sistema Cor-60 RPT Hoja Oculta Canal Europeo, "CORTIZO".||010816|0|
+~T|LCY010k|V15. Suministro y montaje de carpintería de aluminio, anodizado natural, para ventana abisagrada abatible de apertura hacia el interior, de 150x60 cm, sistema Cor-60 Hoja Oculta de "CORTIZO", con perfilería provista de rotura de puente térmico, y con premarco. 
+
+Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010l|Ud|V16. Carpintería de aluminio, anodizado natural, de dimensión total 232x250cm, para puerta abisagrada practicable,fijo lateral y ventana abatible, sistema Cor-60 RPT de "CORTIZO".||010816|0|
+~T|LCY010l|V16. Suministro y montaje de carpintería de aluminio, anodizado natural, de dimensión total 232x250cm, sistema Cor-60 de "CORTIZO". Formado por puerta abisagrada practicable de apertura hacia el exterior, de 100x250 cm, con fijo lateral de 129x125 cm y ventana abatible de 129x125cm, con perfilería provista de rotura de puente térmico, y con premarco. 
+
+Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010m|Ud|V17.Carpintería de aluminio, anodizado natural, para fijo de 166x250 cm, sistema Cor-60 RPT de "CORTIZO".||010816|0|
+~T|LCY010m|V17. Suministro y montaje de carpintería de aluminio, anodizado natural, para conformado de fijo de 166x250 cm, sistema Cor-60 RPT de "CORTIZO", con perfilería provista de rotura de puente térmico, y con premarco. 
+
+Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada.|
+~C|LCY010n|Ud|V18. Carpintería de aluminio, anodizado natural, dimensión total 123x250cm, para conformado de conjunto de dos fijos y ventana abisagrada practicable, sistema Cor-60 RPT Hoja Oculta de "CORTIZO"||010816|0|
+~T|LCY010n|V18. Suministro y montaje de carpintería de aluminio, anodizado natural, dimensión total 123x250cm, para dos fijos y ventana abisagrada practicable, sistema Cor-60 RPT Hoja Oculta de "CORTIZO", con perfilería provista de rotura de puente térmico, y con premarco. Formada por ventana: 55x125cm, fijo1: 68x125 cm y fijo2: 123x125cm.
+
+Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|LCY010o|Ud|V19. Carpintería de aluminio, anodizado natural, para puerta abisagrada practicable de 50x250cm, sistema Cor-60 Hoja Oculta de "CORTIZO".||010816|0|
+~T|LCY010o|V19. Suministro y montaje de carpintería de aluminio, anodizado natural, para puerta abisagrada practicable de apertura hacia el interior de 50x250cm, sistema Cor-60 Hoja Oculta de "CORTIZO", formada por una hoja, con perfilería provista de rotura de puente térmico, y con premarco. 
+
+Espesor y calidad del proceso de anodizado garantizado por el sello EWAA-EURAS. Compuesta por perfiles extrusionados formando marcos y hojas. Accesorios, herrajes de colgar y apertura homologados, juntas de acristalamiento de EPDM de alta calidad, tornillería de acero inoxidable, elementos de estanqueidad, accesorios y utillajes de mecanizado homologados. Incluso p/p de garras de fijación, sellado perimetral de juntas por medio de un cordón de silicona neutra y ajuste final en obra. Elaborada en taller, con clasificación a la permeabilidad al aire clase 4, según UNE-EN 12207, clasificación a la estanqueidad al agua clase 9A, según UNE-EN 12208 y clasificación a la resistencia a la carga del viento clase C5, según UNE-EN 12210. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|FCM020b|Ud|V1_Carpintería exterior en madera laminada de iroko, conjunto de puerta de accceso a vivienda y fijos según planos.||080515|0|
+~T|FCM020b|V1_Suministro y montaje de carpintería exterior en madera laminada de iroko, para PUERTA DE ACCESO A VIVIENDA de 1 hoja practicable y fijos; incluso precerco, tapajuntas y herrajes. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio. Conjunto formado por PUERTA V1-a abatible de 124x230cm, fijo V1-b de 303x230cm, fjo trapezoidal V1-c de 231x181cm y revestimiento de fábrica, todo según planos.
+
+Incluye: Colocación del precerco. Replanteo y formación de cajeado en el perímetro del hueco para alojar los elementos de fijación del marco. Presentación, acuñado, aplomado y nivelación del marco. Relleno con mortero o atornillado de los elementos de fijación del marco. Retirada de cuñas una vez fraguado el mortero. Ajuste final de las hojas. Sellado de juntas perimetrales. Colocación de tapajuntas. Colocación de accesorios. Realización de pruebas de servicio.|
+~C|FCM020c|Ud|V4_ Carpintería exterior corredera en madera laminada de iroko, de 360x190 cm, con persiana.||080515|0|
+~T|FCM020c|V4_ Suministro y montaje de carpintería exterior en madera laminada de iroko, de 360x190 cm, para balconera de 2 hojas correderas; incluso precerco, tapajuntas y herrajes. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio. Incluso persiana de alumninio y tapa del cajón en madera de iroko. Según planos.
+
+Incluye: Colocación del precerco. Replanteo y formación de cajeado en el perímetro del hueco para alojar los elementos de fijación del marco. Presentación, acuñado, aplomado y nivelación del marco. Relleno con mortero o atornillado de los elementos de fijación del marco. Retirada de cuñas una vez fraguado el mortero. Ajuste final de las hojas. Sellado de juntas perimetrales. Colocación de tapajuntas. Colocación de accesorios. Realización de pruebas de servicio.|
+~C|FCM020|Ud|V6_ Carpintería exterior, conjunto de dos balconeras con dos hojas correderas en madera laminada de iroko, de 526x228 cm.||080515|0|
+~T|FCM020|V6_ Suministro y montaje de carpintería exterior en madera laminada de iroko, de 526x228cm, para dos balconeras de 2 hojas correderas cada una; incluso precerco, tapajuntas y herrajes. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio.  Incluso persiana de alumninio y tapa del cajón en madera de iroko. Según planos.
+
+Incluye: Colocación del precerco. Replanteo y formación de cajeado en el perímetro del hueco para alojar los elementos de fijación del marco. Presentación, acuñado, aplomado y nivelación del marco. Relleno con mortero o atornillado de los elementos de fijación del marco. Retirada de cuñas una vez fraguado el mortero. Ajuste final de las hojas. Sellado de juntas perimetrales. Colocación de tapajuntas. Colocación de accesorios. Realización de pruebas de servicio.|
+~C|LCM020|Ud|Marco exterior en madera de iroko para barnizar, 31x10cm||120816|0|
+~T|LCM020|Marco exterior en madera de iroko para barnizar, 31x10cm
+
+Suministro y montaje de marco exterior en madera de iroko para barnizar, de sección 31x10cm, como premarco y recercado de V2. Totalmente montado, según planos.|
+~C|FD#||Defensas de exteriores|||0|
+~D|FD#
+|FDD020\\1
+\|
+~C|FDD020|m|Barandilla en cubierta superior|||0|
+~T|FDD020|Barandilla en cubierta superior
+
+Suministro y colocación de barandilla en cubierrta, de 100 cm de altura, de ........................................................., formada por: ...................................................................................................................................
+Incluso p/p de patas de agarre y fijación mediante atornillado en obra de fábrica con tacos y tornillos de acero.|
+~C|FV#||Vidrios|||0|
+~D|FV#
+|LVC010\\85.771
+\LVC010b\\24.95
+\LVS010b\\3.276
+\|
+~C|LVC010|m²|Doble acristalamiento de seguridad (laminar), 6+6/6/5+5||100816|0|
+~T|LVC010|Doble acristalamiento de seguridad (laminar), 6+6/6/5+5 
+
+Suministro y colocación de doble acristalamiento de seguridad (laminar), conjunto formado por vidrio exterior laminar incoloro de 6+6 mm compuesto por dos lunas de vidrio laminar de 6 mm, unidas mediante una lámina de butiral de polivinilo incoloro, cámara de aire deshidratada con perfil separador de aluminio y doble sellado perimetral de 6 mm, y vidrio interior laminar incoloro de 5+5 mm de espesor compuesto por dos lunas de vidrio laminar de 5 mm, unidas mediante una lámina de butiral de polivinilo incoloro, fijado sobre carpintería con acuñado mediante calzos de apoyo perimetrales y laterales, sellado en frío con silicona sintética incolora, compatible con el material soporte. Incluso cortes del vidrio, colocación de junquillos y señalización de las hojas.|
+~C|LVC010b|m²|Doble acristalamiento de seguridad (laminar), 6+6/6/3+3||100816|0|
+~T|LVC010b|Doble acristalamiento de seguridad (laminar), 6+6/6/3+3
+
+Suministro y colocación de doble acristalamiento de seguridad (laminar), conjunto formado por vidrio exterior laminar incoloro de 6+6 mm compuesto por dos lunas de vidrio laminar de 6 mm, unidas mediante una lámina de butiral de polivinilo incoloro, cámara de aire deshidratada con perfil separador de aluminio y doble sellado perimetral de 6 mm, y vidrio interior laminar incoloro de 3+3 mm de espesor compuesto por dos lunas de vidrio laminar de 3 mm, unidas mediante una lámina de butiral de polivinilo incoloro, fijado sobre carpintería con acuñado mediante calzos de apoyo perimetrales y laterales, sellado en frío con silicona sintética incolora, compatible con el material soporte. Incluso cortes del vidrio, colocación de junquillos y señalización de las hojas.|
+~C|LVS010b|m²|Vidrio laminar de seguridad 10+10 mm||100816|0|
+~T|LVS010b|Vidrio laminar de seguridad 10+10 mm, para barandilla
+
+Suministro y colocación de vidrio laminar de seguridad 10+10 mm, compuesto por dos lunas de 10 mm de espesor unidas mediante una lámina de butiral de polivinilo incoloro, para barandilla en terraza, fijado sobre perfiles en U según detalles, con acuñado mediante calzos de apoyo perimetrales y laterales, sellado en frío con silicona sintética incolora (no acrílica), compatible con el material soporte. Incluso cortes del vidrio, colocación de junquillos y señalización de las hojas.|
+~C|FPRFV#||Fachada PRFV|||0|
+~D|FPRFV#
+|prfv2\\501.35
+\preprfv2\\73.73
+\prfv3\\56.02
+\prfv5\\34.4
+\prfv1\\52.76
+\tramx2\\58.114
+\FRA010\\111.2
+\prefv\\22.64
+\remprfv\\11.6
+\|
+~C|prfv2|m|SUBESTRUCTURA PRFV_ Tubo rectangular 80.30.3 y L 80.80.8||120816|0|
+~T|prfv2|SUBESTRUCTURA PRFV_ Tubo rectangular 80.30.3 y L 80.80.8 
+
+
+Suministro y montaje de subestructura para fachada de policarbonato minionda o chapa metálica, con tubo rectangular 80.30.3 TRV80-04 de PRFV, fijados mediante tornillería apropiada y normalizada para este tipo de perfiles. Incluye elementos de sujección formados por piezas de 10cm de longitud de perfil PRFV L.80.80.8 ANG80-00, colocados según se indica en los planos. Pintado en color a definir. Incluso p/p de accesorios, elementos de anclaje y pintura.
+Totalmente montado y terminado, despiece según los planos del proyecto.|
+~C|preprfv2|m|SUBESTRUCTURA PRFV_ Tubo cuadrado 40.40.4 y L 80.80.8||120816|0|
+~T|preprfv2|SUBESTRUCTURA PRFV_ Tubo cuadrado 40.40.4 y L 80.80.8
+
+Suministro y montaje de subestructura para fachada de chapa metálica con tubo cuadrado 40.40.4 de PRFV, fijados mediante tornillería apropiada y normalizada para este tipo de perfiles. Incluye elementos de sujección formados por piezas de 10cm de longitud de perfil PRFV L.80.80.8 ANG80-00, colocados según se indica en los planos. Sin pintar. Incluso p/p de accesorios y elementos de anclaje.
+Totalmente montado y terminado, despiece según los planos del proyecto.|
+~C|prfv3|m|PRFV_ Tubo rectangular 80.50.3 TRV80-01||120816|0|
+~T|prfv3|PRFV_ Tubo rectangular 80.50.3 TRV80-01
+
+
+Suministro y montaje de Tubo rectangular 80.50.3 TRV80-01 de PRFV, para formación de soporte, refuerzo y remates de fachada, fijados mediante tornillería apropiada y normalizada para este tipo de perfiles. Pintado en color a definir. Incluso p/p de accesorios, elementos de anclaje y pintura.
+Totalmente montado y terminado, despiece según los planos del proyecto.|
+~C|prfv5|m|PRFV_ Angular 40.40.4 para remates||220916|0|
+~T|prfv5|PRFV_ Angular 40.40.4 para remates
+
+Suministro y montaje de Angular 40.40.4 para remates de fachada, fijados mediante tornillería apropiada y normalizada para este tipo de perfiles. Incluso p/p de accesorios y elementos de anclaje.|
+~C|prfv1|m|PRFV_ Pletina 100.5 para remates||120816|0|
+~T|prfv1|PRFV_ Pletina 100.5 para remates
+
+Suministro y montaje de Pletina de PRFV 100.5 para remates de fachada, fijados mediante tornillería apropiada y normalizada para este tipo de perfiles. Pintado en color a definir. Incluso p/p de accesorios, elementos de anclaje y pintura.|
+~C|tramx2|m2|Rejilla tipo tramex de PRFV 38x38x30mm, para pintar||120816|0|
+~T|tramx2|Rejilla tipo tramex de PRFV 38x38x30mm, para pintar
+
+Suministro y colocación de rejilla tipo tramex de PRFV,dimensiones 38x38x30mm, para formación de fachada, fijados mediante tornillería apropiada y normalizada para este tipo de perfiles. Pintado en color a definir. Incluso p/p de accesorios, elementos de anclaje y pintura.
+Totalmente montado y terminado, despiece según los planos del proyecto.|
+~C|FRA010|m|Vierteaguas de PRFV, de 25 cm de anchura|||0|
+~T|FRA010|Vierteaguas de PRFV, de 25 cm de anchura
+
+Suministro y colocación de vierteaguas dePRFV, de 25 cm de anchura, con goterón,  recibida con una pendiente suficiente para evacuar el agua. Pintado en color a definir. Incluso p/p de accesorios, elementos de anclaje y pintura. Incluso rejuntado entre piezas y uniones con los montantes de fachada.|
+~C|prefv|m|Marco perimetral PRFV 100.100.8||220916|0|
+~T|prefv|Marco perimetral PRFV 100.100.8
+
+Sumnistro y montaje de marcos para colocación de carpinterías exteriores, con perfiles angulares de PRFV L 100.100.8. Incluso p/p de accesorios y elementos de anclaje, puesto en obra.|
+~C|remprfv|m|PRFV apoyo para carpintería V2||220916|0|
+~T|remprfv|PRFV apoyo para carpintería V2
+
+Sumnistro y montaje de apoyo para colocación de carpintería exterior, formado por dos perfil angular PRFV L 300.300.10. Incluso p/p de cartelas de refuerzo cada metro, accesorios y elementos de anclaje, puesto en obra según planos.|
+~C|REVFACH#||Revestimientos de fachada||100816|0|
+~T|REVFACH#|REVESTIMIENTOS DE FACHADA|
+~D|REVFACH#
+|deploye\\95.44
+\QTF030\\202.64
+\NAF060\\123.791
+\celcor\\1
+\|
+~C|deploye|m2|Fachada de malla estirada de aluminio anodizado azul 60x23x6x2mm||090816|0|
+~T|deploye|Fachada de malla estirada de aluminio anodizado azul 60x23x6x2mm
+
+Revestimiento de fachada ventilada formada por:
+
+- malla estirada serie romboidal 60x23x6x2mm, de aluminio anodizado azul, colocada sobre rastreles de PRFV (no incluidos en esta partida) mediante tornillos.
+- panel de lana de roca de 1cm de espesor
+- fieltro geotextil color rosa pegado a la lana de roca
+El panel de lana de roca con el fieltro geotextil irá adherido a la malla estirada por su cara interior.
+
+
+Incluso p/p de preparación previa de las placas, formación de esquinas, cortes, remates de cantos y piezas especiales.
+Totalmente terminado y repasado, según planos.|
+~C|QTF030|m²|Revestimiento de fachada de placas translúcidas de policarbonato minionda||090816|0|
+~T|QTF030|Revestimiento de fachada de placas translúcidas de policarbonato minionda
+
+Suministro y montaje de revestimiento de fachada, con placas translúcidas de policarbonato, de perfil minionda, tipo PLEXIGLAS RESIST color hielo, fijadas mecánicamente a subestructura de prefiles de PRFV (no incluida en este precio). 
+Incluso p/p de solapes, recortes, formación de huecos, elementos de fijación, accesorios, juntas, remates perimetrales y otras piezas de remate para la resolución de puntos singulares, según planos.|
+~C|NAF060|m²|FACHADA VISTA PANEL DE CORCHO EXPANDIDO AGLOCORK FACHADAS 50mm||080816|0|
+~T|NAF060|FACHADA VISTA PANEL DE CORCHO EXPANDIDO AGLOCORK FACHADAS 50mm
+
+Suministro y colocación de aislamiento por el exterior en fachada de fábrica para revestir formado por PLACAS DE CORCHO EXPANDIDO PARA AISLAMIENTOS EN FACHADA VISTA AGLOCORK FACHADAS 50mm:
+100% natural
+Placas de 1000x500 mm.
+Densidad: 140 / 160 Kg/m3
+Coeficiente de conductividad térmica: 0,040 / 0,042 W/m.k
+
+Colocado con mortero adhesivo específico y fijaciones mecánicas, incluidas. Incluso p/p de cortes y limpieza.|
+~C|celcor|ud|CELOSÍA DE PANEL DE CORCHO EXPANDIDO AGLOCORK FACHADAS 50mm||100816|0|
+~T|celcor|CELOSÍA DE PANEL DE CORCHO EXPANDIDO AGLOCORK FACHADAS 50mm
+
+Suministro y colocación de CELOSÍA formadA por PLACAS DE CORCHO EXPANDIDO PARA AISLAMIENTOS EN FACHADA VISTA AGLOCORK FACHADAS 50mm.
+
+Colocado con fijaciones mecánicas, incluidas. Incluso p/p de cortes y limpieza. Totalmente terminado según planos.|
+~C|Q#||Cubiertas|||0|
+~D|Q#
+|QA#\\1
+\|
+~C|QA#||Planas|||0|
+~D|QA#
+|QAB020\\150.34
+\jardin\\48.62
+\jarsedum\\80
+\|
+~C|QAB020|m²|Cubierta plana transitable, no ventilada, tipo invertida, pendiente cero.||090816|0|
+~T|QAB020|Cubierta plana transitable, no ventilada, tipo invertida, pendiente cero, para base de cubierta verde o para acabado con césped artificial.
+
+Formación de cubierta plana transitable, no ventilada, tipo invertida, sin pendiente, compuesta de los siguientes elementos: 
+
+- IMPERMEABILIZACIÓN: tipo bicapa, adherida, compuesta por una lámina de betún modificado con elastómero SBS, LBM(SBS)-30-FV, con armadura de fieltro de fibra de vidrio de 60 g/m², de superficie no protegida, colocada con emulsión asfáltica aniónica sin cargas, tipo EA, y una lámina de betún modificado con elastómero SBS, LBM(SBS)-30-FP, con armadura de fieltro de poliéster no tejido de 160 g/m², de superficie no protegida adherida a la anterior con soplete, sin coincidir sus juntas; 
+- CAPA SEPARADORA BAJO AISLAMIENTO: geotextil no tejido compuesto por fibras de poliéster unidas por agujeteado, con una resistencia a la tracción longitudinal de 1,2 kN/m, una resistencia a la tracción transversal de 1,2 kN/m, una apertura de cono al ensayo de perforación dinámica según UNE-EN ISO 13433 inferior a 40 mm, resistencia CBR a punzonamiento 0,3 kN y una masa superficial de 150 g/m²; 
+- AISLAMIENTO TÉRMICO: panel rígido de poliestireno extruido, de superficie lisa y mecanizado lateral a media madera, de 50 mm de espesor, resistencia a compresión >= 300 kPa, resistencia térmica 1,5 m²K/W, conductividad térmica 0,034 W/(mK); 
+- CAPA SEPARADORA BAJO PROTECCIÓN: geotextil no tejido compuesto por fibras de poliéster unidas por agujeteado, con una resistencia a la tracción longitudinal de 2 kN/m, una resistencia a la tracción transversal de 2 kN/m, una apertura de cono al ensayo de perforación dinámica según UNE-EN ISO 13433 inferior a 27 mm, resistencia CBR a punzonamiento 0,4 kN y una masa superficial de 200 g/m²; 
+- CAPA DE PROTECCIÓN: capa de mortero de cemento de 5cm de espesor
+
+Incluso parte proporcional de ejecución de encuentros con paramentos, sumideros u otros puntos singulares.|
+~C|jardin|m2|Cubierta verde intensiva tipo "Jardín con Floradrain® FD 60", para plantación de huerto||090816|0|
+~T|jardin|Cubierta verde intensiva tipo "Jardín con Floradrain® FD 60", para plantación de huerto
+
+Suministro e instalación de cubierta verde intensiva tipo "Jardín con Floradrain® FD 60": espesor mínimo 15cm y espesor añadido para formación de caballones, peso saturado de agua a partir de 325 kg/m² aprox., retención de agua a partir de 90 l/m² aprox. Suministro completo e instalación profesional de acuerdo con las instrucciones del fabricante.
+
+La estructura del sistema consiste en: nivel de vegetación (césped y vivaces, también arbustos y árboles en caso de tener un espesor adecuado de sustrato), sustrato del sistema “Jardín” o “Césped” entre 20-35 cm, en caso necesario Zincolit® Plus como sustrato inferior, filtro sistema SF, elemento de drenaje y de retención de agua Floradrain® FD 60 relleno con Zincolit® Plus (27 l/m²) y manta protectora y de retención ISM 50.
+
+Incluye la colocación de una banda de grava sin vegetación de 30-50 cm de ancho a lo largo de los bordes perimetrales, los encuentros, lucernarios y cajas de registro, de acuerdo con las normas de la FLL sobre cubiertas verdes.|
+~C|jarsedum|m2|Cubierta verde intensiva tipo "Jardín con Floradrain® FD 60" con riego integrado y Sedum||230916|0|
+~T|jarsedum|Cubierta verde intensiva tipo "Jardín con Floradrain® FD 60" con riego integrado y Sedum
+
+Suministro e instalación de cubierta verde intensiva tipo "Jardín con Floradrain® FD 60": espesor 15 cm, peso saturado de agua a partir de 325 kg/m² aprox., retención de agua a partir de 90 l/m² aprox. Suministro completo e instalación profesional de acuerdo con las instrucciones del fabricante.
+
+La estructura del sistema consiste en: nivel de vegetación con plantas “Sedum”, sustrato del sistema “Sedum” de 15 cm aprox., en caso necesario Zincolit® Plus como sustrato inferior, filtro sistema SF, elemento de drenaje y de retención de agua Floradrain® FD 60 relleno con Zincolit® Plus (27 l/m²) y manta protectora y de retención ISM 50. Sistema de riego integrado en el interior del sustrato incluido.
+
+Incluye la colocación de una banda de grava sin vegetación de 30-50 cm de ancho a lo largo de los bordes perimetrales, los encuentros, lucernarios y cajas de registro, de acuerdo con las normas de la FLL sobre cubiertas verdes.|
+~C|N#||Aislamientos e impermeabilizaciones|||0|
+~D|N#
+|NA#\\1
+\NI#\\1
+\|
+~C|NA#||Aislamientos|||0|
+~D|NA#
+|NAF040\\202.64
+\NAF040b\\95.44
+\|
+~C|NAF040|m²|Aislamiento por espuma rígida de poliuretano proyectado de 50 mm||090816|0|
+~T|NAF040|Aislamiento por espuma rígida de poliuretano proyectado de 50 mm 
+
+Formación de aislamiento por el exterior de fachada ventilada mediante espuma rígida de poliuretano proyectado de 50 mm de espesor mínimo, 35 kg/m³ de densidad mínima, aplicado directamente sobre el paramento mediante proyección mecánica. Incluso p/p de maquinaria, protección de paramentos, carpinterías y otros elementos colindantes, y limpieza.|
+~C|NAF040b|m²|Aislamiento por espuma rígida de poliuretano proyectado de 80 mm||230916|0|
+~T|NAF040b|Aislamiento por espuma rígida de poliuretano proyectado de 80 mm
+
+Formación de aislamiento por el exterior de fachada ventilada mediante espuma rígida de poliuretano proyectado de 80 mm de espesor mínimo, 35 kg/m³ de densidad mínima, aplicado directamente sobre el paramento mediante proyección mecánica. Incluso p/p de maquinaria, protección de paramentos, carpinterías y otros elementos colindantes, y limpieza.|
+~C|NI#||Impermeabilizaciones|||0|
+~D|NI#
+|NIM011\\92.429
+\NIM040\\92.429
+\NIG020\\10.35
+\|
+~C|NIM011|m²|Impermeabilización de muro en contacto con el terreno||100816|0|
+~T|NIM011|Impermeabilización de muro en contacto con el terreno
+
+Formación de impermeabilización de muro de sótano o estructura enterrada, por su cara exterior, mediante lámina de betún modificado con elastómero SBS, LBM(SBS)-40-FV, masa nominal 4 kg/m², con armadura de fieltro de fibra de vidrio de 100 g/m², acabada con film plástico termofusible en ambas caras, previa imprimación con emulsión asfáltica no iónica (rendimiento: 0,5 kg/m²). Incluso p/p de limpieza y preparación de la superficie, solapes y bandas de refuerzo en la coronación y en la entrega al pie del muro en su encuentro con la cimentación.|
+~C|NIM040|m²|Drenaje de muro en contacto con el terreno||100816|0|
+~T|NIM040|Drenaje de muro en contacto con el terreno
+
+Formación de drenaje de muro de sótano o estructura enterrada, por su cara exterior, mediante lámina drenante nodular de polietileno de alta densidad (PEAD/HDPE), con nódulos de 8 mm de altura, con geotextil de polipropileno incorporado, resistencia a la compresión 150 kN/m² según UNE-EN ISO 604, capacidad de drenaje 5 l/(s·m) y masa nominal 0,7 kg/m²; sujeta al paramento vertical mediante fijaciones mecánicas (6 ud/m²), con los nódulos contra el muro previamente impermeabilizado. Incluso p/p de limpieza y preparación de la superficie, solapes horizontales y verticales, remates de esquinas y rincones y colocación de perfil metálico de remate superior (0,3 m/m²).|
+~C|NIG020|m²|Impermeabilización bajo pavimentos||300916|0|
+~T|NIG020|Impermeabilización bajo pavimentos
+
+Formación de impermeabilización bajo pavimento o para formación de duchas de obra, realizada con lámina de betún modificado con elastómero SBS, LBM(SBS)-40-FP, con armadura de fieltro de poliéster no tejido de 160 g/m², de superficie no protegida, adherida con emulsión asfáltica aniónica sin cargas, tipo EA al soporte de mortero de cemento CEM II/B-P 32,5 N tipo M-5, confeccionado en obra con 250 kg/m³ de cemento y una proporción en volumen 1/6, con espesor medio de 4 cm y pendiente del 1% al 5%, acabado fratasado, y protegida con capa separadora (no incluida en este precio). Incluso p/p de limpieza y preparación de la superficie y resolución de uniones, juntas y puntos singulares.|
+~C|P#||Particiones y mobiliario|||0|
+~D|P#
+|PT#\\1
+\PP#\\1
+\PA#\\1
+\mob#\\1
+\PD#\\1
+\PY#\\1
+\|
+~C|PT#||Tabiques y albañilería|||0|
+~D|PT#
+|PSY015\\46.29
+\PSY015b\\31.881
+\REC010b\\2
+\|
+~C|PSY015|m²|Tabique sencillo placas cartón-yeso (13+13+48+13+13)/600 (48), 100mm de espesor total||080515|0|
+~T|PSY015|Tabique sencillo placas cartón-yeso (13+13+48+13+13)/600 (48), 100mm de espesor total
+
+Suministro y montaje de tabique sencillo sistema de placas de cartón-yeso "KNAUF" autoportante, de 100 mm de espesor total, sobre banda acústica "KNAUF", colocada en la base del tabique, formado por una estructura simple de perfiles de chapa de acero galvanizado de 48 mm de ancho, a base de montantes (elementos verticales) separados 600 mm entre ellos, con disposición normal "N" y canales (elementos horizontales). En cada lado atornillan dos placas de 13 mm de espesor cada placa; incluye aislamiento acústico mediante panel de lana mineral natural (LMN) no revestido, aglomerado con resinas, imputrescible, Ultracoustic 7 (DP7) "KNAUF INSULATION", de 40 mm de espesor, según UNE-EN 13162, resistencia térmica 1,1 (m²K)/W, conductividad térmica 0,035 W/(mK), en el alma. Incluso p/p de replanteo de la perfilería, zonas de paso y huecos; colocación en todo su perímetro de cintas o bandas estancas, en la superficie de apoyo o contacto de la perfilería con los paramentos; anclajes de canales y montantes metálicos; corte y fijación de las placas mediante tornillería; tratamiento de las zonas de paso y huecos; ejecución de ángulos; tratamiento de juntas mediante pasta y cinta de juntas; recibido de las cajas para alojamiento de mecanismos eléctricos y de paso de instalaciones, previo replanteo de su ubicación en las placas y perforación de las mismas, y limpieza final. Totalmente terminado y listo para imprimar, pintar o revestir.|
+~C|PSY015b|m²|Tabique sencillo placas cartón-yeso (13+13+48+13+13)/600 (48), HIDRÓFUGO A UNA CARA, 100mm de espesor total||080515|0|
+~T|PSY015b|Tabique sencillo placas cartón-yeso (13+13+48+13+13)/600 (48), HIDRÓFUGO A UNA CARA, 100mm de espesor total
+
+Suministro y montaje de tabique sencillo sistema de placas de cartón-yeso "KNAUF" autoportante, de 100 mm de espesor total, sobre banda acústica "KNAUF", colocada en la base del tabique, formado por una estructura simple de perfiles de chapa de acero galvanizado de 48 mm de ancho, a base de montantes (elementos verticales) separados 600 mm entre ellos, con disposición normal "N" y canales (elementos horizontales). En cada lado atornillan dos placas de 13 mm de espesor cada placa; incluye aislamiento acústico mediante panel de lana mineral natural (LMN) no revestido, aglomerado con resinas, imputrescible, Ultracoustic 7 (DP7) "KNAUF INSULATION", de 40 mm de espesor, según UNE-EN 13162, resistencia térmica 1,1 (m²K)/W, conductividad térmica 0,035 W/(mK), en el alma. Incluso p/p de replanteo de la perfilería, zonas de paso y huecos; colocación en todo su perímetro de cintas o bandas estancas, en la superficie de apoyo o contacto de la perfilería con los paramentos; anclajes de canales y montantes metálicos; corte y fijación de las placas mediante tornillería; tratamiento de las zonas de paso y huecos; ejecución de ángulos; tratamiento de juntas mediante pasta y cinta de juntas; recibido de las cajas para alojamiento de mecanismos eléctricos y de paso de instalaciones, previo replanteo de su ubicación en las placas y perforación de las mismas, y limpieza final. Totalmente terminado y listo para imprimar, pintar o revestir.|
+~C|REC010b|Ud|Formación de peldañeado de escalera de ida y vuelta||090816|0|
+~T|REC010b|Formación de peldañeado de escalera de ida y vuelta
+
+Formación de peldañeado de escalera de ida y vuelta, de dos tramos rectos con meseta intermedia, mediante fábrica de ladrillo y mortero ce cemento.
+Reparto, dimensiones y remates según planos, preparado para posterior revestimiento.|
+~C|PP#||Puertas de paso interiores de madera|||0|
+~D|PP#
+|LPM010\\1
+\PPM010b\\1
+\PPM010c\\1
+\PPM010d\\1
+\LPM010b\\1
+\PPM010\\1
+\PPM010e\\1
+\LAH010\\1
+\armpol\\1
+\|
+~C|LPM010|Ud|P2. Puerta de paso corredera con armazón metálico Scrigno, de una hoja de 163x250x4cm, de tablero fenólico de abedul. Guía Klein Slid.90 Intra.||010816|0|
+~T|LPM010|P2. Suministro y colocación de puerta de paso corredera para armazón metálico Scrigno, de una hoja de 163x250x4cm, de tablero fenólico de abedul, barnizada mate en taller. 
+Incluso herrajes de colgar GUÍA KLEIN SLID.90 INTRA de longitud 331cm, rebaje fresado como tirador. Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|PPM010b|Ud|P3_Puerta de paso abatible de tablero fenólico de abedul, 92x210m||080515|0|
+~T|PPM010b|P3_Puerta de paso abatible de tablero fenólico de abedul, 92x210m
+Suministro y colocación de puerta de paso ciega, de una hoja de 92x210m, lisa de tablero fenólico de abedul, barnizada en taller; precerco de pino país de 100x35 mm; galces macizos, de tablero fenólico de abedul; tapajuntas macizos, de tablero fenólico de abedul en ambas caras, hasta techo según plano y enrasados a la cara exterior de la hoja. 
+Incluso bisagras ocultas, herrajes de cierre y manivela de acero inoxidable. Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio). Según planos.|
+~C|PPM010c|Ud|P4_Puerta de paso abatible de tablero fenólico de abedul, 72x210cm||080515|0|
+~T|PPM010c|P4_P3_Puerta de paso abatible de tablero fenólico de abedul, 72x210m
+Suministro y colocación de puerta de paso ciega, de una hoja de 72x210m, lisa de tablero fenólico de abedul, barnizada en taller; precerco de pino país de 100x35 mm; galces macizos, de tablero fenólico de abedul; tapajuntas macizos, de tablero fenólico de abedul en ambas caras, hasta techo según plano y enrasados a la cara exterior de la hoja. 
+Incluso bisagras ocultas, herrajes de cierre y manivela de acero inoxidable. Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio). Según planos.|
+~C|PPM010d|Ud|P5_Puerta de paso abatible de tablero fenólico de abedul, 92x250cm y parte fija ciega.||080515|0|
+~T|PPM010d|P5_Puerta de paso abatible de tablero fenólico de abedul, 92x250cm y parte fija ciega.
+Suministro y colocación de puerta de paso ciega, de una hoja de 92x250cm, lisa de tablero fenólico de abedul, barnizada en taller; precerco de pino país de 100x35 mm; galces macizos, de tablero fenólico de abedul; tapajuntas macizos, de tablero fenólico de abedul en ambas y enrasados a la cara exterior de la hoja. Parte fija ciega de 71cm de ancho y chapado de pared de 30cm, según plano, incluidas.
+Incluso bisagras ocultas, herrajes de cierre y manivela de acero inoxidable. Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).Incluso tapajuntas superior hasta el techo (h=292cm), según planos.|
+~C|LPM010b|Ud|P6. Puerta de paso corredera con armazón metálico Scrigno, de una hoja de 93x250x4cm, de tablero fenólico de abedul. Guía Klein Slid.60 Intra.||010816|0|
+~T|LPM010b|P6. Suministro y colocación de puerta de paso corredera para armazón metálico Scrigno, de una hoja de 93x250x4cm, de tablero fenólico de abedul, barnizada mate en taller. 
+Incluso herrajes de colgar GUÍA KLEIN SLID.60 INTRA de longitud 204cm, rebaje fresado como tirador. Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|PPM010|Ud|P7 y P8_Conjunto de dos puertas de paso abatibles de tablero fenólico de abedul, 90x250cm y forrados laterales||080515|0|
+~T|PPM010|P7 y P8_Conjunto de dos puertas de paso abatibles de tablero fenólico de abedul, 90x250cm y forrados laterales.
+
+Suministro y colocación de dos puertas de paso ciegas, de una hoja de 90x250cm, lisa de tablero fenólico de abedul, barnizada en taller; precerco de pino país de 100x35 mm; galces macizos, de tablero fenólico de abedul; tapajuntas macizos, de tablero fenólico de abedul en ambas caras y enrasados a la cara exterior de las hojas. Incluye el forrado en tablero fenólico de abedul de los paramentos perpendiculares (2 paneles de 67x250cm).
+Incluso bisagras ocultas, herrajes de cierre y manivela de acero inoxidable. Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).Incluso tapajuntas superior hasta el techo (h=292cm), según planos.
+Incluye: Colocación de los herrajes de colgar. Colocación de la hoja. Colocación de los herrajes de cierre. Colocación de accesorios. Realización de pruebas de servicio.|
+~C|PPM010e|Ud|P9_Puerta de paso corredera de tablero fenólico de abedul 175x240cm. Guía Klein Slid.90 Retrac.||080515|0|
+~T|PPM010e|P9_Puerta de paso corredera de tablero fenólico de abedul 175x240cm.
+
+Suministro y colocación de puerta de paso corredera, ciega, de una hoja de 175x240cm, lisa de tablero fenólico de abedul, barnizada en taller. 
+Incluso herrajes de colgar KLEIN SLID.90 RETRAC, de longitud total 394cm, rebaje fresado como tirador. Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio). Incluso parte proporcional de pequeñas piezas y/o complementos. Montado según detalles.|
+~C|LAH010|Ud|ARM5_Frente de armario de dos hojas de tablero DM lacado blanco mate||100816|0|
+~T|LAH010|ARM5_Frente de armario de dos hojas de tablero DM lacado blanco mate
+
+Suministro y colocación de frente de armario de dos hojas, dimensión total 138x250cm, de tableroDM lacado blanco mate. Tapajuntas enrasados a las puertas, con dimensiones según planos. Incluso herrajes ocultos de colgar, cierre y pulsador por presión. 
+
+Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|armpol|ud|ARM6_Frente de armario de dos hojas correderas de policarbonato||300916|0|
+~T|armpol|ARM6_Frente de armario de dos hojas correderas de policarbonato
+
+Suministro y colocación de frente de armario de dos hojas correderas, dimensión total 400x400cm, con dos hojas de policarbonato celular de 25mm de espesor y marco de tablero fenólico de abedul. Incluso herrajes de colgar mediante guía Klein SLID.60 Retrac 
+Ajuste de la hoja, fijación de los herrajes y ajuste final. Totalmente montada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|PA#||Puertas y  fijos de vidrio|||0|
+~D|PA#
+|piv\\2
+\piv70\\1
+\arm1_2\\2
+\arm3\\1
+\arm4\\1
+\LVS010\\18.985
+\|
+~C|piv|Ud|P10_P11_Puerta pivotante de vidrio laminado y templado 12mm. Color a definir.||020816|0|
+~T|piv|P10_P11_Puerta pivotante de vidrio laminado y templado 12mm. Color a definir.
+
+Hoja para puerta de vidrio templado y laminado 6+6mm con lamina de butiral de polivinilo color a definir, de 75x250cm. Incluye sistema de giro UNICA 180 de MINUSCO, taladros y tirador en ambos lados. Totalmente terminada.|
+~C|piv70|ud|P12_Puerta pivotante de vidrio laminado 6+6mm y templado. Color verde.||020816|0|
+~T|piv70|P12_Puerta pivotante de vidrio laminado 6+6mm y templado. Color verde.
+
+Hoja para puerta de vidrio templado y laminado 6+6mm con lamina de butiral de polivinilo color verde, de 70x250cm. Incluye sistema de giro UNICA 180 de MINUSCO, taladros y tirador en ambos lados. Totalmente terminada.|
+~C|arm1_2|Ud|ARM 1_ARM2_Frente de armario de vidrio, color a definir. L=165cm.||020816|0|
+~T|arm1_2|ARM 1_ARM2_Frente de armario de vidrio, color a definir. L=165cm.
+
+Frente de armario de dos hojas correderas de 165cm de longitud, de vidrio laminar de seguridad compuesto por 2 lunas de 6 mm. y una lámina intermedia de butiral de polivinilo color a definir, p/p de cantos vistos pulidos. Incluye guía de aluminio KLEIN POCKET GLASS E, con accesorios, colocado y terminado según planos.|
+~C|arm3|ud|ARM3_Frente de armario de vidrio, color a definir. L=192cm.||020816|0|
+~T|arm3|ARM3_Frente de armario de vidrio, color a definir. L=192cm.
+
+Frente de armario de dos hojas correderas de 192cm de longitud, de vidrio laminar de seguridad compuesto por 2 lunas de 6 mm. y una lámina intermedia de butiral de polivinilo color a definir, p/p de cantos vistos pulidos. Incluye guía de aluminio KLEIN POCKET GLASS E, con accesorios, colocado y terminado según planos.|
+~C|arm4|ud|ARM4_Frente de armario de vidrio, color a definir. L=270cm.||020816|0|
+~T|arm4|ARM4_Frente de armario de vidrio, color a definir. L=270cm.
+
+Frente de armario de dos hojas correderas de 270cm de longitud, de vidrio laminar de seguridad compuesto por 2 lunas de 6 mm. y una lámina intermedia de butiral de polivinilo color a definir, p/p de cantos vistos pulidos. Incluye guía de aluminio KLEIN POCKET GLASS E, con accesorios, colocado y terminado según planos.|
+~C|LVS010|m²|Vidrio laminado de seguridad 6+6 mm, butiral de polivinilo de color.||020816|0|
+~T|LVS010|Vidrio laminado de seguridad 6+6 mm, butiral de polivinilo de color.
+
+Suministro y colocación de vidrio laminar de seguridad 6+6 mm, compuesto por dos lunas de 6 mm de espesor unidas mediante una lámina de butiral de polivinilo de color a definir, fijado sobre perfilería en U de aluminio anodizado de pequeña sección, sellado en frío con silicona sintética incolora (no acrílica), compatible con el material soporte. 
+Incluso cortes del vidrio, perfiles de aluminio, colocación y sellado de las hojas.|
+~C|mob#||Mobiliario y elementos singulares||120816|0|
+~T|mob#|Mobiliario y elementos singulares|
+~D|mob#
+|estant\\1
+\|
+~C|estant|ud|Estantería, armario bajo escalera y triangulación de DM revestido de corcho||080515|0|
+~T|estant|Estantería, armario bajo escalera y triangulación de DM revestido de corcho
+
+Suministro y montaje de estantería, armario bajo escalera y paños triangulares, realizados en tablero de DM y con revestimiento ligero mediante panel de corcho de 2 mm de espesor, acabado natural. Incluye el revestimiento por ambas caras de corcho del tabique que forma parte del conjunto y la subestructura necesaria para la colocación de los triángulos.
+Incluso p/p de remates, sellado de juntas, soportes y encuentros con otros tipos de paramentos. Totalmente terminada, según planos.|
+~C|PD#||Defensas|||0|
+~D|PD#
+|PDB010\\39.5
+\|
+~C|PDB010|m|Barandilla tipo 1|||0|
+~T|PDB010|Barandilla tipo 1
+
+Suministro y colocación de pasamanos acero inoxidable de tubo diámetro 30mm y red tensada de acero inoxidable XTN-BEC de 1m de altura, incluso codos según planos y puntos de sujección. Incluso p/p de fijación mediante atornillado en obra de fábrica con tacos y tornillos de acero. Elaborada en taller y montada en obra según planos.|
+~C|PY#||Ayudas|||0|
+~D|PY#
+|ayudas\\1
+\|
+~C|ayudas|ud|Ayudas de albañilería en edificio de vivienda unifamiliar de 264 m2||080816|0|
+~T|ayudas|Ayudas de albañilería en edificio de vivienda unifamiliar de 264 m2, necesarias para la correcta ejecución de:
+
+- instalación audiovisual formada por: sistema colectivo de captación de señales de TV y radio, sistema de interfonía y/o vídeo (placa de calle, módulo amplificador, módulo pulsador, alimentador de audio, monitor de teléfono y abrepuerta), mecanismos y accesorios
+- infraestructura de telecomunicaciones formada por: canalizaciones y registro de enlace, registro de terminación de red, canalización interior de usuario, registros de paso y registros de toma
+- instalación de calefacción formada por: tuberías de distribución de agua, y cualquier otro elemento componente de la instalación
+- instalación de fontanería formada por: acometida, tubo de alimentación, contador individual, grupo de presión, depósito, montantes, instalación interior, cualquier otro elemento componente de la instalación, accesorios y piezas especiales
+- instalación de apliques y luminarias para iluminación
+- instalación de salubridad formada por: sistema de evacuación (bajantes interiores y exteriores de aguas pluviales y residuales, canalones, botes sifónicos, colectores suspendidos, sistemas de elevación, derivaciones individuales y cualquier otro elemento componente de la instalación), apertura y tapado de agujeros en paramentos, muros, forjados y losas, colocación de pasatubos, cajeado y tapado de agujeros y huecos de paso de instalaciones
+- trabajos de recibido en obra de los aparatos sanitarios
+- trabajos de recibido en obra de la carpintería exterior|
+~C|R#||Revestimientos|||0|
+~D|R#
+|RP#\\1
+\RA#\\1
+\RS#\\1
+\RT#\\1
+\RI#\\1
+\|
+~C|RP#||Revestimientos continuos|||0|
+~D|RP#
+|RPG010\\225.643
+\RPE010\\166.635
+\RQO010\\26.89
+\|
+~C|RPG010|m²|Enlucido y guarnecido de yeso maestreado||080816|0|
+~T|RPG010|Enlucido y guarnecido de yeso maestreado
+
+Formación de revestimiento continuo interior de yeso, maestreado, sobre paramento vertical, de hasta 3 m de altura, de 15 mm de espesor, formado por una primera capa de guarnecido con pasta de yeso de construcción B1, aplicado sobre los paramentos a revestir y una segunda capa de enlucido con pasta de yeso de aplicación en capa fina C6, que constituye la terminación o remate, con maestras en las esquinas, rincones y guarniciones de huecos.
+Incluso p/p de colocación de guardavivos de plástico y metal con perforaciones, remates con rodapié, formación de aristas y rincones, guarniciones de huecos, colocación de malla de fibra de vidrio antiálcalis para refuerzo de encuentros entre materiales diferentes en un 10% de la superficie del paramento y montaje, desmontaje y retirada de andamios.|
+~C|RPE010|m²|Enfoscado de cemento maestreado 15mm||080816|0|
+~T|RPE010|Enfoscado de cemento maestreado 15mm
+
+Formación de revestimiento continuo de mortero de cemento M-5, maestreado, de 15 mm de espesor, aplicado sobre paramentos verticales u horizontales. 
+Incluso p/p de formación de juntas, rincones, maestras con separación entre ellas no superior a un metro, aristas, mochetas, jambas, dinteles, remates en los encuentros con paramentos, revestimientos u otros elementos recibidos en su superficie.|
+~C|RQO010|m²|Revestimiento de Mortero Aislante Termoacústico|||0|
+~T|RQO010|Revestimiento de Mortero Aislante Termoacústico
+
+Formación en fachadas mediante revestimiento de Mortero Aislante Termoacústico  de 6.5cm de espesor, Sistema weber.therm mineral - acabado acrílico. Aplicado manualmente sobre una superficie bloque de termoarcilla y/o superficie de hormigón armado. 
+Incluso p/p de preparación de la superficie soporte, colocación de malla de fibra de vidrio, formación de juntas, rincones, maestras, aristas, mochetas, jambas, dinteles, remates en los encuentros con paramentos, revestimientos u otros elementos recibidos en su superficie.|
+~C|RA#||Alicatados, chapados, aplacados|||0|
+~D|RA#
+|RAG014b\\14.65
+\RVE010\\15.55
+\SZ#\\1
+\|
+~C|RAG014b|m²|Alicatado con gresite color verde||080515|0|
+~T|RAG014b|Alicatado con gresite color verde 
+
+Suministro y colocación de alicatado con mosaico de vidrio color verde, 2,5x2,5 cm, 30 €/m², recibido con adhesivo cementoso normal, C1 sin ninguna característica adicional, color a definir, con doble encolado. 
+
+Incluso p/p de preparación de la superficie soporte de mortero de cemento u hormigón; replanteo, cortes, formación de ingletes y juntas; rejuntado con mortero de juntas cementoso con resistencia elevada a la abrasión y absorción de agua reducida, CG2, para junta abierta (entre 3 y 15 mm), con la misma tonalidad de las piezas; acabado y limpieza final.|
+~C|RVE010|m²|Espejo de luna incolora de 3 mm de espesor, fijado con masilla al paramento.||100816|0|
+~T|RVE010|Suministro y colocación de espejo de luna incolora de 3 mm de espesor, con pintura de protección, color plata, por su cara posterior, fijado con masilla al paramento. Incluso canteado perimetral, y masilla.|
+~C|SZ#||Mármol|||0|
+~D|SZ#
+|azul\\1
+\blancoverde\\1
+\carrara\\1
+\|
+~C|azul|ud|MÁRMOL AZUL. Conjunto baño padres||270916|0|
+~T|azul|MÁRMOL AZUL. Conjunto baño padres
+
+Suministro y colocación de chapado, pavimento, formación de ducha y mobiliario para lavabo con placas de MÁRMOL AZUL, acabado pulido, de grandes dimensiones. Rejuntado con mortero de juntas cementoso, para junta mínima, con la misma tonalidad de las piezas. Incluso p/p de preparación previa de las placas y el paramento soporte, formación de cajas, cortes, remates de cantos y piezas especiales.
+Presupuestado el conjunto como una unidad, formado por:
+
+- pavimento: ................. 2,00 m2
+- chapado vertical:........... 3,93 m2
+- formación de ducha: ........ 1,60 m2
+- mueble de lavabo, según planos|
+~C|blancoverde|ud|MÁRMOL BLANCO-VERDE. Conjunto baño niños||270916|0|
+~T|blancoverde|MÁRMOL BLANCO-VERDE. Conjunto baño niños
+
+Suministro y colocación de albardilla, chapado vertical, pavimento, formación de ducha y mobiliario para lavabo con placas de MÁRMOL BLANCO-VERDE, acabado pulido, de grandes dimensiones. Rejuntado con mortero de juntas cementoso, para junta mínima, con la misma tonalidad de las piezas. Incluso p/p de preparación previa de las placas y el paramento soporte, formación de cajas, cortes, remates de cantos y piezas especiales.
+Presupuestado el conjunto como una unidad, formado por:
+
+- pavimento: ................. 1.30 m2
+- chapado vertical:........... 1,60 m2
+- formación de ducha: ........ 1,60 m2
+- albardilla 25cm:............ 4,85 m
+- mueble de lavabo, según planos|
+~C|carrara|ud|MÁRMOL CARRARA. Conjunto baño planta baja||270916|0|
+~T|carrara|MÁRMOL CARRARA. Conjunto baño planta baja
+
+Suministro y colocación de chapado vertical y formación de ducha con placas de MÁRMOL CARRARA, acabado pulido, de grandes dimensiones. Rejuntado con mortero de juntas cementoso, para junta mínima, con la misma tonalidad de las piezas. Incluso p/p de preparación previa de las placas y el paramento soporte, formación de cajas, cortes, remates de cantos y piezas especiales.
+Presupuestado el conjunto como una unidad, formado por:
+
+- chapado vertical:........... 7,00 m2
+- formación de ducha: ........ 1,00 m2|
+~C|RS#||Suelos y pavimentos|||0|
+~D|RS#
+|RSN040\\197
+\pekTasio\\1
+\PAVCESVERDE\\14.87
+\paverdelargo\\14.52
+\cespamarillo\\79
+\PAVCESAZUL\\171
+\RSM022\\14.2
+\FELPU\\13
+\RSO010\\8.72
+\RSG021\\110.74
+\|
+~C|RSN040|m²|Pavimento continuo de hormigón pulido de 10 cm de espesor||080816|0|
+~T|RSN040|Pavimento continuo de hormigón pulido de 10 cm de espesor
+
+Formación de pavimento continuo de hormigón de 10 cm de espesor, realizado con hormigón HM-20/B/20/IIa, con fibras de polipropileno incluidas, fabricado en central y tratado superficialmente mediante fratasadora y pulidora mecánicas.
+
+Incluso p/p de preparación de la superficie de apoyo del hormigón, extendido y vibrado del hormigón, emboquillado o conexión de los elementos exteriores (cercos de arquetas, sumideros, botes sifónicos, etc.) de las redes de instalaciones ejecutadas bajo el pavimento, fratasado y pulido mecánico de toda la superficie hasta conseguir un acabado liso y brillante y limpieza final de la superficie acabada mediante agua a presión. Incluye: 
+- juntas de construcción, de retracción, de dilatación ni juntas perimetrales.
+- Tratamiento superficial a base de impregnación epoxi en base acuosa, incolora, para endurecimiento, consolidación y efecto antipolvo en pavimentos de hormigón.|
+~C|pekTasio|ud|Peldaños macizos de basalto|||0|
+~T|pekTasio|Peldaños macizos de basalto
+
+Suministro y colocación de pieza especial formando dos peldaños, con piedra natural maciza  (basalto) y dimensión según peldaños , apomazado y terminadas en 5 de sus caras, incluso tomados con cemento cola, eliminación de restos y limpieza.|
+~C|PAVCESVERDE|m2|Pavimento de césped sintético corto, COLOR VERDE||080816|0|
+~T|PAVCESVERDE|Pavimento de césped sintético corto, COLOR VERDE
+
+Suministro e instalación de césped sintético COLOR VERDE en exteriores, para pavimento y revestimiento vertical, formado por una moqueta de césped sintético, compuesto de mechones rectos de fibra 100% polipropileno, resistente a los rayos UV, tejidos sobre base de polipropileno drenante, 7 mm de altura de pelo, 9 mm de altura total de moqueta; banda de geotextil y adhesivo especial de poliuretano bicomponente. Totalmente instalado sobre superficie base no incluida en este precio, sobre peldañeado y elementos verticales, según planos.|
+~C|paverdelargo|m2|Pavimento de césped sintético pelo largo y arena, COLOR VERDE||050916|0|
+~T|paverdelargo|Pavimento de césped sintético pelo largo y arena, COLOR VERDE
+
+Suministro e instalación de césped sintético COLOR VERDE en exteriores, para pavimento, formado por una moqueta de césped sintético, compuesto de mechones rectos de fibra 100% polipropileno, resistente a los rayos UV, tejidos sobre base de polipropileno drenante, 25 mm de altura de pelo; Totalmente instalado sobre superficie base Proplay Schimtz y lastrado con arena, también incluidos en este precio, según planos.|
+~C|cespamarillo|m2|Pavimento de césped sintético pelo largo y arena, COLOR AMARILLO||270916|0|
+~T|cespamarillo|Pavimento de césped sintético pelo largo y arena, COLOR AMARILLO
+
+Suministro e instalación de césped sintético COLOR AMARILLO en exteriores, para pavimento, formado por una moqueta de césped sintético, compuesto de mechones rectos de fibra 100% polipropileno, resistente a los rayos UV, tejidos sobre base de polipropileno drenante, 25 mm de altura de pelo; Totalmente instalado sobre superficie base Proplay Schimtz y lastrado con arena, también incluidos en este precio, según planos.|
+~C|PAVCESAZUL|m2|Pavimento de césped sintético pelo largo y arena, COLOR AZUL||080816|0|
+~T|PAVCESAZUL|Pavimento de césped sintético pelo largo y arena, COLOR AZUL
+
+Suministro e instalación de césped sintético COLOR AZUL en exteriores, para pavimento, formado por una moqueta de césped sintético, compuesto de mechones rectos de fibra 100% polipropileno, resistente a los rayos UV, tejidos sobre base de polipropileno drenante, 25 mm de altura de pelo; Totalmente instalado sobre superficie base Proplay Schimtz y lastrado con arena, también incluidos en este precio, según planos.|
+~C|RSM022|m²|Pavimento de madera para exterior, para terrazas de uso privado, formado por tablón de madera maciza, de pino cuperizado||080816|0|
+~T|RSM022|Pavimento de madera para exterior, de tablón de pino cuperizado
+
+Suministro y colocación de pavimento de madera para exterior, para terrazas de uso privado, formado por tablón de madera maciza, de pino cuperizado; sobre rastreles de madera de pino cuperizado, separados entre ellos 40 cm y fijados al soporte mediante tornillería. Incluso p/p de tornillos de acero inoxidable para sujeción de las tablas a los rastreles y piezas especiales.|
+~C|FELPU|m2|Pavimento de felpudo NOMAD 3M 8150, COLOR NARANJA||080816|0|
+~T|FELPU|Pavimento de felpudo NOMAD 3M 8150, COLOR NARANJA
+
+Pavimento continuo de felpudo tipo NOMAD 3M 8150 en COLOR NARANJA, suministrado en rollos, colocado con capa de pasta alisadora sobre base perfectamente nivelada, tomado con adhesivo, eliminación de restos y limpieza. Medida la unidad ejecutada.|
+~C|RSO010|m²|Revestimiento de escalera con parquet de corcho encolado||080816|0|
+~T|RSO010|Revestimiento de parquet de corcho encolado, en escalera de ida y vuelta, mediante solado de mesetas y forrado de peldaños.
+
+Suministro y colocación de pavimento de corcho, barnizadas en fábrica, colocadas con adhesivo a base de poliuretano sobre capa de pasta niveladora, incluida en este precio. Incluso p/p de adhesivo de contacto y formación de juntas del pavimento.|
+~C|RSG021|m|Rodapié enrasado de gres rectificado blanco||080515|0|
+~T|RSG021|Rodapié enrasado de gres rectificado blanco.
+
+Suministro y colocación de rodapiéenrasado de gres rectificado blanco, de 7cm de alto y 12 mm de espesor.
+Incluye: Replanteo de las piezas. Corte de las piezas y formación de encajes en esquinas y rincones. Colocación del rodapié. Rejuntado.|
+~C|RT#||Falsos techos|||0|
+~D|RT#
+|RTC016\\5.87
+\NAT010\\5.87
+\|
+~C|RTC016|m²|Falso techo acústico con perforación circular aleatoria "KNAUF"||100816|0|
+~T|RTC016|Falso techo acústico con perforación circular aleatoria "KNAUF" 
+
+Suministro y montaje de falso techo continuo, situado a una altura menor de 4 m, acústico D127.es "KNAUF" (12,5+27+27), formado por una placa acústica Cleaneo FF con perforación continua circular aleatoria Plus 8/15/20 R "KNAUF" 12,5x1200xlongitud mm, con un velo de fibra de vidrio en su dorso atornillada a una estructura metálica de acero galvanizado de maestras primarias 60/27 mm separadas cada 1000 mm entre ejes y suspendidas del forjado o elemento soporte mediante cuelgues combinados cada 900 mm, y maestras secundarias fijadas perpendicularmente a los perfiles primarios mediante caballetes y colocadas con una modulación máxima de 320 mm entre ejes, incluso p/p de fijaciones, tornillería, resolución del perímetro y puntos singulares, pasta de juntas, cinta de juntas y accesorios de montaje. Totalmente terminado y listo para imprimar y revestir.|
+~C|NAT010|m²|Aislamiento acústico sobre falso techo formado por panel de lana mineral natural (LMN)||270916|0|
+~T|NAT010|Aislamiento acústico sobre falso techo formado por panel de lana mineral natural (LMN) 
+
+Suministro y colocación de aislamiento acústico sobre falso techo de placas, formado por panel de lana mineral natural (LMN) revestido por una de sus caras con velo de vidrio, Ultracoustic Absorción (TP 440) "KNAUF INSULATION", de 40 mm de espesor, según UNE-EN 13162, resistencia térmica 1,15 m²K/W, conductividad térmica 0,034 W/(mK). Incluso p/p de cortes del aislante.|
+~C|RI#||Pinturas|||0|
+~D|RI#
+|RIS010\\689.944
+\RFP010\\202.64
+\|
+~C|RIS010|m²|Pintura al silicato para interior 2 manos, con textura lisa, color blanco, acabado mate, sobre paramentos horizontales y verticales.||080515|0|
+~T|RIS010|Pintura al silicato para interior 2 manos, con textura lisa, color blanco, acabado mate, sobre paramentos horizontales y verticales.
+
+Formación de capa de pintura al silicato con textura lisa, color blanco, acabado mate, sobre paramentos horizontales y verticales interiores, mediante aplicación de una mano de fondo de imprimación no orgánica, a base de soluciones de silicato potásico como fijador de superficie y dos manos de acabado con pintura, a base de silicato potásico, carbonato cálcico, áridos micronizados y aditivos especiales, a base de silicato potásico, carbonato cálcico, áridos micronizados y aditivos especiales, resistente a los rayos UV, color blanco, acabado mate, aplicada con brocha, rodillo o pistola, rendimiento: 0,2 l/m² cada mano. Incluso p/p de limpieza previa del soporte, SIN REGULARIZACIÓN en aquellos puntos donde haya pequeñas imperfecciones, golpes o arañazos.|
+~C|RFP010|m²|Pintura pétrea acrílica para exteriores||090816|0|
+~T|RFP010|Pintura pétrea acrílica para exteriores
+
+Revestimientos continuos bicapa con pintura pétrea acrílica para exteriores, color a elegir, textura lisa, dos manos de acabado, impermeable al agua de lluvia y permeable al vapor de agua, antimoho. 
+Incluso p/p de preparación y limpieza previa del soporte, formación de juntas, rincones, aristas y remates en los encuentros con paramentos, revestimientos u otros elementos recibidos en su superficie.Para pintar sobre espuma de poliuretano.|
+~C|S#||Baños|||0|
+~D|S#
+|SM#\\1
+\|
+~C|SM#||Sanitarios y equipamiento|||0|
+~D|SM#
+|inodst\\3
+\GEBER\\2
+\gebmono\\1
+\SAE010\\1
+\duof\\1
+\SAL040\\1
+\SAL010\\2
+\DRAIN\\3
+\grifbi\\1
+\grila\\5
+\gridu\\3
+\|
+~C|inodst|ud|INODORO SUSPENDIDO||100816|0|
+~T|inodst|INODORO SUSPENDIDO
+
+DURAVIT Starck 3 inodoro suspendido de cerámica sanitaria con fondo hondo para 6 y 4,5 litros de agua de descarga según EN 997. Forma exterior rectangular, lisa y cerrada que termina delante en un medio circulo, canto posterior. Por motivos higiénicos con canal de lavado cerrado y repartidores de agua con acabado cerámico. Distancia libre al suelo 80 mm en caso de montaje a 400 mm. Dimensiones (an x prof x alt) 360 x 540 x 320 mm, Blanco, nº art. 2200090000|
+~C|GEBER|ud|CISTERNA EMPOTRADA||080515|0|
+~T|GEBER|CISTERNA EMPOTRADA
+
+Cisterna empotrada Geberit Sigma de 12 cm (UP320) para alturas de 112 cm, para inodoro suspendido, con bastidor Kombifix, de Geberit. Todo incluido, incluso pulsador, suministro y colocación, totalmente terminado y en funcionamiento.|
+~A|GEBER|carpinteria de aluminio\|
+~C|gebmono|ud|CISTERNA MONOLITH||270916|0|
+~T|gebmono|CISTERNA MONOLITH
+
+Cisterna vista Monolith, para inodoro suspendido, con doble descarga, de Geberit. Todo incluido, incluso pulsador, suministro y colocación, totalmente terminado y en funcionamiento.|
+~C|SAE010|Ud|Bidé suspendido de porcelana sanitaria||080515|0|
+~T|SAE010|Bidé suspendido de porcelana sanitaria
+
+Suministro e instalación de bidé suspendido de porcelana sanitaria, Starck 2 Bidé suspendido con rebosadero, con bancada para grifería, incl. Durafix, Design by Philippe Starck, de Duravit. Incluso llaves de regulación, enlaces de alimentación flexibles, conexión a las redes de agua fría y caliente y a la red de evacuación existente, fijación del aparato y sellado con silicona. Totalmente instalado, conexionado, probado y en funcionamiento.
+Incluye: Replanteo y trazado en el paramento soporte de la situación del aparato. Colocación de los elementos de fijación suministrados por el fabricante. Nivelación, aplomado y colocación del aparato. Conexión a la red de evacuación. Montaje de la grifería. Conexión a las redes de agua fría y caliente. Montaje de accesorios y complementos. Sellado de juntas.|
+~C|duof|ud|Bastidor para bidé suspendido||080515|0|
+~T|duof|Bastidor Geberit Duofix para bidé suspendido. Altura de construcción 82 cm.
+N.º de artículo 111.537.00.1|
+~C|SAL040|Ud|Lavabo de porcelana sanitaria mural||270916|0|
+~T|SAL040|LAVABO MURAL
+
+Suministro e instalación de lavabo de porcelana sanitaria, mural. Incluso conexión a las redes de agua fría y caliente y a la red de evacuación existente, fijación del aparato y sellado con silicona. Totalmente instalado, conexionado, probado y en funcionamiento.|
+~C|SAL010|Ud|Lavabo sobre encimera||270916|0|
+~T|SAL010|Lavabo sobre encimera
+
+Suministro e instalación de lavabo sobre encimera. Incluso conexión a las redes de agua fría y caliente y a la red de evacuación existente, fijación del aparato y sellado con silicona. Totalmente instalado, conexionado, probado y en funcionamiento.|
+~C|DRAIN|UD|Canaleta y sumidero para ducha||270916|0|
+~T|DRAIN|Canaleta y sumidero para ducha
+
+Suministro y colocación de canaleta y sumidero sifónico Tece "Drainline piedra natural" para ducha invisible, para integrar en platos de ducha de mármol|
+~C|grifbi|ud|Grifería para bidé||080515|0|
+~T|grifbi|Grifería para bidé
+
+Suministro y colocación de grifería monomando para bidé. Incluso llaves de regulación, enlaces de alimentación flexibles, conexión a las redes de agua fría y caliente y a la red de evacuación existente, fijación  y sellado. Totalmente instalado, conexionado, probado y en funcionamiento.|
+~C|grila|ud|Grifería y desagüe lavabo||100816|0|
+~T|grila|Grifería y desagüe lavabo
+
+Suministro y colocación de grifería monomando y desagüe con sifón para lavabo. Incluso llaves de regulación, enlaces de alimentación flexibles, conexión a las redes de agua fría y caliente y a la red de evacuación existente, fijación  y sellado. Totalmente instalado, conexionado, probado y en funcionamiento.|
+~C|gridu|ud|Grifería ducha||100816|0|
+~T|gridu|Grifería ducha
+
+Suministro y colocación de grifería monomando y accesorios para ducha. Incluso conexión a las redes de agua fría y caliente y a la red de evacuación existente, fijación  y sellado. Totalmente instalado, conexionado, probado y en funcionamiento.|
+~C|I#||Instalaciones|||0|
+~D|I#
+|IE#\\1
+\IFS#\\1
+\IC#\\1
+\|
+~C|IE#||Electricidad, datos, audiovisuales y telecomunicaciones|||0|
+~D|IE#
+|IEP010\\1
+\IEC010\\1
+\IED010\\35
+\IEI015\\1
+\|
+~C|IEP010|Ud|Red de toma de tierra para estructura de hormigón del edificio con 53 m de conductor de cobre desnudo de 35 mm².|||0|
+~T|IEP010|Suministro e instalación de red de toma de tierra para estructura de hormigón del edificio compuesta por 45 m de cable conductor de cobre desnudo recocido de 35 mm² de sección para la línea principal de toma de tierra del edificio, enterrado a una profundidad mínima de 80 cm, 8 m de cable conductor de cobre desnudo recocido de 35 mm² de sección para la línea de enlace de toma de tierra de los pilares de hormigón a conectar. Incluso placas acodadas de 3 mm de espesor, soldadas en taller a las armaduras de los pilares, soldaduras aluminotérmicas, registro de comprobación y puente de prueba. Totalmente montada, conexionada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|IEC010|Ud|Caja de protección y medida CPM1-S2, de hasta 63 A de intensidad, para 1 contador monofásico, instalada en el interior de hornacina mural, en vivienda unifamiliar o local.|||0|
+~T|IEC010|Suministro e instalación en el interior de hornacina mural, en vivienda unifamiliar o local, de caja de protección y medida CPM1-S2, de hasta 63 A de intensidad, para 1 contador monofásico, formada por una envolvente aislante, precintable, autoventilada y con mirilla de material transparente resistente a la acción de los rayos ultravioletas, para instalación empotrada. Incluso equipo completo de medida, bornes de conexión, bases cortacircuitos y fusibles para protección de la derivación individual. Normalizada por la empresa suministradora y preparada para acometida subterránea. Totalmente montada, conexionada y probada.|
+~C|IED010|m|Derivación individual monofásica fija en superficie para vivienda, formada por cables unipolares con conductores de cobre, ES07Z1-K (AS) 2x25+1G16 mm², siendo su tensión asignada de 450/750 V, bajo tubo protector de PVC rígido, blindado, de 50 mm de diámetro.|||0|
+~T|IED010|Suministro e instalación de derivación individual monofásica fija en superficie para vivienda, delimitada entre la centralización de contadores o la caja de protección y medida y el cuadro de mando y protección de cada usuario, formada por cables unipolares con conductores de cobre, ES07Z1-K (AS) 2x25+1G16 mm², siendo su tensión asignada de 450/750 V, bajo tubo protector de PVC rígido, blindado, roscable, de color negro, con IP 547, de 50 mm de diámetro. Incluso p/p de accesorios, elementos de sujeción e hilo de mando para cambio de tarifa. Totalmente montada, conexionada y probada.|
+~C|IEI015|Ud|Red eléctrica de distribución interior de una vivienda unifamiliar con electrificación elevada|||0|
+~T|IEI015|Red eléctrica de distribución interior de una vivienda unifamiliar con electrificación elevada
+
+
+Suministro e instalación de red eléctrica completa de distribución interior, de datos, audiovisuales y telecomunicaciones de una vivienda unifamiliar con grado de electrificación elevada, con las siguientes estancias: acceso, garaje, vestíbulo,  comedor, cocina, 4 dormitorios, un estudio, 3 baños, 3 terrazas y porche compuesta de los siguientes elementos:
+
+
+CUADRO GENERAL DE MANDO Y PROTECCIÓN formado por caja empotrable de material aislante con puerta opaca, para alojamiento del interruptor de control de potencia (ICP) en compartimento independiente y precintable y de los siguientes dispositivos: 1 interruptor general automático (IGA) de corte omnipolar (2P), 4 interruptores diferenciales, interruptores automáticos para cada circuito eléctrico de la vivienda.
+
+CIRCUITOS INTERIORES: circuitos necesarios para la instalación eléctrica, datos, audiovisual y telecomunicaciones, según esquema unifilar.
+MECANISMOS JUNG LS con tecla o tapa de color blanco, marco de color blanco y embellecedor de color blanco. 
+
+INSTALACIÓN DE DATOS
+
+INSTALACIÓN AUDIOVISUAL
+
+INSTALACIÓN DE TELECOMUNICACIONES
+
+Incluso tubo protector, tendido de cables en su interior, cajas de derivación con tapas y regletas de conexión, cajas de empotrar con tornillos de fijación y cuantos accesorios sean necesarios para su correcta instalación. 
+
+Totalmente montada, conexionada y probada.|
+~C|IFS#||Fontanería y saneamiento|||0|
+~D|IFS#
+|IFA010\\1
+\IFB010\\1
+\IFC010\\1
+\IFI010b\\1
+\AS#\\1
+\|
+~C|IFA010|Ud|Acometida enterrada de abastecimiento de agua potable de 4 m de longitud, formada por tubo de polietileno de alta densidad banda azul (PE-100), de 25 mm de diámetro exterior, PN=16 atm y llave de corte alojada en arqueta prefabricada de polipropileno.|||0|
+~T|IFA010|Suministro y montaje de acometida enterrada para abastecimiento de agua potable de 4 m de longitud, que une la red general de distribución de agua potable de la empresa suministradora con la instalación general del edificio, continua en todo su recorrido sin uniones o empalmes intermedios no registrables, formada por tubo de polietileno de alta densidad banda azul (PE-100), de 25 mm de diámetro exterior, PN = 16 atm y 2,3 mm de espesor, colocada sobre cama o lecho de arena de 15 cm de espesor, en el fondo de la zanja previamente excavada, debidamente compactada y nivelada mediante equipo manual con pisón vibrante, relleno lateral compactando hasta los riñones y posterior relleno con la misma arena hasta 10 cm por encima de la generatriz superior de la tubería; collarín de toma en carga colocado sobre la red general de distribución que sirve de enlace entre la acometida y la red; llave de corte de esfera de 3/4" de diámetro con mando de cuadradillo colocada mediante unión roscada, situada junto a la edificación, fuera de los límites de la propiedad, alojada en arqueta prefabricada de polipropileno de 30x30x30 cm, colocada sobre solera de hormigón en masa HM-20/P/20/I de 15 cm de espesor. Incluso p/p de accesorios y piezas especiales, demolición y levantado del firme existente, posterior reposición con hormigón en masa HM-20/P/20/I, y conexión a la red. Sin incluir la excavación ni el posterior relleno principal. Totalmente montada, conexionada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|IFB010|Ud|Alimentación de agua potable de 12 m de longitud, colocada superficialmente, formada por tubo de polietileno reticulado (PE-X), de 20 mm de diámetro exterior, serie 5, PN=6 atm.|||0|
+~T|IFB010|Suministro y montaje de alimentación de agua potable de 12 m de longitud, colocada superficialmente y fijada al paramento, formada por tubo de polietileno reticulado (PE-X), de 20 mm de diámetro exterior, serie 5, PN=6 atm y 1,9 mm de espesor. Incluso p/p de elementos de montaje y sujeción a la obra, accesorios y piezas especiales colocados mediante unión con junta a presión reforzada con anillo, y demás material auxiliar. Totalmente montada, conexionada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|IFC010|Ud|Preinstalación de contador general de agua de 1/2" DN 15 mm, colocado en hornacina, con llave de corte general de compuerta.|||0|
+~T|IFC010|Preinstalación de contador general de agua 1/2" DN 15 mm, colocado en hornacina, conectado al ramal de acometida y al tubo de alimentación, formada por llave de corte general de compuerta de latón fundido; grifo de comprobación; filtro retenedor de residuos; válvula de retención de latón y llave de salida de compuerta de latón fundido. Incluso marco y tapa de fundición dúctil para registro y demás material auxiliar. Totalmente montada, conexionada y probada. Sin incluir el precio del contador.|
+~C|IFI010b|Ud|Instalación interior de fontanería y saneamiento|||0|
+~T|IFI010b|Suministro y montaje de instalación interior de fontanería y saneamiento para vivienda unifamiliar aislada, según planos, con dotación para:
+3 cuartos de baño, cocina, lavadero, cubiertas vegetales e instalación de energía solar térmica.
+
+Realizada con tubo de polietileno reticulado (PE-X), para la red de agua fría y caliente que conecta la derivación particular o una de sus ramificaciones con cada uno de los aparatos sanitarios, con los diámetros necesarios para cada punto de servicio. Incluso llaves de paso de cuarto húmedo para el corte del suministro de agua, de polietileno reticulado (PE-X), p/p de material auxiliar para montaje y sujeción a la obra, derivación particular, accesorios de derivaciones colocados mediante unión con junta a presión reforzada con anillo de PE-X. Totalmente montada, conexionada y probada por la empresa instaladora mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|AS#||Red de saneamiento horizontal|||0|
+~D|AS#
+|ASA010\\1
+\ASB010\\15
+\|
+~C|ASA010|Ud|Arqueta sifónica, de hormigón en masa "in situ", registrable, de dimensiones interiores 60x60x60 cm, con marco y tapa de fundición.|||0|
+~T|ASA010|Formación de arqueta sifónica enterrada, de dimensiones interiores 60x60x60 cm, de hormigón en masa "in situ" HM-30/B/20/I+Qb sobre solera de hormigón en masa de 15 cm de espesor, con sifón formado por un codo de 87°30' de PVC largo, cerrada superiormente con marco y tapa de fundición clase B-125 según UNE-EN 124. Incluso encofrado metálico recuperable amortizable en 20 usos, conexiones de conducciones y remates. Totalmente montada, conexionada y probada mediante las correspondientes pruebas de servicio (incluidas en este precio), sin incluir la excavación ni el relleno del trasdós.|
+~C|ASB010|m|Acometida general de saneamiento y conexión a la red general del municipio, de PVC liso, serie SN-4, rigidez anular nominal 4 kN/m², de 160 mm de diámetro, pegado mediante adhesivo.|||0|
+~T|ASB010|Suministro y montaje de acometida general de saneamiento y conexión con la red municipal, para la evacuación de aguas residuales y/o pluviales a la red general del municipio, con una pendiente mínima del 2%, para la evacuación de aguas residuales y/o pluviales, formada por tubo de PVC liso, serie SN-4, rigidez anular nominal 4 kN/m², de 160 mm de diámetro exterior, pegado mediante adhesivo, colocado sobre cama o lecho de arena de 10 cm de espesor, debidamente compactada y nivelada mediante equipo manual con pisón vibrante, relleno lateral compactando hasta los riñones y posterior relleno con la misma arena hasta 30 cm por encima de la generatriz superior de la tubería, con sus correspondientes juntas y piezas especiales. Incluso demolición y levantado del firme existente y posterior reposición con hormigón en masa HM-20/P/20/I, sin incluir la excavación previa de la zanja, el posterior relleno principal de la misma ni su conexión con la red general de saneamiento. Totalmente montada, conexionada y probada mediante las correspondientes pruebas de servicio (incluidas en este precio).|
+~C|IC#||Calefacción, climatización y A.C.S.|||0|
+~D|IC#
+|ICE110\\1
+\|
+~C|ICE110|m²|Sistema de climatización, calefacción, ACS y energía solar||270916|0|
+~T|ICE110|Sistema de climatización, calefacción, ACS y energía solar
+
+Suministro e instalación en viviendad unifamiliar de sistema de climatización, calefacción y ACS con los siguientes elementos:
+
+- colectores solares térmicos para producción de ACS, suelo radiante y piscina
+- depósito de inercia de agua caliente
+- placas fotovoltaicas para producción de energía eléctrica para autoconsumo
+- instalación de calefacción y refrigeración por suelo radiante
+- instalación de aerotermia para producción de frío y calor de apoyo al sistema de suelo radiante, alimentada por las placas fotovoltaicas
+- deshumectadora 
+
+Totalmente instalado y en funcionamiento, según el esquema y los planos de proyecto.|
+~C|U#||Urbanización interior de la parcela|||0|
+~D|U#
+|UJ#\\1
+\UV#\\1
+\PISCI#\\1
+\|
+~C|UJ#||Jardinería y riego|||0|
+~D|UJ#
+|ECMR.6ecTasio\\1
+\UJA050b\\236
+\UXE030\\79
+\UJA050\\71.68
+\UJV010\\93.69
+\UJP010b\\21
+\UJP010\\1
+\UJP010c\\1
+\riego\\1
+\|
+~C|ECMR.6ecTasio|ud|Relleno extendido gravas y red de drenaje|||0|
+~T|ECMR.6ecTasio|Relleno extendido gravas y red de drenaje
+
+Formación de red de drenaje y relleno y extendido de gravas con medios  mecánicos,  incluso compactación, con rodillo manual, en capas de 25 cm. de espesor máximo,  se rellenará con grava de canto rodado de 40 a 80 mm. de diámetro, y todo ello envuelto en lámina de geotextil de 150 gr/m2. para filtración del agua, según NTE/ADZ-12. Partida unitaria según planos.|
+~C|UJA050b|m³|Aporte de tierra vegetal y siembra de gramíneas||050916|0|
+~T|UJA050b|Aporte de tierra vegetal y siembra de gramíneas
+
+Aporte de tierra vegetal cribada, suministrada a granel y extendida con medios mecánicos, mediante retroexcavadora, en capas de espesor uniforme y siembra de mezcla de gramíneas locales en superficie de parcela. Incluso p/p de perfilado del terreno, señalización y protección.|
+~C|UXE030|m²|Formación y estabilización de caminos||050916|0|
+~T|UXE030|Formación y estabilización de caminos 
+
+Formación y estabilización de caminos con albero, extendido sobre el terreno de la parcela. Incluso preparación de la superficie mediante desbroce de la tierra vegetal, escarificado del terreno y retirada y carga a camión de los restos y desechos, sin incluir transporte a vertedero autorizado.|
+~C|UJA050|m2|Formación de espacios ajardinados con arbustos aromáticos||120816|0|
+~T|UJA050|Formación de espacios ajardinados con arbustos aromáticos
+
+Despedregado del terreno suelto, cava del terreno suelto o compacto, hasta una profundidad de 20 cm, con medios manuales, mediante pico y azada, hasta desmenuzar completamente los terrones.
+
+Aporte de tierra vegetal cribada y fertilizada, suministrada en sacos y extendida con medios manuales, mediante pala, azada y rastrillo, en capas de espesor uniforme.
+
+Suministro, apertura de hoyo y plantación de arbustos aromáticos de 0,15-0,60 m de altura, a razón de 4 plantas/m², suministradas en contenedor. 
+
+Incluso p/p de preparación del terreno, aporte de tierras y primer riego.|
+~C|UJV010|m|Seto de Hibiscus||120816|0|
+~T|UJV010|Formación de seto de Hibiscus, con plantas de 0,8-1,0 m de altura, con una densidad de 4 plantas/m, suministradas en contenedor y plantadas en zanja. Incluso p/p de aporte de tierras y primer riego.|
+~C|UJP010b|Ud|Palmera datilera (Phoenix dactylifera) de procedencia nacional, de 3 a 4 m de altura, suministrado con cepellón.||050916|0|
+~T|UJP010b|Suministro, apertura de hoyo de 160x160x110 cm por medios mecánicos y plantación de Palmera datilera (Phoenix dactylifera) de procedencia nacional, de 3 a 4 m de altura, suministrado con cepellón. Incluso p/p de aportación de tierra vegetal seleccionada y cribada, substratos vegetales fertilizados, formación de alcorque, colocación de tutor y primer riego.|
+~C|UJP010|Ud|Olivo (Olea europaea), de 125 a 150 cm de diámetro, suministrado con cepellón.||270916|0|
+~T|UJP010|Suministro, apertura de hoyo de 200x200x80 cm por medios mecánicos y plantación de Olivo (Olea europaea), de 125 a 150 cm de diámetro, suministrado con cepellón. Incluso p/p de aportación de tierra vegetal seleccionada y cribada, substratos vegetales fertilizados, formación de alcorque, colocación de tutor y primer riego.|
+~C|UJP010c|Ud|Almendro, suministrado en contenedor.||270916|0|
+~T|UJP010c|Suministro, apertura de hoyo de 60x60x60 cm por medios mecánicos y plantación de almendro, suministrado en contenedor. Incluso p/p de aportación de tierra vegetal seleccionada y cribada, substratos vegetales fertilizados, formación de alcorque, colocación de tutor y primer riego.|
+~C|riego|ud|Sistema de riego||120816|0|
+~T|riego|Sistema de riego
+
+Suministro e instalación de sistema de riego, con programador electrónico para riego automático, tubería de abastecimiento y distribución de agua de riego de polietileno, aspersores y/o bocas de riego, para la jardinería de la parcela. Totalmente montado, conexionado y en funcionamiento.|
+~C|UV#||Cerramientos exteriores|||0|
+~D|UV#
+|UVM020\\147.79
+\UVP010\\1
+\|
+~C|UVM020|m|Muro de cerramiento,de altura variable, de hormigón armado, mallazo, cantos rodados y vegetación|||0|
+~T|UVM020|Muro de cerramiento,de altura variable, de hormigón armado, mallazo, cantos rodados y vegetación
+
+Formación de cerramiento de parcela con cerramiento formado por:
+
+- zapata de hormigón armado, de 60cm de ancho y 40cm de alto, para cimentación de muro de parcela. Longitud de zapata de hormigón = 125,40m
+- muro continuo de altura y geometría variable y 25 cm de espesor de hormigón HA-25/B/20/IIa fabricado en central y vertido con cubilote, con altura variable según planos. Superficie de muro de hormigón = 123 m2
+- armado con mallazo ME 10x10 de Ø 10 mm a las dos caras del muro, acero B 500 T 6x2,20 UNE-EN 10080, con la altura total del cerramiento de parcela. Con las conexiones necesarias para la estabilidad de las dos caras de mallazo y para la formación de las zonas con diferentes acabados del cerramiento y cerrado en su extremo superior. Para dejar oxidar y pasivado posterior, también incluido. Superficie total de mallazo (dentro y fuera del muro de hormigón)  = 2 x 290 =  580m2
+- Relleno de canto rodado de tamaño grande, que quede confinado entre las dos caras de mallazo. Volumen a rellenar de canto rodado = 79.31 x 0.2 = 15.86 m3
+
+Nota: la parte vegetal del cerramiento se ha computado en el capítulo de jardinería, en los lugares en que se van a plantar los hibiscus, para posteriormente ser guiados por los espacios reservados en el cerramiento de parcela.
+
+Incluso p/p de cimentación, limpieza y preparación de la superficie de apoyo, encofrado y desencofrado de muros con encofrado metálico para acabado visto y formación de juntas.|
+~C|UVP010|Ud|Puerta de parcela, de una hoja corredera, para acceso de vehículos y personas, con doble apertura automática.||120816|0|
+~T|UVP010|Puerta de parcela, de una hoja corredera, para acceso de vehículos y personas, con doble apertura automática.
+
+Suministro y colocación de puerta de acceso a parcela, de una hoja corredera, de forma trapezoidal y dimensiones máximas 610x236 cm, para acceso de vehículos y personas. Apertura automática con equipo de automatismo recibido a obra para apertura y cierre automático de puerta (incluido en el precio). Formada por estructura de acero para oxidar y pasivar, con mallazo 10x10 de Ø 10 mm , parte rellena de piedra y parte vegetalizada (incluso formación de macetero en la propia puerta).
+
+Incluso p/p de perfil metálico inferior HEB 300.300.10 anclado a muro de hormigón y redondo macizo soldado y recibidos a obra; ruedas para deslizamiento, con rodamiento de engrase permanente, elementos de anclaje, herrajes de seguridad y cierre, acabado con imprimación y accesorios. Totalmente montada y en funcionamiento, según planos.
+
+
+Suministro y colocación de puerta cancela metálica de carpintería metálica, de hoja corredera, dimensiones 450x200 cm, perfiles rectangulares en cerco zócalo inferior realizado con chapa grecada de 1,2 mm de espesor a dos caras, para acceso de vehículos. Apertura automática con equipo de automatismo recibido a obra para apertura y cierre automático de puerta (incluido en el precio). Incluso p/p de pórtico lateral de sustentación y tope de cierre, guía inferior con UPN 100 y cuadradillo macizo de 25x25 mm sentados con hormigón HM-25/B/20/I y recibidos a obra; ruedas para deslizamiento, con rodamiento de engrase permanente, elementos de anclaje, herrajes de seguridad y cierre, acabado con imprimación antioxidante y accesorios. Totalmente montada y en funcionamiento.|
+~C|PISCI#||piscina||120816|0|
+~T|PISCI#|piscina|
+~D|PISCI#
+|pisci\\1
+\|
+~C|pisci|ud|Piscina desbordante de 36m3||120816|0|
+~T|pisci|Piscina desbordante de 36m3
+
+Construcción, revestimiento e instalaciones de piscina desbordante rectángular, de dimensiones interiores en planta 8,00x4,00 y profundidad variable, formada por:
+
+- Vaso de piscina de 20 cm de espesor, realizado con hormigón HA-30/F/12/IV, proyectado por vía húmeda, con doble malla electrosoldada ME 20x20 Ø 5-5 B 500 T 6x2,20 UNE-EN 10080. Incluso vaso de compensación,  sala de instalaciones y playa de piscina, según planos.
+
+- Revestimiento de mosaico de vidrio en suelos y paredes de vasos de piscinas y playa de piscina según planos, formado por teselas de 25x25x6 mm, montadas sobre piezas de malla de 290x290 mm, recibidas con adhesivo cementoso normal. Incluso p/p de cortes, formación de ángulos redondeados y piezas especiales.
+
+- Equipo completo de depuración, cloración y control para piscina de 8x4x1,5 m (volumen 48 m³), constituido por: equipo de filtración,  circuirto cerrado de tuberías y accesorios necesarios. Incluso iluminación. Totalmente instalado y en funcionamiento.|
+~C|G#||Gestión de residuos|||0|
+~D|G#
+|GR#\\1
+\|
+~C|GR#||Transporte de residuos inertes|||0|
+~D|GR#
+|GRA010a\\1
+\|
+~C|GRA010a|Ud|Transporte de residuos inertes a vertedero autorizado específico|||0|
+~T|GRA010a|Transporte de residuos inertes a vertedero autorizado específico
+
+Transporte de residuos inertes de hormigón, ladrillos y materiales cerámicos, madera, vítreos, plásticos, papel y cartón, metálicos y resíduo mezcla de otros restos sin clasificar, producidos en obras de construcción y/o demolición, con contenedor de 7 m³, a VERTEDERO AUTORIZADO ESPECÍFICO para cada material, instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos, considerando ida, descarga y vuelta. Incluso servicio de entrega, alquiler y recogida en obra del contenedor, y coste del vertido.|
+~C|X#||Control de calidad y ensayos|||0|
+~D|X#
+|XE#\\1
+\|
+~C|XE#||Estructuras de hormigón|||0|
+~D|XE#
+|XEB010\\3
+\XEB020\\7
+\XEM010\\1
+\XEM020\\1
+\XEH010\\3
+\|
+~C|XEB010|Ud|Ensayo sobre una muestra de barras de acero corrugado de un mismo lote, con determinación de: sección media equivalente, características geométricas del corrugado, doblado/desdoblado.|||0|
+~T|XEB010|Ensayo a realizar en laboratorio acreditado en el área técnica correspondiente, sobre una muestra de dos barras de acero corrugado de un mismo lote, tomada en obra, para la determinación de las siguientes características: sección media equivalente según UNE-EN ISO 15630-1, características geométricas del corrugado según UNE-EN 10080, doblado/desdoblado según UNE-EN ISO 15630-1. Incluso desplazamiento a obra, toma de muestra e informe de resultados.|
+~C|XEB020|Ud|Ensayo sobre una muestra de barras de acero corrugado de cada diámetro, con determinación de características mecánicas.|||0|
+~T|XEB020|Ensayo a realizar en laboratorio acreditado en el área técnica correspondiente, sobre una muestra de una barra de acero corrugado de cada diámetro diferente, tomada en obra, para la determinación de las siguientes características mecánicas: límite elástico, carga de rotura, alargamiento de rotura y alargamiento bajo carga máxima según UNE-EN ISO 15630-1. Incluso desplazamiento a obra, toma de muestra e informe de resultados.|
+~C|XEM010|Ud|Ensayo sobre una muestra de mallas electrosoldadas con determinación de: sección media equivalente, características geométricas del corrugado, doblado/desdoblado, carga de despegue.|||0|
+~T|XEM010|Ensayo a realizar en laboratorio acreditado en el área técnica correspondiente, sobre una muestra de mallas electrosoldadas, tomada en obra, para la determinación de las siguientes características: sección media equivalente sobre dos mallas del mismo lote según UNE-EN ISO 15630-2, características geométricas del corrugado sobre cuatro mallas del mismo lote según UNE-EN 10080, doblado/desdoblado sobre dos mallas del mismo lote según UNE-EN ISO 15630-2, carga de despegue de los nudos sobre dos mallas del mismo lote según UNE-EN ISO 15630-2. Incluso desplazamiento a obra, toma de muestra e informe de resultados.|
+~C|XEM020|Ud|Ensayo sobre una muestra de una malla electrosoldada de cada diámetro, con determinación de características mecánicas.|||0|
+~T|XEM020|Ensayo a realizar en laboratorio acreditado en el área técnica correspondiente, sobre una muestra de una malla electrosoldada de cada diámetro diferente, tomada en obra, para la determinación de las siguientes características mecánicas: límite elástico, carga de rotura, alargamiento de rotura y alargamiento bajo carga máxima según UNE-EN ISO 15630-2. Incluso desplazamiento a obra, toma de muestra e informe de resultados.|
+~C|XEH010|Ud|Ensayo sobre una muestra de hormigón con determinación de: consistencia del hormigón fresco mediante el método de asentamiento del cono de Abrams y resistencia característica a compresión del hormigón endurecido mediante control estadístico con fabricación de seis probetas, curado, refrentado y rotura a compresión.|||0|
+~T|XEH010|Ensayo a realizar en laboratorio acreditado en el área técnica correspondiente, sobre una muestra de hormigón fresco, tomada en obra según UNE-EN 12350-1, para la determinación de las siguientes características: consistencia del hormigón fresco mediante el método de asentamiento del cono de Abrams según UNE-EN 12350-2 y resistencia característica a compresión del hormigón endurecido mediante control estadístico con fabricación y curado de seis probetas cilíndricas de 15x30 cm del mismo lote según UNE-EN 12390-2, refrentado y rotura a compresión de las mismas según UNE-EN 12390-3. Incluso desplazamiento a obra, toma de muestra e informe de resultados.|
+~C|Y#||Seguridad y salud|||0|
+~D|Y#
+|YC#\\1
+\|
+~C|YC#||Sistemas de protección colectiva e individual, señalización y cerramiento del solar|||0|
+~D|YC#
+|YCX010\\1
+\YPX010\\1
+\YSX010\\1
+\YSC010\\1
+\|
+~C|YCX010|Ud|Conjunto de sistemas de protección colectiva e individual y formación||270916|0|
+~T|YCX010|Conjunto de sistemas de protección colectiva e individual y formación
+
+Conjunto de sistemas de protección colectiva e individual, necesarios para el cumplimiento de la normativa vigente en materia de Seguridad y Salud en el Trabajo. Incluso mantenimiento en condiciones seguras durante todo el periodo de tiempo que se requiera, reparación o reposición y transporte hasta el lugar de almacenaje o retirada a contenedor.
+Incluye una hora de charla para formación de Seguridad y Salud en el Trabajo, realizada por Técnico cualificado perteneciente a una empresa asesora en Seguridad y Prevención de Riesgos|
+~C|YPX010|Ud|Conjunto de instalaciones provisionales de higiene y bienestar, medicina preventiva y primeros auxilios.||270916|0|
+~T|YPX010|Conjunto de instalaciones provisionales de higiene y bienestar, medicina preventiva y primeros auxilios.
+
+Conjunto de instalaciones provisionales de higiene y bienestar, así como de medicina preventiva y primeros auxilios, necesarias para el cumplimiento de la normativa vigente en materia de Seguridad y Salud en el Trabajo. Incluso alquiler, construcción o adaptación de locales para este fin, mantenimiento en condiciones seguras durante todo el periodo de tiempo que se requiera y demolición o retirada.|
+~C|YSX010|Ud|Conjunto de elementos de balizamiento y señalización provisional de obras, necesarios para el cumplimiento de la normativa vigente en materia de Seguridad y Salud en el Trabajo.||270916|0|
+~T|YSX010|Conjunto de elementos de balizamiento y señalización provisional de obras, necesarios para el cumplimiento de la normativa vigente en materia de Seguridad y Salud en el Trabajo. Incluso mantenimiento en condiciones seguras durante todo el periodo de tiempo que se requiera, reparación o reposición, cambio de posición y transporte hasta el lugar de almacenaje o retirada a contenedor.|
+~C|YSC010|ud|Vallado del solar con valla trasladable de acero galvanizado|||0|
+~T|YSC010|Vallado del solar con valla trasladable de acero galvanizado
+
+Suministro, montaje y desmontaje de valla trasladable de 3,50x2,00 m, formada por panel de malla electrosoldada de 200x100 mm de paso de malla y postes verticales de 40 mm de diámetro, acabado galvanizado, colocados sobre bases prefabricadas de hormigón, para delimitación provisional de zona de obras, con malla de ocultación colocada sobre la valla.|
+~M|AD#\ADV010|1\1\2\|238.707|
+\\1\14.87\8.37\\
+\\1\8.10\8.37\\
+\\1\7.69\6.04\\|
+~M|AD#\ADE010a|1\1\3\|44.623|
+\zanjas 1.70m de ancho\1\2.23\1.70\0.50\
+\\1\5.65\1.70\0.50\
+\\1\4.66\1.70\0.50\
+\\1\\1.70\5.34\
+\zanjas 0.60m de ancho\1\16.73\0.60\0.50\
+\zanjas 0.80m de ancho\1\0.77\0.80\0.50\
+\\1\0.92\0.80\0.50\
+\\1\1.67\0.80\0.50\
+\\1\\0.80\4.37\
+\\1\\0.80\3.67\
+\\1\\0.80\4.53\
+\\1\8.14\0.80\1.30\|
+~M|AD#\ADE010|1\1\4\|31.538|
+\\1\131.41\0.60\0.40\|
+~M|AD#\ADE010b|1\1\5\|14.4|
+\zanjas para instalaciones\1\30.00\0.80\0.60\
+\\\\\\|
+~M|AD#\ADR020|1\1\9\|111.762|
+\MH25A\1\14.22\1.00\1.80\
+\\1\5.65\1.00\1.80\
+\MH25B\1\9.33\1.00\1.80\
+\\1\1.59\1.00\1.80\
+\MH25C\1\31.30\1.00\1.80\|
+~M|C#\ADR010b|2\1\|14.055|
+\relleno de las zanjas más profundas de la excavación\1\2.71\1.70\\
+\\1\1.97\0.80\\
+\\1\1.63\0.80\\
+\\1\2.01\0.80\\
+\\1\7.75\0.80\0.80\|
+~M|C#\ADR030b|2\2\|10.35|
+\\1\6.90\\1.50\|
+~M|C#\CRL010|2\3\|165.14|
+\bajo zapatas\1\\140.29\\
+\\1\\-50.65\\
+\\1\\-10.13\\
+\\1\\-15.83\\
+\sobre terreno explanado y zapatas\\\\\
+\\1\\20.18\\
+\\1\\14.13\\
+\\1\\67.15\\|
+~M|C#\CSV010a|2\4\|20.393|
+\ZM60A\1\13.14\0.60\0.40\
+\\\\\\
+\ZM80\1\11.60\0.80\0.40\
+\\1\5.40\0.80\0.40\
+\\1\5.65\0.80\0.40\
+\\\\\\
+\ZM90\1\1.97\0.90\0.40\
+\\\\\\
+\ZM170A\1\13.65\1.70\0.40\|
+~M|C#\CSV010b|2\5\|5.631|
+\ZM60B\1\3.60\0.60\0.40\
+\ZM170B\1\7.01\1.70\0.40\|
+~M|C#\ANS010|2\6\|206.25|
+\soleras exteriores horizontales\1\\\85.54\
+\\1\\\38.73\
+\\1\\\54.30\
+\rampas exteriores\1\\\7.18\
+\\1\\\18.29\
+\escaleras exteriores\1\\\2.21\|
+~M|C#\EHU025b|2\7\|127.93|
+\FORJADO UNIDIRECCIONAL TIPO AP30-A\1\\\97.32\
+\FORJADO UNIDIRECCIONAL TIPO AP30-B\1\\\30.61\|
+~M|C#\EHR010|2\8\|98.36|
+\FORJADO RETICULAR TIPO CP30\1\\\98.36\|
+~M|C#\EHU010|2\9\|157.56|
+\FORJADO UNIDIRECCIONAL TIPO IS30\\\\\
+\cubierta\1\\\130.20\
+\\1\\\-15.34\
+\planta primera\1\\\30.73\
+\\1\\\11.97\|
+~M|C#\EHL010|2\10\|35.81|
+\LOSA MACIZA TIPO LM20 horizontal\1\\\16.88\
+\\1\\\3.04\
+\LOSA MACIZA TIPO LM20 escaleras\1\\\5.86\
+\\1\\\10.03\|
+~M|C#\EHM010|2\11\|27.942|
+\MH25A\1\14.22\0.25\1.80\
+\\1\5.65\0.25\1.80\
+\MH25B\1\9.33\0.25\1.80\
+\\1\1.59\0.25\1.80\
+\MH25C\1\31.30\0.25\1.80\|
+~M|C#\EHM010b|2\12\|12.018|
+\MH20A\1\\0.20\\
+\\\\\\
+\\\\\\
+\\\\\\
+\\\\\\
+\MH20B\1\\0.20\11.27\
+\\\\\\
+\\\\\\
+\\\\\\
+\\\\\\
+\\\\\\
+\MH20C\1\\0.20\5.13\
+\\1\\0.20\22.22\
+\\1\\0.20\20.47\|
+~M|C#\EHS010|2\13\|11.588|
+\PH1, 20x100cm\1\1.00\0.20\2.90\
+\PH2, 20x80cm\7\0.80\0.20\2.90\
+\\1\0.80\0.20\3.50\
+\\1\0.80\0.20\4.40\
+\PH3, 20x80cm\8\0.80\0.20\2.90\
+\\3\0.80\0.20\4.40\
+\\1\0.80\0.20\3.60\
+\\\\\\
+\\\\\\
+\PH4, 20x60cm\1\0.60\0.20\0.80\|
+~M|C#\EHV010|2\14\|6.216|
+\viga sobre pilares metálicos (alineación B)\1\\0.20\12.82\
+\viga sobre acceso vivienda (alineación A)\1\\0.20\8.02\
+\alineación 3\1\\0.20\1.62\
+\\1\\0.20\2.14\
+\\1\\0.20\0.60\
+\alineación 4\1\\0.20\2.69\
+\\1\\0.20\2.58\
+\\1\\0.20\0.61\|
+~M|MET#\EAS010|3\1\2\|243.288|
+\PM1\3\\33.79\2.40\
+\\\\\\|
+~M|PRFV#\tramx|3\2\1\|6.34|
+\pavimento pasarela\1\\\2.62\
+\peto pasarela\1\\3.10\1.20\|
+~M|FF#\FFR040|4\1\1\|137.797|
+\fachada longitudinal 1\1\\3.60\1.60\
+\\1\\2.05\3.20\
+\\1\\2.42\1.71\
+\\1\\2.24\3.20\
+\\1\\3.30\2.50\
+\\1\\1.71\1.10\
+\fachada lomgitudinal 2 y garaje\1\\4.23\4.10\
+\\1\2.00\1.19\4.10\
+\\1\\4.03\4.10\
+\\1\\1.82\1.10\
+\\1\\1.82\1.00\
+\\1\\1.94\3.20\
+\\1\\6.70\0.50\
+\fachada transversal 1\1\\2.00\2.60\
+\\1\\2.68\2.60\
+\fachada transversal 2, 3 Y 4\1\\1.90\2.60\
+\\1\2.00\2.68\2.10\
+\\1\2.00\0.77\2.10\
+\\1\\2.25\1.80\
+\\1\\1.70\2.60\
+\\1\\2.68\2.60\
+\\\\\\
+\\\\\\|
+~M|FV#\LVC010|4\4\1\|85.771|
+\V1 (CARPINTERÍA MADERA)\1\\2.83\2.10\
+\\1\0.50\2.11\1.60\
+\V2\4\\2.75\2.10\
+\V4  (CARPINTERÍA MADERA)\2\\1.60\1.70\
+\V6  (CARPINTERÍA MADERA)\4\\1.15\2.18\
+\V7\1\\1.46\2.40\
+\\1\\1.95\2.40\
+\\1\\0.74\2.40\
+\V8\1\\3.51\2.40\
+\\1\\0.74\2.40\
+\V9\2\\1.45\2.30\
+\V13\1\\1.00\1.31\
+\\1\\0.92\2.40\
+\\1\\3.32\\
+\V14\1\\0.90\2.40\
+\V17\1\\1.56\2.40\|
+~M|FV#\LVC010b|4\4\2\|24.95|
+\V3\1\\0.90\1.65\
+\\1\\0.62\1.65\
+\V5\2\\0.90\0.90\
+\\1\\2.42\0.90\
+\V10\2\\2.11\0.85\
+\V11\1\\0.47\1.70\
+\\1\\0.75\1.70\
+\V12\1\\2.29\1.70\
+\V15\1\\1.40\0.50\
+\V16\2\\1.19\1.15\
+\\1\\0.92\2.40\
+\V18\1\\0.58\1.15\
+\\1\\0.45\1.15\
+\\1\\1.13\1.15\
+\V19\1\\0.40\2.40\|
+~M|FV#\LVS010b|4\4\3\|3.276|
+\barandilla terraza dorm ppal\1\\2.73\1.20\|
+~M|FPRFV#\prfv2|4\5\1\|501.35|
+\\14\14.68\\\
+\\11\11.70\\\
+\\5\5.70\\\
+\\4\2.50\\\
+\\2\5.78\\\
+\\2\4.12\\\
+\para malla estirada de aluminio\1\14.68\\\
+\\1\3.89\\\
+\\1\5.54\\\
+\\2\1.57\\\
+\\12\3.10\\\
+\\7\4.45\\\
+\\1\13.23\\\|
+~M|FPRFV#\preprfv2|4\5\2\|73.73|
+\subestructura para malla estirada de aluminio\12\4.00\\\
+\\7\2.45\\\
+\\4\0.49\\\
+\\10\0.41\\\
+\\4\0.47\\\
+\\2\0.32\\\|
+~M|FPRFV#\prfv3|4\5\3\|56.02|
+\verticales de refuerzo de la subestructura de fachada\12\1.34\\\
+\\1\2.61\\\
+\\1\4.20\\\
+\diagonales de refuerzo de la subestructura\1\2.87\\\
+\\1\2.15\\\
+\\1\3.15\\\
+\\1\4.25\\\
+\\1\2.15\\\
+\\1\2.85\\\
+\\1\5.55\\\
+\\1\4.31\\\
+\\1\2.75\\\
+\\2\1.55\\\|
+~M|FPRFV#\prfv5|4\5\4\|34.4|
+\D3\1\4.29\\\
+\\1\5.94\\\
+\D5\2\1.57\\\
+\\1\3.89\\\
+\\1\5.54\\\
+\D7\1\11.60\\\|
+~M|FPRFV#\prfv1|4\5\5\|52.76|
+\remate superior en cubierta\2\14.68\\\
+\\2\11.70\\\|
+~M|FPRFV#\tramx2|4\5\6\|58.114|
+\azul\1\4.97\\0.63\
+\\1\3.36\\0.63\
+\\\\\\
+\rosa\1\2.84\\0.63\
+\\1\4.09\\0.63\
+\\1\2.95\\0.63\
+\\2\5.53\\0.63\
+\\1\4.98\\0.90\
+\\1\5.55\\1.10\
+\\\\\\
+\amarillo\2\4.29\\0.63\
+\\2\2.11\\0.63\
+\\1\3.69\\0.63\
+\\1\2.44\\0.63\
+\\1\2.50\\1.10\
+\\\\\\
+\verde\2\3.17\\0.63\
+\\1\2.46\\0.63\
+\\1\2.77\\0.63\
+\\1\3.97\\0.63\
+\\1\4.20\\1.10\|
+~M|FPRFV#\FRA010|4\5\7\|111.2|
+\cubierta superior\1\63.20\\\
+\\1\16.92\\\
+\cubierta garaje\1\21.87\\\
+\terrazas\1\3.46\\\
+\\1\1.80\\\
+\\1\3.95\\\|
+~M|FPRFV#\prefv|4\5\8\|22.64|
+\premarco para V5\2\4.62\\\
+\\2\1.00\\\
+\premarco para V9\2\3.15\\\
+\\2\2.55\\\|
+~M|REVFACH#\deploye|4\6\1\|95.44|
+\colocada horizontal\1\\54.24\\
+\colocada vertical\1\\10.43\\
+\\1\\2.89\\
+\\1\\2.97\\
+\\1\\2.29\\
+\\2\\11.31\\
+\\\\\\|
+~M|REVFACH#\QTF030|4\6\2\|202.64|
+\alzado NW\1\\55.94\\
+\alzado NE\1\\48.02\\
+\alzado SE\1\\56.74\\
+\alzado SW\1\\41.94\\
+\\\\\\
+\\\\\\
+\\\\\\|
+~M|REVFACH#\NAF060|4\6\3\|123.791|
+\alzado NW\1\\23.34\\
+\\1\\3.53\2.15\
+\\1\\0.88\4.65\
+\\1\\0.30\4.65\
+\alzado NE\1\\7.00\4.65\
+\\1\\3.50\\
+\alzado SE\1\\13.29\\
+\\1\\1.82\2.00\
+\\1\\2.22\1.65\
+\\1\\1.27\4.00\
+\\1\\4.54\5.65\
+\\\\\\
+\alzado SW\\\\\
+\\\\\\
+\\\\\\
+\\\\\\|
+~M|QA#\QAB020|5\1\1\|150.34|
+\planta de cubierta\1\\114.45\\
+\\1\\-18.52\\
+\planta primera\1\\26.24\\
+\\1\\14.52\\
+\\1\\2.03\\
+\\1\\2.62\\
+\escalera\1\\9.00\\|
+~M|QA#\jardin|5\1\2\|48.62|
+\huerto en cubierta\1\\46.00\\
+\jardín junto baño niños \1\\2.62\\|
+~M|QA#\jarsedum|5\1\3\|80|
+\\1\\54.00\\
+\\1\\26.00\\|
+~M|NA#\NAF040|6\1\1\|202.64|
+\fachada de policarbonato\1\\202.64\\|
+~M|NA#\NAF040b|6\1\2\|95.44|
+\fachada de malla estirada\1\\95.44\\|
+~M|NI#\NIM011|6\2\1\|92.429|
+\\1\54.37\\1.70\
+\\\\\\
+\\\\\\|
+~M|NI#\NIG020|6\2\3\|10.35|
+\bajo pavimento en acceso a vivienda\1\\5.55\\
+\formación de duchas de obra\3\\1.60\\|
+~M|PT#\PSY015|7\1\1\|46.29|
+\T1\2\1.65\\2.50\
+\\1\3.53\\2.50\
+\\1\1.68\\2.50\
+\\1\2.49\\3.10\
+\T4\1\1.04\\2.50\
+\T5\2\0.67\\2.50\
+\T6\1\3.66\\3.10\
+\\\\\\|
+~M|PT#\PSY015b|7\1\2\|31.881|
+\T2\1\2.80\\3.10\
+\\1\1.48\\3.10\
+\\1\0.68\\3.10\
+\\1\2.19\\2.50\
+\\1\0.94\\2.50\
+\T3\1\2.80\\3.10\
+\\\\\\|
+~M|PA#\LVS010|7\3\6\|18.985|
+\fijo perpendicular a  P10\1\\1.58\2.50\
+\fijo entre p10 y p11\1\\0.25\2.50\
+\fijo junto p12\1\\0.58\2.50\
+\fijos armario 3\2\\0.67\2.50\
+\fijos armario 4\1\\0.65\2.50\
+\fijo descansillo escalera\1\\3.86\\
+\hueco escalera dormitorio ppal\1\\1.65\2.50\
+\\\\\\|
+~M|PD#\PDB010|7\5\1\|39.5|
+\planta de cubierta\1\17.00\\\
+\\1\5.50\\\
+\escalera a cubierta\1\12.00\\\
+\escalera interior\1\5.00\\\|
+~M|RP#\RPG010|8\1\1\|225.643|
+\planta baja\1\\11.69\4.00\
+\\1\\4.63\3.10\
+\\1\\3.57\3.10\
+\\1\\10.94\3.10\
+\\1\\3.34\4.00\
+\\1\\3.34\3.10\
+\planta primera\1\\4.50\2.50\
+\\1\\4.24\2.50\
+\\1\\2.56\2.50\
+\\1\\3.53\2.50\
+\\1\\2.43\2.50\
+\\1\\2.76\2.50\
+\\1\\6.69\2.50\
+\\1\\4.59\2.50\
+\\1\\2.43\2.50\
+\\1\\3.08\2.50\
+\\1\\3.81\1.00\
+\\\\\\
+\\\\\\
+\\\\\\
+\\\\\\
+\\\\\\
+\\\\\\|
+~M|RP#\RPE010|8\1\2\|166.635|
+\en exterior (sobre termoarcilla):\1\\137.80\\
+\en interior:\\\\\
+\planta primera\1\\5.10\2.50\
+\\1\\1.60\2.50\
+\\1\\3.95\2.50\
+\\1\\2.21\1.00\
+\\\\\\
+\\\\\\|
+~M|RP#\RQO010|8\1\3\|26.89|
+\F4-a\2\\\5.76\
+\F4-b\1\\\5.72\
+\F4-c\1\\\5.03\
+\F4-d\1\4.20\\0.60\
+\\1\4.20\\0.50\
+\\\\\\
+\\\\\\
+\\\\\\|
+~M|RA#\RAG014b|8\2\1\|14.65|
+\baño niños\2\2.29\\2.50\
+\\1\1.28\\2.50\
+\\\\\\
+\\\\\\
+\\\\\\
+\\\\\\
+\\\\\\|
+~M|RA#\RVE010|8\2\2\|15.55|
+\baño niños\1\1.38\\2.50\
+\baño planta baja\1\2.40\\1.55\
+\\1\0.58\\2.50\
+\baño padres\1\\3.64\\
+\\1\\3.29\\|
+~M|RS#\RSN040|8\3\1\|197|
+\S1 planta baja\1\\\115.00\
+\S1 planta primera\1\\\82.00\
+\\\\\\|
+~M|RS#\PAVCESVERDE|8\3\3\|14.87|
+\S3-b ( escalera a cubierta) \1\\\8.75\
+\\17\1.20\0.30\\
+\\\\\\|
+~M|RS#\paverdelargo|8\3\4\|14.52|
+\S3-a  (terraza zona niños)\1\\\14.52\
+\\\\\\
+\\\\\\|
+~M|RS#\cespamarillo|8\3\5\|79|
+\S12_Caminos parcela\1\\\61.00\
+\\1\\\18.00\
+\\\\\\|
+~M|RS#\PAVCESAZUL|8\3\6\|171|
+\S11_superficies horizontales en parcela\1\\\102.00\
+\\1\\\44.00\
+\\1\\\25.00\|
+~M|RS#\RSM022|8\3\7\|14.2|
+\S4\1\\\8.20\
+\\1\\\6.00\
+\\\\\\|
+~M|RS#\FELPU|8\3\8\|13|
+\S7\1\\\13.00\
+\\\\\\
+\\\\\\|
+~M|RS#\RSO010|8\3\9\|8.72|
+\S8_escalera interior\1\\\5.49\
+\\17\1.00\\0.19\
+\\\\\\|
+~M|RS#\RSG021|8\3\10\|110.74|
+\planta baja\1\37.50\\\
+\\1\4.63\\\
+\\1\1.97\\\
+\\1\10.82\\\
+\planta primera\1\16.76\\\
+\\1\2.14\\\
+\\1\2.93\\\
+\\2\5.19\\\
+\\1\3.13\\\
+\\1\3.45\\\
+\\1\5.17\\\
+\\2\3.53\\\
+\\2\2.40\\\|
+~M|RT#\RTC016|8\4\1\|5.87|
+\te3\1\\\5.87\
+\\\\\\
+\\\\\\|
+~M|RI#\RIS010|8\5\1\|689.944|
+\planta baja vertical\1\15.04\\4.00\
+\\1\22.02\\3.10\
+\\1\4.16\\3.10\
+\\1\13.33\\3.10\
+\\1\11.40\\0.80\
+\\1\3.17\\1.40\
+\\1\4.00\\1.50\
+\techo planta baja\1\98.43\\\
+\planta primera vertical\1\110.74\\2.50\
+\\1\12.43\\2.50\
+\techo planta primera\1\70.54\\\
+\\1\10.85\\\
+\\\\\\|
+~M|UJ#\UJA050b|11\1\2\|236|
+\\1\\181.00\\
+\\1\\134.00\\
+\- caminos\1\\-79.00\\|
+~M|UJ#\UJA050|11\1\4\|71.68|
+\\1\\12.07\\
+\\1\\2.95\\
+\\1\\2.24\\
+\\1\\3.08\\
+\\1\\12.41\\
+\\1\\7.92\\
+\\1\\3.74\\
+\\1\\12.42\\
+\\1\\5.92\\
+\\1\\8.93\\|
+~M|UJ#\UJV010|11\1\5\|93.69|
+\\1\36.22\\\
+\\2\6.98\\\
+\\2\1.60\\\
+\\1\7.15\\\
+\\1\5.00\\\
+\\1\4.65\\\
+\\1\8.37\\\
+\\1\2.89\\\
+\\1\4.85\\\
+\\1\2.60\\\
+\\1\4.80\\\|
+~M|XE#\XEB010|13\1\1\|3|
+\B 500 S (Serie fina)\1\\\\
+\B 500 S (Serie media)\1\\\\
+\B 500 S (Serie gruesa)\1\\\\|
+~M|XE#\XEM010|13\1\3\|1|
+\Serie fina\1\\\\|
+~M|XE#\XEH010|13\1\5\|3|
+\Elementos a compresión (HA-25/B/20/IIa)\1\\\\
+\Elementos a flexión (HA-25/B/20/IIa)\1\\\\
+\Macizos (HA-25/B/20/IIa)\1\\\\|
