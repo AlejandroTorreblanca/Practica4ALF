@@ -1,3 +1,17 @@
-~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2002|Predimensionador para viviendas adosadas aisladas||ANSI|
-~K|\2\3\3\2\2\2\2\EUR|3||
+~V		|CYPE INGENIEROS, S.A.|FIEBDC-3/2004\13062000|
+ARQUIMEDES|Precio según divisa\Euros\Dólares\Libras|	850|	Presupuesto|3|2|130699|http://www.google.es|
+
+
+~C|ADL010\ddd\dfg\sdf\ffg|ud|Desbroce y limpieza del terreno, con medios mecánicos. Comprende los trabajos necesarios para retirar de las zonas previstas para la edificación o urbanización: plantas, tocones, maleza, broza, escombros, basuras o cualquier otro material existente, hasta una profundidad no menor que el espesor de la capa de tierra vegetal. Incluso transporte de la maquinaria, retirada de los materiales excavados y carga a camión.
+Incluye: Replanteo previo. Remoción de los materiales de desbroce. Retirada y disposición de los materiales objeto de desbroce. Carga a camión. Transporte a vertedero autorizado.||13062001|0|
+~C|wefgh\ afg|ud |Desbroce y limpieza del terreno
+|2,0\3.|130699|0	|
+~K|\2\3 \3\2\2\2\2\EUR
+|3||
+
+~H|\2\3 \3\2\2\2\2\EUR
+|3||
+~V|\2\3 \3\2\2\2\2\EUR
+|3||
+
 ~X||INFORMACION_GENERADOR\Parámetros de configuración del generador de precios\\|

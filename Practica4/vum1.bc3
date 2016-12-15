@@ -35,7 +35,7 @@
 ~C|mt08eme010a|m²|Encofrado y desencofrado metálico, en zapatas de cimentación.|8.88||3|
 ~C|mt08eme010c|m²|Encofrado y desencofrado metálico, en riostras de cimentación.|8.88||3|
 ~C|mt08eme020|m²|Montaje y desmontaje de encofrado para enanos de cimentación de hormigón armado de sección rectangular o cuadrada, hasta 1 m de altura, realizado con chapas metálicas reutilizables, incluso p/p de accesorios de montaje.|5.09||3|
-~C|mt08emt020|m²|Apuntalamiento y entibación semicuajada de zanjas y pozos de 2 m de ancho como máximo, para una protección del 50% mediante tablones, correas y codales de madera (10 usos).|23.37||3|
+~C|mt08emt020|m²|Apuntalamiento y entibación semicuajada de zanjas y pozos de 2 m de ancho como máximo, para una protección del 50 mediante tablones, correas y codales de madera (10 usos).|23.37||3|
 ~C|mt08eup010ad|m²|Montaje y desmontaje de encofrado para soportes de hormigón armado de sección rectangular o cuadrada, de hasta 3 m de altura y 35x35 cm de sección media, realizado con chapas metálicas reutilizables de 50x50 cm, incluso p/p de accesorios de montaje. 50 usos.|6.29||3|
 ~C|mt08eva010a|m²|Encofrado y desencofrado continuo con puntales, sopandas metálicas y superficie encofrante de madera tratada reforzada con varillas y perfiles, en vigas de hormigón armado, hasta 3 m de altura libre de planta.|35.28||3|
 ~C|mt08eve010|m²|Montaje y desmontaje de encofrado para losas inclinadas de escalera de hormigón armado, a una altura hasta 3 m, con puntales, sopandas y tableros de madera.|24.94||3|
@@ -429,7 +429,7 @@
 ~C|mt50spr020b|Ud|Gancho de anclaje al forjado, D=16 mm, para red vertical.|2.17||3|
 ~C|mt50spr020c|Ud|Gancho de montaje de red, D=12 mm, para red vertical.|0.34||3|
 ~C|mt50spr030|m|Cuerda de unión entre redes según UNE-EN 1263-1, D=8 mm y carga de rotura superior a 7,5 kN.|0.11||3|
-~C|mt50spr050|m²|Malla tupida de polietileno de alta densidad, con tratamiento ultravioleta, color verde, 60% de porcentaje de cortaviento, con orificios cada 20 cm en todo el perímetro para su inserción en los módulos de los andamios.|0.45||3|
+~C|mt50spr050|m²|Malla tupida de polietileno de alta densidad, con tratamiento ultravioleta, color verde, 60 de porcentaje de cortaviento, con orificios cada 20 cm en todo el perímetro para su inserción en los módulos de los andamios.|0.45||3|
 ~C|mt50spr060|m|Cuerda de atado según UNE-EN 1263-1, D=13 mm y carga de rotura superior a 30 kN.|0.29||3|
 ~C|mt50spr070|m²|Red vertical de seguridad tipo U, según UNE-EN 1263-1, de poliamida de alta tenacidad, certificada por AENOR mediante sello N de Productos Certificados AENOR para Redes de Seguridad. Cuerda de red de calibre 4,5 mm y carga de rotura superior a 350 kgf. Energía de la red A2 (entre 2,2 y 4,4 kJ). Configuración de la red al rombo.|2.01||3|
 ~C|mt50spr080|m|Cuerda de nylon, D=16 mm, para fijación de protección vertical en perímetro de forjados.|0.56||3|
@@ -483,27 +483,27 @@
 ~C|mo058|h|Peón especializado construcción.|12.92||1|
 ~C|mo059|h|Peón ordinario construcción.|12.65||1|
 ~C|mo062|h|Peón escayolista.|12.35||1|
-~C|%|%|Costes directos complementarios|0.00||0|
+~C|%||Costes directos complementarios|0.00||0|
 ~C|ADE010|m³|Excavación en pozos para cimentaciones en suelos cohesivos de arcilla semidura, con medios mecánicos, entibación semicuajada.|0.00||0|
-~T|ADE010|Excavación de tierras a cielo abierto para formación de pozos para cimentaciones hasta una profundidad de 2 m, en suelos cohesivos de arcilla semidura, con medios mecánicos, hasta alcanzar la cota de profundidad indicada en el Proyecto. Incluso apuntalamiento y entibación semicuajada para una protección del 50%, mediante tablones, correas y codales de madera, transporte de la maquinaria, retirada de los materiales excavados y carga a camión sin incluir transporte a vertedero. Según NTE-ADV.
+~T|ADE010|Excavación de tierras a cielo abierto para formación de pozos para cimentaciones hasta una profundidad de 2 m, en suelos cohesivos de arcilla semidura, con medios mecánicos, hasta alcanzar la cota de profundidad indicada en el Proyecto. Incluso apuntalamiento y entibación semicuajada para una protección del 50, mediante tablones, correas y codales de madera, transporte de la maquinaria, retirada de los materiales excavados y carga a camión sin incluir transporte a vertedero. Según NTE-ADV.
 Incluye: Replanteo general y fijación de los puntos y niveles de referencia. Colocación de las camillas en las esquinas y extremos de las alineaciones. Excavación en sucesivas franjas horizontales y extracción de tierras. Refinado de fondos y laterales a mano, con extracción de las tierras. Colocación de la madera aserrada para la formación de la entibación. Colocación de codales. Clavado de todos los elementos. Protección de la excavación frente a filtraciones y acciones de erosión o desmoronamiento por parte de las aguas de escorrentía. Parte proporcional de medios auxiliares.
 Criterio de medición de proyecto: volumen medido según documentación gráfica de Proyecto.|
 ~D|ADE010
 |mt08emt020\\1.100
 \mq01exn030\\0.188
 \mo059\\0.142
-\%\\0.020
+\\\0.020
 \|
 ~X|ADE010|INFORMACION_GENERADOR\00060041444530313000000000000000000000010000000015006d616465736d6f6e2065786361766163696f6e6573000b0000000400000000000000010000000200000000000000010000000000000001000000000000000200000001000000\\|
 ~C|ADE010a|m³|Excavación en zanjas para cimentaciones en suelos cohesivos de arcilla semidura, con medios mecánicos, entibación semicuajada.|0.00||0|
-~T|ADE010a|Excavación de tierras a cielo abierto para formación de zanjas para cimentaciones hasta una profundidad de 2 m, en suelos cohesivos de arcilla semidura, con medios mecánicos, hasta alcanzar la cota de profundidad indicada en el Proyecto. Incluso apuntalamiento y entibación semicuajada para una protección del 50%, mediante tablones, correas y codales de madera, transporte de la maquinaria, retirada de los materiales excavados y carga a camión sin incluir transporte a vertedero. Según NTE-ADV.
+~T|ADE010a|Excavación de tierras a cielo abierto para formación de zanjas para cimentaciones hasta una profundidad de 2 m, en suelos cohesivos de arcilla semidura, con medios mecánicos, hasta alcanzar la cota de profundidad indicada en el Proyecto. Incluso apuntalamiento y entibación semicuajada para una protección del 50, mediante tablones, correas y codales de madera, transporte de la maquinaria, retirada de los materiales excavados y carga a camión sin incluir transporte a vertedero. Según NTE-ADV.
 Incluye: Replanteo general y fijación de los puntos y niveles de referencia. Colocación de las camillas en las esquinas y extremos de las alineaciones. Excavación en sucesivas franjas horizontales y extracción de tierras. Refinado de fondos y laterales a mano, con extracción de las tierras. Colocación de la madera aserrada para la formación de la entibación. Colocación de codales. Clavado de todos los elementos. Protección de la excavación frente a filtraciones y acciones de erosión o desmoronamiento por parte de las aguas de escorrentía. Parte proporcional de medios auxiliares.
 Criterio de medición de proyecto: volumen medido según documentación gráfica de Proyecto.|
 ~D|ADE010a
 |mt08emt020\\1.100
 \mq01exn030\\0.211
 \mo059\\0.137
-\%\\0.020
+\\\0.020
 \|
 ~X|ADE010a|INFORMACION_GENERADOR\00060041444530313000000000000000000000010000000015006d616465736d6f6e2065786361766163696f6e6573000b0000000200000000000000010000000200000000000000010000000000000001000000000000000200000001000000\\|
 ~C|ADL010|m²|Desbroce y limpieza del terreno, medios mecánicos.|0.00||0|
@@ -514,7 +514,7 @@ Criterio de medición de proyecto: superficie medida en proyección horizontal, se
 |mq01pan010\\0.017
 \mq09sie010\\0.004
 \mo059\\0.006
-\%\\0.020
+\\\0.020
 \|
 ~X|ADL010|INFORMACION_GENERADOR\00060041444c303130000000000000000000000100000000070061646c5f30313000020000000100000001000000\\|
 ~C|ADT010|m³|Transporte de tierras a vertedero autorizado.|0.00||0|
@@ -523,7 +523,7 @@ Incluye: Los elementos complementarios para su desplazamiento. Protección de las
 Criterio de medición de proyecto: volumen de las tierras a transportar procedentes de las excavaciones proyectadas, incrementado por su correspondiente coeficiente de esponjamiento, de acuerdo con el tipo de terreno considerado.|
 ~D|ADT010
 |mq04cab020\\0.151
-\%\\0.020
+\\\0.020
 \|
 ~X|ADT010|INFORMACION_GENERADOR\0006004144543031300000000000000000000000000000\\|
 ~C|ANE010|m²|Encachado de 15 cm en caja para base solera, con aporte de grava de cantera de piedra caliza, Ø40/70 mm, compactación mediante equipo manual con bandeja vibrante.|0.00||0|
@@ -536,7 +536,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mq02rod020\\0.012
 \mq02cia020\\0.012
 \mo059\\0.279
-\%\\0.020
+\\\0.020
 \|
 ~X|ANE010|INFORMACION_GENERADOR\000600414e453031300000000000000000000001000000000800616e655f656e636100030000000a0000000000000001000000\\|
 ~C|ANS010|m²|Solera de HM-10/B/20/I fabricado en central y vertido desde camión, de 10 cm de espesor.|0.00||0|
@@ -550,7 +550,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mo010\\0.068
 \mo046\\0.068
 \mo059\\0.034
-\%\\0.020
+\\\0.020
 \|
 ~X|ANS010|INFORMACION_GENERADOR\000600414e533031300000000000000000000002000000000e00616e733031305f6163616261646f000100000000000000000700616e735f303130000b0000000500000000000000000000000000000006000000000000000100000001000000000000000000000000000000\\|
 ~C|ASA010|Ud|Arqueta sifónica, de obra de fábrica, registrable, de dimensiones interiores 63x63x80 cm, con tapa prefabricada de hormigón armado.|0.00||0|
@@ -567,7 +567,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt11arf010c\\1.000
 \mo010\\1.909
 \mo059\\1.358
-\%\\0.020
+\\\0.020
 \|
 ~X|ASA010|INFORMACION_GENERADOR\00060041534130313000000000000000000000010000000007006173615f303130000700000000000000040000000000000000000000020000000000000000000000\\|
 ~C|ASA010a|Ud|Arqueta de paso, de obra de fábrica, registrable, de dimensiones interiores 51x51x65 cm, con tapa prefabricada de hormigón armado.|0.00||0|
@@ -584,7 +584,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt11arf010b\\1.000
 \mo010\\1.718
 \mo059\\1.225
-\%\\0.020
+\\\0.020
 \|
 ~X|ASA010a|INFORMACION_GENERADOR\00060041534130313000000000000000000000010000000007006173615f303130000700000000000000010000000100000000000000010000000000000000000000\\|
 ~C|ASA010b|Ud|Arqueta a pie de bajante, de obra de fábrica, registrable, de dimensiones interiores 38x38x50 cm, con tapa prefabricada de hormigón armado.|0.00||0|
@@ -601,7 +601,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt11arf010a\\1.000
 \mo010\\1.636
 \mo059\\1.167
-\%\\0.020
+\\\0.020
 \|
 ~X|ASA010b|INFORMACION_GENERADOR\00060041534130313000000000000000000000010000000007006173615f303130000700000000000000020000000100000000000000000000000000000000000000\\|
 ~C|ASA010c|Ud|Arqueta con sumidero sifónico y desagüe directo lateral, de obra de fábrica, registrable, de dimensiones interiores 51x51x65 cm, con tapa prefabricada de hormigón armado.|0.00||0|
@@ -618,7 +618,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt11sup050b\\1.000
 \mo010\\2.086
 \mo059\\1.482
-\%\\0.020
+\\\0.020
 \|
 ~X|ASA010c|INFORMACION_GENERADOR\00060041534130313000000000000000000000010000000007006173615f303130000700000000000000030000000000000000000000010000000000000000000000\\|
 ~C|ASB010|m|Acometida general de saneamiento a la red general del municipio, de PVC liso de 160 mm de diámetro, junta pegada.|0.00||0|
@@ -638,7 +638,7 @@ Criterio de medición de proyecto: longitud medida en proyección horizontal, segú
 \mo058\\1.036
 \mo004\\0.131
 \mo054\\0.131
-\%\\0.040
+\\\0.040
 \|
 ~X|ASB010|INFORMACION_GENERADOR\0006004153423031300000000000000000000001000000001300616c62616e79616c2061636f6d657469646173000b0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|ASB020|Ud|Conexión de la acometida del edificio a la red general de saneamiento del municipio.|0.00||0|
@@ -651,7 +651,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mq05cop010\\1.088
 \mo010\\3.273
 \mo058\\4.909
-\%\\0.020
+\\\0.020
 \|
 ~X|ASB020|INFORMACION_GENERADOR\0006004153423032300000000000000000000000000000\\|
 ~C|ASI020|Ud|Sumidero sifónico de PVC, de salida vertical de 75 mm de diámetro, con rejilla de PVC de 200x200 mm.|0.00||0|
@@ -662,7 +662,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 |mt11sup030aaa\\1.000
 \mt11var020\\1.000
 \mo004\\0.340
-\%\\0.020
+\\\0.020
 \|
 ~X|ASI020|INFORMACION_GENERADOR\000600415349303230000000000000000000000100000000070073756d696465720006000000000000000000000000000000000000000000000000000000\\|
 ~C|CAV020|m³|Viga centradora, HA-25/B/20/IIa fabricado en central y vertido con cubilote, acero B 500 S UNE 36068, cuantía 158,902 kg/m³, con encofrado metálico.|0.00||0|
@@ -677,7 +677,7 @@ Criterio de medición de proyecto: volumen teórico, según documentación gráfica d
 \mt11var300\\0.020
 \mo010\\0.112
 \mo059\\0.168
-\%\\0.020
+\\\0.020
 \|
 ~X|CAV020|INFORMACION_GENERADOR\0006004341563032300000000000000000000004000000000500616365726f000200000000000000020000000008006361765f6375616e000200000001000000ce680200000800656e63656e636570000100000001000000001400686f726d69676f6e2063696d656e746163696f6e00080000000000000001000000060000000000000001000000010000000100000000000000\\|
 ~C|CAV020a|m³|Viga de atado, HA-25/B/20/IIa fabricado en central y vertido con cubilote, acero B 500 S UNE 36068, cuantía 79,451 kg/m³, con encofrado metálico.|0.00||0|
@@ -692,7 +692,7 @@ Criterio de medición de proyecto: volumen teórico, según documentación gráfica d
 \mt11var300\\0.020
 \mo010\\0.112
 \mo059\\0.168
-\%\\0.020
+\\\0.020
 \|
 ~X|CAV020a|INFORMACION_GENERADOR\0006004341563032300000000000000000000004000000000500616365726f000200000000000000020000000008006361765f6375616e00020000000000000073320100000800656e63656e636570000100000001000000001400686f726d69676f6e2063696d656e746163696f6e00080000000000000001000000060000000000000001000000010000000100000000000000\\|
 ~C|CNE010|m³|Enano de cimentación, HA-25/B/20/IIa fabricado en central y vertido con cubilote, acero B 500 S UNE 36068, cuantía 95 kg/m³. Encofrado con chapas metálicas.|0.00||0|
@@ -706,7 +706,7 @@ Criterio de medición de proyecto: volumen teórico, según documentación gráfica d
 \mt08eme020\\8.000
 \mo010\\0.225
 \mo059\\0.225
-\%\\0.020
+\\\0.020
 \|
 ~X|CNE010|INFORMACION_GENERADOR\000600434e453031300000000000000000000004000000000500616365726f00020000000000000002000000000800636e655f6375616e0001000000306f0100000700656e656e616e6f000100000001000000001400686f726d69676f6e2063696d656e746163696f6e00080000000000000001000000060000000000000001000000010000000100000000000000\\|
 ~C|CRL010|m²|Capa de hormigón de limpieza HM-10/B/20/I fabricado en central y vertido con cubilote, de 10 cm de espesor.|0.00||0|
@@ -717,7 +717,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 |mt10hmf010c\\0.105
 \mo010\\0.068
 \mo059\\0.068
-\%\\0.020
+\\\0.020
 \|
 ~X|CRL010|INFORMACION_GENERADOR\00060043524c303130000000000000000000000100000000070063726c5f303130000a00000000000000090000000000000000000000060000000000000001000000010000000100000000000000\\|
 ~C|CSZ020|m³|Zapata de cimentación, HA-25/B/20/IIa fabricado en central y vertido con cubilote, acero B 500 S UNE 36068, cuantía 60,167 kg/m³, con encofrado metálico.|0.00||0|
@@ -732,7 +732,7 @@ Criterio de medición de proyecto: volumen teórico, según documentación gráfica d
 \mt11var300\\0.010
 \mo010\\0.676
 \mo059\\0.676
-\%\\0.020
+\\\0.020
 \|
 ~X|CSZ020|INFORMACION_GENERADOR\00060043535a3032300000000000000000000004000000000500616365726f0002000000000000000200000000080063737a5f6375616e00010000001fe70000000800656e63656e636570000100000001000000001400686f726d69676f6e2063696d656e746163696f6e00080000000000000001000000060000000000000001000000010000000100000000000000\\|
 ~C|EHE010|m²|Losa de escalera, HA-25/B/20/IIa fabricado en central y vertido con cubilote, acero B 500 S UNE 36068, 30 kg/m², e=20 cm, encofrado de madera, con peldañeado de hormigón.|0.00||0|
@@ -748,7 +748,7 @@ Criterio de medición de proyecto: superficie medida por su intradós en verdadera
 \mo010\\0.430
 \mo046\\0.430
 \mo059\\0.215
-\%\\0.020
+\\\0.020
 \|
 ~X|EHE010|INFORMACION_GENERADOR\0006004548453031300000000000000000000004000000000500616365726f000200000000000000020000000008006568655f6573636100020000000c000000487100000008006568655f70656c64000100000000000000001300686f726d69676f6e206573747275637475726100080000000000000001000000060000000000000001000000010000000000000000000000\\|
 ~C|EHU005|m²|Forjado sanitario, canto 30 = 25+5 cm; HA-25/B/20/IIa fabricado en central y vertido con cubilote, volumen 0,105 m³/m²; acero B 500 S UNE 36068, cuantía 3,133 kg/m²; vigueta pretensada; bovedilla de hormigón, 60x20x25 cm y malla electrosoldada ME 10x10, Ø 5 mm, acero B 500 T 6x2,20 UNE 36092, en capa de compresión, sobre murete de apoyo de ladrillo cerámico perforado de 60 cm de altura y 1 pie de espesor.|0.00||0|
@@ -771,7 +771,7 @@ Criterio de medición de proyecto: superficie medida desde las caras exteriores d
 \mo010\\1.977
 \mo046\\1.977
 \mo059\\0.988
-\%\\0.020
+\\\0.020
 \|
 ~X|EHU005|INFORMACION_GENERADOR\00060045485530303500000000000000000000020000000012006568755f6375766f2073616e69746172696f0001000000550800000010006568755f666f726a61646f5f73616e6900260000000000000000000000000000001400000000000000000000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000100000006000000000000000100000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000\\|
 ~C|EHU020|m²|Estructura de hormigón armado HA-25/B/20/IIa fabricado en central y vertido con cubilote; volumen total de hormigón 0,173 m³/m²; acero B 500 S UNE 36068 con una cuantía total de 17,969 kg/m²; forjado unidireccional, horizontal, de canto 30 = 25+5 cm; semivigueta pretensada; bovedilla de hormigón, 60x20x25 cm; malla electrosoldada ME 10x10, Ø 5 mm, acero B 500 T 6x2,20 UNE 36092 en capa de compresión; vigas planas; soportes con altura libre hasta 3 m.|0.00||0|
@@ -796,7 +796,7 @@ Criterio de medición de proyecto: superficie medida desde las caras exteriores d
 \mo010\\0.609
 \mo046\\0.609
 \mo059\\0.304
-\%\\0.020
+\\\0.020
 \|
 ~X|EHU020|INFORMACION_GENERADOR\0006004548553032300000000000000000000004000000000500616365726f000200000000000000020000000014006568755f6375766f20636f6e5f70696c617265730001000000a9320000000b006568755f666f726a61646f00170000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007000000000000000000000001000000000000000000000000000000001300686f726d69676f6e206573747275637475726100080000000000000001000000060000000000000001000000010000000000000000000000\\|
 ~C|FCN010|Ud|Ventana para tejado, apertura giratoria, en tejado ondulado de teja, fibrocemento o materiales similares; accionamiento manual de ventana.|0.00||0|
@@ -809,7 +809,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt13aen010a\\5.260
 \mo010\\1.130
 \mo046\\0.565
-\%\\0.020
+\\\0.020
 \|
 ~X|FCN010|INFORMACION_GENERADOR\00060046434e303130000000000000000000000100000000080066636e5f76656e740009000000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|FCP020|m²|Carpintería de PVC blanco, en puerta balconera practicable de una hoja de superficie 1 m² < s <= 2 m², perfilería con guía de persiana, de junta central, con premarco, compacto térmico incorporado (monoblock), persiana con lamas de 38 mm con refuerzo, con accionamiento manual mediante torno.|0.00||0|
@@ -823,7 +823,7 @@ Criterio de medición de proyecto: superficie del hueco, medida según documentaci
 \mt15sja100\\5.035
 \mo009\\0.230
 \mo031\\0.228
-\%\\0.020
+\\\0.020
 \|
 ~X|FCP020|INFORMACION_GENERADOR\00060046435030323000000000000000000000040000000017006361727069616c7520616c756d696e696f5f795f70766300050000000000000001000000010000000000000000000000000800706572616363696f00020000000000000001000000000800707663636f6d7061000500000001000000010000000000000000000000000000000007007469706f7076630003000000000000000100000000000000\\|
 ~C|FCP020a|m²|Carpintería de PVC blanco, en ventana corredera de dos hojas de superficie 1 m² < s <= 2 m², perfilería con guía de persiana, de junta central, con premarco, compacto térmico incorporado (monoblock), persiana con lamas de 38 mm con refuerzo, con accionamiento manual mediante torno.|0.00||0|
@@ -837,7 +837,7 @@ Criterio de medición de proyecto: superficie del hueco, medida según documentaci
 \mt15sja100\\5.035
 \mo009\\0.326
 \mo031\\0.175
-\%\\0.020
+\\\0.020
 \|
 ~X|FCP020a|INFORMACION_GENERADOR\00060046435030323000000000000000000000040000000017006361727069616c7520616c756d696e696f5f795f70766300050000000000000000000000000000000000000001000000000800706572616363696f00020000000000000001000000000800707663636f6d7061000500000001000000010000000000000000000000000000000007007469706f7076630003000000000000000100000000000000\\|
 ~C|FDA010|m|Barandilla recta de fachada de 100 cm de altura de aluminio anodizado color natural, formada por: bastidor compuesto de barandal superior e inferior de perfil cuadrado de 40x40 mm y montantes de perfil cuadrado de 40x40 mm con una separación de 100 cm entre ellos; entrepaño para relleno de los huecos del bastidor compuesto de barrotes verticales de aluminio perfil rectangular de 30x15 mm y pasamanos de perfil curvo de 70 mm.|0.00||0|
@@ -852,7 +852,7 @@ Criterio de medición de proyecto: longitud medida según documentación gráfica de
 \mt26aaa031\\1.000
 \mo009\\1.727
 \mo031\\1.727
-\%\\0.020
+\\\0.020
 \|
 ~X|FDA010|INFORMACION_GENERADOR\00060046444130313000000000000000000000010000000006006664615f3130000e0000000000000055000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|FDG010|Ud|Puerta enrollable para garaje, de lamas de aluminio extrusionado, 250x210 cm, panel totalmente ciego, acabado blanco, apertura manual.|0.00||0|
@@ -863,7 +863,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 |mt26pge010aaa\\1.000
 \mo009\\1.159
 \mo031\\1.159
-\%\\0.020
+\\\0.020
 \|
 ~X|FDG010|INFORMACION_GENERADOR\00060046444730313000000000000000000000010000000007006664675f303130000c000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|FFF010|m²|Cerramiento de fachada de dos hojas apoyadas en el forjado, la exterior de 1/2 pie de espesor de fábrica, de ladrillo cerámico hueco triple, para revestir, 33x16x11 cm, recibida con mortero de cemento M-40 (1:6), con enfoscado interior y la interior de 7 cm de espesor de fábrica, de ladrillo cerámico hueco doble, para revestir, 33x16x7 cm, recibida con mortero de cemento M-40 (1:6), aislamiento formado por un panel flexible y ligero de lana de roca volcánica, según UNE-EN 13162, no revestido, de 40 mm de espesor.|0.00||0|
@@ -885,7 +885,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt50spa200600\\1.000
 \mo010\\1.195
 \mo059\\0.598
-\%\\0.030
+\\\0.030
 \|
 ~X|FFF010|INFORMACION_GENERADOR\00060046464630313000000000000000000000010000000010006666665f636572722066616272696361002a000000020000000000000000000000010000000000000000000000c80000000000000001000000000000000100000000000000020000000000000000000000010000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000010000000000000001000000000000000000000002000000000000000000000000000000000000000000000000000000\\|
 ~C|FFF010a|m²|Cerramiento de fachada de dos hojas apoyadas en el forjado, la exterior de 1/2 pie de espesor de fábrica, de ladrillo cerámico hueco triple, para revestir, 33x16x11 cm, recibida con mortero de cemento M-40 (1:6), y la interior de 7 cm de espesor de fábrica, de ladrillo cerámico hueco doble, para revestir, 33x16x7 cm, recibida con mortero de cemento M-40 (1:6).|0.00||0|
@@ -901,7 +901,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt09mor010c\\0.006
 \mo010\\0.899
 \mo059\\0.450
-\%\\0.030
+\\\0.030
 \|
 ~X|FFF010a|INFORMACION_GENERADOR\00060046464630313000000000000000000000010000000010006666665f63657272206661627269636100230000000200000000000000010000000100000001000000000000000000000000000000000000000000000001000000000000000200000000000000000000000100000000000000000000000000000000000000000000000000000000000000010000000000000001000000000000000000000002000000000000000000000000000000000000000000000000000000\\|
 ~C|FRV010|m|Vierteaguas de mármol Blanco Macael de 29 a 32 cm de ancho con un espesor de 3 cm.|0.00||0|
@@ -914,7 +914,7 @@ Criterio de medición de proyecto: longitud medida a ejes, según documentación gr
 \mt09lec010b\\0.001
 \mo010\\0.251
 \mo059\\0.251
-\%\\0.020
+\\\0.020
 \|
 ~X|FRV010|INFORMACION_GENERADOR\00060046525630313000000000000000000000010000000008006672765f76696572000400000001000000000000000300000001000000\\|
 ~C|FVC010|m²|Doble acristalamiento estándar, 4/6/4.|0.00||0|
@@ -927,7 +927,7 @@ Criterio de medición de proyecto: superficie de carpintería a acristalar, según 
 \mt21vva021\\1.000
 \mo027\\0.384
 \mo056\\0.384
-\%\\0.020
+\\\0.020
 \|
 ~X|FVC010|INFORMACION_GENERADOR\00060046564330313000000000000000000000010000000008006676635f76696464000a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|IAA010|Ud|Sistema individual de TV vía terrestre con antena fijada sobre mástil de 3,00 m de altura y 3 bases de toma, para vivienda unifamiliar.|0.00||0|
@@ -951,7 +951,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mo051\\1.593
 \mo000\\2.125
 \mo029\\2.125
-\%\\0.020
+\\\0.020
 \|
 ~X|IAA010|INFORMACION_GENERADOR\0006004941413031300000000000000000000002000000000800616e74656e696e6400020000000000000002000000000f0061706f796f616e74206961613031300003000000000000000000000002000000\\|
 ~C|IAA020|Ud|Sistema individual de TV vía satélite formado por antena parabólica Off-Set de 80 cm de diámetro y 4 bases de toma, para vivienda unifamiliar.|0.00||0|
@@ -974,7 +974,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mo051\\8.498
 \mo000\\1.487
 \mo029\\1.487
-\%\\0.020
+\\\0.020
 \|
 ~X|IAA020|INFORMACION_GENERADOR\0006004941413032300000000000000000000001000000000800616e736174696e640006000000000000000000000001000000000000000000000002000000\\|
 ~C|IAF010|Ud|Sistema individual de telefonía con 2 bases de toma para vivienda unifamiliar.|0.00||0|
@@ -990,7 +990,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt40www030\\2.000
 \mo001\\0.664
 \mo051\\0.664
-\%\\0.020
+\\\0.020
 \|
 ~X|IAF010|INFORMACION_GENERADOR\00060049414630313000000000000000000000010000000007006961665f30313000050000000000000000000000000000000100000000000000\\|
 ~C|IAV010|Ud|Videoportero convencional B/N para vivienda unifamiliar.|0.00||0|
@@ -1004,7 +1004,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt40www040\\2.000
 \mo001\\3.187
 \mo051\\3.187
-\%\\0.020
+\\\0.020
 \|
 ~X|IAV010|INFORMACION_GENERADOR\0006004941563031300000000000000000000001000000000800766964706f72696e00080000000000000000000000000000000100000000000000000000000100000000000000\\|
 ~C|ICA010|Ud|Termo eléctrico, mural vertical, 150 l, 2400 W.|0.00||0|
@@ -1018,7 +1018,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt38www011\\1.000
 \mo004\\1.019
 \mo054\\1.019
-\%\\0.020
+\\\0.020
 \|
 ~X|ICA010|INFORMACION_GENERADOR\00060049434130313000000000000000000000010000000006006963615f3130000400000000000000000000000000000005000000\\|
 ~C|ICC010|Ud|Caldera mural eléctrica, para calefacción, potencia de 10 kW (8600 Kcal/h).|0.00||0|
@@ -1032,7 +1032,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mo052\\4.205
 \mo001\\0.526
 \mo051\\0.526
-\%\\0.020
+\\\0.020
 \|
 ~X|ICC010|INFORMACION_GENERADOR\00060049434330313000000000000000000000020000000007006963635f303130000400000000000000000000000000000000000000000a006963635f726567756c610003000000010000000000000000000000\\|
 ~C|ICE040|Ud|Radiador de aluminio inyectado, con 792 Kcal/h de emisión calorífica, de 8 elementos, de 571 mm de altura, con frontal plano.|0.00||0|
@@ -1045,7 +1045,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt38emi012\\1.000
 \mo002\\1.093
 \mo052\\1.093
-\%\\0.020
+\\\0.020
 \|
 ~X|ICE040|INFORMACION_GENERADOR\00060049434530343000000000000000000000010000000007006963655f303430000400000000000000060000000000000002000000\\|
 ~C|ICE040a|Ud|Radiador de aluminio inyectado, con 396 Kcal/h de emisión calorífica, de 4 elementos, de 571 mm de altura, con frontal plano.|0.00||0|
@@ -1058,7 +1058,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt38emi012\\1.000
 \mo002\\0.547
 \mo052\\0.547
-\%\\0.020
+\\\0.020
 \|
 ~X|ICE040a|INFORMACION_GENERADOR\00060049434530343000000000000000000000010000000007006963655f303430000400000000000000020000000000000002000000\\|
 ~C|ICE040b|Ud|Radiador de aluminio inyectado, con 594 Kcal/h de emisión calorífica, de 6 elementos, de 571 mm de altura, con frontal plano.|0.00||0|
@@ -1071,7 +1071,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt38emi012\\1.000
 \mo002\\0.820
 \mo052\\0.820
-\%\\0.020
+\\\0.020
 \|
 ~X|ICE040b|INFORMACION_GENERADOR\00060049434530343000000000000000000000010000000007006963655f303430000400000000000000040000000000000002000000\\|
 ~C|ICS010|m|Tubo de cobre de 13/15 mm de diámetro para calefacción, empotrado en paramento, con protección mediante tubo corrugado de PP.|0.00||0|
@@ -1084,7 +1084,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt37wwt010c\\1.000
 \mo002\\0.228
 \mo052\\0.228
-\%\\0.020
+\\\0.020
 \|
 ~X|ICS010|INFORMACION_GENERADOR\00060049435330313000000000000000000000010000000007006963735f303130000700000002000000000000000000000001000000000000000100000000000000\\|
 ~C|IEC010|Ud|Caja de protección y medida, instalada en el interior de hornacina mural, intensidad 63 A para 1 contador monofásico en vivienda unifamiliar.|0.00||0|
@@ -1100,7 +1100,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mo059\\0.311
 \mo001\\0.518
 \mo051\\0.518
-\%\\0.020
+\\\0.020
 \|
 ~X|IEC010|INFORMACION_GENERADOR\00060049454330313000000000000000000000010000000008006965635f70726d650003000000000000000000000000000000\\|
 ~C|IED010|m|Derivación individual monofásica (F+N+TT) con montaje superficial para vivienda, formada por cable ES07Z1-K (AS) con conductores de cobre de 6 mm² de sección bajo tubo rígido blindado de PVC liso de 32 mm de diámetro.|0.00||0|
@@ -1116,7 +1116,7 @@ Criterio de medición de proyecto: longitud medida según documentación gráfica de
 \mt35www010\\0.200
 \mo001\\0.259
 \mo051\\0.259
-\%\\0.020
+\\\0.020
 \|
 ~X|IED010|INFORMACION_GENERADOR\00060049454430313000000000000000000000020000000008006965645f64657269000500000000000000000000000000000000000000000000000007006965645f75736f000100000000000000\\|
 ~C|IEI010|Ud|Red eléctrica de distribución interior de una vivienda con electrificación elevada, compuesta de: vestíbulo, pasillo, comedor, dormitorio doble, 3 dormitorios sencillos, 2 baños, aseo, cocina, galería, terraza, con mecanismos serie media, (tecla: blanco, embellecedor: blanco, marco: blanco).|0.00||0|
@@ -1153,7 +1153,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt35www010\\2.000
 \mo001\\46.031
 \mo051\\46.031
-\%\\0.020
+\\\0.020
 \|
 ~X|IEI010|INFORMACION_GENERADOR\0006004945493031300000000000000000000002000000000c006965695f3031305f72656274003c0000000000000000000000010000000000000000000000000000000000000001000000000000000000000004000000000000000000000000000000060000000000000000000000000000000000000000000000020000000000000003000000000000000000000002000000010000000000000000000000010000000100000001000000010000000000000000000000000000000000000000000000000000000700000000000000000000000100000000000000010000000000000000000000000000000100000000000000000000000500000000000000010000000100000001000000010000000100000000000000000000000008006965695f6d65636100050000000000000001000000000000000000000000000000\\|
 ~C|IEP010|Ud|Red de toma de tierra para estructura de hormigón del edificio con 33 m de conductor de cobre desnudo de 35 mm².|0.00||0|
@@ -1167,7 +1167,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt35www020\\1.000
 \mo001\\3.955
 \mo051\\3.955
-\%\\0.020
+\\\0.020
 \|
 ~X|IEP010|INFORMACION_GENERADOR\00060049455030313000000000000000000000010000000007006965705f30313000080000000000000000000000000000000300000000000000010000000000000000000000\\|
 ~C|IEP030|Ud|Red de equipotencialidad en cuarto de baño.|0.00||0|
@@ -1180,7 +1180,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt35www020\\0.250
 \mo001\\0.844
 \mo051\\0.844
-\%\\0.020
+\\\0.020
 \|
 ~X|IEP030|INFORMACION_GENERADOR\0006004945503033300000000000000000000000000000\\|
 ~C|IER010|Ud|Cuadro general de mando y protección para vivienda con electrificación básica.|0.00||0|
@@ -1197,7 +1197,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt35www010\\1.000
 \mo001\\0.881
 \mo051\\0.881
-\%\\0.020
+\\\0.020
 \|
 ~X|IER010|INFORMACION_GENERADOR\00060049455230313000000000000000000000010000000008006965725f63676d7000020000000000000000000000\\|
 ~C|IFA010|Ud|Acometida general de abastecimiento de agua potable, D=40 mm de polietileno de alta densidad de 4 m de longitud, con llave de registro formada por válvula de esfera de PVC para roscar de 1 1/2" alojada en arqueta de obra de fábrica de dimensiones interiores 38x38x50 cm.|0.00||0|
@@ -1222,7 +1222,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mo004\\8.939
 \mo054\\4.477
 \mo010\\1.038
-\%\\0.040
+\\\0.040
 \|
 ~X|IFA010|INFORMACION_GENERADOR\00060049464130313000000000000000000000010000000007006966615f303130000d00000000000000c80000000000000001000000000000000000000000000000000000000000000001000000000000000000000000000000\\|
 ~C|IFB010|Ud|Tubo de alimentación de agua potable, D=32 mm de polietileno de media densidad de 8 m de longitud, con llave de paso vista formada por válvula de compuerta de latón fundido.|0.00||0|
@@ -1238,7 +1238,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt37tpb040\\1.000
 \mo004\\0.654
 \mo054\\0.654
-\%\\0.020
+\\\0.020
 \|
 ~X|IFB010|INFORMACION_GENERADOR\00060049464230313000000000000000000000010000000007006966625f303130000d00000000000000580200000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|IFC010|Ud|Preinstalación de contador general de agua de 1/2" (15 mm), colocado en hornacina.|0.00||0|
@@ -1253,7 +1253,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt37www010\\1.000
 \mo004\\0.826
 \mo054\\0.413
-\%\\0.040
+\\\0.040
 \|
 ~X|IFC010|INFORMACION_GENERADOR\00060049464330313000000000000000000000010000000007006966635f303130000400000000000000000000000000000001000000\\|
 ~C|IFI010|Ud|Instalación interior de fontanería para galería con dotación para: lavadero, toma y llave de paso para lavadora, realizada con tubería de cobre para la red de agua fría y caliente.|0.00||0|
@@ -1275,7 +1275,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt37tcb040\\1.000
 \mo004\\3.029
 \mo054\\3.029
-\%\\0.020
+\\\0.020
 \|
 ~X|IFI010|INFORMACION_GENERADOR\00060049464930313000000000000000000000020000000016006375617268756d652063756172746f5f68756d65646f0009000000000000000300000000000000000000000000000000000000000000000100000000000000001e006d61746572666f6e20646973747269627563696f6e5f696e746572696f72000700000001000000000000000000000000000000000000000100000000000000\\|
 ~C|IFI010a|Ud|Instalación interior de fontanería para aseo con dotación para: inodoro, lavabo sencillo, realizada con tubería de cobre para la red de agua fría y caliente.|0.00||0|
@@ -1292,7 +1292,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt37tcb040\\1.000
 \mo004\\4.346
 \mo054\\4.346
-\%\\0.020
+\\\0.020
 \|
 ~X|IFI010a|INFORMACION_GENERADOR\00060049464930313000000000000000000000020000000016006375617268756d652063756172746f5f68756d65646f0009000000000000000000000000000000000000000000000000000000000000000000000000000000001e006d61746572666f6e20646973747269627563696f6e5f696e746572696f72000700000001000000000000000000000000000000000000000100000000000000\\|
 ~C|IFI010b|Ud|Instalación interior de fontanería para cuarto de baño con dotación para: inodoro, lavabo sencillo, bañera, bidé, realizada con tubería de cobre para la red de agua fría y caliente.|0.00||0|
@@ -1315,7 +1315,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt37tcb040\\1.000
 \mo004\\6.755
 \mo054\\6.755
-\%\\0.020
+\\\0.020
 \|
 ~X|IFI010b|INFORMACION_GENERADOR\00060049464930313000000000000000000000020000000016006375617268756d652063756172746f5f68756d65646f0009000000000000000100000000000000000000000100000001000000000000000000000000000000001e006d61746572666f6e20646973747269627563696f6e5f696e746572696f72000700000001000000000000000000000000000000000000000100000000000000\\|
 ~C|IFI010c|Ud|Instalación interior de fontanería para cocina con dotación para: fregadero, toma y llave de paso para lavavajillas, realizada con tubería de cobre para la red de agua fría y caliente.|0.00||0|
@@ -1333,7 +1333,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt37tcb040\\1.000
 \mo004\\3.594
 \mo054\\3.594
-\%\\0.020
+\\\0.020
 \|
 ~X|IFI010c|INFORMACION_GENERADOR\00060049464930313000000000000000000000020000000016006375617268756d652063756172746f5f68756d65646f0009000000000000000200000000000000000000000000000000000000010000000000000000000000001e006d61746572666f6e20646973747269627563696f6e5f696e746572696f72000700000001000000000000000000000000000000000000000100000000000000\\|
 ~C|III005|Ud|Aplique estanco de pared para terraza, básico con lámpara incandescente 100W/230 V.|0.00||0|
@@ -1345,7 +1345,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt34www011\\1.000
 \mo001\\0.206
 \mo051\\0.206
-\%\\0.020
+\\\0.020
 \|
 ~X|III005|INFORMACION_GENERADOR\00060049494930303500000000000000000000010000000006006969695f30350003000000000000000000000000000000\\|
 ~C|III010|Ud|3 luminarias estancas de 665x110x100 mm con 1 tubo fluorescente de 18 W.|0.00||0|
@@ -1358,7 +1358,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt34www011\\1.000
 \mo001\\0.867
 \mo051\\0.867
-\%\\0.020
+\\\0.020
 \|
 ~X|III010|INFORMACION_GENERADOR\00060049494930313000000000000000000000010000000008006969695f696761720006000000000000000200000000000000000000000000000000000000\\|
 ~C|ILA020|m|Canalización externa enterrada formada por 3 conductos de PVC de 63 mm de diámetro, hasta 4 PAU.|0.00||0|
@@ -1374,7 +1374,7 @@ Criterio de medición de proyecto: longitud medida en proyección horizontal, segú
 \mt40www050\\0.300
 \mo010\\0.053
 \mo059\\1.912
-\%\\0.020
+\\\0.020
 \|
 ~X|ILA020|INFORMACION_GENERADOR\000600494c413032300000000000000000000002000000000700696c615f30323000020000000000000000000000001100696c615f636165785f7061697373756274000400000000000000000000000000000000000000\\|
 ~C|ILE030|m|Canalización de enlace superior de 4 conductos flexibles reforzados de PVC de 40 mm de diámetro.|0.00||0|
@@ -1388,7 +1388,7 @@ Criterio de medición de proyecto: longitud medida según documentación gráfica de
 \mt40www050\\0.300
 \mo000\\0.064
 \mo029\\0.021
-\%\\0.020
+\\\0.020
 \|
 ~X|ILE030|INFORMACION_GENERADOR\000600494c453033300000000000000000000001000000000700696c655f303330000400000000000000000000000000000000000000\\|
 ~C|ILS010|m|Canalización secundaria formada por 3 conductos (1 TB+RDSI, 1 RTV, 1 TLCA y SAFI) flexibles reforzados de PVC de Ø 25 mm.|0.00||0|
@@ -1401,7 +1401,7 @@ Criterio de medición de proyecto: longitud medida según documentación gráfica de
 \mt40www050\\0.300
 \mo000\\0.070
 \mo029\\0.016
-\%\\0.020
+\\\0.020
 \|
 ~X|ILS010|INFORMACION_GENERADOR\000600494c533031300000000000000000000001000000000d00696c735f636173655f70616973000400000000000000000000000000000000000000\\|
 ~C|ILS012|Ud|Registro de plástico de terminación de red, con caja única para todos los servicios.|0.00||0|
@@ -1416,7 +1416,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt40www050\\0.500
 \mo000\\1.222
 \mo029\\0.319
-\%\\0.020
+\\\0.020
 \|
 ~X|ILS012|INFORMACION_GENERADOR\000600494c533031320000000000000000000001000000000800696c735f72657465000700000000000000000000000000000002000000000000000000000001000000\\|
 ~C|IOX010|Ud|Extintor de polvo químico ABC polivalente con presión incorporada de eficacia 21A-113B-C, de 6 kg de agente extintor, con soporte.|0.00||0|
@@ -1426,7 +1426,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|IOX010
 |mt41ixi010a\\1.000
 \mo059\\0.103
-\%\\0.020
+\\\0.020
 \|
 ~X|IOX010|INFORMACION_GENERADOR\000600494f583031300000000000000000000001000000000600696f785f3130000700000000000000000000000000000000000000000000000000000000000000\\|
 ~C|ISB010|m|Bajante de PVC liso, serie B (UNE-EN 1329-1) D=125 mm, e=3,2 mm, junta pegada.|0.00||0|
@@ -1443,7 +1443,7 @@ Criterio de medición de proyecto: longitud medida según documentación gráfica de
 \mt36pie070\\0.250
 \mo004\\0.176
 \mo054\\0.088
-\%\\0.020
+\\\0.020
 \|
 ~X|ISB010|INFORMACION_GENERADOR\000600495342303130000000000000000000000100000000100062616a616e696e742062616a616e74650009000000000000000100000001000000000000000000000000000000030000000000000000000000\\|
 ~C|ISB010a|m|Bajante de PVC liso, serie B (UNE-EN 1329-1) D=90 mm, e=3 mm, junta pegada.|0.00||0|
@@ -1460,7 +1460,7 @@ Criterio de medición de proyecto: longitud medida según documentación gráfica de
 \mt36pie070\\0.250
 \mo004\\0.124
 \mo054\\0.062
-\%\\0.020
+\\\0.020
 \|
 ~X|ISB010a|INFORMACION_GENERADOR\000600495342303130000000000000000000000100000000100062616a616e696e742062616a616e74650009000000000000000100000001000000000000000000000000000000010000000000000000000000\\|
 ~C|ISB020|m|Bajante circular de PVC, de Ø 80 mm, gris.|0.00||0|
@@ -1472,7 +1472,7 @@ Criterio de medición de proyecto: longitud medida según documentación gráfica de
 \mt36cap040\\0.250
 \mo004\\0.259
 \mo054\\0.259
-\%\\0.020
+\\\0.020
 \|
 ~X|ISB020|INFORMACION_GENERADOR\000600495342303230000000000000000000000100000000080062616a616e7465730006000000000000000000000000000000000000000000000000000000\\|
 ~C|ISC010|m|Canalón circular de PVC, de desarrollo 270 mm, de 4 mm de espesor, color gris.|0.00||0|
@@ -1484,7 +1484,7 @@ Criterio de medición de proyecto: longitud medida según documentación gráfica de
 \mt36cap040\\0.250
 \mo004\\0.201
 \mo054\\0.201
-\%\\0.020
+\\\0.020
 \|
 ~X|ISC010|INFORMACION_GENERADOR\000600495343303130000000000000000000000100000000090063616e616c6f6e6573000700000000000000000000000000000000000000000000000000000000000000\\|
 ~C|ISD010|Ud|Red interior de evacuación para galería con dotación para: lavadero, toma y llave de paso para lavadora, realizada con tubería de PVC liso, serie B (UNE-EN 1329-1) para la red de desagües.|0.00||0|
@@ -1498,7 +1498,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt11var010\\0.200
 \mo004\\4.189
 \mo054\\2.094
-\%\\0.020
+\\\0.020
 \|
 ~X|ISD010|INFORMACION_GENERADOR\0006004953443031300000000000000000000003000000001e006375617268756d652064657269766163696f6e5f696e646976696475616c00090000000000000003000000000000000000000000000000000000000000000001000000000000000007006973645f30313000030000000000000001000000000000000008006d61746572657661000400000000000000000000000000000000000000\\|
 ~C|ISD010a|Ud|Red interior de evacuación para aseo con dotación para: inodoro, lavabo sencillo, realizada con tubería de PVC liso, serie B (UNE-EN 1329-1) para la red de desagües.|0.00||0|
@@ -1515,7 +1515,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt11var010\\0.260
 \mo004\\4.712
 \mo054\\2.356
-\%\\0.020
+\\\0.020
 \|
 ~X|ISD010a|INFORMACION_GENERADOR\0006004953443031300000000000000000000003000000001e006375617268756d652064657269766163696f6e5f696e646976696475616c00090000000000000000000000000000000000000000000000000000000000000000000000000000000007006973645f30313000030000000000000001000000000000000008006d61746572657661000400000000000000000000000000000000000000\\|
 ~C|ISD010b|Ud|Red interior de evacuación para cuarto de baño con dotación para: inodoro, lavabo sencillo, bañera, bidé, realizada con tubería de PVC liso, serie B (UNE-EN 1329-1) para la red de desagües.|0.00||0|
@@ -1535,7 +1535,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt11var010\\0.415
 \mo004\\8.378
 \mo054\\4.189
-\%\\0.020
+\\\0.020
 \|
 ~X|ISD010b|INFORMACION_GENERADOR\0006004953443031300000000000000000000003000000001e006375617268756d652064657269766163696f6e5f696e646976696475616c00090000000000000001000000000000000000000001000000010000000000000000000000000000000007006973645f30313000030000000000000001000000000000000008006d61746572657661000400000000000000000000000000000000000000\\|
 ~C|ISD010c|Ud|Red interior de evacuación para cocina con dotación para: fregadero, toma y llave de paso para lavavajillas, realizada con tubería de PVC liso, serie B (UNE-EN 1329-1) para la red de desagües.|0.00||0|
@@ -1549,7 +1549,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt11var010\\0.200
 \mo004\\4.189
 \mo054\\2.094
-\%\\0.020
+\\\0.020
 \|
 ~X|ISD010c|INFORMACION_GENERADOR\0006004953443031300000000000000000000003000000001e006375617268756d652064657269766163696f6e5f696e646976696475616c00090000000000000002000000000000000000000000000000000000000100000000000000000000000007006973645f30313000030000000000000001000000000000000008006d61746572657661000400000000000000000000000000000000000000\\|
 ~C|ISV010|m|Conducto vertical de tiro forzado para ventilación, formado por piezas dobles de hormigón, de 46x25x30 cm, con rejilla de PVC, de 27,5x11 cm.|0.00||0|
@@ -1563,7 +1563,7 @@ Criterio de medición de proyecto: longitud medida desde el arranque del conducto
 \mt20cva010aa\\0.800
 \mo010\\0.328
 \mo059\\0.328
-\%\\0.020
+\\\0.020
 \|
 ~X|ISV010|INFORMACION_GENERADOR\00060049535630313000000000000000000000010000000007006973765f303130000b0000000000000000000000020000000000000001000000000000000000000000000000000000000000000000000000\\|
 ~C|ISV030|Ud|Aspirador dinámico metálico, formado por aspirador giratorio, sombrero dinámico, de chapa galvanizada, para conducto de salida de 125 mm.|0.00||0|
@@ -1575,7 +1575,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt20cme100a\\1.000
 \mo010\\0.154
 \mo059\\0.077
-\%\\0.020
+\\\0.020
 \|
 ~X|ISV030|INFORMACION_GENERADOR\00060049535630333000000000000000000000010000000008006173706968756d6f000700000000000000000000000000000000000000000000000000000000000000\\|
 ~C|NIS010|m²|Drenaje e impermeabilización bajo solera por medio de: capa drenante: lámina de polietileno de alta densidad; imprimación: imprimación asfáltica, tipo EA, UNE 104231; membrana impermeabilizante: lámina bituminosa de oxiasfalto, LO-40/FP (140), UNE 104238 con geotextil no tejido sintético, termosoldado, de polipropileno-polietileno.|0.00||0|
@@ -1588,7 +1588,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt14gsa010c\\1.050
 \mo010\\0.300
 \mo046\\0.300
-\%\\0.020
+\\\0.020
 \|
 ~X|NIS010|INFORMACION_GENERADOR\0006004e495330313000000000000000000000010000000010006e7469706f696d7020736f6c65726173000c000000020000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|PAH010|Ud|Puerta de armario de seis hojas de 180 cm de altura con altillo de 40 cm de 50x3,5 cm, de tablero aglomerado directo, para barnizar, de sapeli, modelo con moldura recta; precerco de pino país de 70x40 mm; tapetas macizas de sapeli de 70x5 mm; tapajuntas macizos de sapeli de 70x11 mm.|0.00||0|
@@ -1608,7 +1608,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt23ppb031\\180.000
 \mo008\\4.053
 \mo030\\4.053
-\%\\0.020
+\\\0.020
 \|
 ~X|PAH010|INFORMACION_GENERADOR\00060050414830313000000000000000000000010000000007007061685f30313000170000000000000000000000010000000000000005000000010000000000000000000000010000000000000001000000010000000000000000000000000000000000000000000000000000000100000000000000000000000000000001000000\\|
 ~C|PAH010a|Ud|Puerta de armario de dos hojas de 180 cm de altura con altillo de 40 cm de 50x3,5 cm, de tablero aglomerado directo, para barnizar, de sapeli, modelo con moldura recta; precerco de pino país de 70x40 mm; tapetas macizas de sapeli de 70x5 mm; tapajuntas macizos de sapeli de 70x11 mm.|0.00||0|
@@ -1628,7 +1628,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt23ppb031\\60.000
 \mo008\\2.027
 \mo030\\2.027
-\%\\0.020
+\\\0.020
 \|
 ~X|PAH010a|INFORMACION_GENERADOR\00060050414830313000000000000000000000010000000007007061685f30313000170000000000000000000000010000000000000001000000010000000000000000000000010000000000000001000000010000000000000000000000000000000000000000000000000000000100000000000000000000000000000001000000\\|
 ~C|PAH010b|Ud|Puerta de armario de cuatro hojas de 180 cm de altura con altillo de 40 cm de 50x3,5 cm, de tablero aglomerado directo, para barnizar, de sapeli, modelo con moldura recta; precerco de pino país de 70x40 mm; tapetas macizas de sapeli de 70x5 mm; tapajuntas macizos de sapeli de 70x11 mm.|0.00||0|
@@ -1648,7 +1648,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt23ppb031\\120.000
 \mo008\\3.153
 \mo030\\3.153
-\%\\0.020
+\\\0.020
 \|
 ~X|PAH010b|INFORMACION_GENERADOR\00060050414830313000000000000000000000010000000007007061685f30313000170000000000000000000000010000000000000003000000010000000000000000000000010000000000000001000000010000000000000000000000000000000000000000000000000000000100000000000000000000000000000001000000\\|
 ~C|PDB010|m|Barandilla de aluminio anodizado natural de 90 cm de altura, con bastidor sencillo, para escalera de ida y vuelta, de dos tramos rectos con meseta intermedia.|0.00||0|
@@ -1661,7 +1661,7 @@ Criterio de medición de proyecto: longitud medida según documentación gráfica de
 \mo059\\0.112
 \mo009\\1.430
 \mo031\\1.430
-\%\\0.020
+\\\0.020
 \|
 ~X|PDB010|INFORMACION_GENERADOR\00060050444230313000000000000000000000010000000014007064625f6465665f657363616c657261206261720009000000000000000200000000000000010000000000000000000000000000000000000000000000\\|
 ~C|PEA010|Ud|Block de puerta de entrada acorazada normalizada, acabado con tablero liso en ambas caras en madera de sapeli y cerradura de seguridad con tres puntos frontales de cierre (10 pestillos).|0.00||0|
@@ -1672,7 +1672,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 |mt22paa010\\1.000
 \mo008\\3.381
 \mo030\\2.254
-\%\\0.020
+\\\0.020
 \|
 ~X|PEA010|INFORMACION_GENERADOR\00060050454130313000000000000000000000010000000008007075657261636f7200050000000000000000000000000000000000000000000000\\|
 ~C|PPM010|Ud|Puerta de paso vidriera 6-VE, de dos hojas de 203x82,5x3,5 cm, de tablero aglomerado directo, para barnizar, de pino país, modelo con moldura recta; precerco de pino país de 90x35 mm; galces de MDF rechapado de pino país de 90x20 mm; tapajuntas de MDF rechapado de pino país de 70x10 mm.|0.00||0|
@@ -1690,7 +1690,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt23hbl010\\1.000
 \mo008\\1.567
 \mo030\\1.567
-\%\\0.020
+\\\0.020
 \|
 ~X|PPM010|INFORMACION_GENERADOR\00060050504d303130000000000000000000000100000000070070706d5f30313000170000000000000003000000000000000000000000000000010000000000000000000000020000000000000000000000000000000000000000000000020000000100000000000000000000000100000000000000000000000000000001000000\\|
 ~C|PPM010a|Ud|Puerta de paso ciega, de una hoja de 203x82,5x3,5 cm, de tablero aglomerado directo, para barnizar, de pino país, modelo con moldura recta; precerco de pino país de 90x35 mm; galces de MDF rechapado de pino país de 90x20 mm; tapajuntas de MDF rechapado de pino país de 70x10 mm.|0.00||0|
@@ -1708,7 +1708,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt23hbl010\\1.000
 \mo008\\1.008
 \mo030\\1.008
-\%\\0.020
+\\\0.020
 \|
 ~X|PPM010a|INFORMACION_GENERADOR\00060050504d303130000000000000000000000100000000070070706d5f30313000170000000000000003000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000100000000000000000000000100000000000000000000000000000001000000\\|
 ~C|PPM010b|Ud|Puerta de paso vidriera, de una hoja de 203x82,5x3,5 cm, de tablero aglomerado directo, para barnizar, de pino país, modelo con moldura recta; precerco de pino país de 90x35 mm; galces de MDF rechapado de pino país de 90x20 mm; tapajuntas de MDF rechapado de pino país de 70x10 mm.|0.00||0|
@@ -1726,7 +1726,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt23hbl010\\1.000
 \mo008\\1.008
 \mo030\\1.008
-\%\\0.020
+\\\0.020
 \|
 ~X|PPM010b|INFORMACION_GENERADOR\00060050504d303130000000000000000000000100000000070070706d5f30313000170000000000000003000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000010000000100000000000000000000000100000000000000000000000000000001000000\\|
 ~C|PTF010|m²|Partición de una hoja de 7 cm de espesor de fábrica, de ladrillo cerámico hueco doble, para revestir, 24x11,5x7 cm, recibida con mortero de cemento M-40 (1:6).|0.00||0|
@@ -1738,7 +1738,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt09mor010c\\0.008
 \mo010\\0.603
 \mo059\\0.302
-\%\\0.020
+\\\0.020
 \|
 ~X|PTF010|INFORMACION_GENERADOR\00060050544630313000000000000000000000010000000008007074665f706172740012000000000000000000000002000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|PVD010|Ud|Acristalamiento con cuarterones de vidrio biselado mateado, (6 piezas de hasta 40x20 cm).|0.00||0|
@@ -1749,7 +1749,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 |mt21vde010ba\\6.000
 \mo027\\0.081
 \mo056\\0.081
-\%\\0.010
+\\\0.010
 \|
 ~X|PVD010|INFORMACION_GENERADOR\00060050564430313000000000000000000000010000000008007669646465636f720003000000010000000000000001000000\\|
 ~C|PVD010a|Ud|Acristalamiento con cuarterones de vidrio biselado mateado, (1 pieza de hasta 120x60 cm).|0.00||0|
@@ -1760,7 +1760,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 |mt21vde010bb\\1.000
 \mo027\\0.040
 \mo056\\0.040
-\%\\0.010
+\\\0.010
 \|
 ~X|PVD010a|INFORMACION_GENERADOR\00060050564430313000000000000000000000010000000008007669646465636f720003000000000000000000000001000000\\|
 ~C|PYA010|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para el recibido de rejillas de ventilación y demás cercos o precercos.|0.00||0|
@@ -1770,7 +1770,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010
 |mo028\\0.747
 \mo059\\2.177
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000f00000000000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010a|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para instalación individual de TV.|0.00||0|
@@ -1780,7 +1780,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010a
 |mo028\\1.348
 \mo059\\4.147
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010a|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000100000000000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010b|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para instalación individual de telefonía.|0.00||0|
@@ -1790,7 +1790,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010b
 |mo028\\1.037
 \mo059\\4.147
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010b|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000100000001000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010c|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para instalaciones de interfonía y/o vídeo.|0.00||0|
@@ -1800,7 +1800,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010c
 |mo028\\0.829
 \mo059\\2.074
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010c|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000100000003000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010d|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para instalación de calefacción.|0.00||0|
@@ -1810,7 +1810,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010d
 |mo028\\7.051
 \mo059\\17.626
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010d|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000200000000000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010e|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para instalación eléctrica.|0.00||0|
@@ -1820,7 +1820,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010e
 |mo028\\8.295
 \mo059\\20.737
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010e|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000400000000000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010f|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para instalación de fontanería.|0.00||0|
@@ -1830,7 +1830,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010f
 |mo028\\5.184
 \mo059\\15.553
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010f|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000500000000000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010g|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para instalación de iluminación.|0.00||0|
@@ -1840,7 +1840,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010g
 |mo028\\1.037
 \mo059\\2.592
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010g|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000700000000000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010h|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para instalación de protección contra incendios.|0.00||0|
@@ -1850,7 +1850,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010h
 |mo028\\0.622
 \mo059\\1.037
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010h|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000800000000000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010i|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para instalación de salubridad.|0.00||0|
@@ -1860,7 +1860,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010i
 |mo028\\4.147
 \mo059\\12.442
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010i|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000a00000000000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010j|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para el recibido de los aparatos sanitarios.|0.00||0|
@@ -1870,7 +1870,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010j
 |mo028\\2.126
 \mo059\\6.221
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010j|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000c00000000000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA010k|Ud|Ayudas de albañilería por vivienda unifamiliar, con una superficie construida media de 143 m², para el recibido de la carpintería exterior.|0.00||0|
@@ -1880,7 +1880,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|PYA010k
 |mo028\\2.074
 \mo059\\5.184
-\%\\0.040
+\\\0.040
 \|
 ~X|PYA010k|INFORMACION_GENERADOR\00060050594130313000000000000000000000020000000006006179756461730003000000000000000d00000000000000000800737570636f6e7374000100000076000000\\|
 ~C|PYA020|Ud|Limpieza final de obra en vivienda unifamiliar, con una superficie construida media de 143 m².|0.00||0|
@@ -1889,7 +1889,7 @@ Incluye: El transporte y movimiento vertical y horizontal de los materiales en o
 Criterio de medición de proyecto: unidad proyectada, según documentación gráfica de Proyecto.|
 ~D|PYA020
 |mo059\\31.583
-\%\\0.020
+\\\0.020
 \|
 ~X|PYA020|INFORMACION_GENERADOR\0006005059413032300000000000000000000002000000000800737570636f6e73740001000000760000000008007469706f76697669000100000000000000\\|
 ~C|QRE020|m|Babero compuesto por aleación de aluminio y zinc y lámina flexible de plomo natural de 1 mm de espesor, en encuentro de faldón de tejado con paramento vertical.|0.00||0|
@@ -1901,7 +1901,7 @@ Criterio de medición de proyecto: longitud medida en desarrollo lineal, según do
 \mt13aen020a\\1.100
 \mo010\\0.459
 \mo046\\0.230
-\%\\0.020
+\\\0.020
 \|
 ~X|QRE020|INFORMACION_GENERADOR\0006005152453032300000000000000000000000000000\\|
 ~C|QRF010|Ud|Forrado de conducto de ventilación en cubiertas inclinadas con ladrillo hueco para revestir.|0.00||0|
@@ -1914,7 +1914,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt09mor010c\\0.040
 \mo010\\3.285
 \mo046\\1.643
-\%\\0.020
+\\\0.020
 \|
 ~X|QRF010|INFORMACION_GENERADOR\0006005152463031300000000000000000000002000000000800666f727264696d730004000000000000000000000000000000000000000007007172665f303130000400000000000000010000000000000000000000\\|
 ~C|QTT210|m²|Cubierta inclinada, compuesta de: formación de pendientes: tablero cerámico hueco machihembrado, para revestir, 50x20x3 cm sobre tabicones aligerados; cobertura: teja cerámica curva, 40x19x16 cm, color rojo; fijada con espuma.|0.00||0|
@@ -1938,13 +1938,13 @@ Criterio de medición de proyecto: superficie del faldón medida en verdadera magn
 \mo010\\1.439
 \mo046\\1.439
 \mo059\\0.719
-\%\\0.020
+\\\0.020
 \|
 ~X|QTT210|INFORMACION_GENERADOR\0006005154543231300000000000000000000001000000000a0071746375626965727461001d0000000000000000000000010000000000000000000000000000000000000000000000010000000000000000000000000000000f00000000000000000000000100000000000000000000000000000000000000000000000000000003000000010000000000000000000000000000000000000000000000\\|
 ~C|RAG010|m²|Alicatado con azulejo liso 3-1-H, 20x20 cm, 8 €/m², colocado en paramentos interiores con adhesivo cementoso de uso exclusivo para interiores, C0 sin ninguna característica adicional, gris, sin junta (separación entre 1,5 y 3 mm).|0.00||0|
 ~T|RAG010|Suministro y colocación de alicatado con azulejo liso 3-1-H (paramento sin junta (tipo 3), uso en paramentos (tipo 1), uso higiénico (tipo H)), 20x20 cm, 8 €/m², recibido con adhesivo cementoso de uso exclusivo para interiores, C0 sin ninguna característica adicional, color gris, sobre una capa de regularización de 2 cm de espesor de enfoscado de mortero de cemento CEM II/A-P 32,5 R y arena M-60 (1:5), maestreado y fratasado. Rejuntado con mortero de juntas cementoso con absorción de agua reducida, CG2W, para junta mínima (entre 1,5 y 3 mm), con la misma tonalidad de las piezas. Incluso p/p de cortes, cantoneras de PVC, juntas y piezas especiales. Según NTE-RPA.
 Incluye: El transporte y movimiento vertical y horizontal de los materiales en obra, incluso carga y descarga de los camiones. Preparación del paramento base mediante la formación de una capa de enfoscado maestreado. Colocación de una regla horizontal al inicio del alicatado. Replanteo de las baldosas en el paramento para el despiece de las mismas. Extendido de la pasta adhesiva con la llana dentada sobre el paramento. Colocación de las baldosas, comenzando a partir del nivel superior del pavimento y antes de realizar éste. Rejuntado. Limpieza del paramento con estropajo seco 12 horas después de efectuado el rejuntado. Eliminación de restos, limpieza final y retirada de restos a vertedero. Parte proporcional de medios auxiliares.
-Criterio de medición de proyecto: superficie medida según documentación gráfica de Proyecto, deduciendo los huecos de superficie mayor de 2 m². No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5% de roturas.|
+Criterio de medición de proyecto: superficie medida según documentación gráfica de Proyecto, deduciendo los huecos de superficie mayor de 2 m². No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5 de roturas.|
 ~D|RAG010
 |mt09mor010d\\0.020
 \mt09mcr021aaa\\3.000
@@ -1955,7 +1955,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mo059\\0.506
 \mo014\\0.397
 \mo035\\0.397
-\%\\0.020
+\\\0.020
 \|
 ~X|RAG010|INFORMACION_GENERADOR\00060052414730313000000000000000000000010000000013007469706f6a756e7420616c6963617461646f73001800000000000000000000000000000001000000000000000000000000000000000000000300000000000000000000000000000000000000010000002c010000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|REP010|Ud|Revestimiento de escalera de ida y vuelta, de dos tramos rectos con meseta intermedia mediante forrado de peldaño formado por huella de mármol Serpeggiante, acabado pulido y tabica de mármol Arabescato Broüille, acabado pulido, zanquín de mármol Serpeggiante de de dos piezas de 37x7x2 cm, recibido con mortero de cemento M-40 (1:6).|0.00||0|
@@ -1974,7 +1974,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mo013\\16.541
 \mo034\\16.541
 \mo059\\16.541
-\%\\0.020
+\\\0.020
 \|
 ~X|REP010|INFORMACION_GENERADOR\0006005245503031300000000000000000000003000000001900636f6c6f72656a7520657363616c657261735f70696564726100080000000000000000000000000000000000000000000000000000000000000000000000000800657363616c657261000300000002000000110000001400000000080072657070656c6461000700000000000000000000000200000007000000000000000700000000000000\\|
 ~C|RIP010|m²|Pintura plástica color, picada, sobre paramentos verticales interiores de yeso o escayola.|0.00||0|
@@ -1986,7 +1986,7 @@ Criterio de medición de proyecto: superficie medida con el mismo criterio que el
 \mt27pii020b\\0.900
 \mo024\\0.121
 \mo045\\0.121
-\%\\0.020
+\\\0.020
 \|
 ~X|RIP010|INFORMACION_GENERADOR\0006005249503031300000000000000000000003000000000800706172616d656e740002000000000000000100000000080070696e706c61696e000200000001000000010000000008007269703031307963000100000000000000\\|
 ~C|RIP010a|m²|Pintura plástica blanca, gotelé, sobre paramentos horizontales interiores de cemento.|0.00||0|
@@ -1998,7 +1998,7 @@ Criterio de medición de proyecto: superficie medida con el mismo criterio que el
 \mt27pii030a\\1.020
 \mo024\\0.114
 \mo045\\0.114
-\%\\0.020
+\\\0.020
 \|
 ~X|RIP010a|INFORMACION_GENERADOR\0006005249503031300000000000000000000003000000000800706172616d656e740002000000000000000000000000080070696e706c61696e000200000000000000020000000008007269703031307963000100000001000000\\|
 ~C|RIP010b|m²|Pintura plástica blanca, gotelé, sobre paramentos verticales interiores de cemento.|0.00||0|
@@ -2010,7 +2010,7 @@ Criterio de medición de proyecto: superficie medida con el mismo criterio que el
 \mt27pii030a\\1.020
 \mo024\\0.108
 \mo045\\0.108
-\%\\0.020
+\\\0.020
 \|
 ~X|RIP010b|INFORMACION_GENERADOR\0006005249503031300000000000000000000003000000000800706172616d656e740002000000000000000100000000080070696e706c61696e000200000000000000020000000008007269703031307963000100000001000000\\|
 ~C|RIP010c|m²|Pintura plástica color, picada, sobre paramentos horizontales interiores de yeso o escayola.|0.00||0|
@@ -2022,7 +2022,7 @@ Criterio de medición de proyecto: superficie medida con el mismo criterio que el
 \mt27pii020b\\0.900
 \mo024\\0.127
 \mo045\\0.127
-\%\\0.020
+\\\0.020
 \|
 ~X|RIP010c|INFORMACION_GENERADOR\0006005249503031300000000000000000000003000000000800706172616d656e740002000000000000000000000000080070696e706c61696e000200000001000000010000000008007269703031307963000100000000000000\\|
 ~C|RMB010|m²|Barniz sintético de aspecto mate, en puertas vidrieras, tres manos, con protector químico insecticida fungicida.|0.00||0|
@@ -2035,7 +2035,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt27prb010\\0.150
 \mo024\\0.586
 \mo045\\0.586
-\%\\0.020
+\\\0.020
 \|
 ~X|RMB010|INFORMACION_GENERADOR\000600524d4230313000000000000000000000020000000011006261726e69636170206261726e6963657300020000000000000001000000001a006261726e696d6164206261726e696365735f65736d616c746573000400000003000000010000000000000000000000\\|
 ~C|RMB010a|m²|Barniz sintético de aspecto mate, en puertas ciegas, tres manos, con protector químico insecticida fungicida.|0.00||0|
@@ -2048,7 +2048,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt27prb010\\0.150
 \mo024\\0.517
 \mo045\\0.517
-\%\\0.020
+\\\0.020
 \|
 ~X|RMB010a|INFORMACION_GENERADOR\000600524d4230313000000000000000000000020000000011006261726e69636170206261726e6963657300020000000000000001000000001a006261726e696d6164206261726e696365735f65736d616c746573000400000002000000010000000000000000000000\\|
 ~C|ROO010|m²|Pintura plástica de resinas de epoxi, dos capas, sobre suelos de hormigón en garajes.|0.00||0|
@@ -2060,7 +2060,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt27upx020\\0.250
 \mo024\\0.138
 \mo045\\0.138
-\%\\0.020
+\\\0.020
 \|
 ~X|ROO010|INFORMACION_GENERADOR\000600524f4f3031300000000000000000000000000000\\|
 ~C|RPE010|m²|Enfoscado de cemento, a buena vista, sobre paramento horizontal interior, con mortero de cemento M-40 (1:6).|0.00||0|
@@ -2072,7 +2072,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt09mor010c\\0.015
 \mo010\\0.338
 \mo059\\0.169
-\%\\0.020
+\\\0.020
 \|
 ~X|RPE010|INFORMACION_GENERADOR\0006005250453031300000000000000000000004000000000f006163616261646f2063656d656e746f000200000000000000000000000016006d6f727465726f20726576657374696d69656e746f7300030000000000000000000000000000000008007270655f656e666f0001000000030000000008007270655f70617261000100000018000000\\|
 ~C|RPE010a|m²|Enfoscado de cemento, maestreado, sobre paramento vertical interior, salpicado o rugoso, con mortero de cemento M-40 (1:6).|0.00||0|
@@ -2084,7 +2084,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt09mor010c\\0.015
 \mo010\\0.522
 \mo059\\0.261
-\%\\0.020
+\\\0.020
 \|
 ~X|RPE010a|INFORMACION_GENERADOR\0006005250453031300000000000000000000004000000000f006163616261646f2063656d656e746f000200000001000000000000000016006d6f727465726f20726576657374696d69656e746f7300030000000000000000000000000000000008007270655f656e666f0001000000020000000008007270655f70617261000100000018000000\\|
 ~C|RPG015|m²|Tendido de yeso proyectado, maestreado, sobre paramento horizontal, a 3 m de altura.|0.00||0|
@@ -2097,7 +2097,7 @@ Criterio de medición de proyecto: superficie medida desde el pavimento hasta el 
 \mq06pym010\\0.408
 \mo019\\0.435
 \mo040\\0.217
-\%\\0.020
+\\\0.020
 \|
 ~X|RPG015|INFORMACION_GENERADOR\00060052504730313500000000000000000000010000000017007270675f7469706f5f7265762070726f7965637461646f0006000000000000000200000002000000000000000100000000000000\\|
 ~C|RPG015a|m²|Tendido de yeso proyectado, maestreado, sobre paramento vertical, hasta 3 m de altura.|0.00||0|
@@ -2110,7 +2110,7 @@ Criterio de medición de proyecto: superficie medida desde el pavimento hasta el 
 \mq06pym010\\0.357
 \mo019\\0.308
 \mo040\\0.154
-\%\\0.020
+\\\0.020
 \|
 ~X|RPG015a|INFORMACION_GENERADOR\00060052504730313500000000000000000000010000000017007270675f7469706f5f7265762070726f7965637461646f0006000000000000000200000000000000000000000100000000000000\\|
 ~C|RQO010|m²|Revestimiento de paramentos exteriores con mortero monocapa para acabado con árido proyectado, espesor 15 mm.|0.00||0|
@@ -2124,7 +2124,7 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt28mon040a\\0.250
 \mo025\\0.446
 \mo057\\0.223
-\%\\0.040
+\\\0.040
 \|
 ~X|RQO010|INFORMACION_GENERADOR\00060052514f30313000000000000000000000010000000008006d6f6e6f6361706100050000000000000000000000000000000500000000000000\\|
 ~C|RQP010|m²|Revestimiento pétreo impermeabilizante, sobre paramentos exteriores, acabado liso.|0.00||0|
@@ -2136,13 +2136,13 @@ Criterio de medición de proyecto: superficie medida según documentación gráfica 
 \mt28pet010a\\1.150
 \mo024\\0.129
 \mo045\\0.129
-\%\\0.040
+\\\0.040
 \|
 ~X|RQP010|INFORMACION_GENERADOR\00060052515030313000000000000000000000010000000008007061737470657472000100000000000000\\|
 ~C|RSG010|m²|Solado de baldosas cerámicas de gres esmaltado 2-2-AH, de 33x33 cm, 8 €/m², colocadas sobre capa de refuerzo de 4 cm de mortero de cemento M-80 (1:4) armado con mallazo ME 10x10, Ø 5 mm, acero B 500 T 6x2,20 UNE 36092, realizada sobre lámina de espuma de polietileno de alta densidad de 5 mm de espesor, que actúa como aislamiento acústico, recibidas con adhesivo cementoso de uso exclusivo para interiores, C0 sin ninguna característica adicional, color gris y rejuntadas con mortero de juntas cementoso con absorción de agua reducida, CG2W, para junta mínima (entre 1,5 y 3 mm), con la misma tonalidad de las piezas.|0.00||0|
 ~T|RSG010|Suministro y ejecución de pavimento mediante el método de colocación en capa fina, de baldosas cerámicas de gres esmaltado 2-2-AH (suelo sin junta (tipo 2), suelos tránsito peatonal leve (tipo 2), uso antideslizante higiénico (tipo AH)), de 33x33 cm, 8 €/m²; extendidas sobre capa de refuerzo de 4 cm de mortero de cemento M-80 (1:4) armado con mallazo ME 10x10 de Ø 5 mm, acero B 500 T 6x2,20 UNE 36092, realizada sobre lámina de espuma de polietileno de alta densidad de 5 mm de espesor, colocado de forma que se garantice el aislamiento acústico, cubriendo los paramentos verticales hasta una altura del piso de unos 20 cm y las tuberías que atraviesen el forjado, recibidas con adhesivo cementoso de uso exclusivo para interiores, C0 sin ninguna característica adicional, color gris y rejuntadas con mortero de juntas cementoso con absorción de agua reducida, CG2W, para junta mínima (entre 1,5 y 3 mm), con la misma tonalidad de las piezas. Incluso formación de juntas perimetrales continuas, de anchura no menor de 5 mm, en los límites con paredes, pilares exentos y elevaciones de nivel y, en su caso, juntas de partición y juntas estructurales o de dilatación existentes en el soporte. Según NTE-RSR.
 Incluye: El transporte y movimiento vertical y horizontal de los materiales en obra, incluso carga y descarga de los camiones. Limpieza y comprobación del grado de humedad de la base. Replanteo de niveles. Colocación del aislamiento. Aplicación de la capa de nivelación. Replanteo de la disposición de las baldosas y juntas de movimiento. Aplicación del adhesivo. Colocación de las baldosas a punta de paleta. Relleno de las juntas de movimiento. Rejuntado. Limpieza del pavimento. Eliminación de restos, limpieza final y retirada de escombros a vertedero. Parte proporcional de medios auxiliares.
-Criterio de medición de proyecto: superficie útil, medida según documentación gráfica de Proyecto. No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5% de roturas.|
+Criterio de medición de proyecto: superficie útil, medida según documentación gráfica de Proyecto. No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5 de roturas.|
 ~D|RSG010
 |mt17poa011ab\\1.100
 \mt16aaa030\\0.440
@@ -2155,13 +2155,13 @@ Criterio de medición de proyecto: superficie útil, medida según documentación gr
 \mo059\\0.329
 \mo013\\0.352
 \mo034\\0.176
-\%\\0.020
+\\\0.020
 \|
 ~X|RSG010|INFORMACION_GENERADOR\00060052534730313000000000000000000000010000000009007273675f6a756e746100200000000000000000000000000000000300000000000000000000000000000000000000000000000200000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000010000002c01000000000000000000000000000000000000000000000000000000000000\\|
 ~C|RSG010a|m²|Solado de baldosas cerámicas de gres esmaltado 2-4-AE, de 33x33 cm, 8 €/m², colocadas sobre una capa de 6 cm de mortero de cemento M-80 (1:4) armado con mallazo ME 10x10, Ø 5 mm, acero B 500 T 6x2,20 UNE 36092, recibidas con adhesivo cementoso mejorado, C2 sin ninguna característica adicional, color gris y rejuntadas con mortero de juntas cementoso, CG1, para junta mínima (entre 1,5 y 3 mm), con la misma tonalidad de las piezas.|0.00||0|
 ~T|RSG010a|Suministro y ejecución de pavimento mediante el método de colocación en capa fina, de baldosas cerámicas de gres esmaltado 2-4-AE (suelo sin junta (tipo 2), suelos tránsito peatonal medio (tipo 4), uso antideslizante exterior (tipo AE)), de 33x33 cm, 8 €/m²; extendidas sobre una capa de 6 cm de mortero de cemento M-80 (1:4) armado con mallazo ME 10x10 de Ø 5 mm, acero B 500 T 6x2,20 UNE 36092, recibidas con adhesivo cementoso mejorado, C2 sin ninguna característica adicional, color gris y rejuntadas con mortero de juntas cementoso, CG1, para junta mínima (entre 1,5 y 3 mm), con la misma tonalidad de las piezas. Incluso formación de juntas perimetrales continuas, de anchura no menor de 5 mm, en los límites con paredes, pilares exentos y elevaciones de nivel y, en su caso, juntas de partición y juntas estructurales o de dilatación existentes en el soporte. Según NTE-RSR.
 Incluye: El transporte y movimiento vertical y horizontal de los materiales en obra, incluso carga y descarga de los camiones. Limpieza y comprobación del grado de humedad de la base. Replanteo de niveles. Colocación del mallazo. Extendido de la capa de mortero. Replanteo de la disposición de las baldosas y juntas de movimiento. Aplicación del adhesivo. Colocación de las baldosas a punta de paleta. Relleno de las juntas de movimiento. Rejuntado. Limpieza del pavimento. Eliminación de restos, limpieza final y retirada de escombros a vertedero. Parte proporcional de medios auxiliares.
-Criterio de medición de proyecto: superficie útil, medida según documentación gráfica de Proyecto. No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5% de roturas.|
+Criterio de medición de proyecto: superficie útil, medida según documentación gráfica de Proyecto. No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5 de roturas.|
 ~D|RSG010a
 |mt07ame010aa\\1.050
 \mt09mor010e\\0.060
@@ -2172,13 +2172,13 @@ Criterio de medición de proyecto: superficie útil, medida según documentación gr
 \mo059\\0.211
 \mo013\\0.352
 \mo034\\0.176
-\%\\0.020
+\\\0.020
 \|
 ~X|RSG010a|INFORMACION_GENERADOR\00060052534730313000000000000000000000010000000009007273675f6a756e7461001900000000000000000000000200000006000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000010000002c01000000000000000000000000000000000000000000000000000000000000\\|
 ~C|RSG010b|m²|Solado de baldosas cerámicas de gres esmaltado 2-2, de 33x33 cm, 8 €/m², colocadas sobre capa de refuerzo de 4 cm de mortero de cemento M-80 (1:4) armado con mallazo ME 10x10, Ø 5 mm, acero B 500 T 6x2,20 UNE 36092, realizada sobre lámina de espuma de polietileno de alta densidad de 5 mm de espesor, que actúa como aislamiento acústico, recibidas con adhesivo cementoso de uso exclusivo para interiores, C0 sin ninguna característica adicional, color gris y rejuntadas con lechada de cemento blanco, L, BL-V 22,5, para junta mínima (entre 1,5 y 3 mm), coloreada con la misma tonalidad de las piezas.|0.00||0|
 ~T|RSG010b|Suministro y ejecución de pavimento mediante el método de colocación en capa fina, de baldosas cerámicas de gres esmaltado 2-2 (suelo sin junta (tipo 2), suelos tránsito peatonal leve (tipo 2), uso sin ningún requisito adicional), de 33x33 cm, 8 €/m²; extendidas sobre capa de refuerzo de 4 cm de mortero de cemento M-80 (1:4) armado con mallazo ME 10x10 de Ø 5 mm, acero B 500 T 6x2,20 UNE 36092, realizada sobre lámina de espuma de polietileno de alta densidad de 5 mm de espesor, colocado de forma que se garantice el aislamiento acústico, cubriendo los paramentos verticales hasta una altura del piso de unos 20 cm y las tuberías que atraviesen el forjado, recibidas con adhesivo cementoso de uso exclusivo para interiores, C0 sin ninguna característica adicional, color gris y rejuntadas con lechada de cemento blanco, L, BL-V 22,5, para junta mínima (entre 1,5 y 3 mm), coloreada con la misma tonalidad de las piezas. Incluso formación de juntas perimetrales continuas, de anchura no menor de 5 mm, en los límites con paredes, pilares exentos y elevaciones de nivel y, en su caso, juntas de partición y juntas estructurales o de dilatación existentes en el soporte. Según NTE-RSR.
 Incluye: El transporte y movimiento vertical y horizontal de los materiales en obra, incluso carga y descarga de los camiones. Limpieza y comprobación del grado de humedad de la base. Replanteo de niveles. Colocación del aislamiento. Aplicación de la capa de nivelación. Replanteo de la disposición de las baldosas y juntas de movimiento. Aplicación del adhesivo. Colocación de las baldosas a punta de paleta. Relleno de las juntas de movimiento. Rejuntado. Limpieza del pavimento. Eliminación de restos, limpieza final y retirada de escombros a vertedero. Parte proporcional de medios auxiliares.
-Criterio de medición de proyecto: superficie útil, medida según documentación gráfica de Proyecto. No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5% de roturas.|
+Criterio de medición de proyecto: superficie útil, medida según documentación gráfica de Proyecto. No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5 de roturas.|
 ~D|RSG010b
 |mt17poa011ab\\1.100
 \mt16aaa030\\0.440
@@ -2192,13 +2192,13 @@ Criterio de medición de proyecto: superficie útil, medida según documentación gr
 \mo059\\0.329
 \mo013\\0.352
 \mo034\\0.176
-\%\\0.020
+\\\0.020
 \|
 ~X|RSG010b|INFORMACION_GENERADOR\00060052534730313000000000000000000000010000000009007273675f6a756e746100200000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000010000002c01000000000000000000000000000000000000000000000000000000000000\\|
 ~C|RSG010c|m²|Solado de baldosas cerámicas de gres esmaltado 2-2-H, de 33x33 cm, 8 €/m², colocadas sobre capa de refuerzo de 4 cm de mortero de cemento M-80 (1:4) armado con mallazo ME 10x10, Ø 5 mm, acero B 500 T 6x2,20 UNE 36092, realizada sobre lámina de espuma de polietileno de alta densidad de 5 mm de espesor, que actúa como aislamiento acústico, recibidas con adhesivo cementoso de uso exclusivo para interiores, C0 sin ninguna característica adicional, color gris y rejuntadas con mortero de juntas cementoso con absorción de agua reducida, CG2W, para junta mínima (entre 1,5 y 3 mm), con la misma tonalidad de las piezas.|0.00||0|
 ~T|RSG010c|Suministro y ejecución de pavimento mediante el método de colocación en capa fina, de baldosas cerámicas de gres esmaltado 2-2-H (suelo sin junta (tipo 2), suelos tránsito peatonal leve (tipo 2), uso higiénico (tipo H)), de 33x33 cm, 8 €/m²; extendidas sobre capa de refuerzo de 4 cm de mortero de cemento M-80 (1:4) armado con mallazo ME 10x10 de Ø 5 mm, acero B 500 T 6x2,20 UNE 36092, realizada sobre lámina de espuma de polietileno de alta densidad de 5 mm de espesor, colocado de forma que se garantice el aislamiento acústico, cubriendo los paramentos verticales hasta una altura del piso de unos 20 cm y las tuberías que atraviesen el forjado, recibidas con adhesivo cementoso de uso exclusivo para interiores, C0 sin ninguna característica adicional, color gris y rejuntadas con mortero de juntas cementoso con absorción de agua reducida, CG2W, para junta mínima (entre 1,5 y 3 mm), con la misma tonalidad de las piezas. Incluso formación de juntas perimetrales continuas, de anchura no menor de 5 mm, en los límites con paredes, pilares exentos y elevaciones de nivel y, en su caso, juntas de partición y juntas estructurales o de dilatación existentes en el soporte. Según NTE-RSR.
 Incluye: El transporte y movimiento vertical y horizontal de los materiales en obra, incluso carga y descarga de los camiones. Limpieza y comprobación del grado de humedad de la base. Replanteo de niveles. Colocación del aislamiento. Aplicación de la capa de nivelación. Replanteo de la disposición de las baldosas y juntas de movimiento. Aplicación del adhesivo. Colocación de las baldosas a punta de paleta. Relleno de las juntas de movimiento. Rejuntado. Limpieza del pavimento. Eliminación de restos, limpieza final y retirada de escombros a vertedero. Parte proporcional de medios auxiliares.
-Criterio de medición de proyecto: superficie útil, medida según documentación gráfica de Proyecto. No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5% de roturas.|
+Criterio de medición de proyecto: superficie útil, medida según documentación gráfica de Proyecto. No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5 de roturas.|
 ~D|RSG010c
 |mt17poa011ab\\1.100
 \mt16aaa030\\0.440
@@ -2211,19 +2211,19 @@ Criterio de medición de proyecto: superficie útil, medida según documentación gr
 \mo059\\0.329
 \mo013\\0.352
 \mo034\\0.176
-\%\\0.020
+\\\0.020
 \|
 ~X|RSG010c|INFORMACION_GENERADOR\00060052534730313000000000000000000000010000000009007273675f6a756e746100200000000000000000000000000000000100000000000000000000000000000000000000000000000200000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000010000002c01000000000000000000000000000000000000000000000000000000000000\\|
 ~C|RSG020|m|Rodapié cerámico de gres esmaltado de 7 cm, 2,5 €/m, recibido con mortero de cemento M-60 (1:5). Rejuntado con lechada de cemento blanco, L, BL-V 22,5, para junta mínima (entre 1,5 y 3 mm), coloreada con la misma tonalidad de las piezas.|0.00||0|
 ~T|RSG020|Suministro y colocación de rodapié cerámico de gres esmaltado de 7 cm, 2,5 €/m, recibido con mortero de cemento M-60 (1:5) y rejuntado con lechada de cemento blanco, L, BL-V 22,5, para junta mínima (entre 1,5 y 3 mm), coloreada con la misma tonalidad de las piezas. Según NTE-RSR.
 Incluye: El transporte y movimiento vertical y horizontal de los materiales en obra, incluso carga y descarga de los camiones. Replanteo de las piezas. Corte de las piezas y formación de encajes en esquinas y rincones. Colocación del rodapié. Relleno de juntas. Eliminación de restos, limpieza final y retirada de escombros a vertedero. Parte proporcional de medios auxiliares.
-Criterio de medición de proyecto: longitud medida según documentación gráfica de Proyecto, sin incluir huecos de puertas. No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5% de roturas.|
+Criterio de medición de proyecto: longitud medida según documentación gráfica de Proyecto, sin incluir huecos de puertas. No se ha incrementado la medición, ya que en la descomposición se ha considerado un 5 de roturas.|
 ~D|RSG020
 |mt09mor010d\\0.010
 \mt18rce010\\1.050
 \mt09lec010b\\0.001
 \mo013\\0.217
-\%\\0.020
+\\\0.020
 \|
 ~X|RSG020|INFORMACION_GENERADOR\0006005253473032300000000000000000000003000000000e00636173616a756e7420746f6461730003000000000000000000000000000000001100636173616d6f727420726f6461706965730004000000000000000000000000000000000000000008007273675f726f6461000400000000000000000000000000000096000000\\|
 ~C|RTC010|m²|Falso techo continuo de placas de escayola biselada, con sujeción mediante estopada colgante.|0.00||0|
@@ -2237,7 +2237,7 @@ Criterio de medición de proyecto: superficie medida entre paramentos, según docu
 \mt12psg030b\\0.500
 \mo021\\0.384
 \mo062\\0.384
-\%\\0.020
+\\\0.020
 \|
 ~X|RTC010|INFORMACION_GENERADOR\0006005254433031300000000000000000000001000000000800657363617966696a00020000000100000000000000\\|
 ~C|SCE020|Ud|Campana extractora convencional con 1 motor de aspiración.|0.00||0|
@@ -2250,7 +2250,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt20cme021e\\1.000
 \mo001\\0.906
 \mo051\\0.906
-\%\\0.020
+\\\0.020
 \|
 ~X|SCE020|INFORMACION_GENERADOR\00060053434530323000000000000000000000010000000006007363655f32300003000000000000000000000000000000\\|
 ~C|SCF010|Ud|Fregadero de acero inoxidable, de 1 cubeta, 450x490 mm, con grifería monomando serie media acabado cromado, con aireador.|0.00||0|
@@ -2264,7 +2264,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt31gmg030baa\\1.000
 \mo004\\0.781
 \mo054\\0.600
-\%\\0.020
+\\\0.020
 \|
 ~X|SCF010|INFORMACION_GENERADOR\00060053434630313000000000000000000000010000000007007363665f303130000d00000000000000000000000000000000000000000000000000000001000000000000000100000000000000000000000000000000000000\\|
 ~C|SCF020|Ud|Lavadero de gres, 520x860x470 mm, con grifería convencional, serie básica, con caño giratorio superior, con aireador.|0.00||0|
@@ -2278,7 +2278,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt31gcg060aa\\1.000
 \mo004\\0.679
 \mo054\\0.453
-\%\\0.020
+\\\0.020
 \|
 ~X|SCF020|INFORMACION_GENERADOR\00060053434630323000000000000000000000010000000007007363665f303230000b0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|SCM010|Ud|Amueblamiento de cocina con 5,22 m de muebles bajos con zócalo inferior y 3,94 m de muebles altos acabado estratificado con frente de 20 mm de grueso, con estratificado por ambas caras, cantos verticales postformados alomados y cantos horizontales en ABS de 1,0 mm de grueso con lámina de aluminio.|0.00||0|
@@ -2291,7 +2291,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt32mue021\\5.220
 \mo008\\9.012
 \mo030\\9.012
-\%\\0.020
+\\\0.020
 \|
 ~X|SCM010|INFORMACION_GENERADOR\00060053434d303130000000000000000000000200000000060073636d3031300002000000030000000200000000080073636d30313064690007000000a6010000000000000000000062010000010000000100000000000000\\|
 ~C|SCN010|Ud|Encimera de granito nacional Blanco Cristal pulido, 60x2 cm, acabado con canto simple, pulido, recto y biselado de 522x60x2 cm para banco de cocina con hueco y zócalo perimetral.|0.00||0|
@@ -2305,7 +2305,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt32war010\\0.068
 \mo006\\5.910
 \mo048\\6.228
-\%\\0.020
+\\\0.020
 \|
 ~X|SCN010|INFORMACION_GENERADOR\00060053434e30313000000000000000000000020000000008006c6f6e67636f63690001000000a601000000060073636e30313000080000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|SMS010|Ud|Inodoro con tanque bajo. Lavabo con semipedestal de 650x530 mm serie media color con grifería monomando serie media, acabado cromado, con aireador. Bidé con tapa lacada y bisagras de acero inoxidable serie media color con grifería monomando serie media, acabado cromado, con aireador. Bañera acrílica serie media color, 160x75 cm, sin asas, equipada con grifería monomando serie media, acabado cromado.|0.00||0|
@@ -2327,7 +2327,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt30dba010\\1.000
 \mo004\\3.118
 \mo054\\2.079
-\%\\0.020
+\\\0.020
 \|
 ~X|SMS010|INFORMACION_GENERADOR\000600534d533031300000000000000000000001000000000700736d735f303130002200000000000000010000000000000001000000010000000000000001000000010000000100000000000000000000000000000000000000010000000000000000000000010000000000000000000000010000000100000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000\\|
 ~C|SMS010a|Ud|Inodoro con tanque bajo. Lavabo con pedestal de 630x505 mm serie media color con grifería monomando serie media, acabado cromado, con aireador.|0.00||0|
@@ -2343,7 +2343,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 \mt30lla020\\1.000
 \mo004\\1.689
 \mo054\\1.126
-\%\\0.020
+\\\0.020
 \|
 ~X|SMS010a|INFORMACION_GENERADOR\000600534d533031300000000000000000000001000000000700736d735f30313000170000000000000000000000000000000000000000000000000000000000000001000000010000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000\\|
 ~C|SZB015|Ud|Buzón exterior metálico, calidad básica.|0.00||0|
@@ -2353,7 +2353,7 @@ Criterio de medición de proyecto: unidad proyectada, según documentación gráfica
 ~D|SZB015
 |mt45bex010a\\1.000
 \mo059\\0.109
-\%\\0.020
+\\\0.020
 \|
 ~X|SZB015|INFORMACION_GENERADOR\000600535a423031350000000000000000000001000000000800737a625f6275696e00020000000000000000000000\\|
 ~C|XEB010|Ud|Ensayo sobre una muestra de barras de acero corrugado con determinación de: sección media equivalente, características geométricas del corrugado, doblado simple, doblado/desdoblado, límite elástico, carga de rotura, alargamiento en rotura e identificación del fabricante, según EHE.|0.00||0|
@@ -2362,7 +2362,7 @@ Incluye: Desplazamiento a obra, toma de muestras e informe de los resultados de 
 Criterio de medición de proyecto: ensayo a realizar, según documentación del Estudio y Programación de Control de Calidad.|
 ~D|XEB010
 |mt49arb040\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|XEB010|INFORMACION_GENERADOR\0006005845423031300000000000000000000000000000\\|
 ~C|XEH010|Ud|Ensayo completo sobre una muestra de hormigón fresco, incluyendo: medida de asiento de cono de Abrams, fabricación de 3 probetas, curado, refrentado y rotura a compresión, según EHE.|0.00||0|
@@ -2371,7 +2371,7 @@ Incluye: Desplazamiento a obra, toma de muestras y acta de los resultados de los
 Criterio de medición de proyecto: ensayo a realizar, según documentación del Estudio y Programación de Control de Calidad.|
 ~D|XEH010
 |mt49hob020a\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|XEH010|INFORMACION_GENERADOR\00060058454830313000000000000000000000010000000007007865685f303130000100000000000000\\|
 ~C|XEM010|Ud|Ensayo sobre una muestra de malla de acero electrosoldado con determinación de: características geométricas de la malla y resistencia al arrancamiento del nudo soldado, según EHE.|0.00||0|
@@ -2380,7 +2380,7 @@ Incluye: Desplazamiento a obra, toma de muestras e informe de los resultados de 
 Criterio de medición de proyecto: ensayo a realizar, según documentación del Estudio y Programación de Control de Calidad.|
 ~D|XEM010
 |mt49arm040\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|XEM010|INFORMACION_GENERADOR\00060058454d3031300000000000000000000000000000\\|
 ~C|YCA010|m|Andamio de protección para pasos peatonales en la vía pública.|0.00||0|
@@ -2396,7 +2396,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt50spr050\\1.650
 \mo010\\0.348
 \mo059\\0.348
-\%\\0.020
+\\\0.020
 \|
 ~X|YCA010|INFORMACION_GENERADOR\00060059434130313000000000000000000000010000000007007963615f30313000050000000000000000000000010000000200000000000000\\|
 ~C|YCB010|m|Barandilla de protección de huecos verticales de fachada, puertas de ascensor, etc. con tubos metálicos y rodapié de madera.|0.00||0|
@@ -2408,7 +2408,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt50spa050cb\\0.003
 \mo010\\0.116
 \mo059\\0.116
-\%\\0.020
+\\\0.020
 \|
 ~X|YCB010|INFORMACION_GENERADOR\00060059434230313000000000000000000000010000000007007963625f3031300006000000020000000000000000000000000000000000000000000000\\|
 ~C|YCB010a|m|Barandilla de protección de perímetro de forjados con guardacuerpos de seguridad y barandilla y rodapié metálicos.|0.00||0|
@@ -2421,7 +2421,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt50spb070\\0.033
 \mo010\\0.174
 \mo059\\0.174
-\%\\0.020
+\\\0.020
 \|
 ~X|YCB010a|INFORMACION_GENERADOR\00060059434230313000000000000000000000010000000007007963625f3031300006000000000000000000000000000000000000000100000000000000\\|
 ~C|YCB010b|m|Barandilla de protección de escaleras con guardacuerpos de seguridad y barandilla y rodapié metálicos.|0.00||0|
@@ -2434,7 +2434,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt50spb070\\0.033
 \mo010\\0.290
 \mo059\\0.290
-\%\\0.020
+\\\0.020
 \|
 ~X|YCB010b|INFORMACION_GENERADOR\00060059434230313000000000000000000000010000000007007963625f3031300006000000010000000000000000000000000000000100000000000000\\|
 ~C|YCC010|m|Bajante de escombros, metálica.|0.00||0|
@@ -2447,7 +2447,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt50spc030\\0.200
 \mt50spa080ba\\0.200
 \mo059\\0.464
-\%\\0.020
+\\\0.020
 \|
 ~X|YCC010|INFORMACION_GENERADOR\0006005943433031300000000000000000000000000000\\|
 ~C|YCE010|Ud|Lámpara portátil de mano.|0.00||0|
@@ -2457,7 +2457,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 ~D|YCE010
 |mt50spe010\\0.333
 \mo051\\0.116
-\%\\0.020
+\\\0.020
 \|
 ~X|YCE010|INFORMACION_GENERADOR\0006005943453031300000000000000000000000000000\\|
 ~C|YCE020|Ud|Cuadro general de obra, potencia máxima 10 kW.|0.00||0|
@@ -2468,7 +2468,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 |mt50spe020b\\0.250
 \mo001\\1.160
 \mo051\\1.160
-\%\\0.020
+\\\0.020
 \|
 ~X|YCE020|INFORMACION_GENERADOR\00060059434530323000000000000000000000010000000007007963655f303230000100000001000000\\|
 ~C|YCI010|Ud|Extintor de polvo químico ABC, 6 kg.|0.00||0|
@@ -2478,7 +2478,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 ~D|YCI010
 |mt50spi010\\1.000
 \mo059\\0.116
-\%\\0.020
+\\\0.020
 \|
 ~X|YCI010|INFORMACION_GENERADOR\00060059434930313000000000000000000000010000000007007963695f303130000100000000000000\\|
 ~C|YCM010|m|Marquesina de protección del perímetro del forjado en la primera planta.|0.00||0|
@@ -2492,7 +2492,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt50spa050bc\\0.003
 \mo010\\0.696
 \mo046\\0.696
-\%\\0.020
+\\\0.020
 \|
 ~X|YCM010|INFORMACION_GENERADOR\00060059434d303130000000000000000000000100000000070079636d5f303130000100000001000000\\|
 ~C|YCM030|m|Pasarela de madera para paso sobre zanjas.|0.00||0|
@@ -2505,7 +2505,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt50spa050cb\\0.003
 \mo010\\0.348
 \mo059\\0.174
-\%\\0.020
+\\\0.020
 \|
 ~X|YCM030|INFORMACION_GENERADOR\00060059434d303330000000000000000000000100000000070079636d5f303330000100000002000000\\|
 ~C|YCM030a|m|Pasarela de madera para montaje de forjado.|0.00||0|
@@ -2515,7 +2515,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 ~D|YCM030a
 |mt50spm040\\0.600
 \mo059\\0.001
-\%\\0.020
+\\\0.020
 \|
 ~X|YCM030a|INFORMACION_GENERADOR\00060059434d303330000000000000000000000100000000070079636d5f303330000100000000000000\\|
 ~C|YCM030b|m|Pasarela de madera para montaje de cubiertas inclinadas.|0.00||0|
@@ -2525,7 +2525,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 ~D|YCM030b
 |mt50spa050cb\\0.020
 \mo059\\0.116
-\%\\0.020
+\\\0.020
 \|
 ~X|YCM030b|INFORMACION_GENERADOR\00060059434d303330000000000000000000000100000000070079636d5f303330000100000001000000\\|
 ~C|YCR010|m|Red vertical de seguridad tipo V con pescante tipo horca, a partir de la segunda puesta.|0.00||0|
@@ -2541,7 +2541,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt50spr060\\0.400
 \mo010\\0.174
 \mo059\\0.174
-\%\\0.020
+\\\0.020
 \|
 ~X|YCR010|INFORMACION_GENERADOR\00060059435230313000000000000000000000010000000007007963725f30313000020000000000000001000000\\|
 ~C|YCR010a|m|Red vertical de seguridad tipo V con pescante tipo horca, primera puesta.|0.00||0|
@@ -2557,7 +2557,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt50spr060\\0.400
 \mo010\\0.290
 \mo059\\0.290
-\%\\0.020
+\\\0.020
 \|
 ~X|YCR010a|INFORMACION_GENERADOR\00060059435230313000000000000000000000010000000007007963725f30313000020000000000000000000000\\|
 ~C|YCR030|m|Protección vertical en el perímetro del forjado con red de seguridad tipo U.|0.00||0|
@@ -2569,7 +2569,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt50spr080\\0.800
 \mt50spr090a\\2.000
 \mo059\\0.116
-\%\\0.020
+\\\0.020
 \|
 ~X|YCR030|INFORMACION_GENERADOR\00060059435230333000000000000000000000010000000007007963725f30333000020000000000000000000000\\|
 ~C|YFF020|Ud|Hora de charla para formación de Seguridad y Salud en el Trabajo.|0.00||0|
@@ -2578,7 +2578,7 @@ Incluye: Parte proporcional de pérdidas de horas de trabajo por parte de los tra
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YFF020
 |mt50mas020\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YFF020|INFORMACION_GENERADOR\0006005946463032300000000000000000000000000000\\|
 ~C|YIC010|Ud|Casco de seguridad.|0.00||0|
@@ -2586,7 +2586,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIC010
 |mt50epc010\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIC010|INFORMACION_GENERADOR\0006005949433031300000000000000000000000000000\\|
 ~C|YIC020|Ud|Casco de seguridad dieléctrico.|0.00||0|
@@ -2594,7 +2594,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIC020
 |mt50epc020\\0.200
-\%\\0.020
+\\\0.020
 \|
 ~X|YIC020|INFORMACION_GENERADOR\0006005949433032300000000000000000000000000000\\|
 ~C|YID010|Ud|Cinturón de seguridad de suspensión con un punto de amarre.|0.00||0|
@@ -2602,7 +2602,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YID010
 |mt50epd010a\\0.250
-\%\\0.020
+\\\0.020
 \|
 ~X|YID010|INFORMACION_GENERADOR\00060059494430313000000000000000000000010000000007007969645f30313000020000000000000000000000\\|
 ~C|YID020|Ud|Equipo de arnés simple de seguridad anticaídas.|0.00||0|
@@ -2610,7 +2610,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YID020
 |mt50epd020a\\0.250
-\%\\0.020
+\\\0.020
 \|
 ~X|YID020|INFORMACION_GENERADOR\00060059494430323000000000000000000000010000000007007969645f30323000020000000000000000000000\\|
 ~C|YID031|m|Cuerda guía anticaídas de poliamida de 16 mm de diámetro.|0.00||0|
@@ -2620,7 +2620,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 |mt50epd031\\1.050
 \mo010\\0.113
 \mo059\\0.113
-\%\\0.020
+\\\0.020
 \|
 ~X|YID031|INFORMACION_GENERADOR\0006005949443033310000000000000000000000000000\\|
 ~C|YIJ010|Ud|Gafas de protección antipolvo.|0.00||0|
@@ -2628,7 +2628,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIJ010
 |mt50epj010b\\0.333
-\%\\0.020
+\\\0.020
 \|
 ~X|YIJ010|INFORMACION_GENERADOR\00060059494a303130000000000000000000000100000000070079696a5f303130000100000001000000\\|
 ~C|YIJ010a|Ud|Gafas de protección contra impactos.|0.00||0|
@@ -2636,7 +2636,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIJ010a
 |mt50epj010a\\0.333
-\%\\0.020
+\\\0.020
 \|
 ~X|YIJ010a|INFORMACION_GENERADOR\00060059494a303130000000000000000000000100000000070079696a5f303130000100000000000000\\|
 ~C|YIJ050|Ud|Pantalla de protección contra partículas, con fijación en la cabeza.|0.00||0|
@@ -2644,7 +2644,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIJ050
 |mt50epj050ab\\0.200
-\%\\0.020
+\\\0.020
 \|
 ~X|YIJ050|INFORMACION_GENERADOR\00060059494a303530000000000000000000000100000000070079696a5f30353000020000000000000000000000\\|
 ~C|YIM010|Ud|Par de guantes resistentes al fuego, de fibra Nomex con acabado reflectante aluminizado.|0.00||0|
@@ -2652,7 +2652,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIM010
 |mt50epm010d\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIM010|INFORMACION_GENERADOR\00060059494d303130000000000000000000000100000000070079696d5f303130000100000003000000\\|
 ~C|YIM010a|Ud|Par de guantes de goma-látex anticorte.|0.00||0|
@@ -2660,7 +2660,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIM010a
 |mt50epm010a\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIM010a|INFORMACION_GENERADOR\00060059494d303130000000000000000000000100000000070079696d5f303130000100000000000000\\|
 ~C|YIM010b|Ud|Par de guantes de neopreno.|0.00||0|
@@ -2668,7 +2668,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIM010b
 |mt50epm010b\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIM010b|INFORMACION_GENERADOR\00060059494d303130000000000000000000000100000000070079696d5f303130000100000001000000\\|
 ~C|YIM010c|Ud|Par de guantes de nitrilo amarillo de alta resistencia.|0.00||0|
@@ -2676,7 +2676,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIM010c
 |mt50epm010c\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIM010c|INFORMACION_GENERADOR\00060059494d303130000000000000000000000100000000070079696d5f303130000100000002000000\\|
 ~C|YIM020|Ud|Par de guantes de uso general de piel de vacuno.|0.00||0|
@@ -2684,7 +2684,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIM020
 |mt50epm020b\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIM020|INFORMACION_GENERADOR\00060059494d303230000000000000000000000100000000070079696d5f303230000100000001000000\\|
 ~C|YIM020a|Ud|Par de guantes de uso general de lona y serraje.|0.00||0|
@@ -2692,7 +2692,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIM020a
 |mt50epm020a\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIM020a|INFORMACION_GENERADOR\00060059494d303230000000000000000000000100000000070079696d5f303230000100000000000000\\|
 ~C|YIM040|Ud|Par de guantes para electricista, aislantes hasta 5.000 V.|0.00||0|
@@ -2700,7 +2700,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIM040
 |mt50epm040a\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIM040|INFORMACION_GENERADOR\00060059494d303430000000000000000000000100000000070079696d5f303430000100000000000000\\|
 ~C|YIM060|Ud|Par de manoplas resistentes al fuego de fibra de Nomex aluminizado.|0.00||0|
@@ -2708,7 +2708,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIM060
 |mt50epm060\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIM060|INFORMACION_GENERADOR\00060059494d3036300000000000000000000000000000\\|
 ~C|YIM070|Ud|Protector de manos para puntero.|0.00||0|
@@ -2716,7 +2716,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIM070
 |mt50epm070\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIM070|INFORMACION_GENERADOR\00060059494d3037300000000000000000000000000000\\|
 ~C|YIO010|Ud|Casco protector auditivo.|0.00||0|
@@ -2724,7 +2724,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIO010
 |mt50epo010\\0.333
-\%\\0.020
+\\\0.020
 \|
 ~X|YIO010|INFORMACION_GENERADOR\00060059494f3031300000000000000000000000000000\\|
 ~C|YIO020|Ud|Juego de tapones antirruido de silicona.|0.00||0|
@@ -2732,7 +2732,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIO020
 |mt50epo020\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIO020|INFORMACION_GENERADOR\00060059494f3032300000000000000000000000000000\\|
 ~C|YIP010|Ud|Par de botas de agua con cremallera y forradas.|0.00||0|
@@ -2740,7 +2740,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIP010
 |mt50epp010b\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIP010|INFORMACION_GENERADOR\00060059495030313000000000000000000000010000000007007969705f303130000100000001000000\\|
 ~C|YIP010a|Ud|Par de botas de agua sin cremallera.|0.00||0|
@@ -2748,7 +2748,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIP010a
 |mt50epp010a\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIP010a|INFORMACION_GENERADOR\00060059495030313000000000000000000000010000000007007969705f303130000100000000000000\\|
 ~C|YIP020|Ud|Par de botas de seguridad con puntera metálica.|0.00||0|
@@ -2756,7 +2756,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIP020
 |mt50epp020\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIP020|INFORMACION_GENERADOR\0006005949503032300000000000000000000000000000\\|
 ~C|YIP030|Ud|Par de botas aislantes.|0.00||0|
@@ -2764,7 +2764,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIP030
 |mt50epp030\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIP030|INFORMACION_GENERADOR\0006005949503033300000000000000000000000000000\\|
 ~C|YIP040|Ud|Par de polainas para extinción de incendios.|0.00||0|
@@ -2772,7 +2772,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIP040
 |mt50epp040b\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIP040|INFORMACION_GENERADOR\00060059495030343000000000000000000000010000000007007969705f303430000100000001000000\\|
 ~C|YIP050|Ud|Par de plantillas resistentes a la perforación.|0.00||0|
@@ -2780,7 +2780,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIP050
 |mt50epp050\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIP050|INFORMACION_GENERADOR\0006005949503035300000000000000000000000000000\\|
 ~C|YIU010|Ud|Mono de trabajo.|0.00||0|
@@ -2788,7 +2788,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIU010
 |mt50epu010\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIU010|INFORMACION_GENERADOR\0006005949553031300000000000000000000000000000\\|
 ~C|YIU020|Ud|Traje impermeable de trabajo, verde tipo ingeniero.|0.00||0|
@@ -2796,7 +2796,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIU020
 |mt50epu020b\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIU020|INFORMACION_GENERADOR\00060059495530323000000000000000000000010000000007007969755f303230000100000001000000\\|
 ~C|YIU020a|Ud|Traje impermeable de trabajo, de PVC.|0.00||0|
@@ -2804,7 +2804,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIU020a
 |mt50epu020a\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIU020a|INFORMACION_GENERADOR\00060059495530323000000000000000000000010000000007007969755f303230000100000000000000\\|
 ~C|YIU040|Ud|Bolsa portaherramientas.|0.00||0|
@@ -2812,7 +2812,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIU040
 |mt50epu040\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIU040|INFORMACION_GENERADOR\0006005949553034300000000000000000000000000000\\|
 ~C|YIU050|Ud|Peto reflectante.|0.00||0|
@@ -2820,7 +2820,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIU050
 |mt50epu050\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIU050|INFORMACION_GENERADOR\0006005949553035300000000000000000000000000000\\|
 ~C|YIU060|Ud|Faja de protección lumbar.|0.00||0|
@@ -2828,7 +2828,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIU060
 |mt50epu060\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIU060|INFORMACION_GENERADOR\0006005949553036300000000000000000000000000000\\|
 ~C|YIV010|Ud|Semi-mascarilla antipolvo, de dos filtros.|0.00||0|
@@ -2836,7 +2836,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIV010
 |mt50epv010b\\0.333
-\%\\0.020
+\\\0.020
 \|
 ~X|YIV010|INFORMACION_GENERADOR\00060059495630313000000000000000000000010000000007007969765f303130000100000001000000\\|
 ~C|YIV010a|Ud|Semi-mascarilla antipolvo, de un filtro.|0.00||0|
@@ -2844,7 +2844,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIV010a
 |mt50epv010a\\0.333
-\%\\0.020
+\\\0.020
 \|
 ~X|YIV010a|INFORMACION_GENERADOR\00060059495630313000000000000000000000010000000007007969765f303130000100000000000000\\|
 ~C|YIV011|Ud|Filtro recambio para semi-mascarilla antipolvo.|0.00||0|
@@ -2852,7 +2852,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIV011
 |mt50epv011\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIV011|INFORMACION_GENERADOR\0006005949563031310000000000000000000000000000\\|
 ~C|YIV020|Ud|Mascarilla desechable antipolvo FFP1.|0.00||0|
@@ -2860,7 +2860,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YIV020
 |mt50epv020a\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YIV020|INFORMACION_GENERADOR\00060059495630323000000000000000000000010000000007007969765f303230000100000000000000\\|
 ~C|YMM010|Ud|Botiquín de urgencia en caseta de obra.|0.00||0|
@@ -2870,7 +2870,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 ~D|YMM010
 |mt50eca010\\1.000
 \mo059\\0.218
-\%\\0.020
+\\\0.020
 \|
 ~X|YMM010|INFORMACION_GENERADOR\000600594d4d3031300000000000000000000000000000\\|
 ~C|YMM011|Ud|Reposición de material de botiquín de urgencia en caseta de obra.|0.00||0|
@@ -2879,7 +2879,7 @@ Incluye: Parte proporcional de medios auxiliares.
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YMM011
 |mt50eca011\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YMM011|INFORMACION_GENERADOR\000600594d4d3031310000000000000000000000000000\\|
 ~C|YMM020|Ud|Camilla portátil para evacuaciones.|0.00||0|
@@ -2888,7 +2888,7 @@ Incluye: Protección del elemento frente a golpes. Montaje, instalación y comprob
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YMM020
 |mt50eca020\\0.250
-\%\\0.020
+\\\0.020
 \|
 ~X|YMM020|INFORMACION_GENERADOR\000600594d4d3032300000000000000000000000000000\\|
 ~C|YMR010|Ud|Reconocimiento médico anual al trabajador.|0.00||0|
@@ -2897,7 +2897,7 @@ Incluye: Parte proporcional de pérdidas de horas de trabajo por parte del trabaj
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YMR010
 |mt50man010\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YMR010|INFORMACION_GENERADOR\000600594d523031300000000000000000000000000000\\|
 ~C|YPC210|m²|Adaptación de local existente como caseta provisional para vestuarios en obra.|0.00||0|
@@ -2906,7 +2906,7 @@ Incluye: Aislamiento térmico. Distribución interior con ladrillo cerámico hueco 
 Criterio de medición de proyecto: superficie medida según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YPC210
 |mt50cat010b\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YPC210|INFORMACION_GENERADOR\00060059504332313000000000000000000000010000000028007970636361736574206e756576615f636f6e737472756363696f6e5f6f5f61646170746163696f6e0003000000010000000000000000000000\\|
 ~C|YPC210a|m²|Adaptación de local existente como caseta provisional para aseos en obra, incluso p/p de aparatos sanitarios (inodoro, plato de ducha y lavabo).|0.00||0|
@@ -2915,7 +2915,7 @@ Incluye: Aislamiento térmico. Distribución interior con ladrillo cerámico hueco 
 Criterio de medición de proyecto: superficie medida según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YPC210a
 |mt50cat010a\\1.000
-\%\\0.020
+\\\0.020
 \|
 ~X|YPC210a|INFORMACION_GENERADOR\00060059504332313000000000000000000000010000000028007970636361736574206e756576615f636f6e737472756363696f6e5f6f5f61646170746163696f6e0003000000000000000000000000000000\\|
 ~C|YPL010|Ud|Hora de limpieza y desinfección de caseta o local provisional en obra.|0.00||0|
@@ -2924,7 +2924,7 @@ Incluye: Parte proporcional de material y elementos de limpieza. Eliminación de 
 Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Básico de Seguridad y Salud.|
 ~D|YPL010
 |mo059\\1.644
-\%\\0.020
+\\\0.020
 \|
 ~X|YPL010|INFORMACION_GENERADOR\00060059504c3031300000000000000000000000000000\\|
 ~C|YPM010|Ud|Radiador, 6 taquillas individuales, 9 perchas, banco para 5 personas, espejo, portarrollos, jabonera en caseta de obra para vestuarios y/o aseos.|0.00||0|
@@ -2940,7 +2940,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 \mt50mca020a\\0.330
 \mt50mca020b\\0.330
 \mo059\\2.094
-\%\\0.020
+\\\0.020
 \|
 ~X|YPM010|INFORMACION_GENERADOR\00060059504d303130000000000000000000000100000000070079706d5f30313000080000000100000006000000080000000000000000000000000000000000000000000000\\|
 ~C|YPM010a|Ud|Radiador, percha, banco para 5 personas, espejo, portarrollos, jabonera, secamanos eléctrico en caseta de obra para vestuarios y/o aseos.|0.00||0|
@@ -2956,7 +2956,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 \mt50mca020b\\0.330
 \mt50mca030\\0.330
 \mo059\\0.606
-\%\\0.020
+\\\0.020
 \|
 ~X|YPM010a|INFORMACION_GENERADOR\00060059504d303130000000000000000000000100000000070079706d5f30313000080000000100000000000000000000000000000000000000000000000000000001000000\\|
 ~C|YSB010|m|Cinta bicolor para balizamiento.|0.00||0|
@@ -2966,7 +2966,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 ~D|YSB010
 |mt50bal010\\1.100
 \mo059\\0.056
-\%\\0.020
+\\\0.020
 \|
 ~X|YSB010|INFORMACION_GENERADOR\0006005953423031300000000000000000000000000000\\|
 ~C|YSB020|m|Banderola colgante para señalización.|0.00||0|
@@ -2976,7 +2976,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 ~D|YSB020
 |mt50bal020\\1.100
 \mo059\\0.113
-\%\\0.020
+\\\0.020
 \|
 ~X|YSB020|INFORMACION_GENERADOR\0006005953423032300000000000000000000000000000\\|
 ~C|YSC010|m|Vallado del solar con valla de chapa galvanizada.|0.00||0|
@@ -2990,7 +2990,7 @@ Criterio de medición de proyecto: longitud medida según Estudio o Estudio Básico
 \mt10hmf010d\\0.080
 \mo010\\0.338
 \mo059\\0.338
-\%\\0.020
+\\\0.020
 \|
 ~X|YSC010|INFORMACION_GENERADOR\000600595343303130000000000000000000000100000000080079736376616c6c61000100000000000000\\|
 ~C|YSS010|Ud|Señal de seguridad con soporte.|0.00||0|
@@ -3002,7 +3002,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 \mt50les040\\0.200
 \mt10hmf010d\\0.070
 \mo059\\0.226
-\%\\0.020
+\\\0.020
 \|
 ~X|YSS010|INFORMACION_GENERADOR\0006005953533031300000000000000000000000000000\\|
 ~C|YSS020|Ud|Cartel indicativo de riesgos con soporte.|0.00||0|
@@ -3014,7 +3014,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 \mt50les040\\0.200
 \mt10hmf010d\\0.070
 \mo059\\0.226
-\%\\0.020
+\\\0.020
 \|
 ~X|YSS020|INFORMACION_GENERADOR\0006005953533032300000000000000000000000000000\\|
 ~C|YSS030|Ud|Placa de señalización de riesgos.|0.00||0|
@@ -3024,7 +3024,7 @@ Criterio de medición de proyecto: unidad proyectada, según Estudio o Estudio Bás
 ~D|YSS030
 |mt50les030\\0.333
 \mo059\\0.169
-\%\\0.020
+\\\0.020
 \|
 ~X|YSS030|INFORMACION_GENERADOR\0006005953533033300000000000000000000000000000\\|
 ~C|A#||Acondicionamiento del terreno|0.00||0|

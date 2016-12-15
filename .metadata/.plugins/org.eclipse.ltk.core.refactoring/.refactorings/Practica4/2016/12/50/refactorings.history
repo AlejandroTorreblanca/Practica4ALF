@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;scanner&apos; from expression &apos;new Scanner(ficheroLectura)&apos;&#x0D;&#x0A;- Original project: &apos;Practica4&apos;&#x0D;&#x0A;- Variable name: &apos;scanner&apos;&#x0D;&#x0A;- Destination method: &apos;código.FIEBDCFixing.leerFichero()&apos;&#x0D;&#x0A;- Variable expression: &apos;new Scanner(ficheroLectura)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;scanner&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;código{FIEBDCFixing.java" name="scanner" replace="true" selection="3146 27" stamp="1481798827871" version="1.0"/>
+</session>
