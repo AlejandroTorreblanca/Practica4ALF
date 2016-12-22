@@ -13,25 +13,25 @@ import java.util.regex.Pattern;
 
 public class FIEBDCFixing {
 	private static final String NOMBRE_PROGRAMA="FIEBDCFixingAT_JG";
-	private static final String registro="^([ABCDEFGKLMNOPQRTWXY])\\s*((\\|[^~\\|]*)+)\\|";
-	private static final String registroV="^V\\s*((\\|[^~\\|]*)+)\\|";
+	private static final String registro="^([ABCDEFGKLMNOPQRTWXY])\\s*((\\|[^~\\|]*)+)\\|\\s*";
+	private static final String registroV="^V\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String campo="\\|([^~\\|]*)";			// Se podría dejar solo que no haya | 
 	private static final String campoTexto="[^~\\|\\\\]*";		//Se podría dejar solo que no haya \
 	private static final String campoCabecera="(([^~\\|\\\\]*)((\\\\[^~\\|\\\\]*)*))?";
 	private static final String subcampoRotulo="\\\\([^~\\|\\\\]*)";
-	private static final String campoCaracteres="\\s*(850|437|ANSI)\\s*";
-	private static final String campoVerFormato="(\\s*FIEBDC-3/(2016|200[247]|9[85])\\s*)(\\\\([^\\\\]*))?";
-	private static final String campoFecha="\\s*(([0-2][0-9]|3[01])(0[0-9]|1[0-2])(\\d{4})|(\\d)(0[0-9]|1[0-2])(\\d{4})|([0-2][0-9]|3[01])?(0[0-9]|1[0-2])(\\d{2})|(\\d)(0[0-9]|1[0-2])(\\d{2})|(\\d)?(\\d{2})|\\d)\\s*";
-	private static final String campoTipoInfo="\\s*([1-4])?\\s*";
-	private static final String campoNCertificacion="\\s*(\\d?\\d?)\\s*";
-	private static final String campoCodigo="\\s*([\\wñÑ\\.\\$\\#\\%\\&]{1,20})((\\\\\\s*[\\wñÑ\\.\\$\\#\\%\\&]{1,20})*)\\s*";
-	private static final String subcampoCodigo="\\s*\\\\\\s*([\\wñÑ\\.\\$\\#\\%\\&]{1,20})\\s*";
-	private static final String campoCodigoT="\\s*([\\wñÑ\\.\\$\\#\\%\\&]{1,20})\\s*";
-	private static final String campoURL="\\s*(?i)https?://([\\w-]+\\.)+[a-z]{2,6}(:\\d{1,4})?(/[\\w\\/#~:.?+=&%@~-]+)?\\s*";
-	private static final String campoUnidad="\\s*(([cdk]?m[23²³]?|kgr?|[cm]?[Uu][dD]|ha?|[tlda])?)\\s*";
-	private static final String campoPrecio="(\\s*\\d+([.,]\\d*)?\\s*)?(\\\\\\s*\\d+([.,]\\d*)?\\s*)*\\\\?";
+	private static final String campoCaracteres="(850|437|ANSI)?\\s*";
+	private static final String campoVerFormato="(FIEBDC-3/(2016|200[247]|9[85])\\s*)(\\\\([^\\\\]*))?";
+	private static final String campoFecha="(([0-2][0-9]|3[01])(0[0-9]|1[0-2])(\\d{4})|(\\d)(0[0-9]|1[0-2])(\\d{4})|([0-2][0-9]|3[01])?(0[0-9]|1[0-2])(\\d{2})|(\\d)(0[0-9]|1[0-2])(\\d{2})|(\\d)?(\\d{2})|\\d)\\s*";
+	private static final String campoTipoInfo="([1-4])?\\s*";
+	private static final String campoNCertificacion="(\\d?\\d?)\\s*";
+	private static final String campoCodigo="([\\wñÑ\\.\\$\\#\\%\\&]{1,20})((\\s*\\\\[\\wñÑ\\.\\$\\#\\%\\&]{1,20})*)\\s*";
+	private static final String subcampoCodigo="\\s*\\\\([\\wñÑ\\.\\$\\#\\%\\&]{1,20})\\s*";
+	private static final String campoCodigoT="([\\wñÑ\\.\\$\\#\\%\\&]{1,20})\\s*";
+	private static final String campoURL="(?i)https?://([\\w-]+\\.)+[a-z]{2,6}(:\\d{1,4})?(/[\\w\\/#~:.?+=&%@~-]+)?\\s*";
+	private static final String campoUnidad="(([cdk]?m[23²³]?|[dcm]?l|%|kgr?|[Uu][dD]?|ha?|[tlda])?)\\s*";
+	private static final String campoPrecio="(\\d+([.,]\\d*)?\\s*)?(\\s*\\\\\\d+([.,]\\d*)?\\s*)*\\\\?";
 	private static final String subcampoPrecio="\\s*\\\\\\d+([.,]\\d*)?\\s*";
-	private static final String campoTipoC="\\s*([0-5])?\\s*";
+	private static final String campoTipoC="([0-5])?\\s*";
 	private static StringBuffer salida;
 	private static int numRotulos=0;
 	private static int tipoInfo=0;
@@ -77,18 +77,16 @@ public class FIEBDCFixing {
 	    	errorDeLectura1("campov2 "+campo);
 	    salida.append(mat.group(1));
 	    if(mat.group(4)!=null){
-			salida.append("\\");
-		    //
 			Pattern pat3= Pattern.compile(campoFecha);
 		    Matcher mat3=pat3.matcher(mat.group(4));
 		    if(!mat3.matches())
 		    	errorDeLectura1("campoFecha "+mat.group(4));
 		    //TODO Comprobar con date
-		    Date fechaActual = new Date();
-		    DateFormat formatoFecha = new SimpleDateFormat("ddMMyyyy");
-		    salida.append(formatoFecha.format(fechaActual));
-		    //
-	    }	    
+	    }	
+		salida.append("\\");
+	    Date fechaActual = new Date();
+	    DateFormat formatoFecha = new SimpleDateFormat("ddMMyyyy");
+	    salida.append(formatoFecha.format(fechaActual));
 	}
 	
 	public static void campoV3(String campo){
@@ -203,7 +201,7 @@ public class FIEBDCFixing {
 	public static void procesarRegistroV(String linea) {
 		Pattern pat = Pattern.compile(registroV);
 	    Matcher mat = pat.matcher(linea);
-	    if (!mat.find())
+	    if (!mat.matches())
 	    	errorDeLectura1("Registro V ~"+linea);
 	    salida.append("~V");
 	    String campos=mat.group(1);
@@ -248,6 +246,20 @@ public class FIEBDCFixing {
 	    	}
 	    	i++;
 	    }
+	    while (i<6){
+	    	salida.append("|");
+	    	switch(i){
+	    	case 3:
+	    		campoV3("");
+	    		break;
+	    	case 5:
+	    		campoV5("");
+	    		break;
+	    	default:
+	    		;
+	    	}
+	    	i++;
+	    }
 	    salida.append("|\r\n");
 	}
 	
@@ -273,7 +285,19 @@ public class FIEBDCFixing {
 		Matcher mat=pat.matcher(campo);
 		if(!mat.matches())
 		   	errorDeLectura1("campoUnidad: "+campo);
-		salida.append(campo);
+		Pattern pat1= Pattern.compile("2");
+		Matcher mat1=pat1.matcher(campo);
+		String corregido=mat1.replaceAll("²");
+		Pattern pat2= Pattern.compile("3");
+		Matcher mat2=pat2.matcher(corregido);
+		corregido=mat2.replaceAll("³");
+		Pattern pat3= Pattern.compile("[Uu][dD]");
+		Matcher mat3=pat3.matcher(corregido);
+		corregido=mat3.replaceAll("u");
+		Pattern pat4= Pattern.compile("kgr");
+		Matcher mat4=pat4.matcher(corregido);
+		corregido=mat4.replaceAll("kg");
+		salida.append(corregido);
 	}
 	
 	public static void campoC3(String campo){
@@ -403,7 +427,7 @@ public class FIEBDCFixing {
 	    	}
 	    	i++;
 	    }
-	    salida.append("\r\n");	    
+	    salida.append("|\r\n");	    
 	    if (resumenLargo)
 	    	crearTipoT(codigo);
 	}
@@ -435,14 +459,14 @@ public class FIEBDCFixing {
 	    	}
 	    	i++;
 	    }
-	    salida.append("\r\n");
+	    salida.append("|\r\n");
 	}
 	
 	public static void procesarRegistro(String linea) {
 		//XXX Que hacer si un reg K esta mal internametent.
 		Pattern pat = Pattern.compile(registro);
 	    Matcher mat = pat.matcher(linea);
-	    if (mat.find())
+	    if (mat.matches())
 	    {
 	    	String cabecera=mat.group(1);
 		    String cadena=mat.group(2);
@@ -454,7 +478,7 @@ public class FIEBDCFixing {
 				procesarRegistroT(cadena);	
 				break;
 			default:
-				salida.append("~"+mat.group()+"\r\n");
+				salida.append("~"+mat.group(1)+mat.group(2)+"|\r\n");
 				break;
 		    }
 	    }
@@ -494,7 +518,7 @@ public class FIEBDCFixing {
 		Scanner consola = new Scanner(System.in); //Crea Scanner para leer por consola
 		salida=new StringBuffer();
 		boolean control=true;
-		String nombreFichero="p.bc3";
+		String nombreFichero="vaa1.bc3";
 		while(control)
 		{
 			/*System.out.println("Nombre del fichero a leer con extensión .bc3 o .BC3: ");
