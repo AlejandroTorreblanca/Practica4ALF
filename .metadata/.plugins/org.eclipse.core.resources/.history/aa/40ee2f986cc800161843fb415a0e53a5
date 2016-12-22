@@ -554,7 +554,7 @@ public class FIEBDCFixing {
 	    Matcher mat2 = pat2.matcher(linea);
 	    if (!mat2.matches())
 	    	errorDeLectura1("Formato inválido: ~"+linea);
-	    Pattern pat = Pattern.compile(registro);
+	    Pattern pat = Pattern.compile(formatoGeneral);
 	    Matcher mat = pat.matcher(linea);
 	    if (mat.matches())
 	    {

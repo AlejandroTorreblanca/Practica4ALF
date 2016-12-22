@@ -12,7 +12,6 @@ import java.util.regex.Pattern;
 
 public class FIEBDCFixing {
 	private static final String NOMBRE_PROGRAMA="FIEBDCFixingAT_JG";
-	private static final String formatoGeneral="^([A-Z])\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String registro="^([ABCDEFGKLMNOPQRTWXY])\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String registroV="^V\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String campo="\\|([^~\\|]*)";			// Se podría dejar solo que no haya | 
@@ -351,7 +350,7 @@ public class FIEBDCFixing {
 		if(!mat.matches())
 		   	errorDeLectura1("campoCodigo: "+campo);
 		salida.append(campo);
-		System.out.println(campo);
+		System.out.println(campo+". ");
 		if(mat.group(2)!=null)
 		{
 			Pattern pat2= Pattern.compile(subcampoCodigo);
@@ -550,11 +549,7 @@ public class FIEBDCFixing {
 	}
 	
 	public static void procesarRegistro(String linea) {
-		Pattern pat2 = Pattern.compile(formatoGeneral);
-	    Matcher mat2 = pat2.matcher(linea);
-	    if (!mat2.matches())
-	    	errorDeLectura1("Formato inválido: ~"+linea);
-	    Pattern pat = Pattern.compile(registro);
+		Pattern pat = Pattern.compile(registro);
 	    Matcher mat = pat.matcher(linea);
 	    if (mat.matches())
 	    {

@@ -12,7 +12,6 @@ import java.util.regex.Pattern;
 
 public class FIEBDCFixing {
 	private static final String NOMBRE_PROGRAMA="FIEBDCFixingAT_JG";
-	private static final String formatoGeneral="^([A-Z])\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String registro="^([ABCDEFGKLMNOPQRTWXY])\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String registroV="^V\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String campo="\\|([^~\\|]*)";			// Se podría dejar solo que no haya | 
@@ -28,7 +27,7 @@ public class FIEBDCFixing {
 	private static final String subcampoCodigo="\\s*\\\\([\\wñÑ\\.\\$\\#\\%\\&]{1,20})\\s*";
 	private static final String campoCodigoT="([\\wñÑ\\.\\$\\#\\%\\&]{1,20})\\s*";
 	private static final String campoURL="((?i)https?://([\\w-]+\\.)+[a-z]{2,6}(:\\d{1,4})?(/[\\w\\/#~:.?+=&%@~-]+)?\\s*)?";
-	private static final String campoUnidad="(([cdk]?m[23²³]?|[dcm]?l|%|kgr?|[cm]?[Uu][dD]?|ha?|[tlda])?)\\s*";
+	private static final String campoUnidad="(([cdk]?m[23²³]?|[dcm]?l|%|kgr?|[Uu][dD]?|ha?|[tlda])?)\\s*";
 	private static final String campoPrecio="(\\d+([.,]\\d*)?\\s*)?(\\s*\\\\\\d+([.,]\\d*)?\\s*)*\\\\?";
 	private static final String subcampoPrecio="\\s*\\\\\\d+([.,]\\d*)?\\s*";
 	private static final String campoTipoC="([0-5])?\\s*";
@@ -156,7 +155,6 @@ public class FIEBDCFixing {
 	    if (!mat.matches())
 	    	errorDeLectura1("campov2 "+campo);
 	    salida.append(mat.group(1));
-	    System.out.println(mat.group(1)+". ");
 	    if(mat.group(4)!=null){
 			Pattern pat3= Pattern.compile(campoFecha);
 		    Matcher mat3=pat3.matcher(mat.group(4));
@@ -279,7 +277,6 @@ public class FIEBDCFixing {
 	}
 	
 	public static void procesarRegistroV(String linea) {
-		System.out.print("Procesando registro V: Versión del formato: ");
 		Pattern pat = Pattern.compile(registroV);
 	    Matcher mat = pat.matcher(linea);
 	    if (!mat.matches())
@@ -351,7 +348,6 @@ public class FIEBDCFixing {
 		if(!mat.matches())
 		   	errorDeLectura1("campoCodigo: "+campo);
 		salida.append(campo);
-		System.out.println(campo);
 		if(mat.group(2)!=null)
 		{
 			Pattern pat2= Pattern.compile(subcampoCodigo);
@@ -480,7 +476,6 @@ public class FIEBDCFixing {
 	}
 	
 	public static void procesarRegistroC(String campos){
-		System.out.print("Procesando registro de tipo concepto con código: ");
 	    salida.append("~C");
 	    resumenLargo=false;
 	    Pattern pat2=Pattern.compile(campo);
@@ -492,6 +487,7 @@ public class FIEBDCFixing {
 	    	switch(i){
 	    	case 1:
 	    		codigo=campoC1(mat2.group(1));
+	    		
 	    		break;
 	    	case 2:
 	    		campoC2(mat2.group(1));
@@ -550,11 +546,7 @@ public class FIEBDCFixing {
 	}
 	
 	public static void procesarRegistro(String linea) {
-		Pattern pat2 = Pattern.compile(formatoGeneral);
-	    Matcher mat2 = pat2.matcher(linea);
-	    if (!mat2.matches())
-	    	errorDeLectura1("Formato inválido: ~"+linea);
-	    Pattern pat = Pattern.compile(registro);
+		Pattern pat = Pattern.compile(registro);
 	    Matcher mat = pat.matcher(linea);
 	    if (mat.matches())
 	    {

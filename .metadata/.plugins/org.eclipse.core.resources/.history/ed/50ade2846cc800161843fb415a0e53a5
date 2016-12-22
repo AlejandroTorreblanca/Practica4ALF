@@ -550,12 +550,10 @@ public class FIEBDCFixing {
 	}
 	
 	public static void procesarRegistro(String linea) {
-		Pattern pat2 = Pattern.compile(formatoGeneral);
-	    Matcher mat2 = pat2.matcher(linea);
-	    if (!mat2.matches())
-	    	errorDeLectura1("Formato inválido: ~"+linea);
-	    Pattern pat = Pattern.compile(registro);
+		Pattern pat = Pattern.compile(formatoGeneral);
 	    Matcher mat = pat.matcher(linea);
+	    if (!mat.matches())
+	    	errorDeLectura1("Formato inválido: ~"+linea);
 	    if (mat.matches())
 	    {
 	    	String cabecera=mat.group(1);

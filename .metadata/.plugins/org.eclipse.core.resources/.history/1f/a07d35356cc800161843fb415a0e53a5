@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 
 public class FIEBDCFixing {
 	private static final String NOMBRE_PROGRAMA="FIEBDCFixingAT_JG";
-	private static final String formatoGeneral="^([A-Z])\\s*((\\|[^~\\|]*)+)\\|\\s*";
+	private static final String registro="^([A-Z])\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String registro="^([ABCDEFGKLMNOPQRTWXY])\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String registroV="^V\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String campo="\\|([^~\\|]*)";			// Se podría dejar solo que no haya | 
@@ -550,11 +550,7 @@ public class FIEBDCFixing {
 	}
 	
 	public static void procesarRegistro(String linea) {
-		Pattern pat2 = Pattern.compile(formatoGeneral);
-	    Matcher mat2 = pat2.matcher(linea);
-	    if (!mat2.matches())
-	    	errorDeLectura1("Formato inválido: ~"+linea);
-	    Pattern pat = Pattern.compile(registro);
+		Pattern pat = Pattern.compile(registro);
 	    Matcher mat = pat.matcher(linea);
 	    if (mat.matches())
 	    {
@@ -573,6 +569,8 @@ public class FIEBDCFixing {
 				break;
 		    }
 	    }
+	    else
+	    	errorDeLectura1("Formato inválido: ~"+linea);
 	}
 	
 	public static void errorDeLectura1(String msg)

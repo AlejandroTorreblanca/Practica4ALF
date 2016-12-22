@@ -1,13 +1,15 @@
-~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2002\22122016|FIEBDCFixingAT_JG||ANSI|5|
+~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2002\22122016|FIEBDCFixingAT_JG|Cabecera \Precio1 \PRecio2|ANSI|s|3|9|
 ~K|\2\3\3\2\2\2\2\EUR|3|
 ~X||INFORMACION_GENERADOR\Parámetros de configuración del generador de precios\\|
-~X|obra##|INFORMACION_GENERADOR\01000001000000020000000000e89c40020000000100000056555555554583400200010002000100020000000000000000000000000000000000000000010101\\|
-~C|mt01ara010|m³|Arena de 0 a 5 mm de diámetro.|12.07|29022016|
-~C|rye|m³|Arena de 0 a 5 mm de diámetro.|12.07|01121999|
-~C|wet|m³|Arena de 0 a 5 mm de diámetro.|12.07|00061981|
-~C|ewet|m³|Arena de 0 a 5 mm de diámetro.|12.07|12061999|
-~C|fweg|m³|Arena de 0 a 5 mm de diámetro.|12.07|00042001|
-~C|r|m³|Arena de 0 a 5 mm de diámetro.|12.07|00002001|
-~C|e|m³|Arena de 0 a 5 mm de diámetro.|12.07|00001999|
-~C|f|m³|Arena de 0 a 5 mm de diámetro.|12.07|00111998|
-~C|s|m³|Arena de 0 a 5 mm de diámetro.|12.07|06121993|
+~C|codigo|m³|Arena de 0 a 5 mm de diámetro.|12.07\58.|28022015|2|
+~C|rye|m²|Arena de 0 a 5 mm de diámetro.|1.07\12|01121999|
+~C|wet|m³|Arena de 0 a 5 mm de diámetro.|12.2\12.2|00061981|
+~C|ewet|dm³|Arena de 0 a 5 mm de diámetro.|2.07\2.07|12061999|
+~C|fweg|kg|Arena de 0 a 5 mm de diámetro.|123.07\123.07|00042001|
+~C|r|u|Arena de 0 a 5 mm de diámetro.|12.107\12.107|00002001|
+~C|e|cu|Arena de 0 a 5 mm de diámetro.|107\107|00001999|
+~C|f|kg|Arena de 0 a 5 mm de diámetro.|1.207\1.207|00111998|
+~C|s|m²|Arena de 0 a 5 mm de diámetro.|1.0\1.0|06121993|
+~C|resumenLargo|m²|Resumen reubicado en registro TEXTO|12.07\12.07|06121993|
+~T|resumenLargo|Arena de 0 a 5 mm de diámetro. ASDSADSADSADASDASDASDASDASDSADASSADSADDSAASDDSSADDSADASASDSAD. adsds |
+~T|codigo|CampoTexto12321((29381(E"·$%&/().|
