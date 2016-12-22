@@ -1,9 +1,13 @@
-~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2004\15122016|FIEBDCFixingAT_JG|Precio según divisa\Euros\Dólares\Libras|ANSI|	Presupuesto|3|2|130699|http://www.google.es|
-~C|ADL010\ddd\dfg\sdf\ffg|ud|Resumen reubicado en registro TEXTO|1.0\1.0\1.0|13062001|0
-~T|ADL010|Desbroce y limpieza del terreno, con medios mecánicos. Comprende los trabajos necesarios para retirar de las zonas previstas para la edificación o urbanización: plantas, tocones, maleza, broza, escombros, basuras o cualquier otro material existente, hasta una profundidad no menor que el espesor de la capa de tierra vegetal. Incluso transporte de la maquinaria, retirada de los materiales excavados y carga a camión.
-Incluye: Replanteo previo. Remoción de los materiales de desbroce. Retirada y disposición de los materiales objeto de desbroce. Carga a camión. Transporte a vertedero autorizado.|
-~C|wefgh\ afg|ud |Desbroce y limpieza del terreno
-|2,0\3.\1.0|130699|0	
-~K|\2\3 \3\2\2\2\2\EUR
-|3||
+~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2002\22122016|FIEBDCFixingAT_JG||ANSI|5|
+~K|\2\3\3\2\2\2\2\EUR|3|
 ~X||INFORMACION_GENERADOR\Parámetros de configuración del generador de precios\\|
+~X|obra##|INFORMACION_GENERADOR\01000001000000020000000000e89c40020000000100000056555555554583400200010002000100020000000000000000000000000000000000000000010101\\|
+~C|mt01ara010|m³|Arena de 0 a 5 mm de diámetro.|12.07|29022016|
+~C|rye|m³|Arena de 0 a 5 mm de diámetro.|12.07|01121999|
+~C|wet|m³|Arena de 0 a 5 mm de diámetro.|12.07|00061981|
+~C|ewet|m³|Arena de 0 a 5 mm de diámetro.|12.07|12061999|
+~C|fweg|m³|Arena de 0 a 5 mm de diámetro.|12.07|00042001|
+~C|r|m³|Arena de 0 a 5 mm de diámetro.|12.07|00002001|
+~C|e|m³|Arena de 0 a 5 mm de diámetro.|12.07|00001999|
+~C|f|m³|Arena de 0 a 5 mm de diámetro.|12.07|00111998|
+~C|s|m³|Arena de 0 a 5 mm de diámetro.|12.07|06121993|

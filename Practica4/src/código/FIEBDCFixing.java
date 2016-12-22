@@ -1,10 +1,9 @@
 package código;
 
-import java.awt.List;
 import java.io.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.util.Calendar;
+import java.time.LocalDate;
 import java.util.Date;
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -27,11 +26,12 @@ public class FIEBDCFixing {
 	private static final String campoCodigo="([\\wñÑ\\.\\$\\#\\%\\&]{1,20})((\\s*\\\\[\\wñÑ\\.\\$\\#\\%\\&]{1,20})*)\\s*";
 	private static final String subcampoCodigo="\\s*\\\\([\\wñÑ\\.\\$\\#\\%\\&]{1,20})\\s*";
 	private static final String campoCodigoT="([\\wñÑ\\.\\$\\#\\%\\&]{1,20})\\s*";
-	private static final String campoURL="(?i)https?://([\\w-]+\\.)+[a-z]{2,6}(:\\d{1,4})?(/[\\w\\/#~:.?+=&%@~-]+)?\\s*";
+	private static final String campoURL="((?i)https?://([\\w-]+\\.)+[a-z]{2,6}(:\\d{1,4})?(/[\\w\\/#~:.?+=&%@~-]+)?\\s*)?";
 	private static final String campoUnidad="(([cdk]?m[23²³]?|[dcm]?l|%|kgr?|[Uu][dD]?|ha?|[tlda])?)\\s*";
 	private static final String campoPrecio="(\\d+([.,]\\d*)?\\s*)?(\\s*\\\\\\d+([.,]\\d*)?\\s*)*\\\\?";
 	private static final String subcampoPrecio="\\s*\\\\\\d+([.,]\\d*)?\\s*";
 	private static final String campoTipoC="([0-5])?\\s*";
+	private static final String barrasFinales="(\\|\\s*){2,}\\s*$";
 	private static StringBuffer salida;
 	private static int numRotulos=0;
 	private static int tipoInfo=0;
@@ -62,6 +62,85 @@ public class FIEBDCFixing {
 	    return"";
 	}
 	
+	public static String regla80(String year){
+		int y=Integer.parseInt(year);
+		if (y>=80)
+			return "19"+year;
+		else
+			return "20"+year;
+	}
+	
+	public static String tratarFecha(Matcher fecha)
+	{
+		String fixed="";
+		int y=0,m=0,d=0;
+		boolean date=false;
+		switch (fecha.group(1).length()) {
+		case 1:
+			fixed+="0000200"+fecha.group(1);
+			break;
+		case 2:
+			fixed+="0000"+regla80(fecha.group(15));
+			break;
+		case 3:
+			fixed+="000"+fecha.group(14)+regla80(fecha.group(15));
+			break;
+		case 4:
+			fixed+="00"+fecha.group(9)+regla80(fecha.group(10));
+			break;
+		case 5:
+			fixed+="0"+fecha.group(11)+fecha.group(12)+regla80(fecha.group(13));
+			if(!(fecha.group(11).equals("0") || fecha.group(12).equals("00")))
+			{
+				date=true;
+				d=Integer.parseInt(fecha.group(11));
+				m=Integer.parseInt(fecha.group(12));
+				y=Integer.parseInt(regla80(fecha.group(13)));
+				
+			}
+			break;
+		case 6:
+			fixed+=fecha.group(8)+fecha.group(9)+regla80(fecha.group(10));
+			if(!(fecha.group(8).equals("00") || fecha.group(9).equals("00")))
+			{
+				date=true;
+				d=Integer.parseInt(fecha.group(8));
+				m=Integer.parseInt(fecha.group(9));
+				y=Integer.parseInt(regla80(fecha.group(10)));
+				
+			}
+			break;
+		case 7:
+			fixed+="0"+fecha.group(1);
+			if(!(fecha.group(5).equals("0") || fecha.group(6).equals("00") || fecha.group(7).equals("0000")))
+			{
+				date=true;
+				d=Integer.parseInt(fecha.group(5));
+				m=Integer.parseInt(fecha.group(6));
+				y=Integer.parseInt(fecha.group(7));
+				
+			}
+			break;
+		case 8:
+			fixed=fecha.group(1);
+			if(!(fecha.group(2).equals("00") || fecha.group(3).equals("00") || fecha.group(4).equals("0000")))
+			{
+				date=true;
+				d=Integer.parseInt(fecha.group(2));
+				m=Integer.parseInt(fecha.group(3));
+				y=Integer.parseInt(fecha.group(4));
+				
+			}
+			break;
+		default:
+			errorDeLectura1("Fecha panic");
+			break;
+		}
+		if(date)
+			LocalDate.of(y, m, d);
+		return fixed;
+	}
+	
 	public static void campoTexto(String campo){
 		Pattern pat = Pattern.compile(campoTexto);
 	    Matcher mat = pat.matcher(campo);
@@ -81,7 +160,7 @@ public class FIEBDCFixing {
 		    Matcher mat3=pat3.matcher(mat.group(4));
 		    if(!mat3.matches())
 		    	errorDeLectura1("campoFecha "+mat.group(4));
-		    //TODO Comprobar con date
+		    tratarFecha(mat3);
 	    }	
 		salida.append("\\");
 	    Date fechaActual = new Date();
@@ -102,8 +181,7 @@ public class FIEBDCFixing {
 	    Matcher mat=pat.matcher(fecha);
 	    if(!mat.matches())
 	    	errorDeLectura1("campoFecha "+fecha);
-	    //TODO Comprobar con date
-	    salida.append(fecha);
+	    salida.append(tratarFecha(mat));
 	}
 	public static void campoV4(String campo){
 		Pattern pat = Pattern.compile(campoCabecera);
@@ -261,6 +339,7 @@ public class FIEBDCFixing {
 	    	i++;
 	    }
 	    salida.append("|\r\n");
+	    salida=eliminarBarrasFinales(salida);
 	}
 	
 	public static String campoC1(String campo){
@@ -317,13 +396,15 @@ public class FIEBDCFixing {
 	}
 	
 	public static void campoC4(String campo){
+		String ultimoPrecio="1.0";
 		Pattern pat= Pattern.compile(campoPrecio);
 		Matcher mat=pat.matcher(campo);
 		if(!mat.matches())
 			errorDeLectura1("Campo precio: "+campo);
 		int i=0;
-		if(mat.group(1)!=null){
+		if(mat.group(1)!=null && i<numRotulos){
 			salida.append(mat.group(1));
+			ultimoPrecio=mat.group(1);
 			i=1;
 		}			
 		Pattern pat2= Pattern.compile(subcampoPrecio);
@@ -332,14 +413,15 @@ public class FIEBDCFixing {
 		while(i<numRotulos && mat2.find())
 		{
 			texto+=mat2.group();
+			ultimoPrecio=mat2.group();
 			i++;
 		}
 		while(i<numRotulos)
 		{
 			if(i==0)
-				texto+="1.0";
+				texto+=ultimoPrecio;
 			else
-				texto+="\\1.0";
+				texto+="\\"+ultimoPrecio;
 			i++;
 		}
 		salida.append(texto);
@@ -427,7 +509,8 @@ public class FIEBDCFixing {
 	    	}
 	    	i++;
 	    }
-	    salida.append("|\r\n");	    
+	    salida.append("|\r\n");	
+	    salida=eliminarBarrasFinales(salida);
 	    if (resumenLargo)
 	    	crearTipoT(codigo);
 	}
@@ -463,7 +546,6 @@ public class FIEBDCFixing {
 	}
 	
 	public static void procesarRegistro(String linea) {
-		//XXX Que hacer si un reg K esta mal internametent.
 		Pattern pat = Pattern.compile(registro);
 	    Matcher mat = pat.matcher(linea);
 	    if (mat.matches())
@@ -479,6 +561,7 @@ public class FIEBDCFixing {
 				break;
 			default:
 				salida.append("~"+mat.group(1)+mat.group(2)+"|\r\n");
+				salida=eliminarBarrasFinales(salida);
 				break;
 		    }
 	    }
@@ -490,6 +573,15 @@ public class FIEBDCFixing {
 		System.exit(0);
 	}
 
+	public static StringBuffer eliminarBarrasFinales(StringBuffer linea)
+	{
+		StringBuffer buff=new StringBuffer();
+		Pattern pat= Pattern.compile(barrasFinales);
+		Matcher mat=pat.matcher(linea);
+		String corregido=mat.replaceAll("|\r\n");
+		buff.append(corregido);
+		return buff;
+	}
 	
 	public static void leerFichero(String nombreFichero)throws IOException 
 	{
@@ -518,15 +610,15 @@ public class FIEBDCFixing {
 		Scanner consola = new Scanner(System.in); //Crea Scanner para leer por consola
 		salida=new StringBuffer();
 		boolean control=true;
-		String nombreFichero="vaa1.bc3";
+		String nombreFichero="";
 		while(control)
 		{
-			/*System.out.println("Nombre del fichero a leer con extensión .bc3 o .BC3: ");
+			System.out.println("Nombre del fichero a leer con extensión .bc3 o .BC3: ");
 			nombreFichero=consola.nextLine(); //lee la línea con el nombre de fichero  desde consola
 		    if(!comprobarNombreFichero(nombreFichero))
 				System.err.println("Extensión del fichero incorrecta, asegurese de que tiene extensión .bc3 o .BC3.");
 			else 
-			{*/
+			{
 				try {
 					leerFichero(nombreFichero);	//se intenta leer el contenido de fichero
 					control=false;			  
@@ -534,7 +626,7 @@ public class FIEBDCFixing {
 					System.err.println("***Error de lectura***\n Asegurese de que el fichero existe."); 
 					control=true;
 				    } 	
-			//}
+			}
 		}
 		File fichero = new File (nuevoNombreFichero(nombreFichero)); // Crea un objeto File a partir del nombre de fichero a guardar
 	    PrintWriter escritor;

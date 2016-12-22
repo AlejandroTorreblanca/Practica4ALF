@@ -1,0 +1,11 @@
+Partimos de que lo hemos encontrado y en el grupo 2 tenemos los campos:
+|campo|campo....|campo. Para buscar los campos podemos entonces hacer:
+\|[^~\|]*				y hacer sucesivos find.
+
+Campo 1:
+Código							Por ejemplo todos los códigos que encontremos en los tipo C los metemos a una lista de códigos y comprobamos si alguno coincide.
+[\wñÑ\.\$\#\%\&]{1,20}(\\[\wñÑ\.\$\#\%\&]{1,20})*	Esa sería un expr regular que coge eso pero si recorremos la lista compilando los strings y haciendo find sobre eso sobraría.
+							Pregunta: ¿Si no hay match se elimina este registro T?
+
+Campo 2:
+[^~\|\\]*

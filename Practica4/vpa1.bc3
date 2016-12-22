@@ -2,11 +2,11 @@
 ~K|\2\3\3\2\2\2\2\EUR|3||
 ~X||INFORMACION_GENERADOR\Parámetros de configuración del generador de precios\\|
 ~X|obra##|INFORMACION_GENERADOR\01000001000000020200000000d4a7400800000001000000e5388ee3382e75400200010002000200020000000000000000000000000000000000000000010101\\|
-~C|mt01ara010|m³|Arena de 0 a 5 mm de diámetro.|11.92||3|
+~C|mt01ara010|m3|Arena de 0 a 5 mm de diámetro.|11.92||3|
 ~C|mt01ard030b|t|Grava filtrante sin clasificar.|9.42||3|
 ~C|mt01are010a|m³|Grava de cantera de piedra caliza, de 40 a 70 mm de diámetro.|14.03||3|
 ~C|mt01arj030a|m³|Piedra caliza de coquera sin trabajar.|51.57||3|
-~C|mt01arp020|kg|Arena natural, fina y seca, de granulometría comprendida entre 0 y 2 mm de diámetro, exenta de sales perjudiciales, presentada en sacos.|0.26||3|
+~C|mt01arp020|kgr|Arena natural, fina y seca, de granulometría comprendida entre 0 y 2 mm de diámetro, exenta de sales perjudiciales, presentada en sacos.|0.26||3|
 ~C|mt01arr010a|t|Grava de cantera, de 19 a 25 mm de diámetro.|7.17||3|
 ~C|mt01arr010b|t|Grava de cantera, de 20 a 30 mm de diámetro.|7.17||3|
 ~C|mt01art020a|m³|Tierra de la propia excavación.|0.60||3|

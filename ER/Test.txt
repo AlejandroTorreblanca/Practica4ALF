@@ -1,0 +1,24 @@
+~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2004|ARQUIMEDES|Precio según divisa\Euros\Dólares\Libras|ANSI|Presupuesto|2|
+~D|MEDICIÓN##
+|A#\\1
+\C#\\1
+\EMYPRFV#\\1
+\F#\\1
+\Q#\\1
+\N#\\1
+\P#\\1
+\R#\\1
+\S#\\1
+\I#\\1
+\U#\\1
+\G#\\1
+\X#\\1
+\Y#\\1
+\|
+~C|ADL010|ud|Desbroce y limpieza del terreno|||0|
+~T|ADL010|Desbroce y limpieza del terreno, con medios mecánicos. Comprende los trabajos necesarios para retirar de las zonas previstas para la edificación o urbanización: plantas, tocones, maleza, broza, escombros, basuras o cualquier otro material existente, hasta una profundidad no menor que el espesor de la capa de tierra vegetal. Incluso transporte de la maquinaria, retirada de los materiales excavados y carga a camión.
+Incluye: Replanteo previo. Remoción de los materiales de desbroce. Retirada y disposición de los materiales objeto de desbroce. Carga a camión. Transporte a vertedero autorizado.|
+~C|ADV010|m³|Vaciado hasta 2 m de profundidad en suelo relleno de arena y grava||290716|0|
+~T|ADV010|Vaciado hasta 2 m de profundidad en suelo relleno de arena y grava
+
+~C|wefgh\afg|ud|Desbroce y limpieza del terreno|2,0\3.||0|

@@ -1,0 +1,25 @@
+Partimos de que lo hemos encontrado y en el grupo 2 tenemos los campos:
+|campo|campo....|campo. Para buscar los campos podemos entonces hacer:
+\|[^~\|]*				y hacer sucesivos find.
+
+Primer campo C: (\w <-> a-z A-Z 0-9 _, pero habrá que ver si está en lo de Java. Supongo que sí)
+
+[\wñÑ\.\$\#\%\&]{1,20}(\\[\wñÑ\.\$\#\%\&]{1,20})*			Problema. Cuando son más de 20 coge una, luego otra. Se podría hacer que si encuentra más de una está mal.
+									Qué pasa si está mal/hay códigos de más de 20 caracteres?
+
+
+Segundo campo C:
+\s*(([cdmk]?m[23²³]?|[dcm]l|%|kgr?|[cm]?[Uu][dD]|ha?|[tlda])?)\s*      Pocas pruebas.
+
+Tercer campo C:
+[^~\|\\]*			Cogerlo entero, ver si supera los 64 caracteres (preguntar también si los caracteres pueden ser estos o ASCII o que pijo pueden ser) y en ese caso proceder 
+				como sea necesario.
+
+Cuarto campo C: (Preguntar qué hacer si el número de precios es mayor que el número de rótulos. De momento los ignoramos los que sobren) Sea i el número de rótulos en el registro V.
+\s*\\\s*\d+([.,]\d*)?	
+
+Quinto campo C:
+FECHA
+
+Sexto campo C:
+[0-5]					(Luego lo leemos y escribimos las cosas esas que dice qeu escribamos)

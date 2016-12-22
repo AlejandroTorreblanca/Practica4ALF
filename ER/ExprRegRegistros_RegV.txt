@@ -1,0 +1,68 @@
+Problemas: Leer línea a línea? Cuántas líneas vamos a leer?. Eliminar los separadores de los campos vacíos que están al final de un registro.
+Qué pasa si hay basura en un campo, por ejemplo en el octavo de V que haya un número y luego letras. Lo ignoramos? Es un error?  Ahora mismo al hacer un find
+encontraría el número y ya. Ignorarlo sería lo fácil. 
+Campo propiedad_archivo, programa_emision... puede ser cualquier carácter menos "\" "~" "|"?. Qué pasa con las fechas incorrectas? (32/13/..)
+
+Para quitar las barras de los finales de linea inecesarias:
+(\|){2,}\s*~
+
+
+
+(~V)\s*((\|[^~\|]*)+)\|
+(~[A-Z])\s*((\|[^~\|]*)+)\|          	Coge todos los registros uno a uno. Observando el grupo 1 podemos ver el tipo. Para eliminar los \s al fichero nuevo solo escribimos el grupo 1
+					y lo que quede del grupo 2 tras analizarlo-repararlo.
+
+
+Con ambas tendríamos en el grupo 2 |campo|campo....|campo. Para buscar los campos podemos entonces hacer:
+\|[^~\|]*				y hacer sucesivos find.
+
+Y ya para cada uno tratarlo como se deba.
+
+Primer campo V:
+Siempre debería estar, aunque sea vacío, porque el siguiente es obligatorio:
+[^~\|\\]*					(si puede ser cualquier carácter que no sea "\" "~" "|", de hecho debería bastar con poner [^\\] porque que no sea ~ y |ya lo hemos visto).
+
+Segundo campo V:
+FIEBDC-3/(2016|200[247]|9[85])(\\.*)?		(en teoría habría que comprobar que no haya \ pero al comprobar formato de fecha ya se verá creo yo)
+							En el grupo 2 tendríamos la fecha que habría que comprobar (si está).
+FECHA:
+\d{1,8}
+
+\s*(([0-2][0-9]|3[01])(0[0-9]|1[0-2])(\d{4})|(\d)(0[0-9]|1[0-2])(\d{4})|([0-2][0-9]|3[01])?(0[0-9]|1[0-2])(\d{2})|(\d)(0[0-9]|1[0-2])(\d{2})|(\d)?(\d{2})|\d)\s*
+Formato DDMMAAAA. 			    	Formato DMMAAAA			Formato DDMMAA/MMAA		            Formato DMMAA		 Formato MAA/AA	     Formato A		
+Grupo 1 fecha					Grupo 1 fecha			Grupo 1 fecha		            	    Grupo 1 fecha	 	 Grupo 1 fecha	     Grupo 1 fecha
+Grupo 2 día					Grupo 5 día			Grupo 8 día			            Grupo 11 día		 Grupo 14 mes
+Grupo 3 mes					Grupo 6 mes			Grupo 9 mes			            Grupo 12 mes		 Grupo 15 año
+Grupo 4 año					Grupo 7 año			Grupo 10 año			            Grupo 13 año
+
+Tercer campo V:
+[^~\|\\]*		
+
+Cuarto campo V:
+([^~\|\\]*(\\[^~\|\\]*)*)?
+
+En el grupo 2 tendremos los diferentes rótulos. Los cogemos con:
+\\([^~\|\\]*)			Habría que contar el número de subcampos que aparecen para luego corregir Los campos C si es necesario.
+
+Quinto campo V:
+850|437|ANSI
+
+Sexto campo V:
+[^~\|\\]*
+
+Séptimo campo V:
+[1-4]
+
+Octavo campo V:
+\d?\d
+
+Noveno campo V:
+FECHA
+
+Décimo campo V:
+(?i)https?://([\w-]+\.)+[a-z]{2,6}(:\d{1,4})?(/[\w\/#~:.?+=&%@~-]+)?
+
+
+
+
+

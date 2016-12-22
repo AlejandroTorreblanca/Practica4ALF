@@ -1,8 +1,8 @@
-~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2002|Predimensionador para viviendas unifamiliares entre medianeras||ANSI|
+~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2002|Predimensionador para viviendas unifamiliares entre medianeras|
 ~K|\2\3\3\2\2\2\2\EUR|3||
 ~X||INFORMACION_GENERADOR\Parámetros de configuración del generador de precios\\|
 ~X|obra##|INFORMACION_GENERADOR\01000001000000020000000000e0654002000000000000000000000000e055400200010000000000020000000000000000000000000000000000000000010101\\|
-~C|mt01ara010|m³|Arena de 0 a 5 mm de diámetro.|12.24||3|
+~C|mt01ara010|m³|Arena de 0 a 5 mm de diámetro.|12.24|||
 ~C|mt01are010a|m³|Grava de cantera de piedra caliza, de 40 a 70 mm de diámetro.|14.41||3|
 ~C|mt04lpv010a|Ud|Ladrillo cerámico perforado (panal), para revestir, 24x12x9 cm.|0.18||3|
 ~C|mt04lvc010b|Ud|Ladrillo cerámico hueco doble, para revestir, 24x11,5x7 cm.|0.12||3|
