@@ -15,8 +15,8 @@ public class FIEBDCFixing {
 	private static final String formatoGeneral="^([A-Z])\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String registro="^([ABCDEFGKLMNOPQRTWXY])\\s*((\\|[^~\\|]*)+)\\|\\s*";
 	private static final String registroV="^V\\s*((\\|[^~\\|]*)+)\\|\\s*";
-	private static final String campo="\\|([^~\\|]*)";			// Se podría dejar solo que no haya | 
-	private static final String campoTexto="[^~\\|\\\\]*";		//Se podría dejar solo que no haya \
+	private static final String campo="\\|([^~\\|]*)";			 
+	private static final String campoTexto="[^~\\|\\\\]*";		
 	private static final String campoCabecera="(([^~\\|\\\\]*)((\\\\[^~\\|\\\\]*)*))?";
 	private static final String subcampoRotulo="\\\\([^~\\|\\\\]*)";
 	private static final String campoCaracteres="(850|437|ANSI)?\\s*";
@@ -55,6 +55,11 @@ public class FIEBDCFixing {
     	   return false;    //Caso en el que el fichero no tiene extensión correcta
 	}
 	
+	/**
+	 * Crea un string con el sufijo FIXED.
+	 * @param nombreFichero al que se le quiere añadir el sufijo.
+	 * @return String con el sufijo ya concatenado.
+	 */
 	public static String nuevoNombreFichero(String nombreFichero){
 		Pattern pat = Pattern.compile("(.*)(\\.(BC|bc)3)$");
 	    Matcher mat = pat.matcher(nombreFichero);
@@ -63,6 +68,11 @@ public class FIEBDCFixing {
 	    return"";
 	}
 	
+	/**
+	 * Pasamos el formato del año de dos dígitos a cuatro aplicando la regla 80.
+	 * @param year Año en formato de dos dígitos.
+	 * @return Año en formato de cuatro dígitos.
+	 */
 	public static String regla80(String year){
 		int y=Integer.parseInt(year);
 		if (y>=80)
@@ -71,6 +81,11 @@ public class FIEBDCFixing {
 			return "20"+year;
 	}
 	
+	/**
+	 * Tratamiento de fechas para que se ajusten al formato solicitado.
+	 * @param fecha en cualquier tipo de formaro.
+	 * @return fecha en formato DDMMAAAA.
+	 */
 	public static String tratarFecha(Matcher fecha)
 	{
 		String fixed="";
@@ -142,6 +157,10 @@ public class FIEBDCFixing {
 		return fixed;
 	}
 	
+	/**
+	 * Tratamiento del campo texto.
+	 * @param campo texto que se desea tratar
+	 */
 	public static void campoTexto(String campo){
 		Pattern pat = Pattern.compile(campoTexto);
 	    Matcher mat = pat.matcher(campo);
@@ -150,6 +169,10 @@ public class FIEBDCFixing {
 	    salida.append(campo);
 	}
 	
+	/**
+	 * Tratamiento del campo Version formato del registro V.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoV2(String campo){
 		Pattern pat = Pattern.compile(campoVerFormato);
 	    Matcher mat = pat.matcher(campo);
@@ -170,6 +193,10 @@ public class FIEBDCFixing {
 	    salida.append(formatoFecha.format(fechaActual));
 	}
 	
+	/**
+	 * Tratamiento del campo Programa emisión del registro V.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoV3(String campo){
 		Pattern pat = Pattern.compile(campoTexto);
 	    Matcher mat = pat.matcher(campo);
@@ -178,6 +205,10 @@ public class FIEBDCFixing {
 	    salida.append(NOMBRE_PROGRAMA);	    
 	}
 	
+	/**
+	 * Tratamiento del campo fecha.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoFecha(String fecha){
 		Pattern pat= Pattern.compile(campoFecha);
 	    Matcher mat=pat.matcher(fecha);
@@ -185,6 +216,11 @@ public class FIEBDCFixing {
 	    	errorDeLectura1("campoFecha "+fecha);
 	    salida.append(tratarFecha(mat));
 	}
+	
+	/**
+	 * Tratamiento del campo Cabecera del registro V.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoV4(String campo){
 		Pattern pat = Pattern.compile(campoCabecera);
 	    Matcher mat = pat.matcher(campo);
@@ -204,6 +240,10 @@ public class FIEBDCFixing {
 	    }
 	}
 	
+	/**
+	 * Tratamiento del campo Juego caracteres del registro V.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoV5(String campo){
 		Pattern pat= Pattern.compile(campoCaracteres);
 	    Matcher mat=pat.matcher(campo);
@@ -212,6 +252,10 @@ public class FIEBDCFixing {
 	    salida.append("ANSI");
 	}
 	
+	/**
+	 * Tratamiento del campo Tipo información del registro V.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoV7(String campo){
 		Pattern pat= Pattern.compile(campoTipoInfo);
 	    Matcher mat=pat.matcher(campo);
@@ -243,6 +287,10 @@ public class FIEBDCFixing {
 	    }
 	}
 	
+	/**
+	 * Tratamiento del campo Número certificación del registro V.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoV8(String campo){
 		if(tipoInfo==3){
 			Pattern pat= Pattern.compile(campoNCertificacion);
@@ -255,6 +303,10 @@ public class FIEBDCFixing {
 		}
 	}
 	
+	/**
+	 * Tratamiento del campo Fecha certificación del registro V.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoV9(String campo){
 		if(tipoInfo==3){
 			String campo9="("+campoFecha+")?";
@@ -270,6 +322,10 @@ public class FIEBDCFixing {
 		}
 	}
 	
+	/**
+	 * Tratamiento del campo URL base del registro V.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoV10(String campo){
 		Pattern pat= Pattern.compile(campoURL);
 		Matcher mat=pat.matcher(campo);
@@ -278,6 +334,10 @@ public class FIEBDCFixing {
 		salida.append(campo);
 	}
 	
+	/**
+	 * Comprobación de que el formato del registro V es el adecuado. 
+	 * @param linea registro V que se desea procesar.
+	 */
 	public static void procesarRegistroV(String linea) {
 		System.out.print("Procesando registro V: Versión del formato: ");
 		Pattern pat = Pattern.compile(registroV);
@@ -345,6 +405,10 @@ public class FIEBDCFixing {
 	    salida=eliminarBarrasFinales(salida);
 	}
 	
+	/**
+	 * Tratamiento del campo Código del registro C.
+	 * @param campo que se desea tratar.
+	 */
 	public static String campoC1(String campo){
 		Pattern pat= Pattern.compile(campoCodigo);
 		Matcher mat=pat.matcher(campo);
@@ -363,6 +427,10 @@ public class FIEBDCFixing {
 		return(mat.group(1));
 	}
 	
+	/**
+	 * Tratamiento del campo Unidad del registro C.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoC2(String campo){
 		Pattern pat= Pattern.compile(campoUnidad);
 		Matcher mat=pat.matcher(campo);
@@ -383,6 +451,10 @@ public class FIEBDCFixing {
 		salida.append(corregido);
 	}
 	
+	/**
+	 * Tratamiento del campo Resumen(64) del registro C.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoC3(String campo){
 		Pattern pat= Pattern.compile(campoTexto);
 		Matcher mat=pat.matcher(campo);
@@ -399,6 +471,10 @@ public class FIEBDCFixing {
 		}
 	}
 	
+	/**
+	 * Tratamiento del campo Precio del registro C.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoC4(String campo){
 		String ultimoPrecio="1.0";
 		Pattern pat= Pattern.compile(campoPrecio);
@@ -431,6 +507,10 @@ public class FIEBDCFixing {
 		salida.append(texto);
 	}
 	
+	/**
+	 * Tratamiento del campo Fecha del registro C.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoC5(String campo){
 		Pattern pat = Pattern.compile("\\s*");
 	    Matcher mat = pat.matcher(campo);
@@ -438,6 +518,10 @@ public class FIEBDCFixing {
 		    campoFecha(campo);	    
 	}
 	
+	/**
+	 * Tratamiento del campo Tipo del registro C.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoC6(String campo){
 		Pattern pat= Pattern.compile(campoTipoC);
 	    Matcher mat=pat.matcher(campo);
@@ -474,11 +558,19 @@ public class FIEBDCFixing {
 	    }
 	}
 	
+	/**
+	 * Creamos un nuevo registro de tipo T y lo añadimos al fichero de salida.
+	 * @param codigo que queremos que contenga el registro de tipo T.
+	 */
 	public static void crearTipoT(String codigo){
 		String texto="~T|"+codigo+"|"+resumen+"|\r\n";
 		salida.append(texto);
 	}
 	
+	/**
+	 * Comprobación de que el formato del registro C es el adecuado. 
+	 * @param campos Registro C que se desea procesar.
+	 */
 	public static void procesarRegistroC(String campos){
 		System.out.print("Procesando registro de tipo concepto con código: ");
 	    salida.append("~C");
@@ -519,6 +611,10 @@ public class FIEBDCFixing {
 	    	crearTipoT(codigo);
 	}
 	
+	/**
+	 * Tratamiento del campo Código concepto del registro T.
+	 * @param campo que se desea tratar.
+	 */
 	public static void campoT1(String campo){
 		Pattern pat = Pattern.compile(campoCodigoT);
 	    Matcher mat = pat.matcher(campo);
@@ -527,6 +623,10 @@ public class FIEBDCFixing {
 		salida.append(campo);
 	}
 	
+	/**
+	 * Comprobación de que el formato del registro T es el adecuado. 
+	 * @param campos Registro T que se desea procesar.
+	 */
 	public static void procesarRegistroT(String campos){
 	    salida.append("~T");
 	    Pattern pat2=Pattern.compile(campo);
@@ -549,6 +649,10 @@ public class FIEBDCFixing {
 	    salida.append("|\r\n");
 	}
 	
+	/**
+	 * Procesamos un registro, ditinguimos de que tipo és y según esto aplicamos el tratamiento correspondiente.
+	 * @param linea registro que deseamos procesar.
+	 */
 	public static void procesarRegistro(String linea) {
 		Pattern pat2 = Pattern.compile(formatoGeneral);
 	    Matcher mat2 = pat2.matcher(linea);
@@ -575,12 +679,21 @@ public class FIEBDCFixing {
 	    }
 	}
 	
+	/**
+	 * Imprimimos por panatalla un coódigo de error.
+	 * @param msg mensaje que deseamos mostrar.
+	 */
 	public static void errorDeLectura1(String msg)
 	{
 		System.err.println("Error en la lectura del fichero: "+msg+"\nPrograma finalizado.");
 		System.exit(0);
 	}
 
+	/**
+	 * Eliminamos las barras finales repetidas que contenga un registro y que sean inecesarias.
+	 * @param linea Registro a depurar.
+	 * @return registro depurado.
+	 */
 	public static StringBuffer eliminarBarrasFinales(StringBuffer linea)
 	{
 		StringBuffer buff=new StringBuffer();
@@ -591,6 +704,11 @@ public class FIEBDCFixing {
 		return buff;
 	}
 	
+	/**
+	 * Leemos el fichero con formato .bc3 y vamos procesando cada uno de los registros que contiene.
+	 * @param nombreFichero nombre del fichero que se desea procesar.
+	 * @throws IOException no se puede leer el fichero con el nombre introducido.
+	 */
 	public static void leerFichero(String nombreFichero)throws IOException 
 	{
 		File ficheroLectura = new File (nombreFichero); // Crea un objeto File a partir del nombre del fichero a leer

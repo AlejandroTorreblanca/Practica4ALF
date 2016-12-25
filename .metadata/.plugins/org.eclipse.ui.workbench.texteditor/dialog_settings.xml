@@ -2,22 +2,24 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="BarrasFinales" key="selection"/>
+		<item value="nuevoNombreFichero" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="nuevoNombreFichero"/>
+			<item value="date"/>
+			<item value="campo"/>
+			<item value="registro"/>
+			<item value="calendar"/>
 			<item value="barrasFinales"/>
 			<item value="elimina"/>
 			<item value="repla"/>
-			<item value="remplace"/>
-			<item value="procesarRegistroV"/>
-			<item value="p.bc3"/>
-			<item value="V3"/>
-			<item value="campoTexto"/>
 		</list>
 		<list key="replacehistory">
+			<item value="CAMPO"/>
+			<item value="REGISTRO"/>
 			<item value=""/>
 		</list>
 	</section>
@@ -25,7 +27,7 @@
 		<item value="257" key="DIALOG_WIDTH"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 		<item value="381" key="DIALOG_HEIGHT"/>
-		<item value="1575" key="DIALOG_X_ORIGIN"/>
+		<item value="1117" key="DIALOG_X_ORIGIN"/>
 		<item value="125" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>
